@@ -12,7 +12,7 @@ if [ ! -s tobuild.txt ]; then
       git config --local user.email "action@github.com"
       git config --local user.name "GitHub Action"
       git add tobuild.txt
-      git commit -m "Adding To Build list"
+      git commit -m "Adding tobuild list"
       git push
 
 fi
