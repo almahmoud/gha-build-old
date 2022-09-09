@@ -1,0 +1,50 @@
+name: Build x1 package
+on:
+  workflow_dispatch: {}
+#   schedule:
+#     - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        worker: [1]
+    runs-on: ubuntu-latest
+    container:
+      image: bioconductor/bioconductor_docker:RELEASE_3_15
+    steps:
+      - uses: actions/checkout@v2
+
+
+      - name: Get unique identifier for worker
+        id: uniq
+        run: |
+          echo "::set-output name=uniq::$(cat /proc/sys/kernel/random/uuid | md5sum | awk '{print $1}');"
+
+      - name: Initialize if necessary then claim package
+        id: claim1
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          for i in {1..20}; do bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})"; else exit 1; fi
+        continue-on-error: true
+
+
+      - name: Build claimed package
+        id: pkgbuild1
+        run: |
+          LIBRARY=$(echo "$(pwd)/built/")
+          PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+          bash build_package.sh $LIBRARY $PKG
+        if: steps.claim1.outcome=='success'
+        continue-on-error: true
+
+      - name: Push built package
+        id: push1
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+          for i in {1..20}; do bash .github/scripts/push_built.sh $PKG && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed $PKG"; else exit 1; fi
+        continue-on-error: true
