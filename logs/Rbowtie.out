@@ -3,13 +3,13 @@
 ** libs
 ** arch - 
 g++ -O3 -DCOMPILER_OPTIONS="\"-O3  -Wl,--hash-style=both -DPOPCNT_CAPABILITY -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  \""  -Wl,--hash-style=both -DPOPCNT_CAPABILITY -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g    \
-	-fno-strict-aliasing -DBOWTIE_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"2022-09-10T08:05:09\"" -DCOMPILER_VERSION="\"`g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DPREFETCH_LOCALITY=2 -DBOWTIE_MM -DBOWTIE_SHARED_MEM -DNDEBUG -Wall -Wno-unused-parameter -Wno-reorder \
+	-fno-strict-aliasing -DBOWTIE_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"2022-09-10T08:05:21\"" -DCOMPILER_VERSION="\"`g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DPREFETCH_LOCALITY=2 -DBOWTIE_MM -DBOWTIE_SHARED_MEM -DNDEBUG -Wall -Wno-unused-parameter -Wno-reorder \
 	 -I third_party -I third_party \
 	-o bowtie-build-s ebwt_build.cpp \
 	ccnt_lut.cpp ref_read.cpp alphabet.cpp shmem.cpp edit.cpp ebwt.cpp bt2_locks.cpp tinythread.cpp  bowtie_build_main.cpp \
 	-L/usr/local/lib  -lz -lpthread 
 g++ -O3 -DCOMPILER_OPTIONS="\"-O3  -Wl,--hash-style=both -DPOPCNT_CAPABILITY -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  \""  -Wl,--hash-style=both -DPOPCNT_CAPABILITY -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   \
-	-fno-strict-aliasing -DBOWTIE_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"2022-09-10T08:05:25\"" -DCOMPILER_VERSION="\"`g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DPREFETCH_LOCALITY=2 -DBOWTIE_MM -DBOWTIE_SHARED_MEM -DNDEBUG -Wall -Wno-unused-parameter -Wno-reorder \
+	-fno-strict-aliasing -DBOWTIE_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"2022-09-10T08:05:40\"" -DCOMPILER_VERSION="\"`g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DPREFETCH_LOCALITY=2 -DBOWTIE_MM -DBOWTIE_SHARED_MEM -DNDEBUG -Wall -Wno-unused-parameter -Wno-reorder \
 	 -I third_party -I third_party \
 	-o bowtie-align-s ebwt_search.cpp \
 	ccnt_lut.cpp ref_read.cpp alphabet.cpp shmem.cpp edit.cpp ebwt.cpp bt2_locks.cpp tinythread.cpp qual.cpp pat.cpp ebwt_search_util.cpp ref_aligner.cpp log.cpp hit_set.cpp sam.cpp hit.cpp bowtie_main.cpp \
@@ -20,7 +20,7 @@ cp bowtie-build-s ../inst/bowtie-build
 cd SpliceMap; \
 make -f Makefile; \
 echo "MAKE of SpliceMap DONE"	
-make[1]: Entering directory '/tmp/RtmpbgvbFJ/R.INSTALLe81ea7173f/Rbowtie/src/SpliceMap'
+make[1]: Entering directory '/tmp/RtmpJQmpWx/R.INSTALLe551638c0/Rbowtie/src/SpliceMap'
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -c SpliceMap_utils_QuasR.cpp
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -c params.cpp
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -c cfgfile.cpp
@@ -30,7 +30,7 @@ make[1]: Entering directory '/tmp/RtmpbgvbFJ/R.INSTALLe81ea7173f/Rbowtie/src/Spl
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config LDFLAGS` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -o getSpliceMapUnmapped getSpliceMapUnmapped.cpp
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config LDFLAGS` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -o fuseReorder fuseReorder.cpp
 `"/usr/local/lib/R/bin/R" CMD config CXX` `"/usr/local/lib/R/bin/R" CMD config LDFLAGS` `"/usr/local/lib/R/bin/R" CMD config CXXFLAGS` -o SpliceMap main.cpp SpliceMap_utils_QuasR.o params.o cfgfile.o
-make[1]: Leaving directory '/tmp/RtmpbgvbFJ/R.INSTALLe81ea7173f/Rbowtie/src/SpliceMap'
+make[1]: Leaving directory '/tmp/RtmpJQmpWx/R.INSTALLe551638c0/Rbowtie/src/SpliceMap'
 MAKE of SpliceMap DONE
 mkdir -p ../inst
 cp SpliceMap/SpliceMap ../inst/SpliceMap
