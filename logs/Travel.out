@@ -1,0 +1,42 @@
+* installing *source* package ‘Travel’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Cpp_interface.cpp -o Cpp_interface.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c altfile_operations.cpp -o altfile_operations.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c altmmap_operations.cpp -o altmmap_operations.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c altrep_manager.cpp -o altrep_manager.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Cache_block.cpp -o class_Cache_block.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Filesystem_cache_copier.cpp -o class_Filesystem_cache_copier.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Filesystem_file_data.cpp -o class_Filesystem_file_data.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Memory_mapped.cpp -o class_Memory_mapped.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Protect_guard.cpp -o class_Protect_guard.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Subset_index.cpp -o class_Subset_index.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Timer.cpp -o class_Timer.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c class_Unique_buffer.cpp -o class_Unique_buffer.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c examples.cpp -o examples.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c filesystem_manager.cpp -o filesystem_manager.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c filesystem_operations_dokan.cpp -o filesystem_operations_dokan.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c filesystem_operations_fuse.cpp -o filesystem_operations_fuse.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c memory_mapped_file.cpp -o memory_mapped_file.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c profile.cpp -o profile.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c read_write_operations.cpp -o read_write_operations.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c unit_test_utils.cpp -o unit_test_utils.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c unit_tests.cpp -o unit_tests.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG `pkg-config fuse --cflags` -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.cpp -o utils.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Travel.so Cpp_interface.o RcppExports.o altfile_operations.o altmmap_operations.o altrep_manager.o class_Cache_block.o class_Filesystem_cache_copier.o class_Filesystem_file_data.o class_Memory_mapped.o class_Protect_guard.o class_Subset_index.o class_Timer.o class_Unique_buffer.o examples.o filesystem_manager.o filesystem_operations_dokan.o filesystem_operations_fuse.o memory_mapped_file.o profile.o read_write_operations.o unit_test_utils.o unit_tests.o utils.o -lfuse -pthread -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Travel/00new/Travel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Travel’ as ‘Travel_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Travel)
