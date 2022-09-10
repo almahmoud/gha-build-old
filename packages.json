@@ -31,7 +31,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "cluster",
         "randomForest",
@@ -98,7 +98,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "xtable",
@@ -161,7 +161,7 @@
         "iterators",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
 
     ],
@@ -199,7 +199,7 @@
         "IRanges",
         "AnnotationDbi",
         "caTools",
-        "KernSmooth",
+
 
         "Biobase",
 
@@ -1116,7 +1116,7 @@
         "Rgraphviz",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "GenomicRanges",
         "foreach",
         "ff",
@@ -1477,7 +1477,7 @@
         "Rgraphviz",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "GenomicRanges",
         "foreach",
         "ff",
@@ -2622,7 +2622,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "Matrix",
         "farver",
@@ -2817,7 +2817,7 @@
         "snow",
         "BH",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "Matrix",
         "farver",
@@ -3028,7 +3028,7 @@
 
         "Biostrings",
         "formatR",
-        "KernSmooth",
+
         "lava",
         "bit64",
         "blob",
@@ -4503,7 +4503,7 @@
         "lattice",
         "mgcv",
         "nleqslv",
-        "KernSmooth",
+
         "RSQLite",
 
         "AnnotationDbi",
@@ -4827,7 +4827,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "MSstatsConvert",
         "checkmate",
         "lme4",
@@ -5102,7 +5102,7 @@
         "tidyr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "mime",
         "openssl",
@@ -5386,7 +5386,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "survival",
         "mvtnorm",
         "expm",
@@ -5473,7 +5473,7 @@
         "rtracklayer",
         "motifStack",
         "preseqR",
-        "KernSmooth",
+
         "edgeR",
         "XVector",
         "crayon",
@@ -7053,7 +7053,7 @@
         "htmltools",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "plotly",
         "viridis",
         "ggplot2",
@@ -7832,7 +7832,7 @@
 
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -8188,7 +8188,7 @@
         "sys"
     ],
     "BGmix": [
-        "KernSmooth"
+
     ],
     "bgx": [
         "Biobase",
@@ -8393,7 +8393,7 @@
         "mime",
         "affy",
         "nleqslv",
-        "KernSmooth",
+
         "R.oo",
         "R.methodsS3",
         "cli",
@@ -10206,7 +10206,7 @@
     ],
     "bioDist": [
         "Biobase",
-        "KernSmooth",
+
 
     ],
     "biomaRt": [
@@ -11254,7 +11254,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth"
+
     ],
     "biovizBase": [
         "scales",
@@ -11471,7 +11471,7 @@
         "CGHcall",
         "DNAcopy",
         "future.apply",
-        "KernSmooth",
+
         "R.oo",
         "R.methodsS3",
         "cli",
@@ -12781,7 +12781,7 @@
         "lambda.r",
         "futile.options",
         "cachem",
-        "KernSmooth",
+
         "lava",
 
         "formatR",
@@ -13556,7 +13556,7 @@
         "SummarizedExperiment",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "MatrixGenerics",
         "GenomicRanges",
         "Biobase",
@@ -13693,7 +13693,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "GenomicRanges",
         "DelayedArray",
@@ -14269,7 +14269,7 @@
         "ggplot2",
         "gtools",
         "IRanges",
-        "KernSmooth",
+
         "memoise",
         "plyr",
         "Rsamtools",
@@ -14541,7 +14541,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "org.Hs.eg.db",
         "latticeExtra",
@@ -15131,7 +15131,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -15333,7 +15333,7 @@
         "survival",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "stringi",
 
@@ -16292,7 +16292,7 @@
         "httr",
 
         "igraph",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -16791,7 +16791,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
     ],
@@ -16870,7 +16870,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Matrix",
         "pkgconfig",
@@ -17291,7 +17291,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -17744,7 +17744,7 @@
         "stringr",
         "rjson",
         "yaml",
-        "KernSmooth",
+
         "lambda.r",
         "futile.options",
         "ellipsis",
@@ -18123,7 +18123,7 @@
         "interp",
         "affy",
         "nleqslv",
-        "KernSmooth",
+
         "FDb.InfiniumMethylation.hg19",
         "farver",
 
@@ -18325,7 +18325,7 @@
         "formatR",
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -18587,7 +18587,7 @@
         "BiocParallel",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "rjson",
         "yaml",
@@ -19140,7 +19140,7 @@
         "futile.options",
         "GenomeInfoDbData",
         "caTools",
-        "KernSmooth",
+
         "BSgenome",
         "nlme",
         "bit64",
@@ -19256,7 +19256,7 @@
         "scales",
         "withr",
         "caTools",
-        "KernSmooth",
+
 
 
         "Rsamtools",
@@ -19833,7 +19833,7 @@
         "data.table",
         "RApiSerialize",
         "stringfish",
-        "KernSmooth",
+
         "yaml",
 
         "Biostrings",
@@ -20030,7 +20030,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "pkgmaker",
         "registry",
         "rngtools",
@@ -20579,7 +20579,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "stringi",
         "cli",
 
@@ -21353,7 +21353,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "ProtGenerics",
         "MsCoreUtils",
         "BiocParallel",
@@ -22682,7 +22682,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Biobase",
         "Matrix",
 
@@ -23148,7 +23148,7 @@
         "snow",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "rhdf5filters",
 
@@ -23232,7 +23232,7 @@
         "scales",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "plyr",
         "stringi",
 
@@ -23436,7 +23436,7 @@
         "BH",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "cola": [
@@ -23875,7 +23875,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "ggplot2",
         "stringr",
@@ -24401,7 +24401,7 @@
         "viridisLite",
         "stringi",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -24492,7 +24492,7 @@
 
         "ks",
         "plot3D",
-        "KernSmooth",
+
         "latticeExtra",
 
         "hexbin",
@@ -24559,7 +24559,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "ConsensusClusterPlus": [
@@ -24768,7 +24768,7 @@
         "prodlim",
         "ipred",
         "SuppDists",
-        "KernSmooth",
+
 
         "bootstrap",
 
@@ -24926,7 +24926,7 @@
         "tibble",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "plyr",
         "stringr",
 
@@ -25501,7 +25501,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "yaml",
         "pkgconfig",
         "limma",
@@ -25925,7 +25925,7 @@
         "plogr",
         "mixtools",
         "e1071",
-        "KernSmooth",
+
         "XVector",
         "GenomeInfoDb",
         "bit",
@@ -27266,7 +27266,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "sparsesvd",
 
@@ -27923,7 +27923,7 @@
         "vctrs",
         "pillar",
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
         "hexbin",
         "IDPmisc",
@@ -28392,7 +28392,7 @@
         "rprojroot",
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "openssl",
 
@@ -28566,7 +28566,7 @@
         "sp",
 
         "knitr",
-        "KernSmooth",
+
         "lava",
         "later",
 
@@ -28846,7 +28846,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
 
         "mgcv",
@@ -29098,7 +29098,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
 
@@ -29642,7 +29642,7 @@
         "formatR",
         "cachem",
         "askpass",
-        "KernSmooth",
+
         "lava",
         "rjson",
 
@@ -29766,7 +29766,7 @@
         "mgcv",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "htmlwidgets",
         "rlist",
         "assertthat",
@@ -30465,7 +30465,7 @@
         "RcppParallel",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
         "hexbin",
@@ -30566,7 +30566,7 @@
     ],
     "dearseq": [
         "ggplot2",
-        "KernSmooth",
+
         "matrixStats",
         "patchwork",
 
@@ -30808,7 +30808,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "viridis",
         "dendextend",
         "seriation",
@@ -30986,7 +30986,7 @@
         "tibble",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "plyr",
 
@@ -31366,7 +31366,7 @@
         "iterators",
         "GenomeInfoDb",
         "XVector",
-        "KernSmooth",
+
         "qvalue",
         "emdbook",
         "Rsamtools",
@@ -32450,13 +32450,13 @@
         "utf8"
     ],
     "DeMAND": [
-        "KernSmooth"
+
     ],
     "DeMixT": [
 
         "SummarizedExperiment",
         "knitr",
-        "KernSmooth",
+
         "matrixcalc",
         "rmarkdown",
         "matrixStats",
@@ -32725,7 +32725,7 @@
         "gdata",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "igraph",
 
@@ -33507,7 +33507,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "reshape2",
         "farver",
@@ -33715,7 +33715,7 @@
         "annotate",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "mime",
@@ -34008,7 +34008,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "BSgenome",
         "rtracklayer",
 
@@ -34360,7 +34360,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -34749,7 +34749,7 @@
 
 
         "kernlab",
-        "KernSmooth",
+
         "Matrix",
 
         "mgcv",
@@ -34810,7 +34810,7 @@
         "httr",
 
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
 
@@ -36263,7 +36263,7 @@
         "R6",
 
         "survival",
-        "KernSmooth",
+
         "lava",
         "cellranger",
 
@@ -37200,7 +37200,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "quadprog",
 
         "TH.data",
@@ -37562,7 +37562,7 @@
         "Matrix",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "callr",
         "cli",
@@ -37604,7 +37604,7 @@
         "Matrix",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "callr",
         "cli",
@@ -37913,7 +37913,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "pkgconfig",
 
@@ -38027,7 +38027,7 @@
         "R.utils",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "pkgconfig",
 
@@ -38122,7 +38122,7 @@
         "annotate",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "SummarizedExperiment",
         "GSEABase",
         "Matrix",
@@ -38574,7 +38574,7 @@
         "ggrastr",
         "dplyr",
 
-        "KernSmooth",
+
 
         "scales",
 
@@ -38996,7 +38996,7 @@
         "lattice",
 
         "caTools",
-        "KernSmooth",
+
         "base64",
         "GenomicRanges",
         "Biostrings",
@@ -41036,7 +41036,7 @@
         "tibble",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "farver",
 
@@ -41400,7 +41400,7 @@
         "ggtree",
         "lambda.r",
         "futile.options",
-        "KernSmooth",
+
         "base64enc",
 
 
@@ -41577,7 +41577,7 @@
         "lattice",
         "AnnotationDbi",
         "gplots",
-        "KernSmooth",
+
 
         "IRanges",
 
@@ -41812,7 +41812,7 @@
         "pkgconfig",
 
         "lattice",
-        "KernSmooth",
+
         "lava",
         "ggplot2",
         "reshape2",
@@ -43190,7 +43190,7 @@
 
         "munsell",
         "viridisLite",
-        "KernSmooth",
+
 
 
         "pillar",
@@ -43557,7 +43557,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
         "lattice",
@@ -43722,7 +43722,7 @@
         "lattice",
         "mgcv",
         "nleqslv",
-        "KernSmooth",
+
         "RSQLite",
 
         "AnnotationDbi",
@@ -44222,7 +44222,7 @@
         "igraph",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "BiocParallel",
         "MSnbase",
         "mzR",
@@ -44543,7 +44543,7 @@
         "RcppParallel",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
         "hexbin",
@@ -44747,7 +44747,7 @@
         "BH",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -44811,7 +44811,7 @@
         "RcppParallel",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
         "hexbin",
@@ -44924,7 +44924,7 @@
         "vegan",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "permute",
         "lattice",
 
@@ -44963,7 +44963,7 @@
         "BH",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
         "hexbin",
@@ -45086,7 +45086,7 @@
         "BH",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -45227,7 +45227,7 @@
 
 
         "kernlab",
-        "KernSmooth",
+
         "Matrix",
 
         "mgcv",
@@ -45271,7 +45271,7 @@
         "cluster",
         "RcppParallel",
 
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -45531,7 +45531,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -45652,7 +45652,7 @@
         "fda",
         "Biobase",
         "cluster",
-        "KernSmooth",
+
         "lattice",
         "ks",
 
@@ -45795,7 +45795,7 @@
         "BH",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -45833,7 +45833,7 @@
         "flowCore",
         "lattice",
         "Biobase",
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -45874,7 +45874,7 @@
         "ncdfFlow",
         "fda",
         "cluster",
-        "KernSmooth",
+
         "lattice",
         "ks",
 
@@ -46190,7 +46190,7 @@
         "futile.options",
         "cachem",
         "colorspace",
-        "KernSmooth",
+
         "lava",
 
         "zoo",
@@ -46542,7 +46542,7 @@
 
         "locfit",
 
-        "KernSmooth",
+
         "ggplot2",
 
 
@@ -46713,7 +46713,7 @@
         "rappdirs",
         "locfit",
 
-        "KernSmooth",
+
         "ggplot2",
 
         "kernlab",
@@ -47476,7 +47476,7 @@
         "assertthat",
         "cachem",
         "askpass",
-        "KernSmooth",
+
         "lava",
         "rjson",
         "sys",
@@ -47510,7 +47510,7 @@
         "RcppParallel",
 
         "lattice",
-        "KernSmooth",
+
         "latticeExtra",
 
 
@@ -47887,7 +47887,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "KEGGgraph",
         "Rgraphviz",
         "graph",
@@ -48637,7 +48637,7 @@
         "prodlim",
         "ipred",
         "SuppDists",
-        "KernSmooth",
+
 
         "bootstrap",
 
@@ -48919,7 +48919,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "geneplast": [
@@ -49613,7 +49613,7 @@
 
         "BiocIO",
         "restfulr",
-        "KernSmooth",
+
         "futile.logger",
         "snow",
         "BH",
@@ -51955,7 +51955,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "KernSmooth",
+
 
         "scales",
 
@@ -53374,7 +53374,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "stringi",
@@ -54374,7 +54374,7 @@
         "s2",
         "units",
         "lattice",
-        "KernSmooth",
+
         "systemfonts",
 
         "evaluate",
@@ -54808,7 +54808,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "plyr",
 
         "stringr",
@@ -55201,7 +55201,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "askpass",
         "hms",
@@ -55380,7 +55380,7 @@
         "KEGGREST",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
 
 
@@ -55955,7 +55955,7 @@
 
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -56590,7 +56590,7 @@
         "Biostrings",
         "GenomicRanges",
         "IRanges",
-        "KernSmooth",
+
         "plotrix",
         "Matrix",
         "EBImage",
@@ -56854,7 +56854,7 @@
         "S4Vectors",
         "BiocParallel",
         "QDNAseq",
-        "KernSmooth",
+
         "pheatmap",
         "gtools",
         "rhdf5",
@@ -57514,7 +57514,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "HiTC": [
@@ -57747,7 +57747,7 @@
         "prodlim",
         "colorspace",
 
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -57771,7 +57771,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "HTSeqGenie": [
@@ -58550,7 +58550,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "zoo",
         "methylumi",
         "GenomicFeatures",
@@ -58846,7 +58846,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64enc",
         "yaml",
         "nlme",
@@ -58944,7 +58944,7 @@
         "Rgraphviz",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "viridis",
         "dendextend",
         "reshape2",
@@ -59885,7 +59885,7 @@
         "bit",
         "e1071",
         "class",
-        "KernSmooth",
+
 
         "sparseMatrixStats",
         "edgeR",
@@ -59979,7 +59979,7 @@
         "GenomeInfoDbData",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
 
 
@@ -60050,7 +60050,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "viridis",
         "dendextend",
 
@@ -60379,7 +60379,7 @@
         "scales",
         "withr",
         "gtools",
-        "KernSmooth",
+
         "reticulate",
         "igraph",
         "plyr",
@@ -60588,7 +60588,7 @@
         "pROC",
 
 
-        "KernSmooth",
+
         "gdata",
         "GenomicFeatures",
         "GenomicRanges",
@@ -62273,7 +62273,7 @@
 
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "matrixStats",
@@ -63165,7 +63165,7 @@
         "mgcv",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "cli",
 
         "crayon",
@@ -63645,7 +63645,7 @@
     "IWTomics": [
         "GenomicRanges",
         "IRanges",
-        "KernSmooth",
+
         "fda",
         "S4Vectors",
         "fds",
@@ -63844,7 +63844,7 @@
     "KCsmart": [
         "siggenes",
         "multtest",
-        "KernSmooth",
+
 
         "Biobase",
         "survival",
@@ -64068,7 +64068,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "futile.logger",
         "snow",
         "BH",
@@ -64289,7 +64289,7 @@
         "rappdirs",
         "Biostrings",
         "formatR",
-        "KernSmooth",
+
         "lava",
         "bit64",
         "blob",
@@ -64494,7 +64494,7 @@
         "rprojroot",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "Matrix",
         "fs",
@@ -64575,7 +64575,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "levi": [
@@ -64716,7 +64716,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "evaluate",
         "highr",
         "stringr",
@@ -65205,7 +65205,7 @@
         "pkgconfig",
 
         "e1071",
-        "KernSmooth",
+
         "formatR",
         "colorspace",
         "testthat",
@@ -65685,7 +65685,7 @@
         "lattice",
         "mgcv",
         "nleqslv",
-        "KernSmooth",
+
         "preprocessCore",
         "RSQLite",
 
@@ -65981,7 +65981,7 @@
         "mvtnorm",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "survival",
         "Formula",
         "ggplot2",
@@ -66200,7 +66200,7 @@
         "base64enc",
         "formatR",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -66305,7 +66305,7 @@
         "survival",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "sp",
 
         "testthat",
@@ -66683,7 +66683,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -66900,7 +66900,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -67269,7 +67269,7 @@
 
         "colorspace",
 
-        "KernSmooth",
+
         "lava",
         "progressr",
         "numDeriv",
@@ -67316,7 +67316,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "boot",
         "fields",
 
@@ -67616,7 +67616,7 @@
         "tibble",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "httr",
 
         "evaluate",
@@ -67946,7 +67946,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "MassSpecWavelet": [
@@ -68607,7 +68607,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "MCbiclust": [
@@ -69249,7 +69249,7 @@
         "affy",
         "mgcv",
         "nleqslv",
-        "KernSmooth",
+
         "RSQLite",
 
         "scales",
@@ -69734,7 +69734,7 @@
         "GenomeInfoDbData",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "evaluate",
         "highr",
         "stringr",
@@ -70413,7 +70413,7 @@
         "viridisLite",
         "stringi",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -70862,7 +70862,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -70969,7 +70969,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "Rhtslib",
@@ -71124,7 +71124,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "locfit",
 
@@ -71279,7 +71279,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "pkgconfig",
         "lattice",
         "S4Vectors",
@@ -71449,7 +71449,7 @@
         "BiocIO",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "plotly",
         "viridis",
@@ -71669,7 +71669,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "promises",
         "later",
 
@@ -71978,7 +71978,7 @@
         "GenomeInfoDbData",
         "XVector",
         "data.table",
-        "KernSmooth",
+
         "qvalue",
         "emdbook",
         "Rsamtools",
@@ -72306,7 +72306,7 @@
         "crayon",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "ade4",
         "segmented",
 
@@ -73139,7 +73139,7 @@
         "tibble",
         "withr",
         "data.table",
-        "KernSmooth",
+
         "qvalue",
         "emdbook",
         "Rsamtools",
@@ -73211,7 +73211,7 @@
         "data.table",
         "S4Vectors",
         "GenomeInfoDb",
-        "KernSmooth",
+
         "qvalue",
         "emdbook",
         "Rsamtools",
@@ -73872,7 +73872,7 @@
         "mgcv",
         "scales",
         "withr",
-        "KernSmooth",
+
 
         "lattice",
         "nlme",
@@ -74098,7 +74098,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "mia": [
@@ -74493,7 +74493,7 @@
         "sandwich",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
         "stringr",
@@ -74658,7 +74658,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "openssl",
         "boot",
@@ -74842,7 +74842,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Rtsne",
         "TH.data",
@@ -75793,7 +75793,7 @@
         "GenomicFeatures",
         "GenomicRanges",
         "nleqslv",
-        "KernSmooth",
+
         "preprocessCore",
         "org.Hs.eg.db",
         "limma",
@@ -76310,7 +76310,7 @@
     "miRcomp": [
         "Biobase",
         "miRcompData",
-        "KernSmooth",
+
 
     ],
     "mirIntegrator": [
@@ -76435,7 +76435,7 @@
         "Rgraphviz",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "Formula",
         "ggplot2",
@@ -77393,7 +77393,7 @@
         "prodlim",
         "colorspace",
 
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -77438,7 +77438,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "evaluate",
         "highr",
         "stringr",
@@ -77771,7 +77771,7 @@
         "KEGGREST",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "httr",
 
@@ -77927,7 +77927,7 @@
         "openssl",
 
         "Biostrings",
-        "KernSmooth",
+
         "lava",
         "bit64",
         "blob",
@@ -78244,7 +78244,7 @@
         "survival",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "sp",
 
         "colorspace",
@@ -78710,7 +78710,7 @@
         "survival",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "checkmate",
         "graph",
         "httr",
@@ -79094,7 +79094,7 @@
         "R.utils",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "rgl",
@@ -80414,7 +80414,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Biobase",
         "mzR",
@@ -80526,7 +80526,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "clue",
         "doParallel",
         "foreach",
@@ -80759,7 +80759,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64enc",
 
         "colorspace",
@@ -81157,7 +81157,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "lattice",
         "boot",
@@ -81320,7 +81320,7 @@
         "rematch2",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "mime",
         "openssl",
         "Matrix",
@@ -81476,7 +81476,7 @@
         "GenomeInfoDbData",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "lattice",
         "boot",
@@ -81802,7 +81802,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "boot",
         "minqa",
@@ -81906,7 +81906,7 @@
         "stringi",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "testthat",
         "farver",
 
@@ -82496,7 +82496,7 @@
         "mgcv",
         "InteractionSet",
         "QDNAseq",
-        "KernSmooth",
+
         "gtools",
         "rhdf5",
 
@@ -82889,7 +82889,7 @@
         "bit",
         "formatR",
         "colorspace",
-        "KernSmooth",
+
         "lava",
 
         "MatrixModels",
@@ -83192,7 +83192,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "ellipsis",
         "pkgconfig",
         "testthat",
@@ -83371,7 +83371,7 @@
         "rngtools",
 
 
-        "KernSmooth",
+
 
         "httr",
 
@@ -84081,7 +84081,7 @@
         "randomForest",
         "motifStack",
         "preseqR",
-        "KernSmooth",
+
         "edgeR",
 
         "limSolve",
@@ -85174,7 +85174,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "GenomicAlignments",
         "R.oo",
         "R.methodsS3",
@@ -85269,7 +85269,7 @@
         "withr",
 
         "kernlab",
-        "KernSmooth",
+
 
         "multicool",
         "mvtnorm",
@@ -85655,7 +85655,7 @@
         "promises",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "pkgconfig",
 
@@ -85830,7 +85830,7 @@
         "generics",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "nlme",
         "askpass",
@@ -86665,7 +86665,7 @@
         "lattice",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "boot",
         "minqa",
         "nloptr",
@@ -87283,7 +87283,7 @@
 
 
         "kernlab",
-        "KernSmooth",
+
 
         "multicool",
         "mvtnorm",
@@ -87888,7 +87888,7 @@
         "SummarizedExperiment",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "MatrixGenerics",
         "GenomicRanges",
@@ -88092,7 +88092,7 @@
         "XVector",
         "foreach",
         "caTools",
-        "KernSmooth",
+
         "Formula",
         "latticeExtra",
 
@@ -88848,7 +88848,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "ggplot2",
         "scales",
         "httr",
@@ -89085,7 +89085,7 @@
         "BH",
 
         "fda",
-        "KernSmooth",
+
         "latticeExtra",
         "hexbin",
         "IDPmisc",
@@ -89866,7 +89866,7 @@
 
 
         "kernlab",
-        "KernSmooth",
+
 
         "mgcv",
         "multicool",
@@ -90065,7 +90065,7 @@
 
         "nlme",
         "askpass",
-        "KernSmooth",
+
 
         "hms",
 
@@ -90454,7 +90454,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "fs",
         "diffobj",
@@ -90705,7 +90705,7 @@
         "class",
 
         "caTools",
-        "KernSmooth",
+
         "survival",
         "igraph",
         "mgcv",
@@ -91596,7 +91596,7 @@
         "annotate",
         "rjson",
         "caTools",
-        "KernSmooth",
+
 
         "openssl",
         "pkgconfig",
@@ -92183,7 +92183,7 @@
         "prodlim",
         "ipred",
         "SuppDists",
-        "KernSmooth",
+
 
         "bootstrap",
 
@@ -93352,7 +93352,7 @@
         "gridExtra",
 
         "gtools",
-        "KernSmooth",
+
         "yaml",
         "formatR",
         "limma",
@@ -93458,7 +93458,7 @@
         "ggridges",
         "httr",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -93736,7 +93736,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "org.Hs.eg.db",
         "lattice",
@@ -94168,7 +94168,7 @@
         "rmarkdown",
 
         "Biobase",
-        "KernSmooth",
+
 
         "S4Vectors",
         "IRanges",
@@ -94428,7 +94428,7 @@
         "iterators",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "openssl",
         "cachem",
         "data.table",
@@ -94495,7 +94495,7 @@
         "BH",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "yaml",
         "pkgconfig",
 
@@ -94888,7 +94888,7 @@
         "mgcv",
         "locfit",
 
-        "KernSmooth",
+
         "ellipsis",
         "knitr",
         "checkmate",
@@ -95007,7 +95007,7 @@
 
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -96093,7 +96093,7 @@
         "fs",
         "rappdirs",
         "formatR",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -96394,7 +96394,7 @@
         "snow",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "nlme",
         "askpass",
@@ -96794,7 +96794,7 @@
         "openssl",
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "hms",
 
@@ -97377,7 +97377,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "farver",
 
         "munsell",
@@ -97946,7 +97946,7 @@
         "lambda.r",
         "futile.options",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "cli",
 
@@ -98114,7 +98114,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "nlme",
         "Matrix",
         "cli",
@@ -98327,7 +98327,7 @@
         "XVector",
         "GenomeInfoDb",
         "bit",
-        "KernSmooth",
+
         "lava",
         "fs",
         "RCurl",
@@ -98539,7 +98539,7 @@
         "XVector",
         "GenomeInfoDb",
         "bit",
-        "KernSmooth",
+
         "lava",
         "RCurl",
         "GenomeInfoDbData",
@@ -98835,7 +98835,7 @@
         "mgcv",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64enc",
 
         "truncnorm",
@@ -100411,7 +100411,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Matrix",
         "pkgconfig",
@@ -102222,7 +102222,7 @@
         "gridExtra",
 
         "gtools",
-        "KernSmooth",
+
         "yaml",
         "pkgconfig",
         "formatR",
@@ -102354,7 +102354,7 @@
     "ramwas": [
 
         "glmnet",
-        "KernSmooth",
+
         "GenomicAlignments",
         "Rsamtools",
         "biomaRt",
@@ -102949,7 +102949,7 @@
         "farver",
 
         "munsell",
-        "KernSmooth",
+
         "stringi",
 
         "ellipsis",
@@ -102992,7 +102992,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "httpuv",
         "mime",
 
@@ -103912,7 +103912,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "mime",
         "openssl",
@@ -104164,7 +104164,7 @@
     ],
     "reconsi": [
         "phyloseq",
-        "KernSmooth",
+
         "reshape2",
         "ggplot2",
         "matrixStats",
@@ -105586,7 +105586,7 @@
 
         "base64enc",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -105629,7 +105629,7 @@
         "BiocParallel",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "Biobase",
 
         "Matrix",
@@ -106134,7 +106134,7 @@
         "survival",
         "RcppEigen",
         "caTools",
-        "KernSmooth",
+
         "Formula",
         "latticeExtra",
 
@@ -106645,7 +106645,7 @@
         "mgcv",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -106978,7 +106978,7 @@
         "cachem",
         "colorspace",
         "askpass",
-        "KernSmooth",
+
 
         "hms",
 
@@ -107865,7 +107865,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "proto",
 
         "Matrix",
@@ -108213,7 +108213,7 @@
         "survival",
         "nnet",
         "prodlim",
-        "KernSmooth",
+
         "lava",
         "fs",
         "future.apply",
@@ -108725,7 +108725,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "testthat",
         "farver",
 
@@ -108909,7 +108909,7 @@
         "AnnotationDbi",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "mvtnorm",
         "survey",
 
@@ -109059,7 +109059,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "interp",
@@ -109212,7 +109212,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "survival",
         "Formula",
         "cluster",
@@ -109354,7 +109354,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "interp",
@@ -109505,7 +109505,7 @@
         "futile.options",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "survival",
         "Formula",
         "cluster",
@@ -109970,7 +109970,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64",
         "Biobase",
         "reshape2",
@@ -111361,7 +111361,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "e1071",
-        "KernSmooth",
+
         "class",
 
         "RCurl",
@@ -111474,7 +111474,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "e1071",
-        "KernSmooth",
+
         "class",
 
         "RCurl",
@@ -111608,7 +111608,7 @@
         "pillar",
         "vctrs",
         "e1071",
-        "KernSmooth",
+
         "class",
 
         "RCurl",
@@ -112818,7 +112818,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "base64enc",
         "matrixStats",
         "nlme",
@@ -112901,7 +112901,7 @@
 
         "igraph",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "matrixStats",
@@ -113392,7 +113392,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "Matrix",
@@ -113846,7 +113846,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "matrixStats",
@@ -114026,7 +114026,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
 
@@ -114211,7 +114211,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "Matrix",
@@ -114503,7 +114503,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "Matrix",
@@ -114773,7 +114773,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
         "boot",
@@ -115100,7 +115100,7 @@
 
         "Biostrings",
         "formatR",
-        "KernSmooth",
+
         "lava",
         "bit64",
         "blob",
@@ -115171,7 +115171,7 @@
 
         "igraph",
         "irlba",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "Matrix",
@@ -115377,7 +115377,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "Matrix",
@@ -115617,7 +115617,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "survival",
         "Formula",
         "latticeExtra",
@@ -115937,7 +115937,7 @@
         "kernlab",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "segmented",
         "survival",
@@ -116135,7 +116135,7 @@
         "GenomeInfoDbData",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "BiocParallel",
@@ -117199,7 +117199,7 @@
         "ggridges",
 
         "irlba",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -117403,7 +117403,7 @@
         "ggridges",
 
         "irlba",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "miniUI",
@@ -117573,7 +117573,7 @@
         "ggridges",
 
         "irlba",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "matrixStats",
@@ -117948,7 +117948,7 @@
         "scales",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "lattice",
 
         "Rsamtools",
@@ -118709,7 +118709,7 @@
         "Biostrings",
         "GenomicRanges",
         "IRanges",
-        "KernSmooth",
+
         "plotrix",
 
         "S4Vectors",
@@ -119012,7 +119012,7 @@
         "randomForest",
         "wheatmap",
         "ggplot2",
-        "KernSmooth",
+
         "matrixStats",
         "DNAcopy",
         "SummarizedExperiment",
@@ -119483,7 +119483,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "viridis",
         "dendextend",
         "seriation",
@@ -121002,7 +121002,7 @@
         "iterators",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Matrix",
         "pkgconfig",
@@ -121093,7 +121093,7 @@
         "GSVA",
         "GSVAdata",
         "igraph",
-        "KernSmooth",
+
         "limma",
         "MAST",
         "Matrix",
@@ -122000,7 +122000,7 @@
         "base64",
         "affy",
         "nleqslv",
-        "KernSmooth",
+
         "plyr",
 
         "stringr",
@@ -123195,7 +123195,7 @@
         "httr",
 
         "irlba",
-        "KernSmooth",
+
         "leiden",
         "lmtest",
         "matrixStats",
@@ -124057,7 +124057,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "DelayedArray",
         "rhdf5",
@@ -124461,7 +124461,7 @@
         "mgcv",
         "InteractionSet",
         "QDNAseq",
-        "KernSmooth",
+
         "pheatmap",
         "gtools",
         "rhdf5",
@@ -124614,7 +124614,7 @@
 
         "e1071",
         "class",
-        "KernSmooth",
+
         "formatR",
         "colorspace",
 
@@ -124667,7 +124667,7 @@
         "tibble",
         "withr",
         "caTools",
-        "KernSmooth",
+
 
 
         "mime",
@@ -125538,7 +125538,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "htmltools",
 
         "yaml",
@@ -125940,7 +125940,7 @@
         "RcppEigen",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "quadprog",
         "plyr",
         "rARPACK",
@@ -126372,7 +126372,7 @@
         "backports",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "mime",
@@ -126526,7 +126526,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "lattice",
         "nlme",
@@ -126711,7 +126711,7 @@
         "plotrix",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Matrix",
         "pkgconfig",
@@ -127073,7 +127073,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "askpass",
-        "KernSmooth",
+
         "lava",
 
         "sys",
@@ -127340,7 +127340,7 @@
         "viridisLite",
         "stringi",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -127500,7 +127500,7 @@
         "prodlim",
         "ipred",
         "SuppDists",
-        "KernSmooth",
+
 
         "bootstrap",
 
@@ -128074,7 +128074,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "plyr",
 
 
@@ -128819,7 +128819,7 @@
         "S4Vectors",
         "BiocParallel",
         "QDNAseq",
-        "KernSmooth",
+
         "pheatmap",
         "gtools",
         "rhdf5",
@@ -129414,7 +129414,7 @@
         "rjson",
         "crayon",
         "caTools",
-        "KernSmooth",
+
         "graph",
 
         "rhdf5",
@@ -129780,7 +129780,7 @@
         "preprocessCore",
         "randomForest",
         "wheatmap",
-        "KernSmooth",
+
         "matrixStats",
         "DNAcopy",
         "fgsea",
@@ -130305,7 +130305,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "stringi",
@@ -130882,7 +130882,7 @@
         "KEGGREST",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "bit64",
         "blob",
         "memoise",
@@ -131285,7 +131285,7 @@
         "mgcv",
         "withr",
         "caTools",
-        "KernSmooth",
+
         "Matrix",
         "pkgconfig",
         "Biobase",
@@ -132115,7 +132115,7 @@
         "ALS",
         "alsace",
         "signal",
-        "KernSmooth",
+
         "RcppArmadillo",
         "nnls",
 
@@ -132432,7 +132432,7 @@
         "gridExtra",
 
         "gtools",
-        "KernSmooth",
+
         "yaml",
         "formatR",
         "cluster",
@@ -133136,7 +133136,7 @@
         "RcppEigen",
         "formatR",
         "askpass",
-        "KernSmooth",
+
         "lava",
         "sys",
         "future.apply",
@@ -133260,7 +133260,7 @@
         "GO.db",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "Rmpfr",
 
@@ -133406,7 +133406,7 @@
         "XVector",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "RCurl",
         "GenomeInfoDbData"
@@ -133445,7 +133445,7 @@
         "survival",
         "RcppEigen",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
         "R.oo",
@@ -133824,7 +133824,7 @@
 
 
         "fda",
-        "KernSmooth",
+
         "IDPmisc",
         "mime",
         "openssl",
@@ -134087,7 +134087,7 @@
         "promises",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
 
         "nlme",
@@ -134789,7 +134789,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
         "lattice",
@@ -135909,7 +135909,7 @@
         "yaml",
         "sys",
 
-        "KernSmooth",
+
 
         "kernlab",
 
@@ -136117,7 +136117,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "UniProt.ws": [
@@ -136343,7 +136343,7 @@
         "kernlab",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
         "pkgconfig",
 
@@ -136786,7 +136786,7 @@
         "withr",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "boot",
         "nlme",
@@ -137765,7 +137765,7 @@
         "Biobase",
         "mixtools",
         "e1071",
-        "KernSmooth",
+
 
         "class",
 
@@ -138360,7 +138360,7 @@
         "GreyListChIP",
         "XVector",
         "gtools",
-        "KernSmooth",
+
         "mixtools",
         "e1071",
         "RSQLite",
@@ -138596,7 +138596,7 @@
         "lattice",
         "mgcv",
         "nleqslv",
-        "KernSmooth",
+
         "preprocessCore",
         "RSQLite",
 
@@ -139533,7 +139533,7 @@
         "gridExtra",
 
         "gtools",
-        "KernSmooth",
+
         "yaml",
         "formatR",
         "limma",
@@ -139587,7 +139587,7 @@
         "plotrix",
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "lattice",
         "nlme",
 
@@ -139947,7 +139947,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
         "minfi",
         "doParallel",
         "foreach",
@@ -140227,7 +140227,7 @@
 
     "mpm": [
 
-        "KernSmooth"
+
     ],
     "glmnet": [
         "Matrix",
@@ -140243,14 +140243,14 @@
     "gplots": [
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "ROCR": [
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "pamr": [
@@ -140327,7 +140327,7 @@
     "caTools": [
 
     ],
-    "KernSmooth": [],
+
 
     "cluster": [],
     "randomForest": [],
@@ -142945,7 +142945,7 @@
         "gplots",
 
         "caTools",
-        "KernSmooth",
+
 
     ],
     "caret": [
@@ -143008,7 +143008,7 @@
         "pkgconfig",
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -143218,7 +143218,7 @@
         "pkgconfig",
         "utf8",
 
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -143307,7 +143307,7 @@
         "class",
         "prodlim",
 
-        "KernSmooth",
+
         "lava",
         "Matrix",
         "future.apply",
@@ -143341,7 +143341,7 @@
     "prodlim": [
 
         "survival",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -144713,7 +144713,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "mGSZ": [],
@@ -145708,7 +145708,7 @@
         "igraph",
         "irlba",
 
-        "KernSmooth",
+
         "leiden",
         "lmtest",
 
@@ -147678,7 +147678,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "SuperLearner": [
@@ -147693,7 +147693,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "np": [
@@ -147723,7 +147723,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "biscuiteerData": [
@@ -147809,7 +147809,7 @@
 
     ],
     "qualV": [
-        "KernSmooth"
+
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -149099,7 +149099,7 @@
     "ks": [
 
         "kernlab",
-        "KernSmooth",
+
         "Matrix",
 
         "mgcv",
@@ -149126,7 +149126,7 @@
 
         "locfit",
 
-        "KernSmooth",
+
         "ggplot2",
 
 
@@ -149184,7 +149184,7 @@
 
         "locfit",
 
-        "KernSmooth",
+
         "ggplot2",
 
 
@@ -149232,7 +149232,7 @@
         "ks",
         "locfit",
 
-        "KernSmooth",
+
         "ggplot2",
 
 
@@ -149273,7 +149273,7 @@
         "locfit",
 
         "ks",
-        "KernSmooth",
+
         "ggplot2",
 
 
@@ -150667,7 +150667,7 @@
 
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -152407,7 +152407,7 @@
         "viridisLite",
         "stringi",
         "colorspace",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -152548,7 +152548,7 @@
         "plot3D",
 
         "kernlab",
-        "KernSmooth",
+
         "Matrix",
 
         "mgcv",
@@ -152973,7 +152973,7 @@
         "pillar",
         "mixtools",
         "e1071",
-        "KernSmooth",
+
 
         "class",
 
@@ -153287,7 +153287,7 @@
         "mgcv",
         "tibble",
         "withr",
-        "KernSmooth",
+
 
         "Matrix",
         "pkgconfig",
@@ -153352,7 +153352,7 @@
         "utf8"
     ],
     "GoFKernel": [
-        "KernSmooth"
+
     ],
     "RFOC": [
         "RPMG",
@@ -155481,7 +155481,7 @@
 
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "bnstruct": [
@@ -155785,7 +155785,7 @@
         "ggplot2",
         "dplyr",
 
-        "KernSmooth",
+
 
         "scales",
 
@@ -156267,7 +156267,7 @@
 
         "vctrs",
         "cachem",
-        "KernSmooth",
+
         "lava",
         "Matrix",
 
@@ -157426,7 +157426,7 @@
         "lattice",
         "e1071",
         "class",
-        "KernSmooth",
+
         "systemfonts",
 
         "evaluate",
@@ -157461,7 +157461,7 @@
         "units",
         "e1071",
         "class",
-        "KernSmooth",
+
 
 
 
@@ -157469,7 +157469,7 @@
     "classInt": [
         "e1071",
         "class",
-        "KernSmooth",
+
 
 
     ],
@@ -157882,7 +157882,7 @@
 
         "e1071",
         "class",
-        "KernSmooth",
+
         "cli",
 
         "utf8",
@@ -158661,7 +158661,7 @@
         "pkgconfig",
         "colorspace",
         "utf8",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -158959,7 +158959,7 @@
         "labelled",
         "e1071",
         "class",
-        "KernSmooth",
+
 
 
         "base64enc",
@@ -159037,7 +159037,7 @@
         "labelled",
         "e1071",
         "class",
-        "KernSmooth",
+
 
 
         "base64enc",
@@ -159112,7 +159112,7 @@
         "labelled",
         "e1071",
         "class",
-        "KernSmooth",
+
 
 
         "base64enc",
@@ -159740,7 +159740,7 @@
         "mvtnorm"
     ],
     "mpmi": [
-        "KernSmooth"
+
     ],
     "ggmcmc": [
         "dplyr",
@@ -160894,7 +160894,7 @@
     ],
     "philentropy": [
 
-        "KernSmooth",
+
 
     ],
     "sortable": [
@@ -161730,7 +161730,7 @@
         "mime",
         "openssl",
 
-        "KernSmooth",
+
 
         "R.oo",
         "R.methodsS3",
@@ -163357,7 +163357,7 @@
         "colorspace",
         "utf8",
         "stringi",
-        "KernSmooth",
+
         "lava",
         "future.apply",
         "progressr",
@@ -164869,7 +164869,7 @@
         "gplots",
         "gtools",
         "caTools",
-        "KernSmooth",
+
 
     ],
     "rsample": [
