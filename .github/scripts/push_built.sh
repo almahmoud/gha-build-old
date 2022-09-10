@@ -6,8 +6,8 @@ PKG=$1
 sed -i 's/claimed/built/g' "lists/$PKG"
 git add lists
 #cp /tmp/tars/*.tar.gz tars/
+mkdir -p logs/
 cp /tmp/logs/*.out logs/
-cp -r "/tmp/built/$PKG" "built/$PKG"
 #git add tars
 git add logs
 #git add built
