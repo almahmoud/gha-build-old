@@ -5056,7 +5056,6 @@
         "future",
         "globals",
         "XVector",
-        "cubature",
         "quantreg",
         "gam",
         "cvAUC",
@@ -15895,9 +15894,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "dks": [
-        "cubature"
-    ],
+    "dks": [],
     "DMCFB": [
         "SummarizedExperiment",
         "BiocParallel",
@@ -33106,7 +33103,6 @@
         "scales",
         "Matrix",
         "ape",
-        "cubature",
         "quantreg",
         "forcats",
         "progress",
@@ -43017,7 +43013,6 @@
         "GenomeInfoDb"
     ],
     "powerTCR": [
-        "cubature",
         "doParallel",
         "evmix",
         "foreach",
@@ -52309,7 +52304,6 @@
         "mgcv",
         "scales",
         "Matrix",
-        "cubature",
         "evmix",
         "purrr",
         "future",
@@ -65838,7 +65832,6 @@
         "future.apply",
         "future",
         "globals",
-        "cubature",
         "quantreg",
         "gam",
         "cvAUC",
@@ -65859,13 +65852,11 @@
         "caTools"
     ],
     "np": [
-        "cubature",
         "quantreg",
         "Matrix",
         "MatrixModels",
         "survival"
     ],
-    "cubature": [],
     "gam": [
         "foreach"
     ],
@@ -70692,8 +70683,7 @@
     ],
     "MCMCglmm": [
         "Matrix",
-        "ape",
-        "cubature"
+        "ape"
     ],
     "shinycustomloader": [
         "shiny",
