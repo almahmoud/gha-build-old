@@ -13,10 +13,12 @@ jobs:
       - shell: sh
         run: |
           Rscript deps_json.R packages.json
+          cp packages.json original.json
           python -c 'import json; f = open("packages.json", "r"); pkgs = json.load(f); f.close(); f = open("packages.json", "w"); f.write(json.dumps(pkgs, indent=4)); f.close()'
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add packages.json
+          git add original.json
           git commit -m "Reset packages"
           git push
         env:
