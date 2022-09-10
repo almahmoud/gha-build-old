@@ -330,7 +330,7 @@
         "Matrix",
         "later",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -742,7 +742,7 @@
         "bit64",
         "blob",
 
-        "rappdirs",
+
 
 
         "minqa",
@@ -790,7 +790,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -1220,7 +1220,7 @@
         "restfulr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "tidyselect",
@@ -1581,7 +1581,7 @@
         "restfulr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "tidyselect",
@@ -1847,7 +1847,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "AllelicImbalance": [
         "GenomicRanges",
@@ -1908,7 +1908,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "scales",
         "Hmisc",
@@ -2106,7 +2106,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -2293,7 +2293,7 @@
         "RcppGSL",
 
         "RcppEigen",
-        "rappdirs",
+
 
         "askpass",
 
@@ -2356,7 +2356,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "processx",
@@ -2571,7 +2571,7 @@
 
 
         "fs",
-        "rappdirs",
+
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -3004,7 +3004,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "rhdf5filters",
 
@@ -3286,7 +3286,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -3388,7 +3388,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -3512,7 +3512,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -3858,7 +3858,7 @@
         "memoise",
 
         "fs",
-        "rappdirs",
+
         "rstudioapi",
 
         "openssl",
@@ -3941,7 +3941,7 @@
         "utf8",
 
         "fs",
-        "rappdirs"
+
     ],
     "APAlyzer": [
         "GenomicRanges",
@@ -4021,7 +4021,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -4242,7 +4242,7 @@
         "KEGGREST",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
         "dplyr",
@@ -4377,7 +4377,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "S4Vectors",
         "XVector",
@@ -4543,7 +4543,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -5030,7 +5030,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -5255,7 +5255,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -5520,7 +5520,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -5649,7 +5649,7 @@
 
         "ggplot2",
         "motifStack",
-        "rappdirs",
+
         "testthat",
         "lifecycle",
         "dbplyr",
@@ -5887,7 +5887,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
 
         "vctrs",
@@ -5911,7 +5911,7 @@
 
         "MultiAssayExperiment",
         "pcaMethods",
-        "rappdirs",
+
 
         "R.utils",
         "readxl",
@@ -6196,7 +6196,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "IRanges",
@@ -6413,7 +6413,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -6667,7 +6667,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "basecallQC": [
@@ -6769,7 +6769,7 @@
         "RcppEigen",
 
         "fs",
-        "rappdirs",
+
         "MatrixGenerics",
         "DelayedArray",
 
@@ -6933,7 +6933,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "BasicSTARRseq": [
         "GenomicRanges",
@@ -6977,7 +6977,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
 
@@ -7156,7 +7156,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
 
         "foreach",
@@ -7209,7 +7209,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -7409,7 +7409,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -7923,7 +7923,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "RcppZiggurat",
         "farver",
 
@@ -8042,7 +8042,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -8419,7 +8419,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
         "rngtools",
 
         "lambda.r",
@@ -8571,7 +8571,7 @@
         "askpass",
 
         "fs",
-        "rappdirs",
+
 
 
     ],
@@ -8918,7 +8918,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
         "Biostrings",
 
         "highr",
@@ -9072,7 +9072,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -9293,7 +9293,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
 
@@ -9459,7 +9459,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "Biobase",
@@ -9613,7 +9613,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -9663,7 +9663,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "biocthis": [
 
@@ -9688,7 +9688,7 @@
         "gh",
 
         "lifecycle",
-        "rappdirs",
+
         "rstudioapi",
 
 
@@ -9761,7 +9761,7 @@
         "gh",
         "lifecycle",
         "purrr",
-        "rappdirs",
+
 
 
 
@@ -9793,7 +9793,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -9864,7 +9864,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -9936,7 +9936,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -10006,7 +10006,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -10077,7 +10077,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -10148,7 +10148,7 @@
         "openssl",
         "plyr",
         "progress",
-        "rappdirs",
+
         "stringr",
 
 
@@ -10217,7 +10217,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Biobase",
@@ -10461,7 +10461,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -10928,7 +10928,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
 
 
         "askpass",
@@ -10944,7 +10944,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -11328,7 +11328,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -11498,7 +11498,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -11916,7 +11916,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
 
 
 
@@ -12252,7 +12252,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "farver",
 
         "lifecycle",
@@ -12366,7 +12366,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "BRAIN": [
         "PolynomF",
@@ -12440,7 +12440,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -12577,7 +12577,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -12678,7 +12678,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "XVector",
@@ -12872,7 +12872,7 @@
 
 
         "BiocFileCache",
-        "rappdirs",
+
         "dbplyr",
         "RSQLite",
 
@@ -13237,7 +13237,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "sass",
@@ -13286,7 +13286,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -13408,7 +13408,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
 
         "sass",
@@ -13478,7 +13478,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -13610,7 +13610,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -13838,7 +13838,7 @@
 
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "tidyselect",
@@ -13941,7 +13941,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -14179,7 +14179,7 @@
         "GO.db",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -14521,7 +14521,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "robustbase",
@@ -14842,7 +14842,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "casper": [
         "Biobase",
@@ -14895,7 +14895,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "SummarizedExperiment",
@@ -15322,7 +15322,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -15411,7 +15411,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
 
@@ -15539,7 +15539,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "httpuv",
 
@@ -16092,7 +16092,7 @@
 
         "memoise",
         "purrr",
-        "rappdirs",
+
         "tidyr",
         "tidyselect",
         "lubridate",
@@ -16270,7 +16270,7 @@
         "here",
 
 
-        "rappdirs",
+
         "scuttle",
 
         "S4Vectors",
@@ -17080,7 +17080,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
         "XVector",
         "GenomeInfoDb",
 
@@ -18099,7 +18099,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
 
         "rtracklayer",
         "RCurl",
@@ -18488,7 +18488,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "scales",
         "Hmisc",
@@ -18900,7 +18900,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "checkmate",
@@ -18964,7 +18964,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -19123,7 +19123,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "genefilter",
@@ -19269,7 +19269,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -19664,7 +19664,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -19880,7 +19880,7 @@
         "AnnotationDbi",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
         "memoise",
         "sparseMatrixStats",
         "sitmo",
@@ -20227,7 +20227,7 @@
         "stringr",
 
         "fs",
-        "rappdirs",
+
 
 
         "progress",
@@ -20251,7 +20251,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -20403,7 +20403,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -20619,7 +20619,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -21053,7 +21053,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -22355,7 +22355,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -22600,7 +22600,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -22747,7 +22747,7 @@
 
 
         "utf8",
-        "rappdirs",
+
 
     ],
     "CNVRanger": [
@@ -22768,7 +22768,7 @@
 
         "plyr",
         "qqman",
-        "rappdirs",
+
         "reshape2",
         "futile.logger",
 
@@ -22868,7 +22868,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -23280,7 +23280,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
         "jquerylib",
@@ -23357,7 +23357,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "sass",
@@ -23598,7 +23598,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "GenomeInfoDb",
@@ -23864,7 +23864,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "compcodeR": [
 
@@ -24042,7 +24042,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "bit64",
 
     ],
@@ -24080,7 +24080,7 @@
         "S4Vectors",
         "KEGGREST",
         "dbplyr",
-        "rappdirs",
+
 
 
         "httr",
@@ -24640,7 +24640,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -24751,7 +24751,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "MatrixGenerics",
         "annotate",
@@ -24977,7 +24977,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "bit64",
@@ -25121,7 +25121,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -25230,7 +25230,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -25442,7 +25442,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "CoreGx": [
 
@@ -25553,7 +25553,7 @@
         "nlme",
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "Cormotif": [
         "affy",
@@ -25856,7 +25856,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -26055,7 +26055,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
 
 
 
@@ -26208,7 +26208,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -26364,7 +26364,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
         "rhdf5filters",
@@ -26481,7 +26481,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "memoise",
@@ -26846,7 +26846,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "purrr",
 
 
@@ -27059,7 +27059,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -27129,7 +27129,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -27306,7 +27306,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -27347,7 +27347,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
 
@@ -27516,7 +27516,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "cummeRbund": [
 
@@ -27572,7 +27572,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -27662,7 +27662,7 @@
         "RSQLite",
 
         "ChemmineR",
-        "rappdirs",
+
         "BiocFileCache",
 
 
@@ -27787,7 +27787,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -28101,7 +28101,7 @@
         "nlme",
 
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -28354,7 +28354,7 @@
         "lubridate",
 
         "fs",
-        "rappdirs",
+
 
 
         "httr",
@@ -28772,7 +28772,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "CytoML": [
@@ -29021,7 +29021,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
         "bslib",
 
         "htmltools",
@@ -29229,7 +29229,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "S4Vectors",
         "IRanges",
@@ -29397,7 +29397,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -29543,7 +29543,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -29922,7 +29922,7 @@
 
         "lambda.r",
 
-        "rappdirs",
+
         "ggstance",
         "ggridges",
         "mosaicCore",
@@ -29998,7 +29998,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -30232,7 +30232,7 @@
         "AnnotationDbi",
         "checkmate",
         "httr",
-        "rappdirs",
+
 
 
         "Rdpack",
@@ -30904,7 +30904,7 @@
         "askpass",
         "utf8",
         "fs",
-        "rappdirs",
+
         "foreach",
 
 
@@ -31047,7 +31047,7 @@
 
         "askpass",
         "fs",
-        "rappdirs",
+
 
     ],
     "DEComplexDisease": [
@@ -31203,7 +31203,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -31603,7 +31603,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "config",
         "processx",
@@ -31752,7 +31752,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -31963,7 +31963,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -32519,7 +32519,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "densvis": [
@@ -32534,7 +32534,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
 
@@ -32682,7 +32682,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
         "zoo"
     ],
@@ -32860,7 +32860,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "rngtools",
@@ -33011,7 +33011,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -33155,7 +33155,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -33795,7 +33795,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "locfit",
         "ggplot2",
@@ -33925,7 +33925,7 @@
         "here",
 
 
-        "rappdirs",
+
         "blob",
         "memoise",
 
@@ -34481,7 +34481,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -34695,7 +34695,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -34882,7 +34882,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -35107,7 +35107,7 @@
         "askpass",
 
         "fs",
-        "rappdirs",
+
         "foreach",
 
 
@@ -35479,7 +35479,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "RCurl",
 
         "XVector",
@@ -35690,7 +35690,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -35836,7 +35836,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -36075,7 +36075,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -36337,7 +36337,7 @@
         "MatrixModels",
         "zoo",
         "fs",
-        "rappdirs",
+
         "backports",
 
         "purrr",
@@ -36706,7 +36706,7 @@
         "ensembldb",
         "BiocFileCache",
         "dplyr",
-        "rappdirs",
+
         "AnnotationFilter",
         "S4Vectors",
         "GenomicRanges",
@@ -36823,7 +36823,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "readr",
         "dplyr",
@@ -37176,7 +37176,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -37335,7 +37335,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "easyRNASeq": [
         "Biobase",
@@ -37353,7 +37353,7 @@
         "IRanges",
 
         "locfit",
-        "rappdirs",
+
         "Rsamtools",
         "S4Vectors",
         "ShortRead",
@@ -37669,7 +37669,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
         "GenomeInfoDb",
@@ -38360,7 +38360,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -38661,7 +38661,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "futile.logger",
@@ -38935,7 +38935,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "askpass",
@@ -38983,7 +38983,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -39181,7 +39181,7 @@
         "RSQLite",
         "dbplyr",
         "dplyr",
-        "rappdirs",
+
 
 
         "httr",
@@ -39527,7 +39527,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "tweenr",
 
         "RcppEigen",
@@ -39609,7 +39609,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -39699,7 +39699,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -39793,7 +39793,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -40277,7 +40277,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
 
 
         "latticeExtra",
@@ -40490,7 +40490,7 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "rappdirs",
+
 
         "XVector",
 
@@ -40634,7 +40634,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -40736,7 +40736,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -40832,7 +40832,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -40934,7 +40934,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "foreach",
@@ -41161,7 +41161,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -41375,7 +41375,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "cachem",
@@ -41752,7 +41752,7 @@
         "askpass",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "EventPointer": [
@@ -41831,7 +41831,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "BiocParallel",
 
@@ -41923,7 +41923,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -42165,7 +42165,7 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "coda",
@@ -42229,7 +42229,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
         "RSQLite",
 
         "AnnotationDbi",
@@ -42333,7 +42333,7 @@
 
         "RCurl",
         "BiocFileCache",
-        "rappdirs",
+
 
         "openssl",
 
@@ -42461,7 +42461,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -42598,7 +42598,7 @@
         "utf8",
 
         "fs",
-        "rappdirs"
+
     ],
     "ExpressionAtlas": [
         "Biobase",
@@ -42837,7 +42837,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
 
 
 
@@ -43044,7 +43044,7 @@
 
         "RcppEigen",
         "fs",
-        "rappdirs",
+
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -43451,7 +43451,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "bit64",
@@ -43601,7 +43601,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "fedup": [
         "openxlsx",
@@ -43801,7 +43801,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -43874,7 +43874,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
         "httr",
         "class",
@@ -44085,7 +44085,7 @@
         "KEGGREST",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -44364,7 +44364,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "GenomeInfoDb",
         "GenomicRanges",
@@ -44491,7 +44491,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "flowBeads": [
         "Biobase",
@@ -44640,7 +44640,7 @@
         "askpass",
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "flowCHIC": [
@@ -45382,7 +45382,7 @@
         "pillar",
         "testthat",
         "fs",
-        "rappdirs",
+
 
         "scales",
 
@@ -46333,7 +46333,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "Biostrings",
         "rtracklayer",
@@ -46710,7 +46710,7 @@
 
         "ks",
         "fs",
-        "rappdirs",
+
         "locfit",
 
 
@@ -46849,7 +46849,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -46943,7 +46943,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -47036,7 +47036,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "memoise",
@@ -47170,7 +47170,7 @@
         "S4Vectors",
         "KEGGREST",
         "dbplyr",
-        "rappdirs",
+
 
 
         "httr",
@@ -47396,7 +47396,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "pbkrtest",
@@ -47645,7 +47645,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "gcrma": [
@@ -47686,7 +47686,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "rstudioapi",
 
         "cachem",
@@ -47785,7 +47785,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
         "jquerylib",
@@ -47845,7 +47845,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "downloader",
         "dplyr",
@@ -48176,7 +48176,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocParallel",
@@ -48251,7 +48251,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -48454,7 +48454,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "SummarizedExperiment",
@@ -48629,7 +48629,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "pamr",
 
@@ -49157,7 +49157,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "scales",
         "Hmisc",
@@ -49418,7 +49418,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
 
 
 
@@ -49532,7 +49532,7 @@
 
         "askpass",
         "fs",
-        "rappdirs",
+
 
 
     ],
@@ -49740,7 +49740,7 @@
         "GenomicRanges",
         "IRanges",
         "dplyr",
-        "rappdirs",
+
         "SummarizedExperiment",
         "S4Vectors",
         "tibble",
@@ -49863,7 +49863,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -49976,7 +49976,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -50115,7 +50115,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -50204,7 +50204,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -50364,7 +50364,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -50453,7 +50453,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -50679,7 +50679,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -50821,7 +50821,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -51134,7 +51134,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "knitr",
         "tinytex",
@@ -51506,7 +51506,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "genefilter",
@@ -51794,7 +51794,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -52096,7 +52096,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -52428,7 +52428,7 @@
         "nlme",
         "askpass",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -52647,7 +52647,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lifecycle",
@@ -52953,7 +52953,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -53124,7 +53124,7 @@
         "interp",
 
         "fs",
-        "rappdirs",
+
 
         "backports",
 
@@ -53195,7 +53195,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -53362,7 +53362,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -53691,7 +53691,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -53819,7 +53819,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "cachem",
@@ -54140,7 +54140,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "gpart": [
         "Homo.sapiens",
@@ -54165,7 +54165,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "GenomeInfoDb",
         "XVector",
@@ -54393,7 +54393,7 @@
         "memoise",
 
         "fs",
-        "rappdirs"
+
     ],
     "graper": [
         "Matrix",
@@ -54453,7 +54453,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
 
         "Biobase",
         "IRanges",
@@ -54853,7 +54853,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "gscreend": [
         "SummarizedExperiment",
@@ -54986,7 +54986,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -55160,7 +55160,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -55288,7 +55288,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -55570,7 +55570,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "Matrix",
         "MatrixGenerics",
@@ -55696,7 +55696,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -55782,7 +55782,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -55987,7 +55987,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -56221,7 +56221,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -56528,7 +56528,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
 
@@ -56667,7 +56667,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -57020,7 +57020,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "Hmisc",
 
@@ -57191,7 +57191,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Rsamtools",
@@ -57266,7 +57266,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -57407,7 +57407,7 @@
         "here",
 
 
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -57663,7 +57663,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "HPiP": [
         "dplyr",
@@ -57824,7 +57824,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -58002,7 +58002,7 @@
         "gert",
         "gh",
         "purrr",
-        "rappdirs",
+
 
         "rstudioapi",
 
@@ -58088,7 +58088,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
     ],
     "hummingbird": [
@@ -58215,7 +58215,7 @@
 
         "processx",
         "fs",
-        "rappdirs",
+
 
     ],
     "hyperdraw": [
@@ -58473,7 +58473,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -58611,7 +58611,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -58861,7 +58861,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "ideal": [
         "topGO",
@@ -58996,7 +58996,7 @@
         "RCurl",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "memoise",
@@ -59228,7 +59228,7 @@
         "here",
 
 
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -59381,7 +59381,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -59532,7 +59532,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
 
         "ellipsis",
@@ -59706,7 +59706,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -59878,7 +59878,7 @@
         "progress",
         "dbplyr",
         "RSQLite",
-        "rappdirs",
+
 
 
         "httr",
@@ -60125,7 +60125,7 @@
         "RcppEigen",
         "utf8",
         "fs",
-        "rappdirs",
+
         "foreach",
 
 
@@ -60281,7 +60281,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
         "jquerylib",
@@ -60406,7 +60406,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -60531,7 +60531,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "class",
@@ -60659,7 +60659,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "jquerylib",
@@ -60932,7 +60932,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -61098,7 +61098,7 @@
 
         "openssl",
         "fs",
-        "rappdirs",
+
 
         "pillar",
 
@@ -61198,7 +61198,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
         "RCurl",
 
         "askpass",
@@ -61242,7 +61242,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "InterCellar": [
         "config",
@@ -61287,7 +61287,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -61515,7 +61515,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -61971,7 +61971,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -62350,7 +62350,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "bit64",
         "blob",
@@ -62594,7 +62594,7 @@
 
 
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -62703,7 +62703,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
     ],
 
@@ -62721,7 +62721,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -62958,7 +62958,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -63420,7 +63420,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -63609,7 +63609,7 @@
 
         "car",
         "fs",
-        "rappdirs",
+
 
 
 
@@ -63756,7 +63756,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -64286,7 +64286,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
         "Biostrings",
 
 
@@ -64413,7 +64413,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -64669,7 +64669,7 @@
         "diffobj",
         "rematch2",
 
-        "rappdirs"
+
     ],
     "lfa": [
 
@@ -65585,7 +65585,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -65729,7 +65729,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -65944,7 +65944,7 @@
         "here",
 
 
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -66091,7 +66091,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
 
 
         "RCurl",
@@ -66576,7 +66576,7 @@
         "askpass",
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "MACSr": [
@@ -66591,7 +66591,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -66776,7 +66776,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -66960,7 +66960,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "locfit",
         "doRNG",
@@ -67237,7 +67237,7 @@
 
         "processx",
 
-        "rappdirs",
+
 
         "survival",
 
@@ -67479,7 +67479,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
 
 
         "bit64",
@@ -67832,7 +67832,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -68155,7 +68155,7 @@
         "utf8",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -68511,7 +68511,7 @@
         "SummarizedExperiment",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "RCurl",
         "ggplot2",
@@ -68754,7 +68754,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -69044,7 +69044,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -69307,7 +69307,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -69368,7 +69368,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -69599,7 +69599,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
 
         "rstudioapi",
 
@@ -69769,7 +69769,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "memes": [
         "Biostrings",
@@ -69830,7 +69830,7 @@
         "gert",
         "gh",
 
-        "rappdirs",
+
 
         "rstudioapi",
 
@@ -69932,7 +69932,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -70119,7 +70119,7 @@
 
         "Biostrings",
         "fs",
-        "rappdirs",
+
 
         "XVector",
         "GenomeInfoDb",
@@ -70567,7 +70567,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "ensembldb",
 
@@ -70981,7 +70981,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -71424,7 +71424,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -71693,7 +71693,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "rngtools",
 
@@ -71914,7 +71914,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "methimpute": [
@@ -72127,7 +72127,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -72455,7 +72455,7 @@
 
         "tzdb",
         "fs",
-        "rappdirs",
+
         "purrr",
 
         "progress",
@@ -72597,7 +72597,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
         "lambda.r",
 
 
@@ -72683,7 +72683,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
 
 
 
@@ -73080,7 +73080,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
         "multtest",
 
 
@@ -73427,7 +73427,7 @@
 
         "utf8",
 
-        "rappdirs"
+
     ],
     "MethylSeekR": [
         "rtracklayer",
@@ -73645,7 +73645,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "foreach",
@@ -73801,7 +73801,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
 
@@ -74040,7 +74040,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "IRanges",
         "RSQLite",
@@ -74673,7 +74673,7 @@
 
         "rhdf5filters",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -74918,7 +74918,7 @@
         "bit64",
         "blob",
 
-        "rappdirs",
+
         "diffobj",
         "rematch2",
 
@@ -75044,7 +75044,7 @@
 
 
 
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -75300,7 +75300,7 @@
         "askpass",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "MIGSA": [
@@ -75750,7 +75750,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -76022,7 +76022,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -76491,7 +76491,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -76876,7 +76876,7 @@
         "ggrepel",
         "tidygraph",
         "graphlayouts",
-        "rappdirs",
+
         "knitr",
         "htmlwidgets",
         "rstudioapi",
@@ -76995,7 +76995,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
 
         "stringr",
         "ellipsis",
@@ -77205,7 +77205,7 @@
         "openssl",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "vctrs",
         "rngtools",
@@ -77488,7 +77488,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "mitoClone2": [
         "reshape2",
@@ -77566,7 +77566,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -77748,7 +77748,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
         "purrr",
 
         "XVector",
@@ -78017,7 +78017,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -78126,7 +78126,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
         "MatrixGenerics",
         "DelayedArray"
@@ -78615,7 +78615,7 @@
         "here",
 
 
-        "rappdirs",
+
         "purrr",
 
 
@@ -78714,7 +78714,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
 
 
 
@@ -79123,7 +79123,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -79414,7 +79414,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "scales",
         "Hmisc",
@@ -79735,7 +79735,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -79966,7 +79966,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
         "minqa",
         "nloptr",
@@ -80126,7 +80126,7 @@
         "genomeIntervals",
 
         "locfit",
-        "rappdirs",
+
         "ShortRead",
 
 
@@ -80313,7 +80313,7 @@
         "vctrs",
 
         "utf8",
-        "rappdirs"
+
     ],
     "MSGFplus": [
         "mzID",
@@ -80354,7 +80354,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "SingleCellExperiment",
         "scuttle",
@@ -80660,7 +80660,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -80942,7 +80942,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
         "askpass",
 
         "callr",
@@ -81361,7 +81361,7 @@
 
         "mvtnorm",
 
-        "rappdirs",
+
 
         "highr",
 
@@ -81631,7 +81631,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -81743,7 +81743,7 @@
 
         "askpass",
         "fs",
-        "rappdirs",
+
 
 
 
@@ -82195,7 +82195,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
         "restfulr",
@@ -82357,7 +82357,7 @@
         "dplyr",
         "fgsea",
         "metap",
-        "rappdirs",
+
 
 
         "Biobase",
@@ -82811,7 +82811,7 @@
         "treeio",
         "checkmate",
         "graph",
-        "rappdirs",
+
         "openssl",
         "highr",
         "qqman",
@@ -83032,7 +83032,7 @@
         "RSQLite",
         "KEGGREST",
         "fs",
-        "rappdirs",
+
         "rstudioapi",
 
         "BiocParallel",
@@ -83420,7 +83420,7 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
         "sass",
         "jquerylib",
         "memoise",
@@ -83619,7 +83619,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -83825,7 +83825,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -83993,7 +83993,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "backports",
 
@@ -84170,7 +84170,7 @@
         "sp",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
         "dbplyr",
@@ -84667,7 +84667,7 @@
 
 
 
-        "rappdirs",
+
         "cachem",
         "nlme",
         "Matrix",
@@ -85220,7 +85220,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -85350,7 +85350,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -85770,7 +85770,7 @@
         "doParallel",
         "foreach",
 
-        "rappdirs",
+
         "GenomeInfoDb",
         "S4Vectors",
         "IRanges",
@@ -86138,7 +86138,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "NetSAM": [
         "seriation",
@@ -86164,7 +86164,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -86472,7 +86472,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "Biobase",
         "config",
@@ -86628,7 +86628,7 @@
 
 
         "fs",
-        "rappdirs",
+
 
     ],
     "nnNorm": [
@@ -86737,7 +86737,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "blob",
@@ -87372,7 +87372,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -87513,7 +87513,7 @@
         "dbplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -88001,7 +88001,7 @@
 
         "RcppGSL",
         "fs",
-        "rappdirs",
+
 
 
 
@@ -88436,7 +88436,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
         "processx",
 
         "openssl",
@@ -88584,7 +88584,7 @@
 
         "progress",
         "purrr",
-        "rappdirs",
+
         "readr",
         "readxl",
 
@@ -88683,7 +88683,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Biobase",
@@ -88917,7 +88917,7 @@
         "askpass",
         "utf8",
 
-        "rappdirs",
+
 
 
     ],
@@ -88986,7 +88986,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -89398,7 +89398,7 @@
 
 
         "fs",
-        "rappdirs",
+
         "purrr",
 
 
@@ -89552,7 +89552,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Matrix",
@@ -89766,7 +89766,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
         "jquerylib",
@@ -90049,7 +90049,7 @@
         "Matrix",
         "DelayedArray",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "tidyselect",
@@ -90117,7 +90117,7 @@
         "Biobase",
         "KEGGREST",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -90217,7 +90217,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -90601,7 +90601,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "backports",
@@ -91315,7 +91315,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "parglms": [
 
@@ -91619,7 +91619,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
 
         "RSQLite",
@@ -91788,7 +91788,7 @@
         "R.utils",
 
         "readr",
-        "rappdirs",
+
 
 
         "openssl",
@@ -91868,7 +91868,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "BiocParallel",
         "locfit",
@@ -92204,7 +92204,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "backports",
         "ellipsis",
@@ -92573,7 +92573,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "PECA": [
@@ -93186,7 +93186,7 @@
 
 
         "webutils",
-        "rappdirs",
+
 
 
 
@@ -93378,7 +93378,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "phemd": [
         "monocle",
@@ -93450,7 +93450,7 @@
         "here",
 
 
-        "rappdirs",
+
         "fitdistrplus",
         "future",
         "future.apply",
@@ -93718,7 +93718,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "robustbase",
@@ -94188,7 +94188,7 @@
         "AnnotationHub",
         "BiocFileCache",
 
-        "rappdirs",
+
 
 
 
@@ -94542,7 +94542,7 @@
 
         "nlme",
         "fs",
-        "rappdirs",
+
 
         "pillar",
         "vctrs",
@@ -94684,7 +94684,7 @@
         "graphlayouts",
         "checkmate",
         "httr",
-        "rappdirs",
+
         "latticeExtra",
 
 
@@ -94796,7 +94796,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -95072,7 +95072,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "RcppArmadillo",
         "progressr",
@@ -95167,7 +95167,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "lambda.r",
 
         "MatrixGenerics",
@@ -95521,7 +95521,7 @@
         "highr",
 
         "fs",
-        "rappdirs",
+
 
         "minqa",
         "nloptr",
@@ -95781,7 +95781,7 @@
         "utf8",
 
         "fs",
-        "rappdirs"
+
     ],
     "podkat": [
         "Rsamtools",
@@ -95875,7 +95875,7 @@
         "KEGGREST",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
         "dbplyr",
@@ -96091,7 +96091,7 @@
 
         "prodlim",
         "fs",
-        "rappdirs",
+
 
 
         "lava",
@@ -96113,7 +96113,7 @@
         "AnnotationDbi",
         "checkmate",
         "httr",
-        "rappdirs",
+
 
         "Matrix",
 
@@ -96347,7 +96347,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -96645,7 +96645,7 @@
 
         "rhdf5filters",
         "fs",
-        "rappdirs",
+
 
         "pillar",
         "vctrs",
@@ -96758,7 +96758,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "jquerylib",
@@ -96853,7 +96853,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "htmltools",
@@ -97098,7 +97098,7 @@
         "KEGGREST",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -97393,7 +97393,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -97466,7 +97466,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "SummarizedExperiment",
@@ -97925,7 +97925,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "ShortRead",
@@ -98188,7 +98188,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "foreach",
         "ModelMetrics",
@@ -98452,7 +98452,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "memoise",
         "foreach",
@@ -98772,7 +98772,7 @@
         "R.oo",
 
         "fs",
-        "rappdirs",
+
         "httpuv",
 
 
@@ -99058,7 +99058,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -99109,7 +99109,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -99268,7 +99268,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -99389,7 +99389,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
         "dbplyr",
@@ -99553,7 +99553,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -99633,7 +99633,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -99854,7 +99854,7 @@
         "askpass",
         "utf8",
         "fs",
-        "rappdirs",
+
 
 
 
@@ -100103,7 +100103,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -100264,7 +100264,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -100397,7 +100397,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -100551,7 +100551,7 @@
         "AnnotationHub",
         "BiocFileCache",
 
-        "rappdirs",
+
 
         "Matrix",
 
@@ -100828,7 +100828,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -101087,7 +101087,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "knitr",
@@ -101502,7 +101502,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "askpass",
@@ -101618,7 +101618,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -101899,7 +101899,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "backports",
 
@@ -102045,7 +102045,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "GenomeInfoDb",
 
@@ -102262,7 +102262,7 @@
         "nlme",
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "RaggedExperiment": [
         "GenomicRanges",
@@ -102366,7 +102366,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "S4Vectors",
         "IRanges",
@@ -102545,7 +102545,7 @@
         "KEGGREST",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -102918,7 +102918,7 @@
         "KEGGREST",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "sass",
@@ -103034,7 +103034,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "rCGH": [
         "plyr",
@@ -103107,7 +103107,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "sass",
         "jquerylib",
@@ -103259,7 +103259,7 @@
         "nlme",
         "askpass",
         "fs",
-        "rappdirs",
+
 
     ],
     "RCM": [
@@ -103466,7 +103466,7 @@
         "here",
 
 
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -103506,7 +103506,7 @@
         "fs",
         "progress",
 
-        "rappdirs",
+
 
 
         "futile.logger",
@@ -103595,7 +103595,7 @@
     "RcwlPipelines": [
         "Rcwl",
         "BiocFileCache",
-        "rappdirs",
+
 
         "httr",
         "S4Vectors",
@@ -103883,7 +103883,7 @@
         "utf8",
 
         "fs",
-        "rappdirs"
+
     ],
     "ReactomeGSA": [
 
@@ -103988,7 +103988,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
         "Matrix",
 
         "ggfun",
@@ -104108,7 +104108,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "receptLoss": [
         "dplyr",
@@ -104336,7 +104336,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
         "rngtools",
 
 
@@ -104401,7 +104401,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -104481,7 +104481,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -104626,7 +104626,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -104764,7 +104764,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -105159,7 +105159,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "rngtools",
 
@@ -105254,7 +105254,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -105428,7 +105428,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -105838,7 +105838,7 @@
         "pillar",
         "vctrs",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -105884,7 +105884,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "GenomeInfoDb",
@@ -106006,7 +106006,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -106424,7 +106424,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "AnnotationHub",
 
@@ -106630,7 +106630,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "GenomicRanges",
         "BiocParallel",
@@ -106783,7 +106783,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -106922,7 +106922,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "readr",
         "downloader",
@@ -107013,7 +107013,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -107192,7 +107192,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -107430,7 +107430,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "locfit",
@@ -107612,7 +107612,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -108062,7 +108062,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -108451,7 +108451,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
 
         "progress",
@@ -108682,7 +108682,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "rngtools",
 
@@ -108820,7 +108820,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "backports",
@@ -109047,7 +109047,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "Hmisc",
 
@@ -109172,7 +109172,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -109342,7 +109342,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "Hmisc",
 
@@ -109465,7 +109465,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -109717,7 +109717,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
 
         "Rhtslib",
@@ -109878,7 +109878,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "locfit",
@@ -110037,7 +110037,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "foreach",
@@ -110418,7 +110418,7 @@
 
         "rhdf5filters",
         "fs",
-        "rappdirs",
+
 
         "pillar",
         "vctrs",
@@ -110484,7 +110484,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
         "httr",
 
@@ -110646,7 +110646,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "checkmate",
         "htmlwidgets",
@@ -110952,7 +110952,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
         "RCurl",
 
         "askpass",
@@ -111258,7 +111258,7 @@
 
         "readr",
         "dplyr",
-        "rappdirs",
+
         "tibble",
         "Biostrings",
         "BiocIO",
@@ -111934,7 +111934,7 @@
 
         "Rhtslib",
         "fs",
-        "rappdirs",
+
         "futile.logger",
 
 
@@ -112089,7 +112089,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
         "GenomeInfoDb",
@@ -112325,7 +112325,7 @@
         "progress",
         "stringr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -112491,7 +112491,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -112546,7 +112546,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "SANTA": [
         "igraph",
@@ -112739,7 +112739,7 @@
         "vctrs",
 
         "fs",
-        "rappdirs",
+
 
 
     ],
@@ -112836,7 +112836,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "Scale4C": [
@@ -112966,7 +112966,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -113225,7 +113225,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -113347,7 +113347,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -113613,7 +113613,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "RCurl",
 
 
@@ -113911,7 +113911,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -114097,7 +114097,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -114281,7 +114281,7 @@
         "stringr",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -114563,7 +114563,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "gridExtra",
         "progressr",
@@ -114944,7 +114944,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "backports",
 
@@ -115242,7 +115242,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "reshape2",
         "gridExtra",
@@ -115431,7 +115431,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -115701,7 +115701,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -115981,7 +115981,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocIO",
@@ -116236,7 +116236,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -116460,7 +116460,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lifecycle",
@@ -116692,7 +116692,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
         "farver",
@@ -116877,7 +116877,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -117054,7 +117054,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -117441,7 +117441,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "bit64",
         "blob",
@@ -117654,7 +117654,7 @@
         "purrr",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -117961,7 +117961,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocParallel",
@@ -118131,7 +118131,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Rsamtools",
@@ -118267,7 +118267,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -118482,7 +118482,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "bit64",
@@ -118613,7 +118613,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "S4Vectors",
         "IRanges",
@@ -118822,7 +118822,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "GenomeInfoDb",
         "XVector",
         "dplyr",
@@ -119062,7 +119062,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -119377,7 +119377,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -119580,7 +119580,7 @@
 
         "Rhtslib",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -119742,7 +119742,7 @@
 
         "tzdb",
         "fs",
-        "rappdirs",
+
         "purrr",
 
         "progress",
@@ -120039,7 +120039,7 @@
         "blob",
 
         "fs",
-        "rappdirs",
+
         "purrr",
 
         "XVector",
@@ -120252,7 +120252,7 @@
         "BiocFileCache",
 
 
-        "rappdirs",
+
         "gridExtra",
 
 
@@ -120460,7 +120460,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -120551,7 +120551,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "bit64",
@@ -121204,7 +121204,7 @@
 
         "BiocFileCache",
 
-        "rappdirs",
+
         "spam",
         "viridis",
 
@@ -121469,7 +121469,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -121781,7 +121781,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
 
@@ -122019,7 +122019,7 @@
         "openssl",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
         "rngtools",
 
         "tidyselect",
@@ -122404,7 +122404,7 @@
         "vctrs",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "backports",
@@ -122581,7 +122581,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
 
@@ -122722,7 +122722,7 @@
         "httr",
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -122934,7 +122934,7 @@
 
         "purrr",
         "fs",
-        "rappdirs"
+
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -123051,7 +123051,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "tidyselect",
@@ -123274,7 +123274,7 @@
 
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -123651,7 +123651,7 @@
         "nlme",
         "utf8",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -123693,7 +123693,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "farver",
 
@@ -123911,7 +123911,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -124010,7 +124010,7 @@
         "ggplotify",
         "plotly",
         "rols",
-        "rappdirs",
+
         "reshape2",
         "SummarizedExperiment",
         "shinydashboard",
@@ -124243,7 +124243,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -124704,7 +124704,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
         "DOSE",
         "GO.db",
@@ -125019,7 +125019,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lambda.r",
@@ -125147,7 +125147,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "XVector",
@@ -125568,7 +125568,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -125733,7 +125733,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -126025,7 +126025,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "ssviz": [
         "Rsamtools",
@@ -126137,7 +126137,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "scales",
@@ -126352,7 +126352,7 @@
         "checkmate",
         "graph",
         "httr",
-        "rappdirs",
+
 
         "Matrix",
 
@@ -126666,7 +126666,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -126932,7 +126932,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocParallel",
@@ -127407,7 +127407,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "S4Vectors",
         "IRanges",
@@ -127667,7 +127667,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -127834,7 +127834,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocParallel",
@@ -127926,7 +127926,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocParallel",
@@ -127981,7 +127981,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -128300,7 +128300,7 @@
 
         "processx",
 
-        "rappdirs",
+
 
         "highr",
 
@@ -128646,7 +128646,7 @@
         "knitr",
         "tinytex",
 
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -129025,7 +129025,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -129108,7 +129108,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "TargetDecoy": [
         "ggplot2",
@@ -129589,7 +129589,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "lifecycle",
@@ -129808,7 +129808,7 @@
 
 
         "BiocFileCache",
-        "rappdirs",
+
         "sass",
         "memoise",
 
@@ -129987,7 +129987,7 @@
 
         "readr",
         "dplyr",
-        "rappdirs",
+
         "tibble",
         "XVector",
         "Biostrings",
@@ -130193,7 +130193,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -130469,7 +130469,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -130581,7 +130581,7 @@
         "S4Vectors",
         "KEGGREST",
         "dbplyr",
-        "rappdirs",
+
 
 
 
@@ -131257,7 +131257,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "downloader",
         "DOSE",
@@ -131675,7 +131675,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -131784,7 +131784,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -132166,7 +132166,7 @@
         "here",
 
 
-        "rappdirs",
+
         "RcppEigen",
         "farver",
 
@@ -132454,7 +132454,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "TPP": [
         "Biobase",
@@ -132539,7 +132539,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "TPP2D": [
         "dplyr",
@@ -132698,7 +132698,7 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "Hmisc",
@@ -132928,7 +132928,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -133065,7 +133065,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -133946,7 +133946,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "XVector",
         "GenomeInfoDb",
@@ -134139,7 +134139,7 @@
 
 
         "utf8",
-        "rappdirs",
+
 
     ],
     "TRESS": [
@@ -134179,7 +134179,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -134538,7 +134538,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
 
         "askpass",
         "credentials",
@@ -134836,7 +134836,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
     ],
     "tscR": [
@@ -134922,7 +134922,7 @@
         "htmlwidgets",
 
         "fs",
-        "rappdirs"
+
     ],
     "tspair": [
         "Biobase",
@@ -134948,7 +134948,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -135120,7 +135120,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "MatrixExtra",
 
@@ -135278,7 +135278,7 @@
 
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
         "Hmisc",
 
@@ -135428,7 +135428,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "txcutr": [
         "AnnotationDbi",
@@ -135463,7 +135463,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -135543,7 +135543,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -135671,7 +135671,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
         "dplyr",
@@ -135804,7 +135804,7 @@
 
         "GenomicFeatures",
         "BiocFileCache",
-        "rappdirs",
+
         "fda",
 
         "AnnotationDbi",
@@ -135936,7 +135936,7 @@
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "BiocFileCache",
-        "rappdirs",
+
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rlist",
         "EnsDb.Hsapiens.v75",
@@ -136126,7 +136126,7 @@
 
         "AnnotationDbi",
         "BiocFileCache",
-        "rappdirs",
+
         "Biobase",
         "IRanges",
 
@@ -136231,7 +136231,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -136524,7 +136524,7 @@
         "tzdb",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -136744,7 +136744,7 @@
         "utf8",
 
 
-        "rappdirs",
+
         "lambda.r",
 
         "MatrixGenerics",
@@ -136892,7 +136892,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -137094,7 +137094,7 @@
         "Matrix",
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -137218,7 +137218,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -137304,7 +137304,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "BiocIO",
@@ -137415,7 +137415,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "lambda.r",
 
@@ -137473,7 +137473,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "IRanges",
 
@@ -137558,7 +137558,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "GenomicRanges",
         "DelayedMatrixStats",
@@ -137746,7 +137746,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
 
 
@@ -137814,7 +137814,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "viridis",
@@ -138005,7 +138005,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
 
 
@@ -138202,7 +138202,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -138381,7 +138381,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -138488,7 +138488,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -138676,7 +138676,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -138807,7 +138807,7 @@
         "progress",
         "httr",
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "SummarizedExperiment",
@@ -139187,7 +139187,7 @@
         "purrr",
 
 
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -139242,7 +139242,7 @@
         "httr",
 
         "later",
-        "rappdirs",
+
         "readr",
         "readxl",
         "stringr",
@@ -139555,7 +139555,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "XINA": [
 
@@ -139681,7 +139681,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -139869,7 +139869,7 @@
 
         "progress",
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -139941,7 +139941,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
         "locfit",
 
@@ -140092,7 +140092,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "GenomicRanges",
         "Biobase",
@@ -140498,7 +140498,7 @@
         "tinytex",
         "fs",
 
-        "rappdirs",
+
         "farver",
 
         "lifecycle",
@@ -140547,7 +140547,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "knitr": [
 
@@ -140725,7 +140725,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
 
 
@@ -140774,7 +140774,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "scales": [
         "farver",
@@ -140793,7 +140793,7 @@
 
         "htmltools",
 
-        "rappdirs",
+
 
 
 
@@ -140811,7 +140811,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
 
 
@@ -140948,7 +140948,7 @@
 
     ],
     "fs": [],
-    "rappdirs": [],
+
     "farver": [],
 
     "munsell": [
@@ -141235,7 +141235,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "testthat": [
 
@@ -141774,7 +141774,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -142478,7 +142478,7 @@
         "jquerylib",
         "memoise",
         "fs",
-        "rappdirs"
+
     ],
     "seqinr": [
         "ade4",
@@ -142712,7 +142712,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -143101,7 +143101,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "umap": [
         "Matrix",
@@ -143115,7 +143115,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "RcppEigen",
 
@@ -143263,7 +143263,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
 
@@ -143414,7 +143414,7 @@
 
 
         "fs",
-        "rappdirs",
+
         "rstudioapi",
 
 
@@ -143462,7 +143462,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "gargle": [
 
@@ -143470,7 +143470,7 @@
 
         "httr",
 
-        "rappdirs",
+
 
         "rstudioapi",
 
@@ -143609,7 +143609,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -143705,7 +143705,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -143893,7 +143893,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -144002,7 +144002,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -144111,7 +144111,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -144238,7 +144238,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -144339,7 +144339,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -144430,7 +144430,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -144567,7 +144567,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -145129,7 +145129,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "raster": [
         "sp",
@@ -145236,7 +145236,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "colourpicker": [
         "ggplot2",
@@ -145293,7 +145293,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "miniUI": [
         "shiny",
@@ -145325,7 +145325,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "dqrng": [
 
@@ -145393,7 +145393,7 @@
 
         "purrr",
         "fs",
-        "rappdirs"
+
     ],
     "heatmaply": [
         "plotly",
@@ -145770,7 +145770,7 @@
         "promises",
         "RcppTOML",
         "here",
-        "rappdirs",
+
         "gplots",
         "farver",
 
@@ -145872,7 +145872,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
     ],
@@ -146255,7 +146255,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -146313,7 +146313,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "ggforce": [
         "ggplot2",
@@ -146480,7 +146480,7 @@
 
         "MatrixModels",
         "survival",
-        "rappdirs",
+
         "bit64",
 
         "testthat",
@@ -146531,7 +146531,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi",
@@ -146732,7 +146732,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "psych": [
 
@@ -146776,7 +146776,7 @@
 
 
         "utf8",
-        "rappdirs"
+
     ],
 
     "ggraph": [
@@ -147112,7 +147112,7 @@
 
         "lifecycle",
         "purrr",
-        "rappdirs",
+
 
 
         "rstudioapi",
@@ -147607,7 +147607,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "superheat": [
         "dplyr",
@@ -147735,7 +147735,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -147842,7 +147842,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -147971,7 +147971,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -148295,7 +148295,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -148549,7 +148549,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
         "sass",
         "jquerylib",
@@ -148634,7 +148634,7 @@
         "askpass",
         "utf8",
 
-        "rappdirs",
+
 
 
 
@@ -149413,7 +149413,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "Rmpi": [],
 
@@ -150102,7 +150102,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -150239,7 +150239,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -150373,7 +150373,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -150472,7 +150472,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -150947,7 +150947,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -151036,7 +151036,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -151125,7 +151125,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -151214,7 +151214,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -151303,7 +151303,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -151448,7 +151448,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "shinyWidgets": [
         "anytime",
@@ -151468,7 +151468,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "httpuv",
 
 
@@ -151518,7 +151518,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "kableExtra": [
         "knitr",
@@ -151577,7 +151577,7 @@
         "utf8",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "qs": [
@@ -151651,7 +151651,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "httpuv",
 
 
@@ -151703,7 +151703,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "anytime": [
 
@@ -152626,7 +152626,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -152789,7 +152789,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -153014,7 +153014,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "config",
         "processx",
@@ -153053,7 +153053,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "backports",
 
@@ -153085,7 +153085,7 @@
         "RcppTOML",
         "here",
 
-        "rappdirs",
+
 
         "ellipsis",
 
@@ -153107,7 +153107,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
 
@@ -153153,7 +153153,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
 
     "NCmisc": [
@@ -153496,7 +153496,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "shinyMatrix": [
         "shiny",
@@ -153528,7 +153528,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "mbest": [
         "nlme",
@@ -154212,7 +154212,7 @@
 
         "processx",
 
-        "rappdirs",
+
 
         "highr",
 
@@ -154462,7 +154462,7 @@
         "vctrs",
 
         "fs",
-        "rappdirs",
+
         "rstudioapi",
 
 
@@ -154492,7 +154492,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "rstudioapi",
 
         "lifecycle",
@@ -154581,7 +154581,7 @@
 
 
 
-        "rappdirs"
+
     ],
     "gmm": [
         "sandwich",
@@ -154827,7 +154827,7 @@
         "gert",
         "gh",
 
-        "rappdirs",
+
 
         "rstudioapi",
 
@@ -155660,7 +155660,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -155997,7 +155997,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
         "RSQLite",
 
         "AnnotationDbi",
@@ -156388,7 +156388,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "rstudioapi",
 
 
@@ -156420,7 +156420,7 @@
 
         "fs",
 
-        "rappdirs",
+
         "rstudioapi",
 
         "cachem",
@@ -156745,7 +156745,7 @@
         "askpass",
 
         "fs",
-        "rappdirs",
+
 
     ],
     "tippy": [
@@ -156780,7 +156780,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
 
     "flextable": [
@@ -156817,7 +156817,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "officer": [
 
@@ -157024,7 +157024,7 @@
         "Matrix",
         "askpass",
         "fs",
-        "rappdirs",
+
         "foreach",
 
 
@@ -157064,7 +157064,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "repo": [
 
@@ -157198,7 +157198,7 @@
 
         "nlme",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -157269,7 +157269,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -157447,7 +157447,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "dtangle": [
 
@@ -157770,7 +157770,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -157975,7 +157975,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
 
         "sass",
         "jquerylib",
@@ -158032,7 +158032,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "wordcloud2": [
         "htmlwidgets",
@@ -158194,7 +158194,7 @@
         "nlme",
         "Matrix",
         "fs",
-        "rappdirs",
+
         "farver",
 
         "munsell",
@@ -158418,7 +158418,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -159017,7 +159017,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "bit64",
         "progress",
 
@@ -159095,7 +159095,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "bit64",
         "progress",
 
@@ -159171,7 +159171,7 @@
         "vroom",
         "tzdb",
         "fs",
-        "rappdirs",
+
         "bit64",
         "progress",
 
@@ -159354,7 +159354,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "sesameData": [
         "ExperimentHub",
@@ -159366,7 +159366,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -159552,7 +159552,7 @@
         "stringr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -159589,7 +159589,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
         "AnnotationHubData",
 
         "httr",
@@ -159829,7 +159829,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "ggstar": [
         "ggplot2",
@@ -159888,7 +159888,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "HardyWeinberg": [
         "mice",
@@ -160260,7 +160260,7 @@
 
         "purrr",
         "fs",
-        "rappdirs"
+
     ],
     "SOMbrero": [
         "igraph",
@@ -160343,7 +160343,7 @@
 
         "utf8",
         "fs",
-        "rappdirs",
+
 
         "gridExtra"
     ],
@@ -160507,7 +160507,7 @@
         "nlme",
         "Matrix",
         "fs",
-        "rappdirs",
+
 
     ],
 
@@ -160701,7 +160701,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
 
     "anyLib": [
@@ -160771,7 +160771,7 @@
 
         "gert",
         "gh",
-        "rappdirs",
+
         "rstudioapi",
 
         "sass",
@@ -160911,7 +160911,7 @@
 
 
 
-        "rappdirs",
+
 
 
         "knitr",
@@ -160978,12 +160978,12 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
 
     "learnr": [
 
-        "rappdirs",
+
 
 
         "htmltools",
@@ -161364,7 +161364,7 @@
         "dplyr",
         "RSQLite",
 
-        "rappdirs",
+
 
 
         "httr",
@@ -161710,7 +161710,7 @@
         "progress",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
         "S4Vectors",
@@ -162022,7 +162022,7 @@
 
         "webutils",
 
-        "rappdirs",
+
 
 
         "protolite",
@@ -162084,7 +162084,7 @@
         "here",
 
 
-        "rappdirs",
+
 
 
         "nlme",
@@ -162386,7 +162386,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -162562,7 +162562,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "shinyTree": [
         "shiny",
@@ -162598,7 +162598,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "ParallelLogger": [
 
@@ -162637,7 +162637,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
 
     "shinyscreenshot": [
@@ -162671,7 +162671,7 @@
 
 
         "fs",
-        "rappdirs"
+
     ],
     "taRifx": [],
     "MuMIn": [
@@ -162691,7 +162691,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
         "RSQLite",
 
         "AnnotationDbi",
@@ -162796,7 +162796,7 @@
         "RSQLite",
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "interactiveDisplayBase",
         "httr",
@@ -162924,7 +162924,7 @@
         "fs",
         "progress",
 
-        "rappdirs",
+
 
 
         "hms",
@@ -162992,7 +162992,7 @@
         "utf8",
 
         "fs",
-        "rappdirs"
+
     ],
     "getPass": [
         "rstudioapi"
@@ -163068,7 +163068,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
     "RefManageR": [
 
@@ -163099,7 +163099,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -163407,7 +163407,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -163547,7 +163547,7 @@
         "httr",
 
         "BiocFileCache",
-        "rappdirs",
+
 
 
 
@@ -163686,7 +163686,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
 
 
@@ -163748,7 +163748,7 @@
 
         "fs",
 
-        "rappdirs"
+
     ],
 
     "scanMiRData": [
@@ -163819,7 +163819,7 @@
         "S4Vectors",
 
 
-        "rappdirs",
+
         "IRanges",
         "GenomeInfoDb",
         "SummarizedExperiment",
@@ -163979,7 +163979,7 @@
         "here",
 
 
-        "rappdirs",
+
 
         "nlme",
         "farver",
@@ -164225,7 +164225,7 @@
         "triebeard",
 
         "fs",
-        "rappdirs"
+
     ],
     "gistr": [
 
@@ -164277,7 +164277,7 @@
         "triebeard",
 
         "fs",
-        "rappdirs"
+
     ],
     "wheatmap": [
 
@@ -164380,7 +164380,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -164520,7 +164520,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
@@ -164627,7 +164627,7 @@
 
 
 
-        "rappdirs",
+
         "AnnotationDbi",
         "S4Vectors",
         "interactiveDisplayBase",
@@ -165032,7 +165032,7 @@
         "memoise",
 
         "fs",
-        "rappdirs"
+
     ],
     "drawer": [
         "htmltools",
@@ -165078,7 +165078,7 @@
 
         "highr",
         "fs",
-        "rappdirs"
+
     ],
     "bsplus": [
         "htmltools",
@@ -165109,7 +165109,7 @@
         "highr",
         "fs",
 
-        "rappdirs"
+
     ],
 
     "GenKern": [],
@@ -165191,7 +165191,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "gghighlight": [
         "ggplot2",
@@ -165472,7 +165472,7 @@
 
         "utf8",
         "fs",
-        "rappdirs"
+
     ],
     "gradDescent": [],
     "msigdb": [
@@ -165493,7 +165493,7 @@
 
 
 
-        "rappdirs",
+
         "interactiveDisplayBase",
         "httr",
 
