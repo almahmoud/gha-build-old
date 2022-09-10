@@ -1,8 +1,8 @@
 name: Build x20 package
 on:
   workflow_dispatch: {}
-  schedule:
-    - cron: '*/5 * * * *'
+  # schedule:
+  #   - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -63,6 +63,10 @@ jobs:
 
 
   rclonepush:
+    strategy:
+      fail-fast: false
+      matrix:
+        worker: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
     needs: build
     container:
       image: rclone/rclone:latest
@@ -88,6 +92,10 @@ jobs:
           rclone copy /tmp/${{needs.build.outputs.tar}} js2:/gha-build/ -vvvvvv
 
   markpushed:
+    strategy:
+      fail-fast: false
+      matrix:
+        worker: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
     needs: ["build", "rclonepush"]
     name: Mark pushed
     runs-on: ubuntu-latest
