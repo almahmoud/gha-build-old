@@ -1,0 +1,21 @@
+* installing *source* package ‘NuPoP’ ...
+** using staged installation
+** libs
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c  vtbfb.f90 -o vtbfb.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c  vtbfbNL4.f90 -o vtbfbNL4.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o NuPoP.so vtbfb.o vtbfbNL4.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-NuPoP/00new/NuPoP/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NuPoP’ as ‘NuPoP_2.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NuPoP)
