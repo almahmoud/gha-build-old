@@ -569,9 +569,7 @@
         "dbplyr",
         "RcppEigen"
     ],
-    "AIMS": [
-        "e1071"
-    ],
+    "AIMS": [],
     "airpart": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1029,7 +1027,6 @@
         "umap",
         "GUniFrac",
         "rhdf5",
-        "e1071",
         "pROC",
         "recipes",
         "httr",
@@ -1776,7 +1773,6 @@
         "fgsea",
         "reshape2",
         "igraph",
-        "e1071",
         "rtracklayer",
         "scales",
         "ggplot2",
@@ -3162,7 +3158,6 @@
         "jquerylib",
         "promises",
         "EBarrays",
-        "e1071",
         "broom",
         "car",
         "knitr",
@@ -3632,7 +3627,6 @@
         "rms",
         "precrec",
         "ranger",
-        "e1071",
         "ggplot2",
         "vioplot",
         "imager",
@@ -3885,7 +3879,6 @@
     ],
     "biosigner": [
         "ropls",
-        "e1071",
         "MultiDataSet",
         "GenomicRanges",
         "IRanges",
@@ -4273,7 +4266,6 @@
         "ggplot2",
         "igraph",
         "BoolNet",
-        "e1071",
         "latticeExtra",
         "pcalg",
         "Linnorm",
@@ -4315,7 +4307,6 @@
     "BPRMeth": [
         "GenomicRanges",
         "doParallel",
-        "e1071",
         "earth",
         "IRanges",
         "ggplot2",
@@ -4468,7 +4459,6 @@
         "BiocFileCache",
         "XVector",
         "BSgenome",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -4616,7 +4606,6 @@
         "BiocStyle",
         "ggplot2",
         "biovizBase",
-        "e1071",
         "bookdown",
         "knitr",
         "rmarkdown",
@@ -5112,7 +5101,6 @@
         "survival",
         "phenoTest",
         "EBarrays",
-        "e1071",
         "annotate",
         "AnnotationDbi",
         "BMA",
@@ -5774,7 +5762,6 @@
     ],
     "cellity": [
         "AnnotationDbi",
-        "e1071",
         "ggplot2",
         "mvoutlier",
         "org.Hs.eg.db",
@@ -6451,7 +6438,6 @@
         "genomeIntervals",
         "Rsamtools",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -7460,7 +7446,6 @@
         "BSgenome",
         "GenomicRanges",
         "seqinr",
-        "e1071",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -8619,7 +8604,6 @@
         "spatstat.geom",
         "spatstat",
         "caret",
-        "e1071",
         "transport",
         "GenomicRanges",
         "DelayedArray",
@@ -8763,7 +8747,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "e1071",
         "futile.logger",
         "ScaledMatrix",
         "irlba",
@@ -9075,15 +9058,12 @@
         "dplyr",
         "tidyselect"
     ],
-    "CORREP": [
-        "e1071"
-    ],
+    "CORREP": [],
     "coseq": [
         "SummarizedExperiment",
         "edgeR",
         "DESeq2",
         "Rmixmod",
-        "e1071",
         "BiocParallel",
         "ggplot2",
         "scales",
@@ -9174,7 +9154,6 @@
         "knitr",
         "memoise",
         "mixtools",
-        "e1071",
         "XVector",
         "GenomeInfoDb",
         "sass",
@@ -9299,7 +9278,6 @@
     "CRImage": [
         "EBImage",
         "aCGH",
-        "e1071",
         "survival",
         "multtest",
         "htmlwidgets"
@@ -9888,7 +9866,6 @@
     ],
     "cycle": [
         "Mfuzz",
-        "e1071",
         "tkWidgets"
     ],
     "cydar": [
@@ -9978,7 +9955,6 @@
         "futile.logger",
         "sass",
         "memoise",
-        "e1071",
         "pROC",
         "recipes",
         "dendextend",
@@ -10063,7 +10039,6 @@
         "tidyr",
         "caret",
         "futile.logger",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -10271,7 +10246,6 @@
         "GenomeInfoDb",
         "car",
         "vcd",
-        "e1071",
         "ranger",
         "httr",
         "RSQLite",
@@ -10409,7 +10383,6 @@
         "Hmisc",
         "pheatmap",
         "FactoMineR",
-        "e1071",
         "caret",
         "plsVarSel",
         "kknn",
@@ -10553,7 +10526,6 @@
         "missMDA",
         "nloptr",
         "RcppEigen",
-        "e1071",
         "tkWidgets",
         "mzR",
         "MsCoreUtils",
@@ -10735,7 +10707,6 @@
         "tidyselect",
         "pillar",
         "BoolNet",
-        "e1071",
         "latticeExtra",
         "scales",
         "ggforce",
@@ -11119,7 +11090,6 @@
         "methylKit",
         "IRanges",
         "GenomicRanges",
-        "e1071",
         "rsq",
         "dplyr",
         "tidyr",
@@ -11798,7 +11768,6 @@
         "dplyr",
         "car",
         "vcd",
-        "e1071",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -12260,7 +12229,6 @@
         "ks",
         "viper",
         "mixtools",
-        "e1071",
         "segmented",
         "survival"
     ],
@@ -13161,7 +13129,6 @@
         "sandwich",
         "DelayedArray",
         "mixtools",
-        "e1071",
         "KEGGREST",
         "dbplyr",
         "openssl",
@@ -14161,9 +14128,7 @@
         "waldo",
         "rematch2"
     ],
-    "EpiDISH": [
-        "e1071"
-    ],
+    "EpiDISH": [],
     "epigenomix": [
         "IRanges",
         "GenomicRanges",
@@ -14312,7 +14277,6 @@
     ],
     "epiNEM": [
         "BoolNet",
-        "e1071",
         "igraph",
         "latticeExtra",
         "pcalg",
@@ -15473,7 +15437,6 @@
         "TSCAN",
         "SC3",
         "futile.logger",
-        "e1071",
         "doParallel",
         "doRNG",
         "shiny",
@@ -15591,7 +15554,6 @@
     ],
     "fgga": [
         "RBGL",
-        "e1071",
         "gRbase",
         "BiocFileCache",
         "dbplyr",
@@ -15860,7 +15822,6 @@
     "flowCut": [
         "flowCore",
         "flowDensity",
-        "e1071",
         "cytolib",
         "flowViz",
         "car",
@@ -16273,7 +16234,6 @@
         "viridis",
         "graphlayouts",
         "RSQLite",
-        "e1071",
         "ipred",
         "lexicon",
         "hms",
@@ -16662,7 +16622,6 @@
         "Hmisc",
         "pheatmap",
         "FactoMineR",
-        "e1071",
         "caret",
         "plsVarSel",
         "kknn",
@@ -17153,7 +17112,6 @@
         "biomaRt",
         "iC10",
         "AIMS",
-        "e1071",
         "AnnotationDbi",
         "progress",
         "httr",
@@ -17363,8 +17321,7 @@
         "htmlwidgets"
     ],
     "geNetClassifier": [
-        "EBarrays",
-        "e1071"
+        "EBarrays"
     ],
     "GeneticsPed": [
         "genetics"
@@ -17897,7 +17854,6 @@
         "rstan",
         "ranger",
         "doParallel",
-        "e1071",
         "Biostrings",
         "rPref",
         "IRanges",
@@ -19090,7 +19046,6 @@
         "gld",
         "readxl",
         "httr",
-        "e1071",
         "openssl",
         "cellranger",
         "tibble",
@@ -19100,7 +19055,6 @@
     ],
     "granulator": [
         "cowplot",
-        "e1071",
         "epiR",
         "dplyr",
         "ggplot2",
@@ -19639,7 +19593,6 @@
         "doParallel",
         "memoise",
         "reshape2",
-        "e1071",
         "pROC",
         "recipes",
         "scales",
@@ -20243,7 +20196,6 @@
         "ggplot2",
         "pROC",
         "igraph",
-        "e1071",
         "recipes",
         "reshape2",
         "tidyselect",
@@ -20879,7 +20831,6 @@
         "openssl",
         "reticulate",
         "XVector",
-        "e1071",
         "cellranger",
         "progress",
         "RcppTOML",
@@ -20889,7 +20840,6 @@
         "EBImage",
         "cellHTS2",
         "vsn",
-        "e1071",
         "genefilter",
         "GSEABase",
         "Category",
@@ -21016,7 +20966,6 @@
         "dbplyr",
         "RSQLite",
         "httr",
-        "e1071",
         "sparseMatrixStats",
         "edgeR",
         "dqrng",
@@ -21218,7 +21167,6 @@
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
         "seqinr",
-        "e1071",
         "tibble",
         "tidyselect",
         "pillar",
@@ -22421,7 +22369,6 @@
     "kebabs": [
         "Biostrings",
         "XVector",
-        "e1071",
         "apcluster",
         "IRanges",
         "GenomeInfoDb"
@@ -22521,7 +22468,6 @@
         "ggplot2",
         "rmarkdown",
         "reshape2",
-        "e1071",
         "caret",
         "httr",
         "sva",
@@ -22622,7 +22568,6 @@
         "tidyselect"
     ],
     "LedPred": [
-        "e1071",
         "akima",
         "ggplot2",
         "ROCR",
@@ -22852,7 +22797,6 @@
         "nloptr",
         "RcppEigen",
         "classInt",
-        "e1071",
         "testthat",
         "callr",
         "pkgload",
@@ -23158,7 +23102,6 @@
         "httr",
         "dbplyr",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -23207,7 +23150,6 @@
         "pbkrtest",
         "quantreg",
         "maptools",
-        "e1071",
         "reshape2",
         "tibble",
         "tidyselect",
@@ -23512,7 +23454,6 @@
     "MAI": [
         "caret",
         "doParallel",
-        "e1071",
         "future.apply",
         "future",
         "missForest",
@@ -23575,7 +23516,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "e1071",
         "plsgenomics",
         "agricolae",
         "xcms",
@@ -23660,7 +23600,6 @@
         "multtest",
         "clusterSim",
         "apcluster",
-        "e1071",
         "AnnotationDbi",
         "igraph",
         "reactome.db",
@@ -23680,7 +23619,6 @@
         "affy",
         "gcrma",
         "ROC",
-        "e1071",
         "caret",
         "hgu133plus2.db",
         "ROCR",
@@ -24009,7 +23947,6 @@
         "pillar",
         "tidyselect",
         "XVector",
-        "e1071",
         "openssl"
     ],
     "MBttest": [],
@@ -24288,7 +24225,6 @@
         "dbplyr"
     ],
     "MEB": [
-        "e1071",
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
@@ -24411,7 +24347,6 @@
         "bookdown",
         "knitr",
         "rmarkdown",
-        "e1071",
         "earth",
         "IRanges",
         "scales",
@@ -24626,7 +24561,6 @@
         "caret",
         "tidyr",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -25931,7 +25865,6 @@
         "hms"
     ],
     "Mfuzz": [
-        "e1071",
         "tkWidgets"
     ],
     "MGFM": [
@@ -26243,7 +26176,6 @@
         "rhdf5",
         "XVector",
         "GenomeInfoDb",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -26738,9 +26670,7 @@
         "restfulr",
         "futile.logger"
     ],
-    "MiPP": [
-        "e1071"
-    ],
+    "MiPP": [],
     "miQC": [
         "SingleCellExperiment",
         "flexmix",
@@ -27176,7 +27106,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -27335,7 +27264,6 @@
         "edgeR",
         "SummarizedExperiment",
         "sSeq",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -27469,7 +27397,6 @@
         "pbkrtest",
         "quantreg",
         "maptools",
-        "e1071",
         "reshape2",
         "TMB",
         "RcppEigen",
@@ -27491,7 +27418,6 @@
         "flexclust",
         "Linnorm",
         "RcppEigen",
-        "e1071",
         "ggplot2",
         "scales",
         "tibble",
@@ -28322,7 +28248,6 @@
         "edgeR",
         "car",
         "vcd",
-        "e1071",
         "ranger",
         "futile.logger",
         "pbkrtest",
@@ -28631,7 +28556,6 @@
         "reshape2",
         "MSstats",
         "futile.logger",
-        "e1071",
         "pROC",
         "recipes",
         "scales",
@@ -28930,7 +28854,6 @@
         "devtools",
         "httr",
         "ropls",
-        "e1071",
         "MultiDataSet",
         "ggplot2",
         "pROC",
@@ -29566,7 +29489,6 @@
         "forcats",
         "AnnotationDbi",
         "dplyr",
-        "e1071",
         "GenomicRanges",
         "ggthemes",
         "patchwork",
@@ -29931,7 +29853,6 @@
     "NeighborNet": [],
     "nempi": [
         "mnem",
-        "e1071",
         "epiNEM",
         "BoolNet",
         "igraph",
@@ -30268,7 +30189,6 @@
     ],
     "NeuCA": [
         "keras",
-        "e1071",
         "SingleCellExperiment",
         "reticulate",
         "tensorflow",
@@ -30417,7 +30337,6 @@
         "tibble",
         "sandwich",
         "Hmisc",
-        "e1071",
         "haven",
         "readxl",
         "GenomicRanges",
@@ -30715,7 +30634,6 @@
         "kebabs",
         "Biostrings",
         "XVector",
-        "e1071",
         "apcluster",
         "IRanges",
         "GenomeInfoDb"
@@ -31731,7 +31649,6 @@
         "XVector"
     ],
     "PAA": [
-        "e1071",
         "mRMRe",
         "ROCR",
         "sva",
@@ -32234,7 +32151,6 @@
         "pROC",
         "verification",
         "futile.logger",
-        "e1071",
         "recipes",
         "reshape2",
         "ALL",
@@ -32730,7 +32646,6 @@
         "dqrng",
         "car",
         "vcd",
-        "e1071",
         "ranger",
         "sass",
         "jquerylib",
@@ -32879,7 +32794,6 @@
     "phosphonormalizer": [],
     "PhosR": [
         "ruv",
-        "e1071",
         "dendextend",
         "pcaMethods",
         "dplyr",
@@ -33017,7 +32931,6 @@
         "osfr",
         "readr",
         "tibble",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -33584,7 +33497,6 @@
         "caret",
         "ComplexHeatmap",
         "dplyr",
-        "e1071",
         "ggcorrplot",
         "ggplot2",
         "ggraph",
@@ -33815,7 +33727,6 @@
     "preciseTAD": [
         "IRanges",
         "GenomicRanges",
-        "e1071",
         "pROC",
         "caret",
         "doSNOW",
@@ -34184,7 +34095,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "e1071",
         "apcluster"
     ],
     "proDA": [
@@ -34348,7 +34258,6 @@
         "MLInterfaces",
         "BiocParallel",
         "caret",
-        "e1071",
         "dendextend",
         "scales",
         "knitr",
@@ -34444,7 +34353,6 @@
         "mzID",
         "MLInterfaces",
         "caret",
-        "e1071",
         "dendextend",
         "knitr",
         "mixtools",
@@ -34613,7 +34521,6 @@
         "missMDA",
         "nloptr",
         "RcppEigen",
-        "e1071",
         "tkWidgets",
         "mzR",
         "MsCoreUtils",
@@ -36937,7 +36844,6 @@
         "XVector",
         "Rsamtools",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -37890,7 +37796,6 @@
         "dbplyr",
         "progress",
         "tidyr",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -37919,7 +37824,6 @@
         "future"
     ],
     "Rmagpie": [
-        "e1071",
         "pamr",
         "survival"
     ],
@@ -39047,7 +38951,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "e1071",
         "XVector",
         "nloptr",
         "RcppEigen",
@@ -39086,7 +38989,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "e1071",
         "XVector",
         "nloptr",
         "RcppEigen",
@@ -39130,7 +39032,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "pillar",
-        "e1071",
         "XVector",
         "nloptr",
         "RcppEigen",
@@ -39356,7 +39257,6 @@
         "MGFM",
         "MGFR",
         "annotate",
-        "e1071",
         "ggplot2",
         "AnnotationDbi",
         "httr",
@@ -39499,7 +39399,6 @@
     ],
     "SBMLR": [],
     "SC3": [
-        "e1071",
         "doParallel",
         "doRNG",
         "shiny",
@@ -39714,7 +39613,6 @@
         "caret",
         "ROCR",
         "pROC",
-        "e1071",
         "ape",
         "AnnotationHub",
         "BiocFileCache",
@@ -40038,7 +39936,6 @@
         "caret",
         "ROCR",
         "pROC",
-        "e1071",
         "ape",
         "recipes",
         "reshape2",
@@ -40342,7 +40239,6 @@
         "ggplot2",
         "dplyr",
         "DESeq2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -40439,8 +40335,7 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "dqrng",
-        "e1071"
+        "dqrng"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -40521,7 +40416,6 @@
         "dplyr",
         "reshape2",
         "ggplot2",
-        "e1071",
         "tibble",
         "tidyselect",
         "pillar",
@@ -40738,7 +40632,6 @@
         "httr",
         "BiocParallel",
         "futile.logger",
-        "e1071",
         "openssl",
         "cellranger",
         "tibble",
@@ -40915,7 +40808,6 @@
         "XVector"
     ],
     "scReClassify": [
-        "e1071",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "GenomicRanges",
@@ -41178,8 +41070,7 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "dqrng",
-        "e1071"
+        "dqrng"
     ],
     "scTGIF": [
         "GSEABase",
@@ -41259,8 +41150,7 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "dqrng",
-        "e1071"
+        "dqrng"
     ],
     "scTHI": [
         "BiocParallel",
@@ -41747,7 +41637,6 @@
     ],
     "SeqSQC": [
         "ExperimentHub",
-        "e1071",
         "GenomicRanges",
         "ggplot2",
         "GGally",
@@ -41822,7 +41711,6 @@
         "IRanges",
         "ggplot2",
         "SummarizedExperiment",
-        "e1071",
         "fgsea",
         "ggrepel",
         "reshape2",
@@ -42152,7 +42040,6 @@
     ],
     "SigCheck": [
         "MLInterfaces",
-        "e1071",
         "BiocParallel",
         "survival",
         "futile.logger",
@@ -42190,7 +42077,6 @@
     ],
     "sigFeature": [
         "biocViews",
-        "e1071",
         "pheatmap",
         "SummarizedExperiment",
         "BiocParallel",
@@ -43837,7 +43723,6 @@
         "spatstat.sparse",
         "testthat",
         "classInt",
-        "e1071",
         "callr",
         "pkgload",
         "waldo",
@@ -44449,7 +44334,6 @@
         "SpidermiR",
         "graphite",
         "AnnotationDbi",
-        "e1071",
         "ROCR",
         "MLmetrics",
         "igraph",
@@ -44668,7 +44552,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "e1071",
         "ggplot2",
         "networkD3",
         "ggrepel",
@@ -44759,7 +44642,6 @@
         "XVector",
         "GenomeInfoDb",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -45016,7 +44898,6 @@
         "GenomeInfoDb"
     ],
     "SwathXtend": [
-        "e1071",
         "VennDiagram",
         "futile.logger"
     ],
@@ -45599,7 +45480,6 @@
         "colourpicker",
         "sesame",
         "shinyBS",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -45772,7 +45652,6 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "Rsamtools",
-        "e1071",
         "ggplot2",
         "GenomeInfoDb",
         "Biostrings",
@@ -46181,7 +46060,6 @@
         "pillar",
         "shiny",
         "ggrepel",
-        "e1071",
         "tkWidgets",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -46371,7 +46249,6 @@
         "futile.logger"
     ],
     "TNBC.CMS": [
-        "e1071",
         "SummarizedExperiment",
         "GSVA",
         "pheatmap",
@@ -46453,7 +46330,6 @@
         "ggplot2",
         "tidyr",
         "GGally",
-        "e1071",
         "dplyr",
         "forcats",
         "progress",
@@ -46741,7 +46617,6 @@
     "transcriptR": [
         "caret",
         "chipseq",
-        "e1071",
         "GenomicAlignments",
         "GenomicRanges",
         "GenomicFeatures",
@@ -48420,7 +48295,6 @@
     ],
     "viper": [
         "mixtools",
-        "e1071",
         "segmented",
         "survival"
     ],
@@ -48651,7 +48525,6 @@
         "GreyListChIP",
         "XVector",
         "mixtools",
-        "e1071",
         "RSQLite",
         "emdbook",
         "RcppEigen",
@@ -49764,7 +49637,6 @@
         "RcppEigen"
     ],
     "hms": [],
-    "e1071": [],
     "smurf": [
         "glmnet",
         "speedglm",
@@ -49941,7 +49813,6 @@
     "ReorderCluster": [],
     "caret": [
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -52240,7 +52111,6 @@
         "genomeIntervals",
         "caret",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -52790,7 +52660,6 @@
         "spatstat",
         "caret",
         "dplyr",
-        "e1071",
         "transport",
         "ggplot2",
         "pROC",
@@ -53001,7 +52870,6 @@
         "tidyselect",
         "pillar",
         "mixtools",
-        "e1071",
         "segmented",
         "survival"
     ],
@@ -53154,7 +53022,6 @@
     "VIM": [
         "car",
         "vcd",
-        "e1071",
         "ranger",
         "pbkrtest",
         "quantreg",
@@ -53925,7 +53792,6 @@
     ],
     "RecordLinkage": [
         "RSQLite",
-        "e1071",
         "ipred",
         "survival",
         "prodlim",
@@ -54261,7 +54127,6 @@
         "gld",
         "readxl",
         "httr",
-        "e1071",
         "openssl",
         "cellranger",
         "tibble",
@@ -54270,9 +54135,7 @@
         "pillar"
     ],
     "Exact": [],
-    "gld": [
-        "e1071"
-    ],
+    "gld": [],
     "epiR": [
         "survival",
         "sf",
@@ -54281,7 +54144,6 @@
         "knitr",
         "gdtools",
         "classInt",
-        "e1071",
         "bslib",
         "jquerylib",
         "sass",
@@ -54289,12 +54151,9 @@
     ],
     "dtangle": [],
     "sf": [
-        "classInt",
-        "e1071"
+        "classInt"
     ],
-    "classInt": [
-        "e1071"
-    ],
+    "classInt": [],
     "s2": [],
     "penalized": [
         "survival"
@@ -54399,8 +54258,7 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "classInt",
-        "e1071"
+        "classInt"
     ],
     "Rlabkey": [
         "httr",
@@ -54604,7 +54462,6 @@
         "caret",
         "doParallel",
         "ggplot2",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
@@ -54623,7 +54480,6 @@
         "future"
     ],
     "chemometrics": [
-        "e1071",
         "pcaPP"
     ],
     "glmmTMB": [
@@ -54696,7 +54552,6 @@
         "styler",
         "classInt",
         "labelled",
-        "e1071",
         "haven",
         "dplyr",
         "tidyr",
@@ -54725,7 +54580,6 @@
         "styler",
         "classInt",
         "labelled",
-        "e1071",
         "haven",
         "dplyr",
         "tidyr",
@@ -54753,7 +54607,6 @@
         "styler",
         "classInt",
         "labelled",
-        "e1071",
         "haven",
         "dplyr",
         "tidyr",
@@ -54776,8 +54629,7 @@
         "progress"
     ],
     "clusterSim": [
-        "ade4",
-        "e1071"
+        "ade4"
     ],
     "venn": [],
     "PairedData": [
@@ -54785,7 +54637,6 @@
         "ggplot2",
         "scales",
         "tibble",
-        "e1071",
         "pillar"
     ],
     "SmartSVA": [
@@ -55400,7 +55251,6 @@
         "car",
         "sandwich",
         "Hmisc",
-        "e1071",
         "haven",
         "readxl",
         "pbkrtest",
@@ -56041,7 +55891,6 @@
     "caretEnsemble": [
         "ggplot2",
         "caret",
-        "e1071",
         "pROC",
         "recipes",
         "reshape2",
