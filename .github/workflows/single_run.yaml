@@ -1,8 +1,8 @@
 name: Build x1 package
 on:
   workflow_dispatch: {}
-  # schedule:
-  #   - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
