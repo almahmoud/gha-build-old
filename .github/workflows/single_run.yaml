@@ -72,6 +72,8 @@ jobs:
     name: Rclone push
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - name: Add rclone conf file
         run: |
           apk add --no-cache git

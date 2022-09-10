@@ -16,7 +16,7 @@ if [ ! -s tobuild.txt ]; then
 fi
 
 PKGTOBUILD=$(head -n 1 tobuild.txt)
-sed 's/readytobuild/claimed/g' "lists/$PKGTOBUILD" && grep -lr "readytobuild" lists/ | sed 's#lists/##g' > tobuild.txt
+sed -i 's/readytobuild/claimed/g' "lists/$PKGTOBUILD" && grep -lr "readytobuild" lists/ | sed 's#lists/##g' > tobuild.txt
 git add lists
 git add tobuild.txt
 git commit -m "Claim $PKGTOBUILD"
