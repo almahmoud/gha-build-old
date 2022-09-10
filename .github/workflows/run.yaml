@@ -1,8 +1,8 @@
 name: Build x20 package
 on:
   workflow_dispatch: {}
-#   schedule:
-#     - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: bioconductor/bioconductor_docker:RELEASE_3_15
+    outputs:
+      tar: ${{steps.tar.outputs.name}}
+      pkg: ${{steps.claim.outputs.pkg}}
     steps:
       - uses: actions/checkout@v3
 
@@ -23,29 +26,81 @@ jobs:
           echo "::set-output name=uniq::$(cat /proc/sys/kernel/random/uuid | md5sum | awk '{print $1}')"
 
       - name: Initialize if necessary then claim package
-        id: claim1
+        id: claim
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name github-actions
           git config user.email github-actions@github.com
           for i in {1..20}; do bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})"; else exit 1; fi
-        continue-on-error: true
-
 
       - name: Build claimed package
-        id: pkgbuild1
+        id: pkgbuild
         run: |
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           bash .github/scripts/build_package.sh $LIBRARY $PKG
-        if: steps.claim1.outcome=='success'
-        continue-on-error: true
+        if: steps.claim.outcome=='success'
 
       - name: Push built package
-        id: push1
+        id: push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           for i in {1..20}; do bash .github/scripts/push_built.sh $PKG && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed $PKG"; else exit 1; fi
-        continue-on-error: true
+        if: steps.pkgbuild.outcome=='success'
+
+      - name: Get tar name
+        id: tar
+        run: |
+          echo "::set-output name=name::$(ls /tmp/tars/ | sed 's#/tmp/tars/##g')"
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{steps.claim.outputs.pkg}}
+          path: /tmp/tars/${{steps.tar.outputs.name}}
+
+
+  rclonepush:
+    needs: build
+    container:
+      image: rclone/rclone:latest
+    name: Rclone push
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Add rclone conf file
+        run: |
+          apk add --no-cache git
+          echo "$RCLONE_CONF" > ~/.rclone.conf
+        env:
+          RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: ${{needs.build.outputs.pkg}}
+          path: /tmp/${{needs.build.outputs.tar}}
+
+      - name: Rclone push package and mark as pushed
+        run: |
+          set -x
+          rclone copy /tmp/${{needs.build.outputs.tar}} js2:/gha-build/ -vvvvvv
+
+  markpushed:
+    needs: ["build", "rclonepush"]
+    name: Mark pushed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Rclone push package and mark as pushed
+        run: |
+          set -x
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          for i in {1..20}; do bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed ${{needs.build.outputs.tar}}"; else exit 1; fi
+
+
+
+
