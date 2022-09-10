@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -xe
 git pull origin main || git reset --hard origin/main
 
 PKGTOMARK=$1
@@ -13,3 +13,4 @@ python -c 'import json; f = open("packages.json", "r"); pkgs = json.load(f); f.c
 git add lists
 git add packages.json
 git commit -m "Mark pushed $PKGTOMARK"
+git push

@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -xe
 git pull origin main || git reset --hard origin/main
 
 mkdir -p lists
@@ -21,3 +21,4 @@ git add lists
 git add tobuild.txt
 git commit -m "Claim $PKGTOBUILD"
 echo "$PKGTOBUILD" > "tmp$1"
+git push

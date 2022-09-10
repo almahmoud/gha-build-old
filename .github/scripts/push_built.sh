@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -xe
 git pull origin main || git reset --hard origin/main
 
 PKG=$1
@@ -12,3 +12,4 @@ cp /tmp/logs/*.out logs/
 git add logs
 #git add built
 git commit -m "Built $PKG"
+git push
