@@ -17,7 +17,6 @@
         "survival",
         "Matrix",
         "RcppEigen",
-        "caTools",
         "httr",
         "IRanges",
         "RSQLite",
@@ -43,7 +42,6 @@
         "survival",
         "Matrix",
         "RcppEigen",
-        "caTools",
         "httr",
         "IRanges",
         "RSQLite",
@@ -64,8 +62,7 @@
         "Matrix",
         "survival",
         "RcppEigen",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "a4Core": [
         "glmnet",
@@ -83,7 +80,6 @@
         "GenomicRanges",
         "IRanges",
         "AnnotationDbi",
-        "caTools",
         "RSQLite",
         "KEGGREST",
         "GenomeInfoDb",
@@ -457,7 +453,6 @@
         "annotate",
         "AnnotationForge",
         "Rgraphviz",
-        "caTools",
         "GenomicRanges",
         "ff",
         "knitr",
@@ -608,7 +603,6 @@
         "annotate",
         "AnnotationForge",
         "Rgraphviz",
-        "caTools",
         "GenomicRanges",
         "ff",
         "knitr",
@@ -1096,7 +1090,6 @@
         "survival",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "Matrix",
         "lifecycle",
         "MatrixGenerics",
@@ -1171,7 +1164,6 @@
         "gplots",
         "stringr",
         "futile.logger",
-        "caTools",
         "Matrix",
         "lifecycle",
         "MatrixGenerics",
@@ -1992,7 +1984,6 @@
         "tidyselect",
         "pillar",
         "mgcv",
-        "caTools",
         "MSstatsConvert",
         "checkmate",
         "lme4",
@@ -2112,7 +2103,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "tidyr",
-        "caTools",
         "openssl",
         "interp",
         "nloptr",
@@ -2231,7 +2221,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "survival",
         "expm",
         "genefilter",
@@ -2802,7 +2791,6 @@
     "Basic4Cseq": [
         "Biostrings",
         "GenomicAlignments",
-        "caTools",
         "GenomicRanges",
         "BSgenome.Ecoli.NCBI.20080805",
         "IRanges",
@@ -2933,7 +2921,6 @@
         "reshape2",
         "Matrix",
         "dplyr",
-        "caTools",
         "plotly",
         "viridis",
         "ggplot2",
@@ -3300,7 +3287,6 @@
         "survival",
         "AnnotationDbi",
         "annotate",
-        "caTools",
         "openssl",
         "GenomicFeatures",
         "RSQLite",
@@ -4649,8 +4635,7 @@
         "ROCR",
         "MatrixModels",
         "survival",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "biovizBase": [
         "scales",
@@ -5592,7 +5577,6 @@
     "BUScorrect": [
         "gplots",
         "SummarizedExperiment",
-        "caTools",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -5651,7 +5635,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "gplots",
-        "caTools",
         "GenomicRanges",
         "DelayedArray",
         "MatrixGenerics",
@@ -6022,7 +6005,6 @@
         "RBGL",
         "scales",
         "tibble",
-        "caTools",
         "org.Hs.eg.db",
         "latticeExtra",
         "htmlTable",
@@ -6337,7 +6319,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "caTools",
         "IRanges",
         "KEGGREST",
         "blob",
@@ -6772,8 +6753,7 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "sitmo",
-        "caTools"
+        "sitmo"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -6919,8 +6899,7 @@
         "ellipsis"
     ],
     "CellScore": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -6951,7 +6930,6 @@
         "topicmodels",
         "igraph",
         "gplots",
-        "caTools",
         "Matrix",
         "GO.db",
         "AnnotationDbi",
@@ -7554,7 +7532,6 @@
     "ChIC": [
         "spp",
         "ChIC.data",
-        "caTools",
         "GenomicRanges",
         "IRanges",
         "progress",
@@ -7697,7 +7674,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "caTools",
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
@@ -7951,7 +7927,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-        "caTools",
         "BSgenome",
         "blob",
         "memoise",
@@ -8003,7 +7978,6 @@
         "biomaRt",
         "mgcv",
         "scales",
-        "caTools",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -8349,7 +8323,6 @@
         "pillar",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "pkgmaker",
         "stringr",
         "doParallel",
@@ -8407,7 +8380,6 @@
         "lifecycle",
         "MatrixGenerics",
         "DelayedArray",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -8575,7 +8547,6 @@
         "tidyselect",
         "pillar",
         "XVector",
-        "caTools",
         "ellipsis"
     ],
     "circRNAprofiler": [
@@ -8908,7 +8879,6 @@
         "tidyr",
         "mgcv",
         "tibble",
-        "caTools",
         "MsCoreUtils",
         "BiocParallel",
         "IRanges",
@@ -9438,7 +9408,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "Matrix",
         "Biostrings",
         "BiocParallel",
@@ -9622,7 +9591,6 @@
         "SummarizedExperiment",
         "rhdf5",
         "futile.logger",
-        "caTools",
         "GenomicRanges",
         "DelayedArray",
         "MatrixGenerics",
@@ -9661,7 +9629,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "caTools",
         "shiny",
         "callr",
         "bslib",
@@ -9736,8 +9703,7 @@
         "DelayedArray"
     ],
     "COHCAP": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "cola": [
         "ComplexHeatmap",
@@ -9903,7 +9869,6 @@
         "knitr",
         "ROCR",
         "gplots",
-        "caTools",
         "ggplot2",
         "stringr",
         "modeest",
@@ -10184,8 +10149,7 @@
         "RcppEigen"
     ],
     "consensus": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "ConsensusClusterPlus": [
         "ALL"
@@ -10354,7 +10318,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "stringr",
         "BiocIO",
         "restfulr",
@@ -10596,7 +10559,6 @@
         "promises",
         "ggplot2",
         "XVector",
-        "caTools",
         "lifecycle",
         "httpuv",
         "fontawesome",
@@ -10774,7 +10736,6 @@
         "SummarizedExperiment",
         "genefilter",
         "DT",
-        "caTools",
         "IRanges",
         "GenomicRanges",
         "BiocParallel",
@@ -11299,7 +11260,6 @@
         "pillar",
         "XVector",
         "scales",
-        "caTools",
         "sparsesvd",
         "httpuv",
         "fontawesome",
@@ -11576,7 +11536,6 @@
         "ncdfFlow",
         "DelayedArray",
         "ellipsis",
-        "caTools",
         "Matrix",
         "hms",
         "stringr",
@@ -12360,7 +12319,6 @@
         "emmeans",
         "ellipsis",
         "mgcv",
-        "caTools",
         "htmlwidgets",
         "broom",
         "xts",
@@ -12687,7 +12645,6 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "caTools",
         "Matrix",
         "GEOmap",
         "splancs",
@@ -12829,7 +12786,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "viridis",
         "dendextend",
         "seriation",
@@ -12902,7 +12858,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "stringr",
         "MatrixGenerics",
         "GenomicRanges",
@@ -13578,7 +13533,6 @@
         "mgcv",
         "scales",
         "gdata",
-        "caTools",
         "igraph",
         "tidyr",
         "rARPACK",
@@ -13911,7 +13865,6 @@
         "survival",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "reshape2",
         "lifecycle",
         "MatrixGenerics",
@@ -13994,7 +13947,6 @@
         "pillar",
         "AnnotationDbi",
         "annotate",
-        "caTools",
         "openssl",
         "hms",
         "vroom",
@@ -14107,7 +14059,6 @@
         "XVector",
         "mgcv",
         "scales",
-        "caTools",
         "BSgenome",
         "rtracklayer",
         "MatrixGenerics",
@@ -14493,7 +14444,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "caTools",
         "stringr"
     ],
     "Director": [],
@@ -15461,7 +15411,6 @@
         "annotate",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "TH.data",
         "sandwich",
         "MatrixGenerics",
@@ -15597,7 +15546,6 @@
         "gplots",
         "testthat",
         "Matrix",
-        "caTools",
         "callr",
         "desc",
         "ellipsis",
@@ -15615,7 +15563,6 @@
         "gplots",
         "testthat",
         "Matrix",
-        "caTools",
         "callr",
         "desc",
         "ellipsis",
@@ -15750,7 +15697,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "Matrix",
         "statnet.common",
         "network",
@@ -15799,7 +15745,6 @@
         "dplyr",
         "tidyr",
         "R.utils",
-        "caTools",
         "Matrix",
         "lifecycle",
         "tibble",
@@ -15842,7 +15787,6 @@
         "tibble",
         "survival",
         "annotate",
-        "caTools",
         "SummarizedExperiment",
         "GSEABase",
         "Matrix",
@@ -16091,7 +16035,6 @@
         "memoise",
         "MatrixGenerics",
         "DelayedArray",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "readr",
@@ -16213,7 +16156,6 @@
         "dplyr",
         "annotate",
         "survival",
-        "caTools",
         "base64",
         "GenomicRanges",
         "Biostrings",
@@ -16414,7 +16356,6 @@
         "BiocIO",
         "restfulr",
         "BiocParallel",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -17113,7 +17054,6 @@
         "stringr",
         "mgcv",
         "tibble",
-        "caTools",
         "lifecycle",
         "Matrix",
         "pillar"
@@ -17258,7 +17198,6 @@
         "GenomicAlignments",
         "restfulr",
         "latticeExtra",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "futile.logger",
@@ -17356,7 +17295,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "caTools",
         "httr",
         "Biostrings",
         "blob",
@@ -18193,7 +18131,6 @@
         "XVector",
         "scales",
         "tibble",
-        "caTools",
         "pcaPP",
         "httpuv",
         "fontawesome",
@@ -18443,7 +18380,6 @@
         "RBGL",
         "Hmisc",
         "igraph",
-        "caTools",
         "BiocParallel",
         "MSnbase",
         "mzR",
@@ -18656,7 +18592,6 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "caTools",
         "GEOmap",
         "splancs",
         "httr",
@@ -18691,7 +18626,6 @@
     "flowCyBar": [
         "gplots",
         "vegan",
-        "caTools",
         "mgcv",
         "Matrix"
     ],
@@ -18720,7 +18654,6 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "caTools",
         "GEOmap",
         "splancs",
         "httr",
@@ -18823,7 +18756,6 @@
     "flowPloidy": [
         "flowCore",
         "car",
-        "caTools",
         "knitr",
         "rmarkdown",
         "shiny",
@@ -19643,7 +19575,6 @@
         "MSQC",
         "stringr",
         "lifecycle",
-        "caTools",
         "callr",
         "desc",
         "ellipsis",
@@ -19861,7 +19792,6 @@
         "tibble",
         "mgcv",
         "scales",
-        "caTools",
         "KEGGgraph",
         "Rgraphviz",
         "KEGGREST",
@@ -20012,7 +19942,6 @@
     ],
     "GeneAccord": [
         "biomaRt",
-        "caTools",
         "dplyr",
         "ggplot2",
         "ggpubr",
@@ -20274,8 +20203,7 @@
         "Rgraphviz"
     ],
     "GeneOverlap": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "geneplast": [
         "igraph",
@@ -22105,7 +22033,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "IRanges",
         "RSQLite",
         "KEGGREST",
@@ -22659,7 +22586,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "stringr",
         "httpuv",
         "fontawesome",
@@ -22817,7 +22743,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-        "caTools",
         "hms",
         "lifecycle",
         "gsubfn",
@@ -22893,7 +22818,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "caTools",
         "Matrix",
         "openssl",
         "Biostrings",
@@ -23766,8 +23690,7 @@
         "ellipsis"
     ],
     "HIREewas": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "HiTC": [
         "IRanges",
@@ -23856,8 +23779,7 @@
     ],
     "HTqPCR": [
         "affy",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -24180,7 +24102,6 @@
         "GeneSelectMMD",
         "rgl",
         "lmtest",
-        "caTools",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -24311,7 +24232,6 @@
         "ellipsis",
         "sass",
         "memoise",
-        "caTools",
         "Matrix"
     ],
     "ideal": [
@@ -24367,7 +24287,6 @@
         "annotate",
         "AnnotationForge",
         "Rgraphviz",
-        "caTools",
         "viridis",
         "dendextend",
         "reshape2",
@@ -24788,7 +24707,6 @@
         "segmented",
         "sqldf",
         "gplots",
-        "caTools",
         "gsubfn",
         "RSQLite",
         "blob",
@@ -24817,7 +24735,6 @@
         "DelayedArray",
         "mgcv",
         "tibble",
-        "caTools",
         "viridis",
         "dendextend",
         "reshape2",
@@ -24933,7 +24850,6 @@
         "ggplot2",
         "edgeR",
         "coin",
-        "caTools",
         "leiden",
         "reshape",
         "rjags",
@@ -25823,7 +25739,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "caTools",
         "nloptr",
         "MatrixModels",
         "testthat",
@@ -26140,7 +26055,6 @@
         "forcats",
         "progress",
         "mgcv",
-        "caTools",
         "hms",
         "vroom",
         "MatrixGenerics",
@@ -26490,7 +26404,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "futile.logger",
         "GenomeInfoDb",
         "R.utils",
@@ -26659,7 +26572,6 @@
         "pkgload",
         "processx",
         "waldo",
-        "caTools",
         "Matrix",
         "pillar",
         "rematch2"
@@ -26687,8 +26599,7 @@
         "pillar"
     ],
     "les": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "levi": [
         "DT",
@@ -26747,7 +26658,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "stringr",
         "GenomicRanges",
         "DelayedArray",
@@ -27236,7 +27146,6 @@
         "irlba",
         "reldist",
         "Hmisc",
-        "caTools",
         "survival",
         "ggplot2",
         "latticeExtra",
@@ -27366,7 +27275,6 @@
         "gplots",
         "Wrench",
         "survival",
-        "caTools",
         "testthat",
         "broom",
         "knitr",
@@ -27510,7 +27418,6 @@
         "gplots",
         "SummarizedExperiment",
         "ade4",
-        "caTools",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -27607,7 +27514,6 @@
         "GenomeInfoDb",
         "XVector",
         "mgcv",
-        "caTools",
         "base64",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -27798,7 +27704,6 @@
         "pROC",
         "recipes",
         "reshape2",
-        "caTools",
         "fields",
         "BiocParallel",
         "MSnbase",
@@ -27922,7 +27827,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "httr",
         "stringr",
         "dplyr",
@@ -28047,8 +27951,7 @@
         "GenomeInfoDb"
     ],
     "massiR": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "MassSpecWavelet": [],
     "MAST": [
@@ -28147,7 +28050,6 @@
         "GenomeInfoDb",
         "BiocParallel",
         "BSgenome",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "GenomicRanges",
@@ -28309,8 +28211,7 @@
         "ellipsis"
     ],
     "MBttest": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "MCbiclust": [
         "BiocParallel",
@@ -28781,7 +28682,6 @@
         "quantreg",
         "gplots",
         "jquerylib",
-        "caTools",
         "stringr",
         "Matrix",
         "MatrixModels",
@@ -29276,7 +29176,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "restfulr",
         "KEGGREST",
         "progress",
@@ -29331,8 +29230,7 @@
         "gplots",
         "Wrench",
         "survival",
-        "RcppEigen",
-        "caTools"
+        "RcppEigen"
     ],
     "metaMS": [
         "CAMERA",
@@ -29392,7 +29290,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "caTools",
         "GenomicRanges",
         "DelayedArray",
         "MatrixGenerics",
@@ -29470,7 +29367,6 @@
         "annotate",
         "survival",
         "BiocIO",
-        "caTools",
         "plotly",
         "viridis",
         "dendextend",
@@ -29566,7 +29462,6 @@
         "tibble",
         "survival",
         "RcppEigen",
-        "caTools",
         "promises",
         "later",
         "RBGL",
@@ -29821,7 +29716,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "caTools",
         "ade4",
         "segmented"
     ],
@@ -30595,8 +30489,7 @@
         "GenomeInfoDb"
     ],
     "mgsa": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "mia": [
         "SummarizedExperiment",
@@ -30783,7 +30676,6 @@
         "survival",
         "RcppEigen",
         "sandwich",
-        "caTools",
         "stringr",
         "lifecycle",
         "pillar"
@@ -30859,7 +30751,6 @@
         "GenomeInfoDb",
         "XVector",
         "RcppEigen",
-        "caTools",
         "openssl",
         "nloptr",
         "MatrixModels",
@@ -30946,7 +30837,6 @@
         "AnnotationDbi",
         "annotate",
         "RcppEigen",
-        "caTools",
         "TH.data",
         "sandwich",
         "testthat",
@@ -31610,7 +31500,6 @@
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
-        "caTools",
         "ggplot2",
         "latticeExtra",
         "htmlTable",
@@ -31877,7 +31766,6 @@
     ],
     "mirTarRnaSeq": [
         "pscl",
-        "caTools",
         "dplyr",
         "pheatmap",
         "reshape2",
@@ -32037,7 +31925,6 @@
         "tidyr",
         "mgcv",
         "tibble",
-        "caTools",
         "stringr",
         "bslib",
         "jquerylib",
@@ -32168,7 +32055,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-        "caTools",
         "httr",
         "Biostrings",
         "blob",
@@ -32200,7 +32086,6 @@
         "scales",
         "tibble",
         "survival",
-        "caTools",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -32359,7 +32244,6 @@
         "gplots",
         "Wrench",
         "survival",
-        "caTools",
         "testthat",
         "broom",
         "knitr",
@@ -32527,7 +32411,6 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "caTools",
         "checkmate",
         "httr",
         "IRanges",
@@ -32596,7 +32479,6 @@
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -32679,7 +32561,6 @@
         "httr",
         "readr",
         "R.utils",
-        "caTools",
         "rgl",
         "MatrixGenerics",
         "GenomicRanges",
@@ -32881,7 +32762,6 @@
         "BiocParallel",
         "MatrixGenerics",
         "DelayedArray",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -33215,7 +33095,6 @@
     "msmsEDA": [
         "MSnbase",
         "gplots",
-        "caTools",
         "mzR",
         "MsCoreUtils",
         "BiocParallel",
@@ -33254,7 +33133,6 @@
         "futile.logger",
         "mgcv",
         "tibble",
-        "caTools",
         "doParallel",
         "stringr",
         "lifecycle",
@@ -33337,7 +33215,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-        "caTools",
         "httpuv",
         "fontawesome",
         "later"
@@ -33499,7 +33376,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "Matrix",
         "nloptr",
         "RcppEigen",
@@ -33575,7 +33451,6 @@
         "cellranger",
         "ids",
         "rematch2",
-        "caTools",
         "openssl",
         "Matrix",
         "nloptr",
@@ -33637,7 +33512,6 @@
         "survival",
         "gplots",
         "lmerTest",
-        "caTools",
         "Matrix",
         "nloptr",
         "RcppEigen",
@@ -33761,7 +33635,6 @@
         "ggrepel",
         "gplots",
         "stringr",
-        "caTools",
         "Matrix",
         "nloptr",
         "RcppEigen",
@@ -33801,7 +33674,6 @@
         "survival",
         "ggrepel",
         "gplots",
-        "caTools",
         "testthat",
         "lifecycle",
         "pillar",
@@ -34363,7 +34235,6 @@
         "annotate",
         "survival",
         "XVector",
-        "caTools",
         "ellipsis",
         "testthat",
         "broom",
@@ -35170,7 +35041,6 @@
         "XVector",
         "mgcv",
         "scales",
-        "caTools",
         "GenomicAlignments",
         "Biostrings",
         "BiocParallel",
@@ -35265,7 +35135,6 @@
         "memoise",
         "tidyselect",
         "sitmo",
-        "caTools",
         "stringr"
     ],
     "NeighborNet": [],
@@ -35361,7 +35230,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "caTools",
         "Matrix",
         "IRanges",
         "RSQLite",
@@ -35439,7 +35307,6 @@
         "lifecycle",
         "pillar",
         "tidyselect",
-        "caTools",
         "memoise",
         "MatrixGenerics",
         "DelayedArray",
@@ -35764,7 +35631,6 @@
         "lme4",
         "affy",
         "gplots",
-        "caTools",
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -36268,7 +36134,6 @@
         "made4",
         "gplots",
         "SummarizedExperiment",
-        "caTools",
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -36372,7 +36237,6 @@
         "annotate",
         "survival",
         "XVector",
-        "caTools",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -36678,7 +36542,6 @@
         "gplots",
         "flowCore",
         "cytolib",
-        "caTools",
         "ggplot2",
         "scales",
         "httr",
@@ -37324,7 +37187,6 @@
         "processx",
         "waldo",
         "Matrix",
-        "caTools",
         "rematch2",
         "tibble",
         "pillar"
@@ -37434,7 +37296,6 @@
         "mRMRe",
         "ROCR",
         "sva",
-        "caTools",
         "survival",
         "igraph",
         "mgcv",
@@ -37551,7 +37412,6 @@
         "BiocParallel",
         "MatrixGenerics",
         "DelayedArray",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -37804,7 +37664,6 @@
         "processx",
         "AnnotationDbi",
         "annotate",
-        "caTools",
         "openssl",
         "downlit",
         "ragg",
@@ -38079,7 +37938,6 @@
         "ggsignif",
         "rstatix",
         "gridtext",
-        "caTools",
         "pamr",
         "lava",
         "hardhat",
@@ -38480,7 +38338,6 @@
         "BiocParallel",
         "ggplot2",
         "magicaxis",
-        "caTools",
         "reshape2",
         "checkmate",
         "futile.logger",
@@ -38620,7 +38477,6 @@
         "maptools",
         "lme4",
         "sitmo",
-        "caTools",
         "xts",
         "nloptr",
         "broom",
@@ -38692,7 +38548,6 @@
         "RBGL",
         "scales",
         "tibble",
-        "caTools",
         "org.Hs.eg.db",
         "latticeExtra",
         "htmlTable",
@@ -38978,7 +38833,6 @@
         "stringr",
         "ellipsis",
         "urltools",
-        "caTools",
         "openssl",
         "statnet.common",
         "hardhat",
@@ -39008,7 +38862,6 @@
         "BiocParallel",
         "ggplot2",
         "Matrix",
-        "caTools",
         "lifecycle",
         "httpuv",
         "fontawesome",
@@ -39275,8 +39128,7 @@
         "spatstat.sparse",
         "sass",
         "jquerylib",
-        "memoise",
-        "caTools"
+        "memoise"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -39788,7 +39640,6 @@
         "dbplyr",
         "dplyr",
         "futile.logger",
-        "caTools",
         "hms",
         "lifecycle",
         "gsubfn",
@@ -40075,7 +39926,6 @@
         "bslib",
         "ellipsis",
         "BiocParallel",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "RSQLite",
@@ -40192,7 +40042,6 @@
         "rtracklayer",
         "biomaRt",
         "mgcv",
-        "caTools",
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
@@ -40431,7 +40280,6 @@
         "shadowtext",
         "GOSemSim",
         "ggtree",
-        "caTools",
         "blob",
         "memoise",
         "ggfun",
@@ -40497,7 +40345,6 @@
         "stringr",
         "doParallel",
         "futile.logger",
-        "caTools",
         "Matrix",
         "GenomicRanges",
         "DelayedArray",
@@ -40805,7 +40652,6 @@
         "car",
         "emmeans",
         "mgcv",
-        "caTools",
         "missForest",
         "missMDA",
         "nloptr",
@@ -41476,7 +41322,6 @@
         "stringr",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "Matrix",
         "sqldf",
         "dbplyr",
@@ -42171,7 +42016,6 @@
         "CoreGx",
         "SummarizedExperiment",
         "BiocParallel",
-        "caTools",
         "magicaxis",
         "reshape2",
         "scales",
@@ -42521,7 +42365,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "httpuv",
         "fontawesome",
         "later",
@@ -42876,7 +42719,6 @@
         "pillar",
         "mgcv",
         "scales",
-        "caTools",
         "openssl",
         "hms",
         "ellipsis",
@@ -43612,7 +43454,6 @@
         "XVector",
         "SummarizedExperiment",
         "BiocParallel",
-        "caTools",
         "Matrix",
         "genefilter",
         "vsn",
@@ -43832,7 +43673,6 @@
         "Matrix",
         "survival",
         "RcppEigen",
-        "caTools",
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -44033,7 +43873,6 @@
         "ggplot2",
         "geneLenDataBase",
         "mgcv",
-        "caTools",
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -44536,7 +44375,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "Matrix",
         "stringr",
         "expm",
@@ -44896,7 +44734,6 @@
         "scales",
         "mgcv",
         "tibble",
-        "caTools",
         "testthat",
         "lifecycle",
         "Matrix",
@@ -44971,7 +44808,6 @@
         "Category",
         "annotate",
         "AnnotationDbi",
-        "caTools",
         "survey",
         "interp",
         "httr",
@@ -45035,7 +44871,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "caTools",
         "interp",
         "Matrix",
         "blob",
@@ -45101,7 +44936,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-        "caTools",
         "survival",
         "htmlTable",
         "viridis",
@@ -45164,7 +44998,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "caTools",
         "interp",
         "blob",
         "memoise",
@@ -45228,7 +45061,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-        "caTools",
         "survival",
         "htmlTable",
         "viridis",
@@ -45434,7 +45266,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "base64",
         "reshape2",
         "FDb.InfiniumMethylation.hg19",
@@ -46580,7 +46411,6 @@
         "jquerylib",
         "memoise",
         "XVector",
-        "caTools",
         "pillar"
     ],
     "Scale4C": [
@@ -46669,7 +46499,6 @@
         "jquerylib",
         "memoise",
         "sitmo",
-        "caTools",
         "stringr"
     ],
     "SCAN.UPC": [
@@ -46854,7 +46683,6 @@
         "dbplyr",
         "survival",
         "XVector",
-        "caTools",
         "openssl",
         "DT",
         "htmlwidgets",
@@ -47085,7 +46913,6 @@
         "memoise",
         "tidyselect",
         "sitmo",
-        "caTools",
         "stringr",
         "Biostrings",
         "blob"
@@ -47168,7 +46995,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "caTools",
         "stringr"
     ],
     "scClassifR": [
@@ -47222,7 +47048,6 @@
         "GenomeInfoDb",
         "survival",
         "XVector",
-        "caTools",
         "openssl",
         "htmlwidgets",
         "tidyr",
@@ -47374,8 +47199,7 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-        "sitmo",
-        "caTools"
+        "sitmo"
     ],
     "scDblFinder": [
         "igraph",
@@ -47456,7 +47280,6 @@
         "sparseMatrixStats",
         "sitmo",
         "XVector",
-        "caTools",
         "nloptr",
         "RcppEigen",
         "lifecycle",
@@ -47659,7 +47482,6 @@
         "dqrng",
         "e1071",
         "sitmo",
-        "caTools",
         "stringr"
     ],
     "scHOT": [
@@ -47746,7 +47568,6 @@
         "memoise",
         "tidyselect",
         "sitmo",
-        "caTools",
         "stringr"
     ],
     "scmap": [
@@ -47802,7 +47623,6 @@
         "XVector",
         "mgcv",
         "tibble",
-        "caTools",
         "survival",
         "latticeExtra",
         "htmlTable",
@@ -47937,7 +47757,6 @@
         "bayesm",
         "flexmix",
         "prabclus",
-        "caTools",
         "segmented",
         "survival",
         "RSpectra",
@@ -48014,7 +47833,6 @@
         "gld",
         "readxl",
         "httr",
-        "caTools",
         "BiocParallel",
         "futile.logger",
         "Matrix",
@@ -48530,8 +48348,7 @@
         "spatstat.sparse",
         "dqrng",
         "e1071",
-        "sitmo",
-        "caTools"
+        "sitmo"
     ],
     "scTGIF": [
         "GSEABase",
@@ -48624,8 +48441,7 @@
         "spatstat.sparse",
         "dqrng",
         "e1071",
-        "sitmo",
-        "caTools"
+        "sitmo"
     ],
     "scTHI": [
         "BiocParallel",
@@ -48742,7 +48558,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "caTools",
         "blob",
         "GenomicAlignments",
         "restfulr",
@@ -48846,7 +48661,6 @@
         "biomaRt",
         "mgcv",
         "scales",
-        "caTools",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -49467,7 +49281,6 @@
         "XVector",
         "mgcv",
         "scales",
-        "caTools",
         "viridis",
         "dendextend",
         "seriation",
@@ -50081,7 +49894,6 @@
         "stringr",
         "multtest",
         "scran",
-        "caTools",
         "Matrix",
         "survival",
         "scales",
@@ -50269,7 +50081,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "caTools",
         "org.Hs.eg.db",
         "openssl",
         "bbmle",
@@ -51102,7 +50913,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-        "caTools",
         "stringr"
     ],
     "sparrow": [
@@ -51425,7 +51235,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "DelayedArray",
         "rhdf5",
         "tidyr",
@@ -51506,7 +51315,6 @@
         "MatrixGenerics",
         "DelayedArray",
         "BiocParallel",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "KEGGREST",
@@ -51670,7 +51478,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "openssl",
         "Matrix",
         "interp",
@@ -52027,7 +51834,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "stringr",
         "MatrixGenerics",
         "GenomicRanges",
@@ -52173,9 +51979,7 @@
         "ade4",
         "segmented"
     ],
-    "sSeq": [
-        "caTools"
-    ],
+    "sSeq": [],
     "ssize": [
         "gdata"
     ],
@@ -52211,7 +52015,6 @@
         "mgcv",
         "survival",
         "RcppEigen",
-        "caTools",
         "rARPACK",
         "dplyr",
         "ellipsis",
@@ -52386,7 +52189,6 @@
         "TCGAbiolinks",
         "gdata",
         "MAGeCKFlute",
-        "caTools",
         "openssl",
         "Biostrings",
         "interp",
@@ -52454,7 +52256,6 @@
         "mgcv",
         "scales",
         "tibble",
-        "caTools",
         "Matrix",
         "lifecycle",
         "pillar"
@@ -52522,7 +52323,6 @@
         "sqldf",
         "igraph",
         "gplots",
-        "caTools",
         "Matrix",
         "gsubfn",
         "RSQLite",
@@ -53056,8 +52856,7 @@
     ],
     "switchBox": [
         "pROC",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "switchde": [
         "SingleCellExperiment",
@@ -53629,7 +53428,6 @@
         "annotate",
         "survival",
         "XVector",
-        "caTools",
         "rhdf5",
         "expm",
         "httr",
@@ -54035,7 +53833,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "caTools",
         "ggplot2",
         "mgcv",
         "scales",
@@ -54047,7 +53844,6 @@
         "Biostrings",
         "BiocParallel",
         "BSgenome",
-        "caTools",
         "CNEr",
         "DirichletMultinomial",
         "GenomeInfoDb",
@@ -54267,7 +54063,6 @@
         "httr",
         "IRanges",
         "KEGGREST",
-        "caTools",
         "blob",
         "memoise",
         "openssl",
@@ -54428,7 +54223,6 @@
         "shiny",
         "ggrepel",
         "mgcv",
-        "caTools",
         "Matrix",
         "e1071",
         "tkWidgets",
@@ -54847,7 +54641,6 @@
         "ggplot2",
         "tibble",
         "dplyr",
-        "caTools",
         "reshape2",
         "tidyr",
         "scales",
@@ -55204,7 +54997,6 @@
         "ggplot2",
         "AnnotationDbi",
         "GO.db",
-        "caTools",
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -55253,8 +55045,7 @@
         "IRanges",
         "gplots",
         "GenomeInfoDb",
-        "XVector",
-        "caTools"
+        "XVector"
     ],
     "TraRe": [
         "ggplot2",
@@ -55274,7 +55065,6 @@
         "Matrix",
         "survival",
         "RcppEigen",
-        "caTools",
         "MatrixGenerics",
         "GenomicRanges",
         "IRanges",
@@ -55553,7 +55343,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "caTools",
         "httpuv",
         "fontawesome",
         "later",
@@ -55835,7 +55624,6 @@
         "IRanges",
         "scales",
         "tibble",
-        "caTools",
         "httpuv",
         "fontawesome",
         "later",
@@ -56398,8 +56186,7 @@
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "UniProt.ws": [
         "RSQLite",
@@ -56486,7 +56273,6 @@
         "monocle",
         "flexmix",
         "prabclus",
-        "caTools",
         "ggplot2",
         "DDRTree",
         "irlba",
@@ -56672,7 +56458,6 @@
         "futile.logger",
         "mgcv",
         "tibble",
-        "caTools",
         "nloptr",
         "RcppEigen",
         "broom",
@@ -57328,7 +57113,6 @@
         "DiffBind",
         "csaw",
         "gplots",
-        "caTools",
         "DESeq2",
         "IRanges",
         "AnnotationDbi",
@@ -57789,7 +57573,6 @@
         "MultiAssayExperiment",
         "BiocParallel",
         "magicaxis",
-        "caTools",
         "reshape2",
         "lifecycle",
         "futile.logger",
@@ -57837,7 +57620,6 @@
         "Matrix",
         "sqldf",
         "gplots",
-        "caTools",
         "lifecycle",
         "gsubfn",
         "RSQLite",
@@ -57979,7 +57761,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-        "caTools",
         "minfi",
         "doParallel",
         "ggplot2",
@@ -58101,12 +57882,9 @@
         "survival",
         "RcppEigen"
     ],
-    "gplots": [
-        "caTools"
-    ],
+    "gplots": [],
     "ROCR": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "pamr": [
         "survival",
@@ -58133,7 +57911,6 @@
     "RcppEigen": [
         "Matrix"
     ],
-    "caTools": [],
     "httr": [
         "openssl"
     ],
@@ -59011,8 +58788,7 @@
     "ape": [],
     "ecp": [],
     "ReorderCluster": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "caret": [
         "ggplot2",
@@ -59709,8 +59485,7 @@
     "DRaWR": [
         "Matrix",
         "ROCR",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "mGSZ": [],
     "ggfortify": [
@@ -60140,7 +59915,6 @@
         "memoise",
         "tidyselect",
         "sitmo",
-        "caTools",
         "stringr"
     ],
     "optimr": [
@@ -60808,15 +60582,13 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "SuperLearner": [
         "gam",
         "cvAUC",
         "ROCR",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "np": [
         "quantreg",
@@ -60827,8 +60599,7 @@
     "gam": [],
     "cvAUC": [
         "ROCR",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "biscuiteerData": [
         "ExperimentHub",
@@ -61859,7 +61630,6 @@
     ],
     "spp": [
         "Rsamtools",
-        "caTools",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -63712,8 +63482,7 @@
     ],
     "DExMAdata": [],
     "swamp": [
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "bnstruct": [
         "igraph",
@@ -67260,8 +67029,7 @@
     ],
     "MLmetrics": [
         "ROCR",
-        "gplots",
-        "caTools"
+        "gplots"
     ],
     "rsample": [
         "dplyr",
