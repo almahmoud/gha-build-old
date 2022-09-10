@@ -35,7 +35,7 @@
 
         "cluster",
         "randomForest",
-        "XML",
+
         "httr",
         "IRanges",
         "RSQLite",
@@ -100,7 +100,7 @@
         "caTools",
         "KernSmooth",
 
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -479,7 +479,7 @@
         "Matrix",
         "lattice",
         "ggplot2",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -1041,7 +1041,7 @@
         "BiocGenerics"
     ],
     "AffyCompatible": [
-        "XML",
+
         "RCurl",
         "Biostrings",
         "BiocGenerics",
@@ -1123,7 +1123,7 @@
         "knitr",
         "PFAM.db",
         "GSEABase",
-        "XML",
+
         "R.utils",
         "ggbio",
         "bit64",
@@ -1354,7 +1354,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -1484,7 +1484,7 @@
         "knitr",
         "PFAM.db",
         "GSEABase",
-        "XML",
+
         "R.utils",
         "ggbio",
         "bit64",
@@ -1903,7 +1903,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -2101,7 +2101,7 @@
         "KEGGREST",
         "futile.logger",
         "snow",
-        "XML",
+
         "progress",
         "httr",
 
@@ -2639,7 +2639,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -2876,7 +2876,7 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "S4Vectors",
-        "XML",
+
         "forcats",
         "scales",
         "lattice",
@@ -3107,7 +3107,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -3146,7 +3146,7 @@
     ],
     "annotate": [
         "AnnotationDbi",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -3244,7 +3244,7 @@
         "AnnotationDbi",
 
         "RSQLite",
-        "XML",
+
         "S4Vectors",
         "RCurl",
         "IRanges",
@@ -3382,7 +3382,7 @@
         "RSQLite",
         "AnnotationForge",
         "futile.logger",
-        "XML",
+
         "RCurl",
         "KEGGREST",
         "BiocFileCache",
@@ -3550,7 +3550,7 @@
         "plyr",
 
         "stringr",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -3708,7 +3708,7 @@
         "matrixStats",
         "plyr",
         "stringr",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -4005,7 +4005,7 @@
 
         "Rhtslib",
         "Matrix",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "DelayedArray",
@@ -4194,7 +4194,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "BiocFileCache",
         "AnnotationHub",
@@ -4304,7 +4304,7 @@
     ],
     "ArrayExpress": [
         "Biobase",
-        "XML",
+
         "oligo",
         "limma",
         "BiocGenerics",
@@ -4363,7 +4363,7 @@
         "R2HTML",
 
         "ShortRead",
-        "XML",
+
         "biomaRt",
         "edgeR",
 
@@ -4509,7 +4509,7 @@
         "AnnotationDbi",
 
         "cluster",
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -4665,7 +4665,7 @@
 
         "setRNG",
         "vsn",
-        "XML",
+
         "svglite",
         "BiocGenerics",
         "affyio",
@@ -5023,7 +5023,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -5250,7 +5250,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -5419,7 +5419,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -5498,7 +5498,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "BiocParallel",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -5683,7 +5683,7 @@
         "withr",
         "ade4",
         "htmlwidgets",
-        "XML",
+
 
         "callr",
         "cli",
@@ -5778,7 +5778,7 @@
         "httr",
 
         "Biostrings",
-        "XML",
+
         "xtable",
         "RCurl",
         "XVector",
@@ -5827,7 +5827,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "kernlab",
 
         "segmented",
@@ -6189,7 +6189,7 @@
         "biomaRt",
         "GenomicRanges",
         "S4Vectors",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -6293,7 +6293,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -6407,7 +6407,7 @@
 
         "jsonlite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -6677,7 +6677,7 @@
         "yaml",
         "ggplot2",
         "stringr",
-        "XML",
+
         "raster",
         "dplyr",
         "data.table",
@@ -6814,7 +6814,7 @@
         "lambda.r",
         "futile.options",
         "lattice",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "formatR",
@@ -7141,7 +7141,7 @@
         "registry",
         "stringi",
         "callr",
-        "XML",
+
 
         "IRanges",
         "RSQLite",
@@ -7401,7 +7401,7 @@
         "BiocIO",
         "biomaRt",
         "lattice",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "progress",
@@ -7715,7 +7715,7 @@
         "interp",
 
 
-        "XML",
+
         "BiocIO",
         "restfulr",
         "lambda.r",
@@ -7958,7 +7958,7 @@
         "permute",
         "NADA",
         "truncnorm",
-        "XML",
+
         "KEGGREST",
         "sass",
         "jquerylib",
@@ -8035,7 +8035,7 @@
         "sjmisc",
         "rslurm",
         "rhdf5",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -8219,7 +8219,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "survival",
 
 
@@ -8346,7 +8346,7 @@
         "lumi",
         "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -8602,7 +8602,7 @@
 
         "mgcv",
         "tibble",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -8656,7 +8656,7 @@
         "Matrix",
         "rjson",
         "BiocGenerics",
-        "XML",
+
         "ChemmineR",
         "RCurl",
 
@@ -8778,7 +8778,7 @@
     "bioCancer": [
         "radiant.data",
         "cgdsr",
-        "XML",
+
         "DT",
         "dplyr",
         "shiny",
@@ -9002,7 +9002,7 @@
         "knitr",
         "Biobase",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
         "BiocGenerics",
@@ -9119,7 +9119,7 @@
         "annotate",
         "AnnotationDbi",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -9296,7 +9296,7 @@
         "rappdirs",
         "interactiveDisplayBase",
         "yaml",
-        "XML",
+
         "stringr",
 
         "bit",
@@ -9383,7 +9383,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "lattice",
 
         "xtable",
@@ -9463,7 +9463,7 @@
         "filelock",
         "curl",
         "Biobase",
-        "XML",
+
         "RCurl",
         "RUnit",
         "generics",
@@ -9717,7 +9717,7 @@
         "Biobase",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -9785,7 +9785,7 @@
         "RCurl",
         "RSQLite",
 
-        "XML",
+
         "chk",
         "jsonlite",
         "lgr",
@@ -9856,7 +9856,7 @@
         "RCurl",
         "RSQLite",
 
-        "XML",
+
         "chk",
         "jsonlite",
         "lgr",
@@ -9928,7 +9928,7 @@
         "BiocFileCache",
         "RCurl",
         "RSQLite",
-        "XML",
+
         "chk",
         "jsonlite",
         "lgr",
@@ -10000,7 +10000,7 @@
         "RCurl",
         "RSQLite",
 
-        "XML",
+
         "jsonlite",
         "lgr",
         "openssl",
@@ -10070,7 +10070,7 @@
         "RCurl",
         "RSQLite",
 
-        "XML",
+
         "chk",
         "jsonlite",
         "lgr",
@@ -10140,7 +10140,7 @@
         "RCurl",
         "RSQLite",
 
-        "XML",
+
         "chk",
         "jsonlite",
         "lgr",
@@ -10210,7 +10210,7 @@
         "BiocGenerics"
     ],
     "biomaRt": [
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -10456,7 +10456,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -10697,7 +10697,7 @@
 
         "ellipsis",
 
-        "XML",
+
         "xtable",
         "httr",
         "backports",
@@ -10862,7 +10862,7 @@
         "xfun",
         "mime",
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
         "graph",
 
@@ -11322,7 +11322,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -11488,7 +11488,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -11608,7 +11608,7 @@
         "survival",
         "AnnotationDbi",
         "annotate",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -11851,7 +11851,7 @@
         "iterators",
 
         "org.Hs.eg.db",
-        "XML",
+
         "RCurl",
         "httr",
 
@@ -12094,7 +12094,7 @@
         "nlme",
 
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -12148,7 +12148,7 @@
         "RBGL",
         "hash",
         "RCurl",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -12483,7 +12483,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -12581,7 +12581,7 @@
         "filelock",
         "curl",
         "httr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -12672,7 +12672,7 @@
         "IRanges",
         "S4Vectors",
         "data.table",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -12939,7 +12939,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -13040,7 +13040,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -13116,7 +13116,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -13233,7 +13233,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -13472,7 +13472,7 @@
         "rtracklayer",
         "biomaRt",
         "lattice",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -13605,7 +13605,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "XML",
+
         "progress",
         "httr",
 
@@ -13746,7 +13746,7 @@
         "preprocessCore",
 
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -13933,7 +13933,7 @@
 
 
         "lobstr",
-        "XML",
+
 
         "restfulr",
         "DelayedArray",
@@ -14158,7 +14158,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -14311,7 +14311,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "permute",
@@ -14423,7 +14423,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
         "ncdf4",
 
 
@@ -14494,7 +14494,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "Heatplus",
         "BMA",
         "ggplot2",
@@ -14880,7 +14880,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "gsubfn",
@@ -15017,7 +15017,7 @@
         "ggpubr",
         "pheatmap",
         "tidyr",
-        "XML",
+
         "scattermore",
 
         "mgcv",
@@ -15185,7 +15185,7 @@
         "genefilter",
         "annotate",
 
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -15237,7 +15237,7 @@
         "colorspace",
         "graph",
         "RCy3",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -15337,7 +15337,7 @@
 
         "stringi",
         "zip",
-        "XML",
+
         "xtable",
         "IRanges",
         "S4Vectors",
@@ -15444,7 +15444,7 @@
         "RJSONIO",
         "stringr",
         "survival",
-        "XML",
+
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -15666,7 +15666,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -16168,7 +16168,7 @@
         "annotate",
 
         "survival",
-        "XML",
+
         "lattice",
         "affy",
         "limma",
@@ -16714,7 +16714,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -17198,7 +17198,7 @@
         "ggrepel",
         "pheatmap",
         "Rtsne",
-        "XML",
+
         "scattermore",
         "cli",
         "future",
@@ -17358,7 +17358,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -17556,7 +17556,7 @@
         "statnet.common",
         "httr",
         "RJSONIO",
-        "XML",
+
         "graph",
         "fs",
         "uuid",
@@ -17716,7 +17716,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "futile.logger",
@@ -17871,7 +17871,7 @@
         "annotate",
         "Biobase",
         "survival",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -18072,7 +18072,7 @@
         "lifecycle",
         "lumi",
         "ROC",
-        "XML",
+
 
         "RSQLite",
         "KEGGREST",
@@ -18484,7 +18484,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -18578,7 +18578,7 @@
         "GenomeInfoDbData",
 
         "gplots",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -18624,7 +18624,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -18693,7 +18693,7 @@
         "htmltools",
         "cluster",
 
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -18896,7 +18896,7 @@
         "pkgconfig",
 
         "BSgenome",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -18958,7 +18958,7 @@
         "rtracklayer",
         "Biobase",
         "RSQLite",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -19119,7 +19119,7 @@
 
         "etrunct",
 
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -19257,7 +19257,7 @@
         "withr",
         "caTools",
         "KernSmooth",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -19597,7 +19597,7 @@
         "IRanges",
         "rtracklayer",
         "GenomicRanges",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -19657,7 +19657,7 @@
     "chromPlot": [
         "biomaRt",
         "GenomicRanges",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -19835,7 +19835,7 @@
         "stringfish",
         "KernSmooth",
         "yaml",
-        "XML",
+
         "Biostrings",
 
 
@@ -20044,7 +20044,7 @@
         "ggplot2",
         "reshape2",
 
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -20177,7 +20177,7 @@
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
         "sass",
         "memoise",
         "GenomicAlignments",
@@ -20234,7 +20234,7 @@
 
     ],
     "CHRONOS": [
-        "XML",
+
         "RCurl",
         "RBGL",
         "foreach",
@@ -20396,7 +20396,7 @@
         "KEGGREST",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -20665,7 +20665,7 @@
 
         "tzdb",
         "plyr",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -20942,7 +20942,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -21021,7 +21021,7 @@
         "RcppArmadillo",
         "pkgconfig",
 
-        "XML",
+
         "RCurl",
         "lattice",
         "annotate",
@@ -21137,7 +21137,7 @@
         "mgcv",
         "scales",
         "withr",
-        "XML",
+
 
         "RCurl",
         "GenomicAlignments",
@@ -21206,7 +21206,7 @@
 
         "lattice",
         "ggplot2",
-        "XML",
+
         "scales",
 
         "slam",
@@ -21364,7 +21364,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
         "ncdf4",
 
 
@@ -21528,7 +21528,7 @@
         "assertthat",
         "plyr",
         "progress",
-        "XML",
+
         "uuid",
 
         "tidyr",
@@ -21963,7 +21963,7 @@
         "R.utils",
         "KEGGREST",
         "AnnotationDbi",
-        "XML",
+
         "Biobase",
         "xtable",
         "httr",
@@ -22056,7 +22056,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -22099,7 +22099,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -22143,7 +22143,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -22204,7 +22204,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -22247,7 +22247,7 @@
         "annotate",
         "Biobase",
         "survival",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -22348,7 +22348,7 @@
         "cachem",
 
         "rhdf5filters",
-        "XML",
+
         "restfulr",
 
         "progress",
@@ -22587,7 +22587,7 @@
         "rhdf5filters",
 
         "BiocParallel",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "Matrix",
@@ -22848,7 +22848,7 @@
         "biomaRt",
         "nlme",
         "Matrix",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "farver",
@@ -23043,7 +23043,7 @@
         "lambda.r",
         "futile.options",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -23056,7 +23056,7 @@
         "limma",
         "annotate",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -23119,7 +23119,7 @@
         "matrixStats",
         "lambda.r",
         "futile.options",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -23353,7 +23353,7 @@
         "tinytex",
         "xfun",
         "yaml",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -23591,7 +23591,7 @@
         "S4Vectors",
         "GenomicRanges",
         "corrplot",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -23762,7 +23762,7 @@
         "lattice",
         "plyr",
         "stringr",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -24084,7 +24084,7 @@
         "filelock",
         "curl",
         "httr",
-        "XML",
+
         "progress",
 
 
@@ -24634,7 +24634,7 @@
         "R.oo",
         "R.utils",
         "matrixStats",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -24744,7 +24744,7 @@
         "rsvd",
 
         "beachmat",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -24856,7 +24856,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -24932,7 +24932,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "RCurl",
         "BiocIO",
         "restfulr",
@@ -25044,7 +25044,7 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -25223,7 +25223,7 @@
         "biomaRt",
         "lattice",
         "cachem",
-        "XML",
+
         "restfulr",
 
         "progress",
@@ -25711,7 +25711,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -25775,7 +25775,7 @@
         "mzID",
 
         "ggplot2",
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -25851,7 +25851,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
 
@@ -26011,7 +26011,7 @@
         "ellipsis",
         "purrr",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -26092,7 +26092,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "RCurl",
         "BiocIO",
         "restfulr",
@@ -26124,7 +26124,7 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -26200,7 +26200,7 @@
         "withr",
         "annotate",
         "graph",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -26382,7 +26382,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -26476,7 +26476,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -26740,7 +26740,7 @@
         "statmod",
         "SummarizedExperiment",
         "tibble",
-        "XML",
+
         "readxl",
         "affyio",
         "preprocessCore",
@@ -27046,7 +27046,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "Matrix",
@@ -27239,7 +27239,7 @@
         "gplots",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -27435,7 +27435,7 @@
         "hms",
 
         "TTR",
-        "XML",
+
         "bit64",
         "blob",
         "plogr",
@@ -27563,7 +27563,7 @@
         "memoise",
         "pkgconfig",
         "plogr",
-        "XML",
+
 
         "RCurl",
         "BiocIO",
@@ -27660,7 +27660,7 @@
     "customCMPdb": [
         "AnnotationHub",
         "RSQLite",
-        "XML",
+
         "ChemmineR",
         "rappdirs",
         "BiocFileCache",
@@ -27782,7 +27782,7 @@
         "BiocGenerics",
         "Biobase",
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
 
@@ -27927,7 +27927,7 @@
         "latticeExtra",
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "RBGL",
         "Rgraphviz",
         "data.table",
@@ -28283,7 +28283,7 @@
         "ggnewscale",
         "ggpointdensity",
         "Rtsne",
-        "XML",
+
         "scattermore",
         "RCurl",
         "GenomeInfoDbData",
@@ -28780,7 +28780,7 @@
         "flowCore",
         "flowWorkspace",
         "openCyto",
-        "XML",
+
         "data.table",
         "jsonlite",
         "RBGL",
@@ -28954,7 +28954,7 @@
         "magrittr",
 
 
-        "XML",
+
         "scattermore",
         "graph",
         "corpcor",
@@ -29222,7 +29222,7 @@
         "BiocGenerics",
         "biomaRt",
         "motifStack",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -29383,7 +29383,7 @@
         "vctrs",
         "lattice",
         "nlme",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -29540,7 +29540,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "httr",
         "BiocFileCache",
         "rappdirs",
@@ -29801,7 +29801,7 @@
         "affy",
 
         "mzID",
-        "XML",
+
         "mvtnorm",
         "survival",
         "TH.data",
@@ -30054,7 +30054,7 @@
         "here",
         "jsonlite",
 
-        "XML",
+
 
         "restfulr",
         "stringi",
@@ -30288,7 +30288,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "backports",
         "ellipsis",
         "blob",
@@ -30470,7 +30470,7 @@
 
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -30749,7 +30749,7 @@
         "pathview",
         "apeglm",
         "ashr",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -31109,7 +31109,7 @@
         "scales",
         "tibble",
         "withr",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -31199,7 +31199,7 @@
 
         "Rhtslib",
         "KEGGREST",
-        "XML",
+
         "stringr",
         "httr",
         "BiocFileCache",
@@ -31408,7 +31408,7 @@
         "Biostrings",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -31498,7 +31498,7 @@
         "colorspace"
     ],
     "DeepBlueR": [
-        "XML",
+
         "RCurl",
         "GenomicRanges",
         "data.table",
@@ -31741,7 +31741,7 @@
         "lattice",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -31845,7 +31845,7 @@
         "withr",
         "matrixStats",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -31959,7 +31959,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "BiocFileCache",
@@ -32033,7 +32033,7 @@
         "rrcov",
         "NCIgraph",
         "BiocGenerics",
-        "XML",
+
         "RCurl",
         "RCy3",
         "R.oo",
@@ -32175,7 +32175,7 @@
         "crayon",
         "cli",
         "utf8",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -32370,7 +32370,7 @@
         "pkgconfig",
         "vctrs",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -32612,7 +32612,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
         "cli",
 
         "crayon",
@@ -32853,7 +32853,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "progress",
         "stringr",
@@ -33007,7 +33007,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -33144,7 +33144,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "XML",
+
 
         "BiocIO",
         "restfulr",
@@ -33255,7 +33255,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -33533,7 +33533,7 @@
 
         "pillar",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -33618,7 +33618,7 @@
         "matrixStats",
 
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -33735,7 +33735,7 @@
         "tzdb",
         "ellipsis",
         "purrr",
-        "XML",
+
 
         "xtable",
         "IRanges",
@@ -33790,7 +33790,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "httr",
 
@@ -34038,7 +34038,7 @@
         "cli",
 
         "utf8",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "farver",
@@ -34250,7 +34250,7 @@
         "ggrepel",
         "pheatmap",
         "Rtsne",
-        "XML",
+
         "scattermore",
         "Matrix",
 
@@ -34431,7 +34431,7 @@
 
         "rhdf5filters",
 
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -34474,7 +34474,7 @@
 
         "limma",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -34680,7 +34680,7 @@
         "scales",
         "withr",
         "Matrix",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -35306,7 +35306,7 @@
         "BiocGenerics",
         "GenomeInfoDb",
         "XVector",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -35395,7 +35395,7 @@
         "TH.data",
         "sandwich",
 
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -35535,7 +35535,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
 
         "crayon",
@@ -35685,7 +35685,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -35882,7 +35882,7 @@
         "tibble",
         "withr",
         "lattice",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -36069,7 +36069,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -36181,7 +36181,7 @@
         "XVector",
         "lattice",
         "nlme",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -36526,7 +36526,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -36716,7 +36716,7 @@
         "filelock",
         "curl",
         "httr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -36815,7 +36815,7 @@
         "preprocessCore",
 
         "AnnotationDbi",
-        "XML",
+
 
         "httr",
         "oligo",
@@ -36973,7 +36973,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -37220,7 +37220,7 @@
 
         "mixtools",
         "e1071",
-        "XML",
+
 
         "xtable",
         "KEGGREST",
@@ -37367,7 +37367,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -37509,7 +37509,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -37663,7 +37663,7 @@
         "R.oo",
         "R.utils",
         "matrixStats",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -37787,7 +37787,7 @@
         "RcppEigen",
         "plyr",
         "stringr",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -37964,7 +37964,7 @@
 
         "ellipsis",
 
-        "XML",
+
         "xtable",
         "ggfun",
         "ggplotify",
@@ -38149,7 +38149,7 @@
         "hgu133a.db",
         "nlme",
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
 
         "httr",
@@ -38355,7 +38355,7 @@
         "ggpubr",
         "rtracklayer",
         "DelayedArray",
-        "XML",
+
         "AnnotationDbi",
         "httr",
 
@@ -38680,7 +38680,7 @@
         "TFBSTools",
         "SummarizedExperiment",
         "RcppArmadillo",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -38892,7 +38892,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -39019,7 +39019,7 @@
         "cluster",
         "MatrixGenerics",
         "Matrix",
-        "XML",
+
 
         "xtable",
         "KEGGREST",
@@ -39189,7 +39189,7 @@
 
         "checkmate",
         "annotate",
-        "XML",
+
         "RCurl",
 
         "Biostrings",
@@ -39424,7 +39424,7 @@
         "tinytex",
         "xfun",
         "yaml",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -39598,7 +39598,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -39688,7 +39688,7 @@
         "lattice",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -39783,7 +39783,7 @@
         "lattice",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -39879,7 +39879,7 @@
         "broom",
         "corrplot",
         "car",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -40125,7 +40125,7 @@
         "rhdf5filters",
         "Biostrings",
 
-        "XML",
+
         "BiocIO",
         "restfulr",
         "farver",
@@ -40371,7 +40371,7 @@
         "graph",
         "mnem",
         "latex2exp",
-        "XML",
+
         "class",
 
         "BiocGenerics",
@@ -40513,7 +40513,7 @@
         "plogr",
         "Structstrings",
         "tRNA",
-        "XML",
+
         "progress",
 
         "bit",
@@ -40628,7 +40628,7 @@
         "DelayedArray",
 
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -40731,7 +40731,7 @@
         "DelayedArray",
         "KEGGREST",
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -40826,7 +40826,7 @@
         "DelayedArray",
         "KEGGREST",
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -40928,7 +40928,7 @@
         "biomaRt",
         "Biobase",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -41100,7 +41100,7 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "XML",
+
         "Biostrings",
 
         "BiocIO",
@@ -41238,7 +41238,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -41358,7 +41358,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "hwriter",
@@ -41500,7 +41500,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "S4Vectors",
         "IRanges",
         "SummarizedExperiment",
@@ -41826,7 +41826,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
 
@@ -41930,7 +41930,7 @@
         "httr",
         "yaml",
         "dplyr",
-        "XML",
+
         "progress",
 
 
@@ -42034,7 +42034,7 @@
         "GenomeInfoDb",
         "XVector",
         "Matrix",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -42155,7 +42155,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "Matrix",
@@ -42330,7 +42330,7 @@
         "RSQLite",
         "AnnotationForge",
         "futile.logger",
-        "XML",
+
         "RCurl",
         "BiocFileCache",
         "rappdirs",
@@ -42606,7 +42606,7 @@
         "limma",
         "S4Vectors",
 
-        "XML",
+
         "httr",
         "BiocGenerics",
         "curl",
@@ -42761,7 +42761,7 @@
 
         "purrr",
         "data.table",
-        "XML",
+
         "rjson",
         "httpuv",
         "mime",
@@ -43183,7 +43183,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "farver",
@@ -43415,7 +43415,7 @@
         "GenomeInfoDb",
         "XVector",
 
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -43637,7 +43637,7 @@
         "zip",
         "httr",
         "RJSONIO",
-        "XML",
+
         "BiocGenerics",
         "graph",
         "fs",
@@ -43742,7 +43742,7 @@
         "xts",
         "zoo",
         "curl",
-        "XML",
+
         "xtable",
         "httr",
         "KEGGREST",
@@ -43924,7 +43924,7 @@
         "igraph",
         "hwriter",
         "R.utils",
-        "XML",
+
         "plotrix",
         "reshape2",
 
@@ -44070,7 +44070,7 @@
 
         "crayon",
         "reshape2",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -44271,7 +44271,7 @@
 
         "mzID",
 
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -44816,7 +44816,7 @@
 
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "ggplot2",
         "graph",
         "RBGL",
@@ -44968,7 +44968,7 @@
 
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "ggplot2",
         "graph",
         "RBGL",
@@ -45430,7 +45430,7 @@
 
         "Rtsne",
         "tidyr",
-        "XML",
+
         "scattermore",
         "Biobase",
         "ALL",
@@ -45669,7 +45669,7 @@
         "latticeExtra",
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "ggplot2",
         "graph",
         "RBGL",
@@ -45816,7 +45816,7 @@
         "graph",
         "corpcor",
         "RUnit",
-        "XML",
+
         "flowCore",
         "BiocGenerics",
 
@@ -45886,7 +45886,7 @@
 
         "fds",
 
-        "XML",
+
         "ggplot2",
         "graph",
         "RBGL",
@@ -45965,7 +45965,7 @@
         "cytolib",
         "lattice",
         "latticeExtra",
-        "XML",
+
         "ggplot2",
         "graph",
         "RBGL",
@@ -46327,7 +46327,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -46808,7 +46808,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -46927,7 +46927,7 @@
         "utf8",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -47032,7 +47032,7 @@
         "ellipsis",
 
 
-        "XML",
+
         "progress",
         "stringr",
         "BiocFileCache",
@@ -47393,7 +47393,7 @@
         "R.utils",
         "snow",
         "BH",
-        "XML",
+
         "httr",
         "BiocFileCache",
         "rappdirs",
@@ -47549,7 +47549,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -47733,7 +47733,7 @@
 
         "R.utils",
         "stringi",
-        "XML",
+
         "plyr",
         "signal",
         "boot",
@@ -47820,7 +47820,7 @@
         "shiny",
         "jsonlite",
         "rjson",
-        "XML",
+
         "limma",
         "edgeR",
         "DESeq2",
@@ -48161,7 +48161,7 @@
         "RSQLite",
         "BiocIO",
         "biomaRt",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -48244,7 +48244,7 @@
 
         "reshape2",
         "tibble",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -48375,7 +48375,7 @@
         "RCurl",
         "annotate",
         "Biobase",
-        "XML",
+
         "RSQLite",
 
         "Heatplus",
@@ -48443,7 +48443,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -48571,7 +48571,7 @@
         "annotate",
         "Biobase",
         "survival",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -48622,7 +48622,7 @@
         "limma",
         "e1071",
         "Biobase",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -48857,7 +48857,7 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -48904,7 +48904,7 @@
         "htmlwidgets",
         "Rgraphviz",
         "rjson",
-        "XML",
+
         "BiocGenerics",
         "htmltools",
         "jsonlite",
@@ -48942,7 +48942,7 @@
         "annotate",
         "AnnotationDbi",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -49143,7 +49143,7 @@
         "GenomicAlignments",
 
 
-        "XML",
+
 
         "RCurl",
         "BiocIO",
@@ -49420,7 +49420,7 @@
         "fs",
         "rappdirs",
         "stringi",
-        "XML",
+
         "bit",
         "lambda.r",
         "futile.options",
@@ -49468,7 +49468,7 @@
         "htmlwidgets",
         "igraph",
         "GenomicRanges",
-        "XML",
+
         "XVector",
         "GenomeInfoDb",
         "Biostrings",
@@ -49610,7 +49610,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "KernSmooth",
@@ -49857,7 +49857,7 @@
         "biomaRt",
         "Biobase",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -49952,7 +49952,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "Biobase",
@@ -50102,7 +50102,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "stringi",
@@ -50197,7 +50197,7 @@
         "IRanges",
         "GenomeInfoDb",
         "Rdpack",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -50350,7 +50350,7 @@
         "S4Vectors",
         "GenomicRanges",
         "BiocGenerics",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -50635,7 +50635,7 @@
         "scales",
         "tibble",
         "withr",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -50815,7 +50815,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -51439,7 +51439,7 @@
         "foreach",
         "GSEABase",
         "Biobase",
-        "XML",
+
         "rhdf5",
 
         "iterators",
@@ -51499,7 +51499,7 @@
         "reshape2",
         "dplyr",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -51779,7 +51779,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -51870,7 +51870,7 @@
 
         "lattice",
         "latticeExtra",
-        "XML",
+
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -52332,7 +52332,7 @@
         "annotate",
         "survival",
         "graph",
-        "XML",
+
         "multcomp",
         "gridExtra",
         "reshape2",
@@ -52462,7 +52462,7 @@
         "ggrepel",
         "tidyr",
         "RCurl",
-        "XML",
+
 
         "glue",
 
@@ -52554,7 +52554,7 @@
         "base64enc",
 
         "matrixStats",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -52642,7 +52642,7 @@
         "reshape2",
         "stringr",
         "loose.rock",
-        "XML",
+
         "AnnotationDbi",
         "progress",
 
@@ -52800,7 +52800,7 @@
         "dendextend",
         "GSEABase",
 
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -52871,7 +52871,7 @@
         "Biobase",
         "AnnotationDbi",
         "annotate",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -52944,7 +52944,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "KEGGREST",
@@ -53052,7 +53052,7 @@
         "RcppArmadillo",
         "RcppEigen",
 
-        "XML",
+
         "plyr",
         "stringr",
         "httpuv",
@@ -53185,7 +53185,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "KEGGREST",
         "futile.logger",
@@ -53356,7 +53356,7 @@
         "randomForest",
         "RCurl",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -53682,7 +53682,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -53756,7 +53756,7 @@
         "Matrix",
         "corpcor",
 
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -53813,7 +53813,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -53878,7 +53878,7 @@
         "annotate",
         "AnnotationForge",
         "Rgraphviz",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -53994,7 +53994,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -54159,7 +54159,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -54582,7 +54582,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -54736,7 +54736,7 @@
         "Rsamtools",
         "BiocParallel",
         "XVector",
-        "XML",
+
 
         "BiocIO",
         "restfulr",
@@ -54927,7 +54927,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -55036,7 +55036,7 @@
         "XVector",
         "checkmate",
         "annotate",
-        "XML",
+
         "jsonlite",
         "mime",
         "openssl",
@@ -55154,7 +55154,7 @@
         "httr",
         "futile.logger",
         "snow",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -55282,7 +55282,7 @@
         "OrganismDbi",
         "GO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -55367,7 +55367,7 @@
         "annotate",
         "survival",
         "graph",
-        "XML",
+
         "boot",
         "gplots",
 
@@ -55441,7 +55441,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -55564,7 +55564,7 @@
         "Rhtslib",
         "Biobase",
         "RSQLite",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -55688,7 +55688,7 @@
         "stringr",
         "yaml",
         "xfun",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -55777,7 +55777,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -56019,7 +56019,7 @@
         "Rsamtools",
         "BSgenome",
         "Rhtslib",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -56210,7 +56210,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -56328,7 +56328,7 @@
         "BH",
         "RcppArmadillo",
         "yaml",
-        "XML",
+
         "data.table",
         "stringi",
         "MatrixGenerics",
@@ -56653,7 +56653,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "Matrix",
@@ -56800,7 +56800,7 @@
 
         "mgcv",
         "withr",
-        "XML",
+
 
         "RCurl",
         "GenomicAlignments",
@@ -56979,7 +56979,7 @@
         "SummarizedExperiment",
         "R.oo",
         "R.methodsS3",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -57187,7 +57187,7 @@
 
 
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -57487,7 +57487,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "farver",
@@ -57532,7 +57532,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lattice",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -57556,7 +57556,7 @@
         "formatR"
     ],
     "hmdbQuery": [
-        "XML",
+
         "S4Vectors",
         "BiocGenerics"
     ],
@@ -57812,7 +57812,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "latticeExtra",
         "MatrixGenerics",
@@ -57919,7 +57919,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -58460,7 +58460,7 @@
         "tibble",
         "withr",
 
-        "XML",
+
         "restfulr",
         "hwriter",
         "lattice",
@@ -58570,7 +58570,7 @@
         "R6",
         "base64enc",
         "mime",
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -58774,7 +58774,7 @@
         "colorspace",
         "lambda.r",
         "futile.options",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -58971,7 +58971,7 @@
 
         "purrr",
         "data.table",
-        "XML",
+
         "bslib",
         "tinytex",
         "httpuv",
@@ -59070,7 +59070,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -59101,7 +59101,7 @@
         "annotate",
         "plotrix",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -59347,7 +59347,7 @@
         "promises",
         "later",
         "splitstackshape",
-        "XML",
+
 
         "RCurl",
         "BiocIO",
@@ -59597,7 +59597,7 @@
         "scales",
         "tibble",
         "withr",
-        "XML",
+
         "base64enc",
 
         "jsonlite",
@@ -59702,7 +59702,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -60030,7 +60030,7 @@
 
         "lattice",
         "latticeExtra",
-        "XML",
+
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -60527,7 +60527,7 @@
         "memoise",
         "pkgconfig",
         "plogr",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -60628,7 +60628,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "httpuv",
         "mime",
@@ -60749,7 +60749,7 @@
         "rstatix",
         "magrittr",
         "reshape2",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -60917,7 +60917,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -61117,7 +61117,7 @@
         "reshape2",
         "plyr",
         "gridSVG",
-        "XML",
+
         "Category",
         "AnnotationDbi",
         "Biobase",
@@ -61280,7 +61280,7 @@
 
         "fmsb",
         "igraph",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -61510,7 +61510,7 @@
         "pixmap",
         "sp",
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
 
@@ -61580,7 +61580,7 @@
     "InterMineR": [
         "Biostrings",
         "RCurl",
-        "XML",
+
 
         "RJSONIO",
         "sqldf",
@@ -61636,7 +61636,7 @@
         "knitr",
         "hwriter",
         "R.utils",
-        "XML",
+
         "plotrix",
         "reshape2",
 
@@ -62096,7 +62096,7 @@
 
         "mzID",
 
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -62714,7 +62714,7 @@
         "biomaRt",
         "ggplot2",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -62939,7 +62939,7 @@
         "vroom",
 
         "tzdb",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -63057,7 +63057,7 @@
 
         "preprocessCore",
 
-        "XML",
+
 
         "httr",
         "IRanges",
@@ -63217,7 +63217,7 @@
         "munsell",
         "viridisLite",
 
-        "XML",
+
         "xtable",
         "bit",
         "iterators",
@@ -63416,7 +63416,7 @@
         "nloptr",
 
         "RcppEigen",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -63745,7 +63745,7 @@
         "BSgenome",
 
         "BiocParallel",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
 
@@ -63877,7 +63877,7 @@
 
     ],
     "KEGGgraph": [
-        "XML",
+
         "graph",
         "RCurl",
         "Rgraphviz",
@@ -63896,7 +63896,7 @@
         "httr",
         "RJSONIO",
         "KEGGREST",
-        "XML",
+
         "BiocGenerics",
         "Biobase",
         "IRanges",
@@ -64104,7 +64104,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -64160,7 +64160,7 @@
         "e1071",
         "randomForest",
         "caret",
-        "XML",
+
 
         "R.utils",
         "httr",
@@ -64405,7 +64405,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "restfulr",
         "DelayedArray",
         "sys",
@@ -65287,7 +65287,7 @@
 
         "mzID",
 
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -65478,7 +65478,7 @@
         "ade4",
         "ggplot2",
         "htmlwidgets",
-        "XML",
+
         "plyr",
 
         "glue",
@@ -65695,7 +65695,7 @@
         "affyio",
 
 
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -66092,7 +66092,7 @@
 
         "curl",
         "rappdirs",
-        "XML",
+
 
         "RCurl",
         "GenomicAlignments",
@@ -66354,7 +66354,7 @@
         "Biobase",
         "annotate",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -66448,7 +66448,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "hwriter",
@@ -66728,7 +66728,7 @@
         "BiocParallel",
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -66923,7 +66923,7 @@
 
         "pillar",
         "vctrs",
-        "XML",
+
         "xtable",
         "httr",
         "KEGGREST",
@@ -67374,7 +67374,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
         "ncdf4",
 
 
@@ -67822,7 +67822,7 @@
         "plyr",
 
         "stringr",
-        "XML",
+
 
         "BiocIO",
         "restfulr",
@@ -68193,7 +68193,7 @@
         "rtracklayer",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
 
         "futile.logger",
         "snow",
@@ -68747,7 +68747,7 @@
         "limma",
         "S4Vectors",
         "SummarizedExperiment",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -69040,7 +69040,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -69267,7 +69267,7 @@
         "affyio",
 
 
-        "XML",
+
         "xtable",
         "KEGGREST",
         "openssl",
@@ -69361,7 +69361,7 @@
         "biomaRt",
         "rtracklayer",
         "preprocessCore",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -69636,7 +69636,7 @@
         "hash",
         "RCurl",
         "Rgraphviz",
-        "XML",
+
         "ggplot2",
         "igraph",
         "stringi",
@@ -70094,7 +70094,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -70299,7 +70299,7 @@
 
         "mzID",
         "ggplot2",
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -70561,7 +70561,7 @@
 
         "RSQLite",
         "S4Vectors",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -70766,7 +70766,7 @@
 
 
         "Rtsne",
-        "XML",
+
         "scattermore",
 
         "glue",
@@ -70973,7 +70973,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "stringi",
         "KEGGREST",
@@ -71076,7 +71076,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "crayon",
@@ -71187,7 +71187,7 @@
 
         "mzID",
 
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -71419,7 +71419,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "AnnotationDbi",
         "progress",
 
@@ -71690,7 +71690,7 @@
         "KEGGREST",
 
         "sys",
-        "XML",
+
         "progress",
         "BiocFileCache",
         "rappdirs",
@@ -71858,7 +71858,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
 
         "farver",
 
@@ -72010,7 +72010,7 @@
 
         "Biostrings",
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -72254,7 +72254,7 @@
         "rhdf5",
         "rhdf5filters",
 
-        "XML",
+
 
         "RCurl",
         "GenomicAlignments",
@@ -72429,7 +72429,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "RSQLite",
         "KEGGREST",
@@ -72548,7 +72548,7 @@
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -72835,7 +72835,7 @@
         "waldo",
         "gert",
         "gh",
-        "XML",
+
         "xtable",
         "KEGGREST",
         "Rsamtools",
@@ -73040,7 +73040,7 @@
         "MatrixGenerics",
 
 
-        "XML",
+
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -73172,7 +73172,7 @@
         "R.methodsS3",
         "Biostrings",
 
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -73244,7 +73244,7 @@
         "Biostrings",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -73449,7 +73449,7 @@
         "AnnotationDbi",
 
         "mvtnorm",
-        "XML",
+
 
         "RCurl",
         "GenomicAlignments",
@@ -73558,7 +73558,7 @@
         "glue",
         "colorspace",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -73586,7 +73586,7 @@
         "AnnotationDbi",
         "illuminaio",
         "GenomicFeatures",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -73986,7 +73986,7 @@
     "MGFM": [
         "AnnotationDbi",
         "annotate",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -74030,7 +74030,7 @@
         "biomaRt",
         "annotate",
         "AnnotationDbi",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -74686,7 +74686,7 @@
         "bit64",
         "progress",
         "callr",
-        "XML",
+
 
         "RSQLite",
         "KEGGREST",
@@ -74843,7 +74843,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "XML",
+
         "Rtsne",
         "TH.data",
         "sandwich",
@@ -75253,7 +75253,7 @@
 
         "data.table",
         "RCurl",
-        "XML",
+
         "MatrixGenerics",
         "Matrix",
         "GenomeInfoDb",
@@ -75349,7 +75349,7 @@
         "Category",
         "annotate",
         "AnnotationForge",
-        "XML",
+
         "plyr",
         "stringr",
         "permute",
@@ -75739,7 +75739,7 @@
         "lumi",
         "fpc",
         "lumiHumanAll.db",
-        "XML",
+
 
         "httr",
         "IRanges",
@@ -75980,7 +75980,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -76110,7 +76110,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -76257,7 +76257,7 @@
         "utf8",
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -76338,7 +76338,7 @@
         "withr",
         "boot",
         "KEGGgraph",
-        "XML",
+
         "RCurl",
         "httr",
 
@@ -76475,7 +76475,7 @@
         "DelayedArray",
         "downloader",
         "biomaRt",
-        "XML",
+
         "plyr",
         "knitr",
         "rvest",
@@ -76726,7 +76726,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "xtable",
         "ade4",
         "magrittr",
@@ -77151,7 +77151,7 @@
         "stringi",
         "MatrixGenerics",
         "Matrix",
-        "XML",
+
         "xtable",
         "httr",
         "futile.logger",
@@ -77361,7 +77361,7 @@
         "tzdb",
         "yaml",
         "jsonlite",
-        "XML",
+
         "data.table",
         "stringi",
 
@@ -77557,7 +77557,7 @@
         "utf8",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -77677,7 +77677,7 @@
         "mlbench",
         "magrittr",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -77908,7 +77908,7 @@
         "pkgconfig",
         "diffobj",
         "rematch2",
-        "XML",
+
 
         "httr",
         "RSQLite",
@@ -78009,7 +78009,7 @@
         "cli",
 
         "utf8",
-        "XML",
+
         "restfulr",
         "DelayedArray",
         "pkgconfig",
@@ -78105,7 +78105,7 @@
         "nlme",
         "Matrix",
         "magrittr",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -78654,7 +78654,7 @@
 
         "httr",
         "RJSONIO",
-        "XML",
+
         "BiocGenerics",
         "graph",
         "fs",
@@ -78715,7 +78715,7 @@
         "graph",
         "httr",
         "rappdirs",
-        "XML",
+
 
         "xtable",
         "IRanges",
@@ -78892,7 +78892,7 @@
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
 
         "zoo",
 
@@ -79005,7 +79005,7 @@
 
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -79107,7 +79107,7 @@
         "DelayedArray",
         "biomaRt",
         "tibble",
-        "XML",
+
         "jsonlite",
         "knitr",
         "stringr",
@@ -79378,7 +79378,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "lattice",
 
         "biomaRt",
@@ -79519,7 +79519,7 @@
         "XVector",
         "GenomeInfoDb",
         "crayon",
-        "XML",
+
 
         "RCurl",
         "Rsamtools",
@@ -79583,7 +79583,7 @@
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
         "futile.logger",
         "snow",
         "BH",
@@ -79667,7 +79667,7 @@
         "Biostrings",
         "ggplot2",
         "htmlwidgets",
-        "XML",
+
 
         "pixmap",
         "sp",
@@ -79729,7 +79729,7 @@
         "GenomeInfoDb",
         "biomaRt",
         "IRanges",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -80172,7 +80172,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -80265,7 +80265,7 @@
         "MSGFplus",
         "shinyFiles",
         "ProtGenerics",
-        "XML",
+
         "plyr",
         "doParallel",
         "foreach",
@@ -80318,7 +80318,7 @@
     "MSGFplus": [
         "mzID",
         "ProtGenerics",
-        "XML",
+
         "plyr",
         "doParallel",
         "foreach",
@@ -80433,7 +80433,7 @@
 
         "lattice",
         "ggplot2",
-        "XML",
+
         "scales",
 
         "affyio",
@@ -80508,7 +80508,7 @@
 
         "lattice",
         "ggplot2",
-        "XML",
+
         "scales",
         "reshape2",
         "affyio",
@@ -80577,7 +80577,7 @@
 
         "lattice",
         "ggplot2",
-        "XML",
+
         "scales",
 
 
@@ -80697,7 +80697,7 @@
         "pcaMethods",
 
         "lattice",
-        "XML",
+
         "ncdf4",
 
 
@@ -80898,7 +80898,7 @@
         "bslib",
         "cachem",
         "lmtest",
-        "XML",
+
 
         "httr",
         "RSQLite",
@@ -81558,7 +81558,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
 
         "httr",
         "jsonlite",
@@ -81710,7 +81710,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
         "cli",
 
         "utf8",
@@ -82196,7 +82196,7 @@
         "jsonlite",
 
         "rappdirs",
-        "XML",
+
 
         "restfulr",
         "ellipsis",
@@ -82554,7 +82554,7 @@
     ],
 
     "multiMiR": [
-        "XML",
+
         "RCurl",
         "purrr",
         "tibble",
@@ -82752,7 +82752,7 @@
         "knitr",
         "tinytex",
         "xfun",
-        "XML",
+
         "rjson",
         "data.table",
         "RCurl",
@@ -83016,7 +83016,7 @@
         "R.oo",
         "R.methodsS3",
 
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -83204,7 +83204,7 @@
         "rbibutils",
         "plyr",
         "stringr",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -83401,7 +83401,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "downloader",
-        "XML",
+
         "rvest",
         "R.utils",
         "TCGAbiolinksGUI.data",
@@ -83605,7 +83605,7 @@
         "plyr",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "farver",
@@ -83692,7 +83692,7 @@
         "magrittr",
         "Matrix",
         "pkgconfig",
-        "XML",
+
         "graph",
         "Rgraphviz",
         "httr",
@@ -83820,7 +83820,7 @@
         "proto",
 
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -83981,7 +83981,7 @@
         "askpass",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -84037,7 +84037,7 @@
         "formatR"
     ],
     "mzID": [
-        "XML",
+
         "plyr",
         "doParallel",
         "foreach",
@@ -84101,7 +84101,7 @@
 
         "qqconf",
 
-        "XML",
+
         "BiocIO",
         "restfulr",
 
@@ -84386,7 +84386,7 @@
         "mime",
         "openssl",
 
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -84564,7 +84564,7 @@
         "org.Hs.eg.db",
         "curl",
         "dplyr",
-        "XML",
+
         "XML2R",
         "BiocGenerics",
         "Biobase",
@@ -84761,7 +84761,7 @@
         "MatrixGenerics",
         "GenomeInfoDb",
         "DelayedArray",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -84961,7 +84961,7 @@
         "mzID",
 
         "ggplot2",
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -85016,7 +85016,7 @@
         "RCy3",
         "R.methodsS3",
         "BiocGenerics",
-        "XML",
+
         "RCurl",
         "Rgraphviz",
         "BH",
@@ -85183,7 +85183,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
 
@@ -85445,7 +85445,7 @@
         "RcppEigen",
         "ggplot2",
         "wesanderson",
-        "XML",
+
 
         "modeltools",
 
@@ -86158,7 +86158,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -86382,7 +86382,7 @@
 
         "plyr",
         "progress",
-        "XML",
+
         "uuid",
 
         "tidyr",
@@ -86731,7 +86731,7 @@
         "AnnotationDbi",
         "BiocGenerics",
         "Biobase",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -87025,7 +87025,7 @@
         "XVector",
         "ggplot2",
         "reshape2",
-        "XML",
+
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -87133,7 +87133,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -87319,7 +87319,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -87423,7 +87423,7 @@
         "promises",
         "R.oo",
         "R.methodsS3",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -87560,7 +87560,7 @@
         "xfun",
         "fs",
         "cmdfun",
-        "XML",
+
         "Biostrings",
 
         "BiocIO",
@@ -88132,7 +88132,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -88363,7 +88363,7 @@
         "tinytex",
         "xfun",
         "yaml",
-        "XML",
+
         "XVector",
 
         "BiocIO",
@@ -88676,7 +88676,7 @@
     ],
     "OncoScore": [
         "biomaRt",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -89089,7 +89089,7 @@
         "latticeExtra",
         "hexbin",
         "IDPmisc",
-        "XML",
+
         "ggplot2",
         "Rgraphviz",
         "dplyr",
@@ -89167,7 +89167,7 @@
     ],
     "openPrimeR": [
         "Biostrings",
-        "XML",
+
         "scales",
         "reshape2",
         "seqinr",
@@ -89290,7 +89290,7 @@
         "jquerylib",
         "promises",
         "Biostrings",
-        "XML",
+
         "scales",
         "reshape2",
         "seqinr",
@@ -89448,7 +89448,7 @@
         "stringr",
         "yaml",
         "xfun",
-        "XML",
+
         "checkmate",
         "dplyr",
         "lubridate",
@@ -89540,7 +89540,7 @@
         "RcppParallel",
 
         "graph",
-        "XML",
+
 
         "RCurl",
         "nlme",
@@ -89613,7 +89613,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "S4Vectors",
         "IRanges",
         "SummarizedExperiment",
@@ -89934,7 +89934,7 @@
         "crayon",
         "BSgenome",
         "GenomicRanges",
-        "XML",
+
 
         "RCurl",
         "Rsamtools",
@@ -90006,7 +90006,7 @@
         "readr",
         "downloader",
         "RCurl",
-        "XML",
+
         "stringr",
         "purrr",
         "philentropy",
@@ -90147,7 +90147,7 @@
 
         "plogr",
 
-        "XML",
+
         "progress",
         "stringr",
 
@@ -90211,7 +90211,7 @@
         "rtracklayer",
         "biomaRt",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -90598,7 +90598,7 @@
         "Matrix",
         "DelayedArray",
         "KEGGREST",
-        "XML",
+
         "progress",
         "BiocFileCache",
         "rappdirs",
@@ -90727,7 +90727,7 @@
         "pkgconfig",
 
         "nlme",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -91001,7 +91001,7 @@
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
         "futile.logger",
         "snow",
         "BH",
@@ -91382,7 +91382,7 @@
         "scales",
         "withr",
         "reshape2",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -91457,7 +91457,7 @@
         "dplyr",
         "phyloseq",
         "shiny",
-        "XML",
+
         "BiocStyle",
         "edgeR",
         "DESeq2",
@@ -91729,7 +91729,7 @@
     ],
     "pathview": [
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
         "graph",
 
@@ -91780,7 +91780,7 @@
     ],
     "paxtoolsr": [
 
-        "XML",
+
         "httr",
         "igraph",
         "plyr",
@@ -91862,7 +91862,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -92198,7 +92198,7 @@
         "boot",
         "CircStats",
         "dtw",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -92415,7 +92415,7 @@
 
         "lattice",
         "latticeExtra",
-        "XML",
+
         "graph",
         "RBGL",
         "Rgraphviz",
@@ -92483,7 +92483,7 @@
         "MSnbase",
         "mzR",
         "stringr",
-        "XML",
+
         "minpack.lm",
         "scales",
         "shiny",
@@ -92607,7 +92607,7 @@
         "annotate",
         "survival",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -92850,7 +92850,7 @@
 
     ],
     "pepXMLTab": [
-        "XML"
+
     ],
     "PERFect": [
         "sn",
@@ -92960,7 +92960,7 @@
         "mgcv",
         "tibble",
         "withr",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -93024,7 +93024,7 @@
         "BiocGenerics",
         "Matrix",
         "pkgconfig",
-        "XML",
+
         "RCurl",
         "Rgraphviz",
 
@@ -93238,7 +93238,7 @@
 
         "ellipsis",
         "purrr",
-        "XML",
+
         "xtable",
         "bit",
         "lambda.r",
@@ -93483,7 +93483,7 @@
         "data.table",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -93706,7 +93706,7 @@
         "mgcv",
         "hgu133a.db",
         "ellipse",
-        "XML",
+
 
         "BiocGenerics",
         "httr",
@@ -94791,7 +94791,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -95154,7 +95154,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -95291,7 +95291,7 @@
 
         "stringi",
         "zip",
-        "XML",
+
 
         "BiocGenerics",
         "IRanges",
@@ -95376,7 +95376,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "pkgconfig",
@@ -95577,7 +95577,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "ellipsis",
@@ -95743,7 +95743,7 @@
 
         "tzdb",
         "yaml",
-        "XML",
+
         "data.table",
         "httpuv",
         "mime",
@@ -95809,7 +95809,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -96035,7 +96035,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
         "askpass",
         "curl",
         "Rmpfr",
@@ -96341,7 +96341,7 @@
         "STRINGdb",
         "yeastExpData",
         "httr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -96453,7 +96453,7 @@
         "genefilter",
         "annotate",
 
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -96530,7 +96530,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "crayon",
@@ -96754,7 +96754,7 @@
 
         "bslib",
         "cachem",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -96831,7 +96831,7 @@
         "BiocParallel",
         "magrittr",
         "biomaRt",
-        "XML",
+
         "httr",
         "jsonlite",
         "ggplot2",
@@ -96946,7 +96946,7 @@
         "multtest",
         "annotate",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -97041,7 +97041,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -97257,7 +97257,7 @@
 
         "mzID",
 
-        "XML",
+
         "scales",
 
         "hms",
@@ -97388,7 +97388,7 @@
         "DelayedArray",
 
         "pkgconfig",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -97456,7 +97456,7 @@
         "RCurl",
         "BiocIO",
         "biomaRt",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -97627,7 +97627,7 @@
         "affyio",
 
 
-        "XML",
+
         "xtable",
         "httr",
         "lambda.r",
@@ -97779,7 +97779,7 @@
         "mzID",
 
         "ggplot2",
-        "XML",
+
         "scales",
         "GenomicRanges",
         "ggrepel",
@@ -97908,7 +97908,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "reshape2",
@@ -98181,7 +98181,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -98395,7 +98395,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
 
         "MLInterfaces",
 
@@ -98560,7 +98560,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -98632,7 +98632,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -98687,7 +98687,7 @@
         "webshot",
         "R.utils",
         "shinythemes",
-        "XML",
+
         "later",
         "rclipboard",
         "shinycssloaders",
@@ -99052,7 +99052,7 @@
         "BSgenome",
         "Rhtslib",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -99129,7 +99129,7 @@
         "OrganismDbi",
         "AnnotationForge",
         "futile.logger",
-        "XML",
+
         "XVector",
         "crayon",
         "GenomeInfoDbData",
@@ -99261,7 +99261,7 @@
         "ggrepel",
         "gtools",
         "matrixStats",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -99377,7 +99377,7 @@
         "stringr",
         "SummarizedExperiment",
         "survival",
-        "XML",
+
         "xtable",
         "BiocGenerics",
         "Biobase",
@@ -99547,7 +99547,7 @@
         "httr",
         "plyr",
         "RCurl",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -99628,7 +99628,7 @@
         "RSQLite",
         "graph",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -99776,7 +99776,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
         "httr",
         "viridisLite",
 
@@ -99911,7 +99911,7 @@
         "hms",
 
         "crayon",
-        "XML",
+
         "httr",
         "jsonlite",
         "ellipsis",
@@ -100090,7 +100090,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "MatrixGenerics",
@@ -100259,7 +100259,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -100402,7 +100402,7 @@
         "httr",
         "yaml",
         "dplyr",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -100537,7 +100537,7 @@
         "lifecycle",
         "anytime",
         "sass",
-        "XML",
+
 
         "httr",
         "IRanges",
@@ -100806,7 +100806,7 @@
         "mvtnorm",
 
         "Rgraphviz",
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -100935,7 +100935,7 @@
 
         "mzID",
         "lattice",
-        "XML",
+
 
         "cli",
 
@@ -101082,7 +101082,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -101159,7 +101159,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -101240,7 +101240,7 @@
         "interp",
         "nlme",
         "viridisLite",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -101467,7 +101467,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -101608,7 +101608,7 @@
         "VariantAnnotation",
 
 
-        "XML",
+
         "restfulr",
         "hwriter",
         "lattice",
@@ -101881,7 +101881,7 @@
         "RBGL",
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -101961,7 +101961,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -102038,7 +102038,7 @@
         "BSgenome",
         "Rsamtools",
         "ShortRead",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -102360,7 +102360,7 @@
         "biomaRt",
         "Biostrings",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -102530,7 +102530,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "BiocFileCache",
         "AnnotationHub",
@@ -102731,7 +102731,7 @@
     ],
     "rBiopaxParser": [
         "data.table",
-        "XML"
+
     ],
     "RBM": [
         "limma",
@@ -102912,7 +102912,7 @@
         "memoise",
         "pkgconfig",
         "plogr",
-        "XML",
+
 
         "restfulr",
         "KEGGREST",
@@ -103102,7 +103102,7 @@
         "cachem",
         "ellipsis",
         "lifecycle",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -103206,7 +103206,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "R.oo",
         "R.methodsS3",
         "MatrixGenerics",
@@ -103717,7 +103717,7 @@
     "RCy3": [
         "httr",
         "RJSONIO",
-        "XML",
+
         "BiocGenerics",
         "graph",
         "fs",
@@ -104085,7 +104085,7 @@
 
 
         "graph",
-        "XML",
+
         "evaluate",
         "highr",
         "stringr",
@@ -104271,7 +104271,7 @@
         "R.utils",
         "limma",
 
-        "XML",
+
         "jsonlite",
         "Biostrings",
 
@@ -104413,7 +104413,7 @@
         "R.oo",
         "R.methodsS3",
 
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -104565,7 +104565,7 @@
         "plogr",
         "multtest",
 
-        "XML",
+
         "xtable",
         "KEGGREST",
         "bit",
@@ -104621,7 +104621,7 @@
         "rtracklayer",
         "S4Vectors",
         "stringr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
 
@@ -104758,7 +104758,7 @@
         "regioneR",
         "survival",
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -104964,7 +104964,7 @@
         "ellipsis",
         "purrr",
 
-        "XML",
+
         "xtable",
         "crayon",
         "knitr",
@@ -105016,7 +105016,7 @@
         "GenomeInfoDbData",
 
         "cachem",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -105152,7 +105152,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "magrittr",
         "stringi",
@@ -105278,7 +105278,7 @@
         "GenomicAlignments",
 
         "RJSONIO",
-        "XML",
+
         "graph",
         "fs",
         "uuid",
@@ -105486,7 +105486,7 @@
         "vroom",
 
         "tzdb",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -105640,7 +105640,7 @@
 
         "Rhtslib",
         "truncnorm",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "futile.logger",
@@ -105718,7 +105718,7 @@
         "PFAM.db",
         "GSEABase",
         "BiocGenerics",
-        "XML",
+
         "R.utils",
         "DESeq2",
         "ggplot2",
@@ -105877,7 +105877,7 @@
         "IRanges",
         "biomaRt",
         "S4Vectors",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -106356,7 +106356,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -106376,7 +106376,7 @@
         "lattice"
     ],
     "RGalaxy": [
-        "XML",
+
         "optparse",
         "BiocGenerics",
         "Biobase",
@@ -106540,7 +106540,7 @@
         "mime",
         "openssl",
 
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -106624,7 +106624,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -106777,7 +106777,7 @@
         "RUnit",
         "igraph",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -106918,7 +106918,7 @@
         "purrr",
         "promises",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "BiocFileCache",
@@ -107053,7 +107053,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -107179,7 +107179,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "gsubfn",
         "proto",
@@ -107404,7 +107404,7 @@
 
         "ade4",
         "htmlwidgets",
-        "XML",
+
 
 
         "Rhtslib",
@@ -107540,7 +107540,7 @@
 
         "preprocessCore",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -107606,7 +107606,7 @@
         "regioneR",
         "rtracklayer",
         "stringr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -107750,7 +107750,7 @@
 
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
         "BiocParallel",
@@ -107993,7 +107993,7 @@
         "lambda.r",
         "futile.options",
 
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -108117,7 +108117,7 @@
         "memoise",
         "BSgenome",
         "ExperimentHub",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -108241,7 +108241,7 @@
     ],
     "RMassBank": [
 
-        "XML",
+
         "rjson",
         "S4Vectors",
 
@@ -108453,7 +108453,7 @@
         "gh",
         "rappdirs",
         "rstudioapi",
-        "XML",
+
         "progress",
         "BiocFileCache",
         "sass",
@@ -108519,7 +108519,7 @@
         "XVector",
 
         "R6",
-        "XML",
+
         "Biostrings",
 
         "RCurl",
@@ -108614,7 +108614,7 @@
         "matrixStats",
         "nlme",
 
-        "XML",
+
         "jsonlite",
         "bit64",
         "blob",
@@ -108814,7 +108814,7 @@
 
 
 
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -108916,7 +108916,7 @@
 
         "interp",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -109041,7 +109041,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "KEGGREST",
         "progress",
@@ -109167,7 +109167,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -109336,7 +109336,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "KEGGREST",
         "progress",
@@ -109460,7 +109460,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -109705,7 +109705,7 @@
         "tibble",
         "withr",
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
         "graph",
 
@@ -109871,7 +109871,7 @@
         "matlab",
         "KEGGREST",
 
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -109983,7 +109983,7 @@
         "AnnotationDbi",
         "GenomicFeatures",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -110158,7 +110158,7 @@
         "Rsamtools",
         "BiocParallel",
         "XVector",
-        "XML",
+
 
         "BiocIO",
         "restfulr",
@@ -110251,7 +110251,7 @@
         "KEGGgraph",
         "Rgraphviz",
         "BiocGenerics",
-        "XML",
+
         "RCurl",
         "httr",
 
@@ -110428,7 +110428,7 @@
     ],
 
     "RpsiXML": [
-        "XML",
+
         "annotate",
         "graph",
         "Biobase",
@@ -110630,7 +110630,7 @@
         "nlme",
         "Matrix",
         "magrittr",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -111095,7 +111095,7 @@
         "BiocGenerics"
     ],
     "RTCGA": [
-        "XML",
+
         "assertthat",
         "stringi",
         "rvest",
@@ -111230,7 +111230,7 @@
         "SummarizedExperiment",
         "survival",
         "TCGAutils",
-        "XML",
+
         "Matrix",
         "MatrixGenerics",
         "IRanges",
@@ -111716,7 +111716,7 @@
     ],
     "rtracklayer": [
         "GenomicRanges",
-        "XML",
+
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -111913,7 +111913,7 @@
         "bit64",
         "blob",
         "plogr",
-        "XML",
+
 
         "RCurl",
         "Rsamtools",
@@ -112083,7 +112083,7 @@
         "R.oo",
         "R.utils",
         "matrixStats",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -112195,7 +112195,7 @@
     ],
     "rWikiPathways": [
         "httr",
-        "XML",
+
         "rjson",
         "data.table",
         "tidyr",
@@ -112300,7 +112300,7 @@
         "e1071",
         "ggplot2",
         "AnnotationDbi",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -112633,7 +112633,7 @@
         "reshape2",
         "scales",
         "gridExtra",
-        "XML",
+
 
         "glue",
 
@@ -112705,7 +112705,7 @@
         "highr",
         "stringr",
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
         "graph",
         "org.Hs.eg.db",
@@ -112744,7 +112744,7 @@
         "cli"
     ],
     "SBMLR": [
-        "XML",
+
 
     ],
     "SC3": [
@@ -113113,7 +113113,7 @@
         "plogr",
         "ellipsis",
         "purrr",
-        "XML",
+
         "xtable",
         "KEGGREST",
         "lambda.r",
@@ -113264,7 +113264,7 @@
 
         "vctrs",
         "purrr",
-        "XML",
+
 
         "GenomicAlignments",
         "restfulr",
@@ -113528,7 +113528,7 @@
         "S4Vectors",
 
         "GenomicRanges",
-        "XML",
+
         "XVector",
         "GenomeInfoDb",
         "Biostrings",
@@ -113947,7 +113947,7 @@
         "pillar",
 
         "dqrng",
-        "XML",
+
 
         "RSQLite",
         "KEGGREST",
@@ -114405,7 +114405,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -115077,7 +115077,7 @@
         "munsell",
         "viridisLite",
         "pkgconfig",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -115801,7 +115801,7 @@
         "blob",
         "pkgconfig",
         "plogr",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "farver",
@@ -115975,7 +115975,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -116155,7 +116155,7 @@
         "tibble",
 
         "progress",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -116228,7 +116228,7 @@
         "biomaRt",
         "lattice",
 
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "progress",
@@ -116455,7 +116455,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
 
@@ -116859,7 +116859,7 @@
 
         "Rhtslib",
         "Matrix",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -117137,7 +117137,7 @@
         "DelayedArray",
         "MatrixGenerics",
         "GenomeInfoDb",
-        "XML",
+
         "xtable",
         "RCurl",
         "dbplyr",
@@ -117315,7 +117315,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "magrittr",
         "Matrix",
         "pkgconfig",
@@ -117686,7 +117686,7 @@
 
 
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "BiocFileCache",
@@ -117950,7 +117950,7 @@
         "caTools",
         "KernSmooth",
         "lattice",
-        "XML",
+
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -118127,7 +118127,7 @@
 
 
         "KEGGREST",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -118206,7 +118206,7 @@
         "AnnotationDbi",
         "GO.db",
         "annotate",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -118260,7 +118260,7 @@
         "biomaRt",
         "GenomicRanges",
         "seq2pathway.data",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -118435,7 +118435,7 @@
 
         "mgcv",
         "withr",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -118606,7 +118606,7 @@
         "DESeq2",
         "biomaRt",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -118765,7 +118765,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "gridExtra",
@@ -119215,7 +119215,7 @@
         "magrittr",
         "jsonlite",
         "curl",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -119295,7 +119295,7 @@
         "vroom",
 
         "tzdb",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -119365,7 +119365,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "DelayedArray",
@@ -119526,7 +119526,7 @@
         "tinytex",
         "xfun",
         "yaml",
-        "XML",
+
 
         "RCurl",
         "Rsamtools",
@@ -119714,7 +119714,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "RSQLite",
         "KEGGREST",
@@ -119843,7 +119843,7 @@
         "ggplot2",
         "parallelMap",
         "stringi",
-        "XML",
+
 
         "ade4",
         "ape",
@@ -119968,7 +119968,7 @@
         "magrittr",
         "Matrix",
         "AnnotationDbi",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -120067,7 +120067,7 @@
         "Biobase",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -120261,7 +120261,7 @@
         "withr",
         "annotate",
         "graph",
-        "XML",
+
         "rhdf5filters",
 
         "lattice",
@@ -120433,7 +120433,7 @@
 
         "plyr",
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "magrittr",
@@ -120523,7 +120523,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
 
         "GenomicAlignments",
         "BiocIO",
@@ -120615,7 +120615,7 @@
         "Matrix",
         "MatrixModels",
 
-        "XML",
+
 
         "xtable",
         "BiocGenerics",
@@ -120717,7 +120717,7 @@
 
         "preprocessCore",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -121225,7 +121225,7 @@
         "treeio",
         "annotate",
         "graph",
-        "XML",
+
         "hgu95a.db",
         "pkgconfig",
         "progress",
@@ -121459,7 +121459,7 @@
         "VariantAnnotation",
 
 
-        "XML",
+
         "restfulr",
         "hwriter",
         "lattice",
@@ -121594,7 +121594,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "httr",
         "jsonlite",
         "viridisLite",
@@ -121698,7 +121698,7 @@
         "HDF5Array",
         "BiocSingular",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -121774,7 +121774,7 @@
         "RSQLite",
         "rtracklayer",
         "S4Vectors",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -121955,7 +121955,7 @@
         "lumi",
         "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -122095,7 +122095,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "Matrix",
         "S4Vectors",
         "GenomicRanges",
@@ -122394,7 +122394,7 @@
         "blob",
         "memoise",
         "plogr",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -122479,7 +122479,7 @@
         "Matrix",
         "lattice",
         "ggplot2",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -122709,7 +122709,7 @@
         "biomaRt",
         "nlme",
         "colorspace",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "magrittr",
@@ -122804,7 +122804,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -123032,7 +123032,7 @@
         "xtable",
         "assertthat",
 
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -123370,7 +123370,7 @@
         "Biobase",
         "annotate",
         "graph",
-        "XML",
+
         "lattice",
         "httr",
         "jsonlite",
@@ -123531,7 +123531,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -124058,7 +124058,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "XML",
+
         "DelayedArray",
         "rhdf5",
         "rhdf5filters",
@@ -124235,7 +124235,7 @@
         "gtools",
         "seqLogo",
         "TFMPvalue",
-        "XML",
+
         "KEGGREST",
         "futile.logger",
         "snow",
@@ -124528,7 +124528,7 @@
     ],
     "SPIA": [
         "KEGGgraph",
-        "XML",
+
         "graph",
         "RCurl",
         "Rgraphviz",
@@ -124691,7 +124691,7 @@
         "biomaRt",
         "dplyr",
         "GenomicRanges",
-        "XML",
+
         "data.table",
         "knitr",
         "rvest",
@@ -124853,7 +124853,7 @@
         "BH",
         "lattice",
         "nlme",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -125013,7 +125013,7 @@
 
         "Rhtslib",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -125084,7 +125084,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "magrittr",
         "Matrix",
         "pkgconfig",
@@ -125141,7 +125141,7 @@
         "stringr",
         "BSgenome.Mmusculus.UCSC.mm9",
         "googleVis",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -125723,7 +125723,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "MatrixGenerics",
         "Matrix",
@@ -126132,7 +126132,7 @@
 
         "RSQLite",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -126258,7 +126258,7 @@
         "annotate",
 
         "survival",
-        "XML",
+
         "lattice",
         "affy",
         "limma",
@@ -126402,7 +126402,7 @@
         "biomaRt",
         "dplyr",
         "GenomicRanges",
-        "XML",
+
         "data.table",
         "knitr",
         "rvest",
@@ -126662,7 +126662,7 @@
         "pkgconfig",
         "ellipsis",
         "purrr",
-        "XML",
+
         "progress",
         "httr",
         "BiocFileCache",
@@ -126916,7 +126916,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -127402,7 +127402,7 @@
         "testthat",
 
         "msa",
-        "XML",
+
         "AnnotationDbi",
         "progress",
 
@@ -127660,7 +127660,7 @@
     "Sushi": [
         "zoo",
         "biomaRt",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -127744,7 +127744,7 @@
         "survival",
         "nlme",
         "Matrix",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -127819,7 +127819,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -127911,7 +127911,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -127974,7 +127974,7 @@
         "reshape2",
         "ggplot2",
         "biomaRt",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -128754,7 +128754,7 @@
 
         "munsell",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -129019,7 +129019,7 @@
         "purrr",
 
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -129135,7 +129135,7 @@
         "polynom",
         "rstatix",
         "magrittr",
-        "XML",
+
         "plyr",
         "doParallel",
         "foreach",
@@ -129416,7 +129416,7 @@
         "caTools",
         "KernSmooth",
         "graph",
-        "XML",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -129514,7 +129514,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -129567,7 +129567,7 @@
         "dplyr",
         "tibble",
         "GenomicRanges",
-        "XML",
+
         "data.table",
         "jsonlite",
         "plyr",
@@ -129754,7 +129754,7 @@
         "survival",
 
         "KEGGgraph",
-        "XML",
+
         "Rgraphviz",
         "graph",
 
@@ -130004,7 +130004,7 @@
         "withr",
         "stringi",
         "DelayedArray",
-        "XML",
+
         "progress",
 
         "BiocFileCache",
@@ -130360,7 +130360,7 @@
         "seqLogo",
         "S4Vectors",
         "TFMPvalue",
-        "XML",
+
         "XVector",
         "futile.logger",
         "snow",
@@ -130462,7 +130462,7 @@
         "dplyr",
         "R.utils",
         "org.Hs.eg.db",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -130601,7 +130601,7 @@
         "promises",
         "annotate",
         "graph",
-        "XML",
+
         "mime",
         "openssl",
         "cellranger",
@@ -130874,7 +130874,7 @@
         "annotate",
 
         "RSQLite",
-        "XML",
+
         "xtable",
         "httr",
         "IRanges",
@@ -130952,7 +130952,7 @@
         "limma",
         "lattice",
         "ggplot2",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -131196,7 +131196,7 @@
         "farver",
 
         "munsell",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -131251,7 +131251,7 @@
         "scales",
         "tidyr",
         "stringr",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "httr",
@@ -131559,7 +131559,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -131659,7 +131659,7 @@
         "utf8",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -131771,7 +131771,7 @@
         "utf8",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
@@ -131920,7 +131920,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -132252,7 +132252,7 @@
         "pcaMethods",
 
         "mzID",
-        "XML",
+
 
         "ncdf4",
 
@@ -132602,7 +132602,7 @@
         "GenomicRanges",
         "XVector",
         "Rsamtools",
-        "XML",
+
         "tractor.base",
         "stringr",
 
@@ -132665,7 +132665,7 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "XML",
+
         "lattice",
 
         "ensembldb",
@@ -132922,7 +132922,7 @@
         "snow",
         "tidyr",
         "topGO",
-        "XML",
+
         "AnnotationDbi",
         "stringr",
         "httr",
@@ -133056,7 +133056,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "restfulr",
         "KEGGREST",
         "futile.logger",
@@ -133292,7 +133292,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "XML",
+
         "xtable",
         "httr",
         "lambda.r",
@@ -133354,7 +133354,7 @@
 
         "Biostrings",
         "RJSONIO",
-        "XML",
+
         "BiocGenerics",
         "graph",
         "fs",
@@ -133504,7 +133504,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -133733,7 +133733,7 @@
         "ggrepel",
         "pheatmap",
         "Rtsne",
-        "XML",
+
         "scattermore",
         "GenomeInfoDb",
         "XVector",
@@ -133940,7 +133940,7 @@
         "IRanges",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -134168,7 +134168,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -134368,7 +134368,7 @@
         "Matrix",
         "plyr",
         "stringr",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -134677,7 +134677,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -134976,7 +134976,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
@@ -135275,7 +135275,7 @@
         "Matrix",
         "DelayedArray",
         "KEGGREST",
-        "XML",
+
         "httr",
         "BiocFileCache",
         "rappdirs",
@@ -135453,7 +135453,7 @@
         "RCurl",
         "BiocIO",
         "biomaRt",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -135571,7 +135571,7 @@
 
         "vctrs",
 
-        "XML",
+
         "progress",
         "stringr",
 
@@ -135725,7 +135725,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -135808,7 +135808,7 @@
         "fda",
         "BiocGenerics",
         "AnnotationDbi",
-        "XML",
+
         "Biobase",
 
         "xtable",
@@ -136000,7 +136000,7 @@
 
         "R6",
         "yaml",
-        "XML",
+
         "data.table",
 
 
@@ -136219,7 +136219,7 @@
         "biomaRt",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -136371,7 +136371,7 @@
         "RcppEigen",
         "graph",
         "RBGL",
-        "XML",
+
         "RCurl",
         "RUnit",
 
@@ -136646,7 +136646,7 @@
         "cachem",
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -136721,7 +136721,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -136879,7 +136879,7 @@
         "biomaRt",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -137056,7 +137056,7 @@
         "GenomeInfoDbData",
         "BiocIO",
         "biomaRt",
-        "XML",
+
 
         "BiocFileCache",
         "AnnotationHub",
@@ -137207,7 +137207,7 @@
 
 
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "MatrixGenerics",
@@ -137297,7 +137297,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -137408,7 +137408,7 @@
         "BiocIO",
         "biomaRt",
         "lattice",
-        "XML",
+
         "restfulr",
         "progress",
         "stringr",
@@ -137466,7 +137466,7 @@
         "biomaRt",
         "Biobase",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -137735,7 +137735,7 @@
         "stringi",
 
         "pkgconfig",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -137807,7 +137807,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "XML",
+
         "RCurl",
         "progress",
         "stringr",
@@ -137963,7 +137963,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "magrittr",
         "Matrix",
         "pkgconfig",
@@ -138233,7 +138233,7 @@
         "Rsamtools",
         "BSgenome",
         "Rhtslib",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -138375,7 +138375,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -138615,7 +138615,7 @@
         "affyio",
 
 
-        "XML",
+
         "xtable",
         "httr",
         "KEGGREST",
@@ -138791,7 +138791,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "ade4",
@@ -139059,7 +139059,7 @@
 
         "mgcv",
         "withr",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -139311,7 +139311,7 @@
         "mzID",
 
         "ggplot2",
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -139375,7 +139375,7 @@
         "survival",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "httr",
@@ -139665,7 +139665,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -139852,7 +139852,7 @@
         "utf8",
 
         "BiocParallel",
-        "XML",
+
         "restfulr",
         "farver",
 
@@ -139934,7 +139934,7 @@
 
         "quantro",
         "BiocGenerics",
-        "XML",
+
         "AnnotationDbi",
         "progress",
         "stringr",
@@ -140186,7 +140186,7 @@
         "MatrixGenerics",
         "IRanges",
         "GenomeInfoDb",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -140331,7 +140331,7 @@
 
     "cluster": [],
     "randomForest": [],
-    "XML": [],
+
     "httr": [
         "curl",
         "jsonlite",
@@ -142267,7 +142267,7 @@
         "utf8"
     ],
     "restfulr": [
-        "XML",
+
         "RCurl",
         "rjson",
         "S4Vectors",
@@ -143020,7 +143020,7 @@
         "parallelly"
     ],
     "rentrez": [
-        "XML",
+
         "httr",
         "jsonlite",
         "curl",
@@ -143062,7 +143062,7 @@
         "tibble",
         "withr",
         "jsonlite",
-        "XML",
+
 
         "httpuv",
         "mime",
@@ -143254,7 +143254,7 @@
     ],
     "gridSVG": [
         "jsonlite",
-        "XML"
+
     ],
     "reticulate": [
         "Matrix",
@@ -143566,7 +143566,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -143603,7 +143603,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -143699,7 +143699,7 @@
 
         "graph",
         "RBGL",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -143789,7 +143789,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -143827,7 +143827,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -143882,7 +143882,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -143991,7 +143991,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -144100,7 +144100,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -144227,7 +144227,7 @@
         "lattice",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -144327,7 +144327,7 @@
         "cachem",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -144418,7 +144418,7 @@
         "cachem",
 
         "BiocParallel",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "Matrix",
@@ -144561,7 +144561,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -145161,7 +145161,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -146213,7 +146213,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -147836,7 +147836,7 @@
 
         "graph",
         "RBGL",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -147965,7 +147965,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -148185,7 +148185,7 @@
     "hash": [],
     "BoolNet": [
         "igraph",
-        "XML",
+
         "magrittr",
         "Matrix",
         "pkgconfig",
@@ -148320,7 +148320,7 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "XML",
+
 
         "restfulr",
         "dbplyr",
@@ -148466,7 +148466,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -150060,7 +150060,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -150197,7 +150197,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -150331,7 +150331,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -150461,7 +150461,7 @@
         "BiocIO",
         "biomaRt",
         "Biobase",
-        "XML",
+
 
         "Rsamtools",
         "GenomicAlignments",
@@ -150702,7 +150702,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -150748,7 +150748,7 @@
         "vroom",
 
         "tzdb",
-        "XML",
+
         "Biostrings",
 
         "Rsamtools",
@@ -150941,7 +150941,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -151030,7 +151030,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -151119,7 +151119,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -151208,7 +151208,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -151297,7 +151297,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -151589,7 +151589,7 @@
     "rlist": [
         "yaml",
         "jsonlite",
-        "XML",
+
         "data.table"
     ],
     "msigdbr": [
@@ -151833,7 +151833,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -151904,7 +151904,7 @@
         "nlme",
         "lattice",
         "progress",
-        "XML",
+
         "plyr",
         "reshape2",
         "httr",
@@ -152028,7 +152028,7 @@
     ],
     "RNeXML": [
         "ape",
-        "XML",
+
         "plyr",
         "reshape2",
         "httr",
@@ -152615,7 +152615,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -152747,7 +152747,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -152906,7 +152906,7 @@
         "mzID",
 
         "ggplot2",
-        "XML",
+
         "scales",
         "ncdf4",
 
@@ -153239,7 +153239,7 @@
 
         "TTR",
         "curl",
-        "XML",
+
         "data.table",
         "stringi",
 
@@ -154092,7 +154092,7 @@
 
         "lattice",
         "ggplot2",
-        "XML",
+
         "scales",
 
 
@@ -156435,7 +156435,7 @@
         "R.utils",
         "stringi",
         "stringr",
-        "XML",
+
         "plyr",
         "signal",
         "boot",
@@ -156673,7 +156673,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -157263,7 +157263,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -157764,7 +157764,7 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "XML",
+
         "progress",
         "stringr",
         "httr",
@@ -158407,7 +158407,7 @@
         "pkgconfig",
 
         "plogr",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
@@ -159261,7 +159261,7 @@
         "nlme",
         "ggplot2",
         "reshape2",
-        "XML",
+
 
         "xtable",
         "httr",
@@ -159510,7 +159510,7 @@
         "plyr",
         "multtest",
 
-        "XML",
+
 
         "xtable",
         "RSQLite",
@@ -159614,7 +159614,7 @@
         "OrganismDbi",
         "AnnotationForge",
         "futile.logger",
-        "XML",
+
         "RCurl",
         "dbplyr",
         "filelock",
@@ -159940,7 +159940,7 @@
 
         "data.table",
         "RCurl",
-        "XML",
+
 
     ],
     "ismev": [
@@ -160009,7 +160009,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -160586,7 +160586,7 @@
     ],
     "akmbiclust": [],
     "grImport": [
-        "XML"
+
     ],
     "gghalves": [
         "ggplot2",
@@ -160870,7 +160870,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -161081,7 +161081,7 @@
         "colorspace"
     ],
     "VarfromPDB": [
-        "XML",
+
         "XML2R",
         "curl",
         "stringr",
@@ -161103,7 +161103,7 @@
         "sys"
     ],
     "XML2R": [
-        "XML",
+
         "RCurl",
         "plyr",
 
@@ -161375,7 +161375,7 @@
         "R.oo",
         "R.methodsS3",
         "GenomicRanges",
-        "XML",
+
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -161698,7 +161698,7 @@
         "readr",
         "downloader",
         "RCurl",
-        "XML",
+
         "httr",
         "stringr",
         "purrr",
@@ -162375,7 +162375,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -162785,7 +162785,7 @@
         "Rsamtools",
         "RCurl",
         "GenomeInfoDbData",
-        "XML",
+
         "Biobase",
 
         "BiocFileCache",
@@ -163000,7 +163000,7 @@
     "CodeDepends": [
 
         "graph",
-        "XML",
+
         "BiocGenerics"
     ],
     "BSgenome.Celegans.UCSC.ce2": [
@@ -163022,7 +163022,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -163246,7 +163246,7 @@
 
         "tzdb",
         "GenomicRanges",
-        "XML",
+
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -163532,7 +163532,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "restfulr",
         "hwriter",
@@ -164297,7 +164297,7 @@
         "parallelMap",
         "stringi",
         "survival",
-        "XML",
+
 
         "glue",
 
@@ -164461,7 +164461,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "XML",
+
         "org.Hs.eg.db",
 
         "xtable",
@@ -164541,7 +164541,7 @@
 
         "dbplyr",
         "filelock",
-        "XML",
+
         "progress",
         "stringr",
 
@@ -165272,7 +165272,7 @@
 
         "BiocParallel",
         "Rhtslib",
-        "XML",
+
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -165500,7 +165500,7 @@
         "dplyr",
         "annotate",
         "graph",
-        "XML",
+
         "xtable",
         "dbplyr",
         "filelock",
