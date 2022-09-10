@@ -8,9 +8,6 @@ if [ ! -s tobuild.txt ]; then
       grep -Pzo "(?s)\s*\"\N*\":\s*\[\s*\]" packages.json | awk -F'"' '{print $2}' | grep -v '^$' | xargs -i bash -c 'echo "readytobuild" > lists/{}'
 
       grep -lr "readytobuild" lists/ | sed 's#lists/##g' > tobuild.txt
-
-      git config --local user.email "action@github.com"
-      git config --local user.name "GitHub Action"
       git add tobuild.txt
       git commit -m "Adding tobuild list"
       git push

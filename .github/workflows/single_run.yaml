@@ -23,7 +23,7 @@ jobs:
           echo "::set-output name=uniq::$(cat /proc/sys/kernel/random/uuid | md5sum | awk '{print $1}')"
 
       - name: Initialize if necessary then claim package
-        id: claim1
+        id: claim
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name github-actions
@@ -33,19 +33,31 @@ jobs:
 
 
       - name: Build claimed package
-        id: pkgbuild1
+        id: pkgbuild
         run: |
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           bash .github/scripts/build_package.sh $LIBRARY $PKG
-        if: steps.claim1.outcome=='success'
+        if: steps.claim.outcome=='success'
         continue-on-error: true
 
       - name: Push built package
-        id: push1
+        id: push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           for i in {1..20}; do bash .github/scripts/push_built.sh $PKG && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed $PKG"; else exit 1; fi
+        if: steps.pkgbuild.outcome=='success'
         continue-on-error: true
+
+      - name: Get tar name
+        id: tar
+        run: |
+          echo "::set-output name=name::$(ls /tmp/tars/ | sed 's#/tmp/tars/##g')"
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: ${{steps.tar.outputs.name}}
+          path: /tmp/tars/${{steps.tar.outputs.name}}
+
