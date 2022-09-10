@@ -380,7 +380,7 @@
         "CGHbase",
         "CGHcall",
         "DNAcopy",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -590,7 +590,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "cli",
 
         "utf8",
@@ -737,7 +737,7 @@
 
         "openssl",
 
-        "matrixStats",
+
 
         "bit64",
         "blob",
@@ -928,7 +928,7 @@
 
         "survival",
         "RcppEigen",
-        "matrixStats",
+
         "formatR",
 
 
@@ -1004,7 +1004,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "dplyr",
         "ellipsis",
 
@@ -1187,7 +1187,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
 
 
 
@@ -1417,7 +1417,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "cli",
         "utf8",
 
@@ -1548,7 +1548,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
 
 
 
@@ -1626,7 +1626,7 @@
 
         "clue",
 
-        "matrixStats",
+
         "dplyr",
         "plyr",
         "ggplot2",
@@ -1760,7 +1760,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "RcppGSL",
 
         "formatR",
@@ -1876,7 +1876,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
         "BiocParallel",
@@ -2109,7 +2109,7 @@
         "rappdirs",
 
 
-        "matrixStats",
+
         "bit64",
         "blob",
         "memoise",
@@ -2170,7 +2170,7 @@
         "reshape2",
         "GGally",
         "mixOmics",
-        "matrixStats",
+
 
         "fs",
         "rmarkdown",
@@ -2345,7 +2345,7 @@
         "glmnet",
         "httr",
 
-        "matrixStats",
+
         "readr",
         "reshape2",
         "tibble",
@@ -2492,7 +2492,7 @@
         "ggthemes",
         "waffle",
         "stringr",
-        "matrixStats",
+
         "Matrix",
         "dplyr",
         "rmarkdown",
@@ -2650,7 +2650,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -2839,7 +2839,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -2936,7 +2936,7 @@
 
         "survival",
         "RcppEigen",
-        "matrixStats",
+
 
 
 
@@ -3482,7 +3482,7 @@
 
 
 
-        "matrixStats",
+
         "fs"
     ],
     "annotationTools": [
@@ -3559,7 +3559,7 @@
 
         "progress",
 
-        "matrixStats",
+
         "SummarizedExperiment",
         "BiocParallel",
         "ellipsis",
@@ -3705,7 +3705,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
         "plyr",
         "stringr",
 
@@ -3753,7 +3753,7 @@
 
     ],
     "antiProfiles": [
-        "matrixStats",
+
         "locfit",
 
     ],
@@ -4024,7 +4024,7 @@
         "rappdirs",
 
 
-        "matrixStats",
+
         "annotate",
         "survival",
 
@@ -4140,7 +4140,7 @@
         "mvtnorm",
         "RCurl",
 
-        "matrixStats",
+
 
 
     ],
@@ -4179,7 +4179,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "htmltools",
         "htmlwidgets",
 
@@ -4300,7 +4300,7 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "matrixStats"
+
     ],
     "ArrayExpress": [
         "Biobase",
@@ -4345,7 +4345,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
 
         "cli",
 
@@ -4478,7 +4478,7 @@
 
 
         "formatR",
-        "matrixStats",
+
         "cachem",
 
         "utf8"
@@ -4525,7 +4525,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -4948,7 +4948,7 @@
         "RcppEigen",
 
         "ptw",
-        "matrixStats",
+
         "reshape2",
         "Biobase",
         "MultiDataSet",
@@ -5067,7 +5067,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
         "doParallel",
         "lme4",
@@ -5224,7 +5224,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
 
 
@@ -5392,7 +5392,7 @@
         "expm",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -5477,7 +5477,7 @@
         "edgeR",
         "XVector",
 
-        "matrixStats",
+
         "AnnotationDbi",
 
         "dplyr",
@@ -5633,7 +5633,7 @@
         "Rhtslib",
         "MatrixGenerics",
 
-        "matrixStats",
+
         "Biobase",
         "DelayedArray",
 
@@ -5669,7 +5669,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -5874,7 +5874,7 @@
 
 
 
-        "matrixStats",
+
 
         "nlme",
 
@@ -5908,7 +5908,7 @@
         "gridExtra",
 
 
-        "matrixStats",
+
         "MultiAssayExperiment",
         "pcaMethods",
         "rappdirs",
@@ -6034,7 +6034,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -6123,7 +6123,7 @@
         "minqa",
         "nloptr",
         "RcppEigen",
-        "matrixStats",
+
         "cli",
         "utf8",
 
@@ -6224,7 +6224,7 @@
 
 
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -6303,7 +6303,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "edgeR",
         "futile.logger",
 
@@ -6376,7 +6376,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
 
 
@@ -6557,7 +6557,7 @@
         "tibble",
 
         "checkmate",
-        "matrixStats",
+
         "callr",
         "cli",
 
@@ -6661,7 +6661,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
         "utf8",
@@ -6773,7 +6773,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "BaseSpaceR": [
         "RCurl",
@@ -6802,7 +6802,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
 
@@ -6837,7 +6837,7 @@
         "SummarizedExperiment",
         "viridis",
         "Matrix",
-        "matrixStats",
+
 
         "reshape2",
         "BiocParallel",
@@ -6963,7 +6963,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "basilisk": [
@@ -7011,7 +7011,7 @@
         "rsvd",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -7039,7 +7039,7 @@
         "sva",
 
 
-        "matrixStats",
+
         "ggvis",
         "heatmaply",
         "reshape2",
@@ -7274,7 +7274,7 @@
         "pillar",
         "tidyselect",
         "vctrs",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "sitmo",
@@ -7342,7 +7342,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "formatR",
 
 
@@ -7395,7 +7395,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -7519,7 +7519,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "farver",
 
         "lifecycle",
@@ -7547,7 +7547,7 @@
         "S4Vectors",
         "IRanges",
 
-        "matrixStats"
+
     ],
     "beadarray": [
 
@@ -7674,7 +7674,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -7693,7 +7693,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "BiocParallel",
         "GenomicAlignments",
@@ -7812,7 +7812,7 @@
 
         "progress",
         "glmnet",
-        "matrixStats",
+
         "foreach",
         "gplots",
         "Wrench",
@@ -8120,7 +8120,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "BgeeDB": [
@@ -8163,7 +8163,7 @@
         "AnnotationDbi",
 
 
-        "matrixStats",
+
         "IRanges",
         "S4Vectors",
         "KEGGREST",
@@ -8315,7 +8315,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "S4Vectors",
         "IRanges",
@@ -8551,7 +8551,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "nlme",
 
         "utf8",
@@ -8578,7 +8578,7 @@
     "BindingSiteFinder": [
         "GenomicRanges",
         "tidyr",
-        "matrixStats",
+
         "ggplot2",
         "rtracklayer",
         "S4Vectors",
@@ -9230,7 +9230,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "MultiAssayExperiment",
@@ -9592,7 +9592,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "BiocSklearn": [
@@ -9629,7 +9629,7 @@
         "XVector",
 
 
-        "matrixStats",
+
 
 
 
@@ -10345,7 +10345,7 @@
         "Biobase",
         "GO.db",
         "AnnotationDbi",
-        "matrixStats",
+
 
 
         "zoo",
@@ -10450,7 +10450,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
 
@@ -10568,7 +10568,7 @@
     "BioNERO": [
         "WGCNA",
 
-        "matrixStats",
+
         "DESeq2",
         "sva",
 
@@ -10985,7 +10985,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "R.oo",
         "R.methodsS3",
 
@@ -11057,7 +11057,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -11218,7 +11218,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
 
         "cubature",
@@ -11330,7 +11330,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
 
 
 
@@ -11421,7 +11421,7 @@
         "GenomeInfoDb",
         "Mus.musculus",
         "Homo.sapiens",
-        "matrixStats",
+
         "rtracklayer",
         "QDNAseq",
         "dmrseq",
@@ -11628,7 +11628,7 @@
 
         "BiocParallel",
         "zoo",
-        "matrixStats",
+
 
 
 
@@ -11699,7 +11699,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "MatrixGenerics",
@@ -11892,7 +11892,7 @@
         "testthat",
         "ComplexHeatmap",
         "ggplot2",
-        "matrixStats",
+
 
         "reshape2",
 
@@ -12052,7 +12052,7 @@
 
         "GenomeInfoDb",
         "S4Vectors",
-        "matrixStats",
+
 
         "sva",
         "EBImage",
@@ -12124,7 +12124,7 @@
     ],
     "bnem": [
         "CellNOptR",
-        "matrixStats",
+
         "snowfall",
         "Rgraphviz",
 
@@ -12405,7 +12405,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "GenomicFeatures",
@@ -12637,7 +12637,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "hms",
 
         "bit64",
@@ -12719,7 +12719,7 @@
         "dplyr",
 
 
-        "matrixStats",
+
         "class",
 
 
@@ -12852,7 +12852,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -12963,7 +12963,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
 
 
 
@@ -13030,7 +13030,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -13090,7 +13090,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "MatrixGenerics",
         "sparseMatrixStats",
@@ -13239,7 +13239,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "sass",
         "cachem",
         "memoise",
@@ -13372,7 +13372,7 @@
 
 
 
-        "matrixStats",
+
         "cachem",
         "shiny",
         "htmltools",
@@ -13452,7 +13452,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
 
@@ -13571,7 +13571,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
     ],
     "BUSpaRse": [
@@ -13615,7 +13615,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -13707,7 +13707,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
     ],
     "CAEN": [
@@ -13726,7 +13726,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -13782,7 +13782,7 @@
         "KEGGREST",
 
 
-        "matrixStats",
+
 
 
         "RCurl",
@@ -13928,7 +13928,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
 
 
@@ -14037,7 +14037,7 @@
         "BioNERO",
         "WGCNA",
 
-        "matrixStats",
+
         "DESeq2",
         "sva",
 
@@ -14286,7 +14286,7 @@
 
 
         "Biostrings",
-        "matrixStats",
+
         "XVector",
         "Matrix",
         "MatrixGenerics",
@@ -14449,7 +14449,7 @@
 
         "highr",
 
-        "matrixStats",
+
         "nlme",
         "doParallel",
         "foreach",
@@ -14941,7 +14941,7 @@
 
         "ellipsis",
         "formatR",
-        "matrixStats",
+
         "askpass",
 
 
@@ -14964,7 +14964,7 @@
         "gridExtra",
 
         "Matrix",
-        "matrixStats",
+
 
         "purrr",
 
@@ -15465,7 +15465,7 @@
         "rtracklayer",
         "biomaRt",
 
-        "matrixStats",
+
         "askpass",
         "utf8",
 
@@ -15601,7 +15601,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
 
     ],
@@ -15759,7 +15759,7 @@
 
         "XVector",
         "ellipsis",
-        "matrixStats",
+
         "nlme",
         "utf8",
 
@@ -15783,7 +15783,7 @@
         "ggplot2",
 
         "scales",
-        "matrixStats",
+
         "doParallel",
 
         "reshape2",
@@ -16020,7 +16020,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "cellbaseR": [
 
@@ -16144,7 +16144,7 @@
 
         "formatR",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -16248,7 +16248,7 @@
         "Rtsne",
         "reticulate",
 
-        "matrixStats",
+
         "ggplot2",
         "BiocParallel",
         "SummarizedExperiment",
@@ -16441,7 +16441,7 @@
         "GO.db",
 
 
-        "matrixStats",
+
         "httr",
 
         "Biostrings",
@@ -16493,7 +16493,7 @@
 
         "reshape2",
         "doParallel",
-        "matrixStats",
+
         "FME",
         "SpatialTools",
         "sp",
@@ -16685,7 +16685,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
         "lambda.r",
 
@@ -16841,7 +16841,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "farver",
 
         "lifecycle",
@@ -16882,7 +16882,7 @@
         "AnnotationDbi",
 
 
-        "matrixStats",
+
 
         "modeltools",
         "tm",
@@ -16943,7 +16943,7 @@
         "pracma",
         "intergraph",
         "network",
-        "matrixStats",
+
         "ggdendro",
         "gridExtra",
 
@@ -17180,7 +17180,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "cytolib",
@@ -17344,7 +17344,7 @@
 
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -17513,7 +17513,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "GenomicRanges",
@@ -17701,7 +17701,7 @@
         "ggplot2",
 
 
-        "matrixStats",
+
         "plotrix",
         "plyr",
         "readr",
@@ -17968,7 +17968,7 @@
         "plotly",
 
         "dendextend",
-        "matrixStats",
+
 
         "S4Vectors",
         "IRanges",
@@ -18338,7 +18338,7 @@
     ],
     "Chicago": [
 
-        "matrixStats",
+
 
         "Hmisc",
 
@@ -18470,7 +18470,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
 
         "bslib",
@@ -18572,7 +18572,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -18632,7 +18632,7 @@
 
 
 
-        "matrixStats",
+
         "SummarizedExperiment",
 
 
@@ -18776,7 +18776,7 @@
         "progress",
         "lambda.r",
 
-        "matrixStats",
+
 
         "askpass",
         "utf8",
@@ -18902,7 +18902,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "checkmate",
         "htmlwidgets",
         "rstudioapi",
@@ -18952,7 +18952,7 @@
         "graph",
         "InteractionSet",
         "KEGGREST",
-        "matrixStats",
+
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -19165,7 +19165,7 @@
 
 
 
-        "matrixStats",
+
         "coda",
         "bbmle",
         "annotate",
@@ -19340,7 +19340,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR"
@@ -19385,7 +19385,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "ChIPseqR": [
 
@@ -19435,7 +19435,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "ChIPsim": [
         "Biostrings",
@@ -19477,7 +19477,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "ChIPXpress": [
         "ChIPXpressData",
@@ -19565,7 +19565,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -19649,7 +19649,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "cli",
 
         "formatR"
@@ -19823,7 +19823,7 @@
         "webshot",
         "svglite",
 
-        "matrixStats",
+
         "babelgene",
         "httr",
 
@@ -19992,7 +19992,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -20007,7 +20007,7 @@
         "gplots",
         "IRanges",
 
-        "matrixStats",
+
 
         "NMF",
         "rtracklayer",
@@ -20120,7 +20120,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "htmltools",
         "htmlwidgets",
 
@@ -20368,7 +20368,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "DDRTree",
@@ -20626,7 +20626,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "SummarizedExperiment",
         "Biobase",
@@ -20828,7 +20828,7 @@
         "rsvd",
 
         "BiocNeighbors",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "tidyselect",
@@ -20901,7 +20901,7 @@
         "RCurl",
 
         "formatR",
-        "matrixStats",
+
 
 
         "cli",
@@ -20924,7 +20924,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "class",
 
@@ -21102,7 +21102,7 @@
         "ellipsis",
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
 
         "utf8"
     ],
@@ -21119,7 +21119,7 @@
         "XVector",
         "GenomeInfoDb",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -21181,7 +21181,7 @@
         "MSnbase",
         "igraph",
         "qlcMatrix",
-        "matrixStats",
+
 
         "RcppArmadillo",
 
@@ -21266,7 +21266,7 @@
 
     ],
     "Clomial": [
-        "matrixStats",
+
 
     ],
     "Clonality": [
@@ -21441,7 +21441,7 @@
 
 
 
-        "matrixStats",
+
         "BiocSingular",
 
         "stringr",
@@ -21760,7 +21760,7 @@
         "tidyr",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "matrixStats",
+
         "S4Vectors",
 
         "httr",
@@ -21841,7 +21841,7 @@
 
         "flowCore",
         "SummarizedExperiment",
-        "matrixStats",
+
         "Biobase",
 
 
@@ -21907,7 +21907,7 @@
         "vctrs",
         "RCurl",
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -22039,7 +22039,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "askpass",
         "utf8",
@@ -22340,7 +22340,7 @@
         "ensembldb",
         "AnnotationFilter",
 
-        "matrixStats",
+
         "exomeCopy",
         "BiocIO",
         "biomaRt",
@@ -22602,7 +22602,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
 
 
         "survival",
@@ -22788,7 +22788,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
 
         "Biostrings",
 
@@ -22840,7 +22840,7 @@
 
 
 
-        "matrixStats",
+
 
         "RCurl",
 
@@ -22967,7 +22967,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -23116,7 +23116,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "lambda.r",
 
 
@@ -23166,7 +23166,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "formatR",
 
     ],
@@ -23422,7 +23422,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
 
@@ -23441,7 +23441,7 @@
     ],
     "cola": [
         "ComplexHeatmap",
-        "matrixStats",
+
         "GetoptLong",
         "circlize",
 
@@ -23557,7 +23557,7 @@
 
 
 
-        "matrixStats",
+
         "survival",
         "MatrixModels",
         "farver",
@@ -23613,7 +23613,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "nlme",
@@ -23744,7 +23744,7 @@
         "beachmat",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
         "GenomeInfoDb",
         "XVector",
@@ -23941,7 +23941,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -24174,7 +24174,7 @@
         "blob",
         "cli",
         "purrr",
-        "matrixStats",
+
         "sparseMatrixStats",
         "DO.db",
         "fgsea",
@@ -24304,7 +24304,7 @@
         "dplyr",
         "Ecume",
 
-        "matrixStats",
+
         "BiocParallel",
         "TrajectoryUtils",
         "igraph",
@@ -24463,7 +24463,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -24555,7 +24555,7 @@
     ],
     "consensus": [
 
-        "matrixStats",
+
         "gplots",
 
         "caTools",
@@ -24633,7 +24633,7 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "matrixStats",
+
 
         "progress",
         "stringr",
@@ -24712,7 +24712,7 @@
         "gdata",
         "genefu",
 
-        "matrixStats",
+
 
 
 
@@ -24880,7 +24880,7 @@
         "Matrix",
         "DelayedArray",
 
-        "matrixStats"
+
     ],
 
     "contiBAIT": [
@@ -24943,7 +24943,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "nlme",
         "Matrix",
 
@@ -25057,7 +25057,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25218,7 +25218,7 @@
         "ensembldb",
         "AnnotationFilter",
 
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
 
@@ -25311,7 +25311,7 @@
     ],
     "CopywriteR": [
         "BiocParallel",
-        "matrixStats",
+
 
 
         "S4Vectors",
@@ -25467,7 +25467,7 @@
         "IRanges",
         "backports",
 
-        "matrixStats",
+
         "GenomicRanges",
         "tidyr",
         "gplots",
@@ -25607,7 +25607,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
 
         "farver",
@@ -25702,7 +25702,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
 
 
@@ -25801,7 +25801,7 @@
 
         "tibble",
 
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -26031,7 +26031,7 @@
 
 
         "highr",
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -26110,7 +26110,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "covRNA": [
@@ -26269,7 +26269,7 @@
         "MatrixGenerics",
         "DelayedArray",
 
-        "matrixStats"
+
     ],
     "cqn": [
 
@@ -26339,7 +26339,7 @@
         "mltools",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "Matrix",
         "MatrixGenerics",
@@ -26430,7 +26430,7 @@
         "GenomeInfoDb",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -26643,7 +26643,7 @@
         "openssl",
         "formatR",
 
-        "matrixStats",
+
         "cachem",
 
         "cli",
@@ -26665,7 +26665,7 @@
         "ff",
         "foreach",
         "RcppEigen",
-        "matrixStats",
+
 
 
 
@@ -26722,7 +26722,7 @@
 
         "GEOquery",
 
-        "matrixStats",
+
         "metaMA",
         "miniUI",
         "oligo",
@@ -26905,14 +26905,14 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "csdR": [
         "WGCNA",
 
 
-        "matrixStats",
+
 
 
 
@@ -27064,7 +27064,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
 
 
@@ -27203,7 +27203,7 @@
 
 
         "irlba",
-        "matrixStats",
+
         "densityClust",
         "Rtsne",
 
@@ -27552,7 +27552,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
         "GenomeInfoDb",
 
@@ -27819,7 +27819,7 @@
 
 
         "vctrs",
-        "matrixStats",
+
 
 
         "openssl",
@@ -27874,7 +27874,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
 
@@ -28046,7 +28046,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
         "cytolib",
         "RcppArmadillo",
 
@@ -28137,7 +28137,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -28259,7 +28259,7 @@
         "GetoptLong",
         "clue",
 
-        "matrixStats",
+
 
 
         "locfit",
@@ -28625,7 +28625,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -28690,7 +28690,7 @@
         "svglite",
         "shiny",
         "shinydashboard",
-        "matrixStats",
+
         "rhdf5",
         "futile.logger",
 
@@ -28813,7 +28813,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "matrixStats",
+
         "S4Vectors",
         "latticeExtra",
         "ggplot2",
@@ -28905,7 +28905,7 @@
         "Matrix",
         "flowCore",
         "sva",
-        "matrixStats",
+
 
         "prettydoc",
 
@@ -29213,7 +29213,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "dagLogo": [
         "pheatmap",
@@ -29332,7 +29332,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -29530,7 +29530,7 @@
         "MatrixGenerics",
         "GenomeInfoDb",
         "DelayedArray",
-        "matrixStats",
+
 
         "RSQLite",
         "KEGGREST",
@@ -30076,7 +30076,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "nlme",
 
         "utf8",
@@ -30247,7 +30247,7 @@
         "Linnorm",
 
         "RcppEigen",
-        "matrixStats",
+
 
 
         "RBGL",
@@ -30428,7 +30428,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -30567,7 +30567,7 @@
     "dearseq": [
         "ggplot2",
 
-        "matrixStats",
+
         "patchwork",
 
 
@@ -30681,7 +30681,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "TTR",
@@ -30843,7 +30843,7 @@
         "lifecycle",
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -31011,7 +31011,7 @@
         "Biostrings",
 
         "highr",
-        "matrixStats",
+
         "nlme",
         "bslib",
 
@@ -31069,7 +31069,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "S4Vectors",
@@ -31205,7 +31205,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
 
         "nlme",
         "hms",
@@ -31342,7 +31342,7 @@
 
         "foreach",
 
-        "matrixStats",
+
         "e1071",
 
 
@@ -31567,7 +31567,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "DeepPINCS": [
@@ -31733,7 +31733,7 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -31843,7 +31843,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
 
 
 
@@ -32009,7 +32009,7 @@
 
 
 
-        "matrixStats",
+
         "cachem",
         "askpass",
         "utf8",
@@ -32119,7 +32119,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "ALL",
@@ -32244,7 +32244,7 @@
         "S4Vectors",
         "IRanges",
 
-        "matrixStats"
+
     ],
     "DelayedDataFrame": [
         "S4Vectors",
@@ -32254,12 +32254,12 @@
         "MatrixGenerics",
         "IRanges",
 
-        "matrixStats"
+
     ],
     "DelayedMatrixStats": [
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
         "sparseMatrixStats",
         "Matrix",
         "S4Vectors",
@@ -32280,7 +32280,7 @@
         "IRanges",
         "sitmo",
 
-        "matrixStats"
+
     ],
     "DelayedTensor": [
         "DelayedArray",
@@ -32311,7 +32311,7 @@
         "futile.logger",
 
         "sitmo",
-        "matrixStats",
+
         "lambda.r",
 
         "formatR"
@@ -32356,7 +32356,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -32459,7 +32459,7 @@
 
 
         "rmarkdown",
-        "matrixStats",
+
         "truncdist",
 
         "ggplot2",
@@ -32572,7 +32572,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -32695,7 +32695,7 @@
         "viridis",
         "foreach",
         "doSNOW",
-        "matrixStats",
+
         "mixOmics",
 
         "reshape2",
@@ -32764,7 +32764,7 @@
     ],
     "DEqMS": [
         "ggplot2",
-        "matrixStats",
+
 
 
 
@@ -32821,7 +32821,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "Matrix",
@@ -33015,7 +33015,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
 
         "locfit",
@@ -33136,7 +33136,7 @@
         "graph",
         "InteractionSet",
         "KEGGREST",
-        "matrixStats",
+
         "multtest",
         "regioneR",
         "Matrix",
@@ -33265,7 +33265,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -33408,7 +33408,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
 
@@ -33545,7 +33545,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "utf8",
         "fs",
         "plyr",
@@ -33615,7 +33615,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
 
 
 
@@ -33696,7 +33696,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "edgeR",
 
         "gplots",
@@ -33838,7 +33838,7 @@
         "openssl",
         "R6",
 
-        "matrixStats",
+
         "hms",
 
         "bit64",
@@ -34020,7 +34020,7 @@
         "stringr",
 
         "htmlwidgets",
-        "matrixStats",
+
         "plyr",
         "coda",
         "bbmle",
@@ -34106,7 +34106,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -34217,7 +34217,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -34421,7 +34421,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Matrix",
         "BiocParallel",
         "metapod",
@@ -34458,7 +34458,7 @@
         "dplyr",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "Sushi",
         "edgeR",
         "locfit",
@@ -34626,7 +34626,7 @@
 
         "GenomeInfoDb",
         "dplyr",
-        "matrixStats",
+
         "IRanges",
         "ensembldb",
 
@@ -34777,7 +34777,7 @@
         "S4Vectors",
         "Matrix",
         "Seurat",
-        "matrixStats",
+
         "scran",
         "futile.logger",
 
@@ -34969,7 +34969,7 @@
     ],
     "DiscoRhythm": [
         "matrixTests",
-        "matrixStats",
+
         "MetaCycle",
 
         "ggplot2",
@@ -35167,7 +35167,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
         "RCurl",
 
@@ -35232,7 +35232,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -35266,7 +35266,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -35287,7 +35287,7 @@
         "rtracklayer",
         "benchmarkme",
         "tibble",
-        "matrixStats",
+
         "fastDummies",
         "Matrix",
         "lme4",
@@ -35412,7 +35412,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -35493,7 +35493,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "bumphunter",
@@ -35679,7 +35679,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
 
@@ -35821,7 +35821,7 @@
 
         "bumphunter",
         "DelayedMatrixStats",
-        "matrixStats",
+
         "BiocParallel",
 
         "locfit",
@@ -36094,7 +36094,7 @@
         "dplyr",
 
 
-        "matrixStats",
+
         "BiocIO",
 
 
@@ -36166,7 +36166,7 @@
         "DelayedArray",
         "mgcv",
         "genefilter",
-        "matrixStats",
+
 
         "edgeR",
         "locfit",
@@ -36231,7 +36231,7 @@
         "shinydashboard",
         "readxl",
         "prodlim",
-        "matrixStats",
+
 
         "Biobase",
         "affyio",
@@ -36444,7 +36444,7 @@
     ],
     "doseR": [
         "edgeR",
-        "matrixStats",
+
 
         "lme4",
 
@@ -36516,7 +36516,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -36679,7 +36679,7 @@
         "futile.logger",
 
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
 
@@ -36791,7 +36791,7 @@
         "DelayedArray",
         "formatR",
 
-        "matrixStats"
+
     ],
     "DrugVsDisease": [
         "affy",
@@ -36911,7 +36911,7 @@
         "MatrixGenerics",
         "DelayedArray",
 
-        "matrixStats",
+
 
     ],
     "DSS": [
@@ -36947,7 +36947,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "sparseMatrixStats",
         "lambda.r",
@@ -37074,7 +37074,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -37113,7 +37113,7 @@
         "ggplot2",
         "DESeq2",
         "dplyr",
-        "matrixStats",
+
 
         "arules",
         "BiocParallel",
@@ -37415,7 +37415,7 @@
 
         "interp",
 
-        "matrixStats",
+
         "hms",
 
         "bit64",
@@ -37519,7 +37519,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -37662,7 +37662,7 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "matrixStats",
+
 
         "progress",
         "stringr",
@@ -37760,7 +37760,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -37987,7 +37987,7 @@
 
 
         "openssl",
-        "matrixStats",
+
         "cachem",
 
         "cli",
@@ -38162,7 +38162,7 @@
         "purrr",
 
 
-        "matrixStats",
+
 
         "futile.logger",
 
@@ -38311,7 +38311,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -38368,7 +38368,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
 
         "MatrixGenerics",
@@ -38528,7 +38528,7 @@
     "EMDomics": [
         "emdist",
         "BiocParallel",
-        "matrixStats",
+
         "ggplot2",
 
 
@@ -38669,7 +38669,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -38840,7 +38840,7 @@
         "XVector",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -38961,7 +38961,7 @@
         "foreach",
         "SummarizedExperiment",
 
-        "matrixStats",
+
         "geneplotter",
 
         "minfi",
@@ -39125,7 +39125,7 @@
     "EnrichedHeatmap": [
         "ComplexHeatmap",
         "GenomicRanges",
-        "matrixStats",
+
         "GetoptLong",
 
         "locfit",
@@ -39224,7 +39224,7 @@
 
         "openssl",
 
-        "matrixStats",
+
 
         "bit64",
         "memoise",
@@ -39373,7 +39373,7 @@
         "rmarkdown",
 
         "Biostrings",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "AnnotationDbi",
@@ -39649,7 +39649,7 @@
         "ellipsis",
         "formatR",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -39682,7 +39682,7 @@
         "Rhtslib",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
 
@@ -39777,7 +39777,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
 
@@ -39943,7 +39943,7 @@
 
         "highr",
 
-        "matrixStats",
+
         "testthat",
         "formatR",
 
@@ -39964,7 +39964,7 @@
 
         "e1071",
 
-        "matrixStats",
+
         "stringr",
 
         "Matrix",
@@ -40025,7 +40025,7 @@
         "tibble",
 
         "base64",
-        "matrixStats",
+
 
         "MatrixModels",
         "survival",
@@ -40141,7 +40141,7 @@
 
 
 
-        "matrixStats",
+
 
         "tidyselect",
         "vctrs",
@@ -40245,7 +40245,7 @@
 
 
 
-        "matrixStats",
+
         "Hmisc",
 
 
@@ -40395,7 +40395,7 @@
 
 
         "RcppEigen",
-        "matrixStats",
+
         "ggplot2",
 
 
@@ -40571,7 +40571,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "epivizr": [
@@ -40585,7 +40585,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
 
@@ -40740,7 +40740,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -40839,7 +40839,7 @@
         "promises",
         "later",
 
-        "matrixStats",
+
 
 
 
@@ -40940,7 +40940,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "SummarizedExperiment",
@@ -41135,7 +41135,7 @@
         "httr",
 
 
-        "matrixStats",
+
         "nlme",
 
         "graph",
@@ -41247,7 +41247,7 @@
         "RCurl",
 
         "formatR",
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -41308,7 +41308,7 @@
         "KEGGREST",
         "XVector",
 
-        "matrixStats",
+
 
         "enrichplot",
         "gplots",
@@ -41523,7 +41523,7 @@
 
         "beachmat",
         "MatrixGenerics",
-        "matrixStats",
+
         "lambda.r",
 
         "GenomeInfoDb",
@@ -41656,7 +41656,7 @@
         "ggplot2",
         "ggdendro",
         "plotrix",
-        "matrixStats",
+
         "Rdpack",
 
         "class",
@@ -41766,7 +41766,7 @@
 
 
 
-        "matrixStats",
+
         "RBGL",
         "prodlim",
         "graph",
@@ -41980,7 +41980,7 @@
         "openssl",
         "shiny",
         "DT",
-        "matrixStats",
+
         "nlme",
 
         "hms",
@@ -42027,7 +42027,7 @@
         "Rsubread",
         "GenomicRanges",
         "rtracklayer",
-        "matrixStats",
+
         "IRanges",
 
         "S4Vectors",
@@ -42125,7 +42125,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nor1mix",
 
         "quantreg",
@@ -42428,7 +42428,7 @@
 
 
 
-        "matrixStats",
+
         "fs"
     ],
     "ExperimentSubset": [
@@ -42490,7 +42490,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
 
         "tidytree",
 
@@ -42624,7 +42624,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -42891,7 +42891,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "GO.db",
         "AnnotationDbi",
 
@@ -43049,7 +43049,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "fastseg": [
         "GenomicRanges",
@@ -43092,7 +43092,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -43128,7 +43128,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "fds",
@@ -43373,7 +43373,7 @@
         "httr",
 
         "Biostrings",
-        "matrixStats",
+
         "bit64",
         "blob",
         "memoise",
@@ -43435,7 +43435,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
 
         "BiocParallel",
         "biomaRt",
@@ -43504,7 +43504,7 @@
         "irlba",
         "TSCAN",
         "SC3",
-        "matrixStats",
+
         "futile.logger",
 
 
@@ -43730,7 +43730,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "S4Vectors",
@@ -44092,7 +44092,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "nlme",
         "cli",
         "utf8",
@@ -44153,7 +44153,7 @@
         "qvalue",
         "S4Vectors",
         "SummarizedExperiment",
-        "matrixStats",
+
 
 
         "Matrix",
@@ -44303,7 +44303,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -44399,7 +44399,7 @@
         "irlba",
         "rsvd",
 
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "RCurl",
@@ -44441,7 +44441,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44501,7 +44501,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44533,7 +44533,7 @@
 
         "Biobase",
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44661,7 +44661,7 @@
         "RCurl",
         "Biobase",
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44718,7 +44718,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44740,7 +44740,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44766,7 +44766,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44785,7 +44785,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -44956,7 +44956,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45079,7 +45079,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45111,7 +45111,7 @@
         "ggplot2",
         "igraph",
         "Matrix",
-        "matrixStats",
+
         "visNetwork",
         "htmlwidgets",
         "stringr",
@@ -45195,7 +45195,7 @@
         "flowCore",
         "Biobase",
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45213,7 +45213,7 @@
         "ks",
         "plot3D",
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45256,7 +45256,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45316,7 +45316,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45464,7 +45464,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "matrixStats",
+
         "S4Vectors",
         "latticeExtra",
         "scales",
@@ -45601,7 +45601,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45660,7 +45660,7 @@
         "fds",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45761,7 +45761,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45788,7 +45788,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45820,7 +45820,7 @@
         "flowCore",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45841,7 +45841,7 @@
         "IDPmisc",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45863,7 +45863,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -45974,7 +45974,7 @@
         "dplyr",
 
         "scales",
-        "matrixStats",
+
 
 
 
@@ -46235,7 +46235,7 @@
         "AnnotationDbi",
 
 
-        "matrixStats",
+
 
         "IRanges",
         "RSQLite",
@@ -46305,7 +46305,7 @@
         "ggplot2",
         "ggrepel",
         "HDF5Array",
-        "matrixStats",
+
         "OUTRIDER",
         "pcaMethods",
         "pheatmap",
@@ -46620,7 +46620,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -46702,7 +46702,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "pcaPP",
         "hdrcde",
@@ -46742,7 +46742,7 @@
     ],
     "funtooNorm": [
 
-        "matrixStats",
+
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -46918,7 +46918,7 @@
         "Rhtslib",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
         "askpass",
@@ -47065,7 +47065,7 @@
         "dbplyr",
 
 
-        "matrixStats",
+
         "BiocParallel",
         "askpass",
         "hms",
@@ -47162,7 +47162,7 @@
         "AnnotationDbi",
         "Biobase",
         "BiocFileCache",
-        "matrixStats",
+
 
         "IRanges",
 
@@ -47351,7 +47351,7 @@
         "igraph",
 
 
-        "matrixStats",
+
 
         "mvtnorm",
 
@@ -47497,7 +47497,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -47534,7 +47534,7 @@
         "GenomicRanges",
         "Rsamtools",
         "GenomicAlignments",
-        "matrixStats",
+
 
         "XVector",
 
@@ -47585,7 +47585,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -47729,7 +47729,7 @@
 
         "Matrix",
 
-        "matrixStats",
+
 
         "R.utils",
 
@@ -47998,7 +47998,7 @@
         "highr",
 
         "formatR",
-        "matrixStats",
+
 
         "askpass",
         "utf8",
@@ -48060,7 +48060,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -48178,7 +48178,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "BiocParallel",
 
 
@@ -48507,7 +48507,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR",
@@ -48529,7 +48529,7 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -49139,7 +49139,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
 
@@ -49291,7 +49291,7 @@
         "ggrepel",
         "GO.db",
         "igraph",
-        "matrixStats",
+
         "plotly",
 
         "rintrojs",
@@ -49529,7 +49529,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "askpass",
         "fs",
         "rappdirs",
@@ -49573,7 +49573,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "plotrix",
         "plyr",
         "readr",
@@ -49727,7 +49727,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "GenomicDataCommons": [
@@ -49774,7 +49774,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
         "askpass",
         "utf8",
         "purrr",
@@ -49923,7 +49923,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -49948,7 +49948,7 @@
 
         "Biostrings",
         "XVector",
-        "matrixStats",
+
 
 
         "Rhtslib",
@@ -50041,7 +50041,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
 
 
@@ -50092,7 +50092,7 @@
         "Biostrings",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
         "Matrix",
 
@@ -50247,7 +50247,7 @@
 
 
 
-        "matrixStats",
+
 
         "BiocParallel",
         "BiocIO",
@@ -50403,7 +50403,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
 
         "bit64",
         "memoise",
@@ -50466,7 +50466,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -50653,7 +50653,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "lambda.r",
 
         "biomaRt",
@@ -50765,7 +50765,7 @@
 
 
         "checkmate",
-        "matrixStats",
+
 
         "callr",
         "cli",
@@ -50826,7 +50826,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -51611,14 +51611,14 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
     "geva": [
         "dbscan",
 
-        "matrixStats",
+
 
     ],
     "GEWIST": [
@@ -51736,7 +51736,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "RCurl",
@@ -51862,7 +51862,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -52017,7 +52017,7 @@
         "network",
         "sna",
         "scales",
-        "matrixStats",
+
 
         "RcppArmadillo",
         "ggplot2",
@@ -52117,7 +52117,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -52313,7 +52313,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "GISPA": [
         "Biobase",
@@ -52553,7 +52553,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -52598,7 +52598,7 @@
     "glmGamPoi": [
 
         "DelayedMatrixStats",
-        "matrixStats",
+
         "DelayedArray",
         "HDF5Array",
         "SummarizedExperiment",
@@ -52722,7 +52722,7 @@
         "gridtext",
 
         "formatR",
-        "matrixStats",
+
 
         "mvtnorm",
         "nlme",
@@ -52932,7 +52932,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
         "SummarizedExperiment",
@@ -53074,7 +53074,7 @@
         "lifecycle",
 
 
-        "matrixStats",
+
         "Hmisc",
 
 
@@ -53169,7 +53169,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "RCurl",
@@ -53269,7 +53269,7 @@
 
         "reshape2",
         "DiagrammeR",
-        "matrixStats",
+
         "SummarizedExperiment",
         "dplyr",
         "igraph",
@@ -53546,7 +53546,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "cachem",
         "nlme",
         "farver",
@@ -53738,7 +53738,7 @@
         "lambda.r",
 
         "ellipsis",
-        "matrixStats",
+
         "formatR",
 
         "utf8"
@@ -53771,7 +53771,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -53978,7 +53978,7 @@
         "GenomeInfoDb",
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
 
@@ -54239,7 +54239,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
 
@@ -54400,7 +54400,7 @@
 
         "ggplot2",
         "cowplot",
-        "matrixStats",
+
         "RcppArmadillo",
 
 
@@ -54574,7 +54574,7 @@
         "S4Vectors",
         "IRanges",
         "Biostrings",
-        "matrixStats",
+
         "XVector",
         "RCurl",
 
@@ -54665,7 +54665,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "mvtnorm",
         "survival",
         "TH.data",
@@ -54755,7 +54755,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "GRridge": [
@@ -54886,7 +54886,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
         "callr",
         "cli",
@@ -55045,7 +55045,7 @@
 
         "Biostrings",
 
-        "matrixStats",
+
         "org.Hs.eg.db",
         "bit64",
         "memoise",
@@ -55351,7 +55351,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -55437,7 +55437,7 @@
 
         "beachmat",
         "MatrixGenerics",
-        "matrixStats",
+
         "annotate",
         "graph",
         "AnnotationDbi",
@@ -55511,7 +55511,7 @@
         "CRISPRseek",
         "ChIPpeakAnno",
 
-        "matrixStats",
+
         "BSgenome",
         "IRanges",
         "S4Vectors",
@@ -55746,7 +55746,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR"
@@ -55769,7 +55769,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
         "GenomeInfoDb",
 
@@ -56024,7 +56024,7 @@
         "stringr",
 
 
-        "matrixStats",
+
 
         "blob",
 
@@ -56159,7 +56159,7 @@
         "GWASTools",
         "survival",
         "VariantAnnotation",
-        "matrixStats",
+
         "SummarizedExperiment",
         "SNPRelate",
         "Biobase",
@@ -56294,7 +56294,7 @@
 
         "purrr",
         "rlist",
-        "matrixStats",
+
         "SummarizedExperiment",
         "stringr",
 
@@ -56580,7 +56580,7 @@
 
         "MatrixGenerics",
 
-        "matrixStats"
+
     ],
     "HDTD": [
 
@@ -56640,7 +56640,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocParallel",
@@ -56781,7 +56781,7 @@
         "IRanges",
         "GenomeInfoDb",
         "Biostrings",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -56888,7 +56888,7 @@
         "CGHbase",
         "CGHcall",
         "DNAcopy",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -56958,7 +56958,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -57193,7 +57193,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -57258,7 +57258,7 @@
 
         "servr",
         "DelayedArray",
-        "matrixStats",
+
         "S4Vectors",
 
         "BiocFileCache",
@@ -57423,7 +57423,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
 
@@ -57467,7 +57467,7 @@
         "cellranger",
 
         "progress",
-        "matrixStats",
+
 
 
         "lambda.r",
@@ -57552,7 +57552,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "hmdbQuery": [
@@ -57826,7 +57826,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "lambda.r",
 
 
@@ -57928,7 +57928,7 @@
         "RCurl",
 
         "formatR",
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -58083,7 +58083,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -58107,7 +58107,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -58252,7 +58252,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "formatR",
 
 
@@ -58475,7 +58475,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "lambda.r",
 
         "annotate",
@@ -58595,7 +58595,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -58769,7 +58769,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
 
 
         "lambda.r",
@@ -58991,7 +58991,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
         "gridExtra",
         "RCurl",
         "progress",
@@ -59093,7 +59093,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "idiogram": [
@@ -59292,7 +59292,7 @@
         "tibble",
 
         "checkmate",
-        "matrixStats",
+
 
         "callr",
         "cli",
@@ -59365,7 +59365,7 @@
 
 
 
-        "matrixStats",
+
 
         "biomaRt",
 
@@ -59519,7 +59519,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
 
         "askpass",
@@ -59746,7 +59746,7 @@
 
         "openssl",
         "formatR",
-        "matrixStats",
+
         "cachem",
 
         "cli",
@@ -59816,7 +59816,7 @@
         "svglite",
         "shiny",
         "shinydashboard",
-        "matrixStats",
+
         "rhdf5",
 
 
@@ -60022,7 +60022,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -60137,7 +60137,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -60351,7 +60351,7 @@
 
         "survival",
         "libcoin",
-        "matrixStats",
+
         "modeltools",
         "mvtnorm",
         "multcomp",
@@ -60429,7 +60429,7 @@
         "xgboost",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -60485,7 +60485,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
         "seqinr",
@@ -60675,7 +60675,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
 
 
 
@@ -60771,7 +60771,7 @@
         "BiocParallel",
 
 
-        "matrixStats",
+
         "nlme",
 
         "plyr",
@@ -60876,7 +60876,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "RCurl",
@@ -61014,7 +61014,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "matrixStats",
+
 
 
     ],
@@ -61037,7 +61037,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -61299,7 +61299,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -61530,7 +61530,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
         "bit64",
         "blob",
         "memoise",
@@ -61614,7 +61614,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
         "askpass",
         "bit64",
         "blob",
@@ -61812,7 +61812,7 @@
 
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats"
+
     ],
     "iPAC": [
         "gdata",
@@ -61841,7 +61841,7 @@
         "BiocParallel",
         "survival",
 
-        "matrixStats",
+
         "ggpubr",
         "ggplot2",
         "survminer",
@@ -62127,7 +62127,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -62276,7 +62276,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -62541,7 +62541,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -62674,7 +62674,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -62902,7 +62902,7 @@
         "Biobase",
         "S4Vectors",
 
-        "matrixStats",
+
         "Rsamtools",
         "BiocParallel",
         "SummarizedExperiment",
@@ -63189,7 +63189,7 @@
         "GetoptLong",
         "clue",
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "ALL",
@@ -63280,7 +63280,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -63346,7 +63346,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -63491,7 +63491,7 @@
         "diffobj",
         "rematch2",
 
-        "matrixStats"
+
     ],
     "ivygapSE": [
         "SummarizedExperiment",
@@ -63580,7 +63580,7 @@
 
         "openssl",
 
-        "matrixStats",
+
 
         "mvtnorm",
         "nlme",
@@ -63759,7 +63759,7 @@
         "rappdirs",
 
 
-        "matrixStats",
+
 
 
 
@@ -64039,7 +64039,7 @@
         "DSS",
         "ggplot2",
         "gplots",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -64222,7 +64222,7 @@
 
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "futile.logger",
 
 
@@ -64338,7 +64338,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "RcppGSL",
 
 
@@ -64395,7 +64395,7 @@
 
 
 
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
         "askpass",
@@ -64520,7 +64520,7 @@
         "ggplot2",
         "survival",
         "libcoin",
-        "matrixStats",
+
         "modeltools",
         "mvtnorm",
         "multcomp",
@@ -64703,7 +64703,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -64853,7 +64853,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "utf8",
 
 
@@ -64966,7 +64966,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -65026,7 +65026,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "ggrepel",
         "qqman",
@@ -65319,7 +65319,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -65445,7 +65445,7 @@
         "Biobase",
         "RCurl",
 
-        "matrixStats",
+
 
 
     ],
@@ -65711,7 +65711,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -65970,7 +65970,7 @@
         "gplots",
         "bbmle",
 
-        "matrixStats",
+
         "Matrix",
         "irlba",
         "reldist",
@@ -66075,7 +66075,7 @@
         "XVector",
         "GenomeInfoDb",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -66288,7 +66288,7 @@
         "Biobase",
         "glmnet",
 
-        "matrixStats",
+
         "foreach",
         "gplots",
         "Wrench",
@@ -66490,7 +66490,7 @@
 
 
         "RcppEigen",
-        "matrixStats",
+
         "askpass",
 
         "utf8",
@@ -66696,7 +66696,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
     ],
     "MADSEQ": [
@@ -66721,7 +66721,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
         "RCurl",
 
@@ -66856,7 +66856,7 @@
         "mvtnorm",
 
         "RcppEigen",
-        "matrixStats",
+
 
 
 
@@ -67218,7 +67218,7 @@
 
 
         "openssl",
-        "matrixStats",
+
 
         "utf8",
 
@@ -67418,7 +67418,7 @@
 
         "interp",
 
-        "matrixStats",
+
         "doParallel",
         "shiny",
         "miniUI",
@@ -67733,7 +67733,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -67817,7 +67817,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
         "plyr",
 
@@ -67995,7 +67995,7 @@
 
         "vctrs",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -68012,7 +68012,7 @@
     ],
 
     "MatrixGenerics": [
-        "matrixStats"
+
     ],
     "MatrixQCvis": [
         "SummarizedExperiment",
@@ -68051,7 +68051,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -68198,7 +68198,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
         "Rsamtools",
 
         "GenomicAlignments",
@@ -68325,7 +68325,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
         "formatR",
 
@@ -68393,7 +68393,7 @@
 
 
         "openssl",
-        "matrixStats",
+
 
 
 
@@ -68466,7 +68466,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
         "nlme",
         "broom",
@@ -68579,7 +68579,7 @@
 
         "openssl",
         "highr",
-        "matrixStats",
+
         "nlme",
         "bit64",
 
@@ -68653,7 +68653,7 @@
 
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -68788,7 +68788,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
         "OrganismDbi",
         "GO.db",
@@ -68950,7 +68950,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "MEAL": [
@@ -68970,7 +68970,7 @@
         "isva",
         "SummarizedExperiment",
         "SmartSVA",
-        "matrixStats",
+
         "GenomeInfoDb",
         "XVector",
 
@@ -69217,7 +69217,7 @@
         "MatrixGenerics",
 
 
-        "matrixStats",
+
         "methylumi",
         "lumi",
         "ROC",
@@ -69345,7 +69345,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -69375,7 +69375,7 @@
         "XVector",
         "GenomeInfoDb",
 
-        "matrixStats",
+
 
         "locfit",
 
@@ -69779,7 +69779,7 @@
         "ggplot2",
         "ggseqlogo",
 
-        "matrixStats",
+
         "patchwork",
         "processx",
         "purrr",
@@ -70168,7 +70168,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -70325,7 +70325,7 @@
 
         "tibble",
 
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -70355,7 +70355,7 @@
         "caret",
         "S4Vectors",
 
-        "matrixStats",
+
         "tidyr",
         "ggplot2",
 
@@ -70469,7 +70469,7 @@
 
 
 
-        "matrixStats",
+
         "askpass",
         "progress",
         "dplyr",
@@ -70616,7 +70616,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "GenomicRanges",
@@ -70744,7 +70744,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -70932,7 +70932,7 @@
         "ggplot2",
         "muStat",
         "Rsamtools",
-        "matrixStats",
+
         "purrr",
 
 
@@ -71102,7 +71102,7 @@
         "ellipsis",
         "formatR",
 
-        "matrixStats",
+
 
     ],
     "metagenomeSeq": [
@@ -71110,7 +71110,7 @@
 
         "glmnet",
 
-        "matrixStats",
+
         "foreach",
         "Matrix",
         "gplots",
@@ -71218,7 +71218,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -71251,7 +71251,7 @@
     ],
     "MetaNeighbor": [
         "Matrix",
-        "matrixStats",
+
 
         "gplots",
 
@@ -71501,7 +71501,7 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "matrixStats",
+
         "dbplyr",
         "dplyr",
 
@@ -71619,7 +71619,7 @@
 
         "glmnet",
 
-        "matrixStats",
+
         "foreach",
         "Matrix",
         "gplots",
@@ -72049,7 +72049,7 @@
 
         "vctrs",
         "formatR",
-        "matrixStats",
+
 
         "cli",
         "utf8"
@@ -72134,7 +72134,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "utf8",
         "bslib",
@@ -72230,7 +72230,7 @@
         "BSgenome",
         "DelayedMatrixStats",
         "ggplot2",
-        "matrixStats",
+
         "GenomicRanges",
         "IRanges",
 
@@ -72329,7 +72329,7 @@
         "ggplot2",
 
         "hexbin",
-        "matrixStats",
+
         "minfi",
 
         "shiny",
@@ -72517,7 +72517,7 @@
         "beachmat",
         "foreach",
 
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -72768,7 +72768,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
 
@@ -73006,7 +73006,7 @@
         "httr",
 
         "Biostrings",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
 
         "annotate",
@@ -73203,7 +73203,7 @@
 
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats"
+
     ],
     "methylKit": [
         "GenomicRanges",
@@ -73284,7 +73284,7 @@
 
         "vctrs",
         "formatR",
-        "matrixStats",
+
 
         "cli",
         "utf8"
@@ -73411,7 +73411,7 @@
 
 
 
-        "matrixStats",
+
 
         "RcppGSL",
         "nlme",
@@ -73440,7 +73440,7 @@
         "S4Vectors",
         "GenomeInfoDb",
         "Biostrings",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "Biobase",
@@ -73527,7 +73527,7 @@
         "beachmat",
         "Matrix",
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
         "RCurl",
 
@@ -73571,7 +73571,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
 
@@ -73894,7 +73894,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "cli",
         "utf8",
         "plyr",
@@ -74140,7 +74140,7 @@
         "reshape2",
         "Matrix",
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -74227,7 +74227,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -74321,7 +74321,7 @@
         "RSQLite",
 
         "reshape2",
-        "matrixStats",
+
         "sparseMatrixStats",
         "lambda.r",
 
@@ -74458,7 +74458,7 @@
 
         "glmnet",
 
-        "matrixStats",
+
         "foreach",
         "gplots",
         "Wrench",
@@ -74542,7 +74542,7 @@
         "biomformat",
         "stringr",
         "vegan",
-        "matrixStats",
+
         "heatmaply",
         "car",
         "broom",
@@ -74775,7 +74775,7 @@
 
         "survival",
         "libcoin",
-        "matrixStats",
+
         "modeltools",
         "mvtnorm",
         "multcomp",
@@ -75132,7 +75132,7 @@
 
         "survival",
         "libcoin",
-        "matrixStats",
+
         "modeltools",
         "mvtnorm",
         "multcomp",
@@ -75270,7 +75270,7 @@
 
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -75320,7 +75320,7 @@
         "ismev",
 
 
-        "matrixStats",
+
         "org.Hs.eg.db",
         "RBGL",
         "reshape2",
@@ -75415,7 +75415,7 @@
 
         "ggplot2",
         "tibble",
-        "matrixStats",
+
         "ggraph",
 
         "SummarizedExperiment",
@@ -75543,7 +75543,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -75832,7 +75832,7 @@
 
         "interp",
         "reshape2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -75955,7 +75955,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -76064,7 +76064,7 @@
         "DNAcopy",
         "ff",
         "foreach",
-        "matrixStats",
+
 
 
 
@@ -76177,7 +76177,7 @@
         "vctrs",
         "RCurl",
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -76225,7 +76225,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "MatrixGenerics",
         "sparseMatrixStats",
@@ -76514,7 +76514,7 @@
 
 
         "interp",
-        "matrixStats",
+
 
 
 
@@ -76576,7 +76576,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -76773,7 +76773,7 @@
         "GenomeInfoDb",
         "DelayedArray",
 
-        "matrixStats",
+
         "Hmisc",
 
 
@@ -77120,7 +77120,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
 
         "annotate",
@@ -77297,7 +77297,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -77548,7 +77548,7 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
 
@@ -77609,7 +77609,7 @@
         "dplyr",
         "tidyr",
         "reshape2",
-        "matrixStats",
+
         "rARPACK",
         "gridExtra",
         "ggrepel",
@@ -77884,7 +77884,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
         "fs",
         "dplyr",
@@ -78000,7 +78000,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "lambda.r",
 
         "BiocIO",
@@ -78061,7 +78061,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
 
 
 
@@ -78221,7 +78221,7 @@
         "Biobase",
         "glmnet",
 
-        "matrixStats",
+
         "foreach",
         "gplots",
         "Wrench",
@@ -78290,7 +78290,7 @@
 
 
         "RcppEigen",
-        "matrixStats",
+
         "e1071",
         "ggplot2",
 
@@ -78363,7 +78363,7 @@
 
         "zoo",
         "ClusterR",
-        "matrixStats",
+
 
 
 
@@ -78449,7 +78449,7 @@
 
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -78628,7 +78628,7 @@
         "sitmo",
 
 
-        "matrixStats",
+
         "nlme",
 
         "utf8",
@@ -78780,7 +78780,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -78863,7 +78863,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -78986,7 +78986,7 @@
 
 
         "irlba",
-        "matrixStats",
+
         "densityClust",
         "Rtsne",
 
@@ -79157,7 +79157,7 @@
 
 
 
-        "matrixStats",
+
         "R.oo",
         "R.methodsS3",
         "cli",
@@ -79247,7 +79247,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "mosbi": [
@@ -79307,7 +79307,7 @@
     "MOSim": [
 
         "zoo",
-        "matrixStats",
+
         "dplyr",
 
 
@@ -79367,7 +79367,7 @@
         "BiocParallel",
         "motifStack",
         "Gviz",
-        "matrixStats",
+
         "TFMPvalue",
         "SummarizedExperiment",
         "futile.logger",
@@ -79544,7 +79544,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "motifmatchr": [
@@ -79564,7 +79564,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
 
@@ -79830,7 +79830,7 @@
         "XVector",
 
 
-        "matrixStats",
+
 
 
 
@@ -79866,7 +79866,7 @@
 
         "vctrs",
 
-        "matrixStats",
+
         "formatR",
 
 
@@ -80094,7 +80094,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -80117,7 +80117,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Biobase",
         "BiocFileCache",
@@ -80333,7 +80333,7 @@
         "scran",
 
 
-        "matrixStats",
+
 
         "mvtnorm",
         "tidyr",
@@ -80825,7 +80825,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
 
@@ -81066,7 +81066,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "clue",
         "tidyr",
         "testthat",
@@ -82009,7 +82009,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
         "cli",
@@ -82070,7 +82070,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -82156,7 +82156,7 @@
         "IRanges",
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "seqinr",
 
@@ -82330,7 +82330,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -82519,7 +82519,7 @@
         "CGHbase",
         "CGHcall",
         "DNAcopy",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -82624,7 +82624,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -82741,7 +82741,7 @@
 
 
 
-        "matrixStats",
+
         "rARPACK",
         "gridExtra",
         "ggrepel",
@@ -82943,7 +82943,7 @@
         "irlba",
         "rsvd",
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -82993,7 +82993,7 @@
         "IRanges",
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -83085,7 +83085,7 @@
         "lmerTest",
         "lme4",
         "Matrix",
-        "matrixStats",
+
         "progress",
         "purrr",
         "S4Vectors",
@@ -83318,7 +83318,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "circlize",
         "GetoptLong",
@@ -83547,7 +83547,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
 
         "scales",
@@ -83680,7 +83680,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -83903,7 +83903,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "myvariant": [
@@ -83956,7 +83956,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
 
@@ -84126,7 +84126,7 @@
 
 
 
-        "matrixStats",
+
         "dplyr",
         "ensembldb",
         "RBGL",
@@ -84362,7 +84362,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "sparseMatrixStats",
         "RCurl",
 
@@ -84398,7 +84398,7 @@
     ],
     "NanoStringDiff": [
         "Biobase",
-        "matrixStats",
+
 
 
     ],
@@ -84782,7 +84782,7 @@
         "scales",
         "tibble",
 
-        "matrixStats",
+
 
 
 
@@ -84919,7 +84919,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
 
@@ -84986,7 +84986,7 @@
         "tibble",
 
         "formatR",
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -85138,7 +85138,7 @@
     ],
     "nearBynding": [
         "R.utils",
-        "matrixStats",
+
         "plyranges",
         "transport",
         "Rsamtools",
@@ -85290,7 +85290,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
 
         "plotly",
@@ -85420,7 +85420,7 @@
 
 
 
-        "matrixStats",
+
         "epiNEM",
         "class",
 
@@ -85532,7 +85532,7 @@
         "R.oo",
         "R.methodsS3",
 
-        "matrixStats",
+
         "Hmisc",
         "foreach",
         "doParallel",
@@ -85851,7 +85851,7 @@
 
 
 
-        "matrixStats",
+
         "cachem",
 
         "utf8",
@@ -86181,7 +86181,7 @@
 
 
 
-        "matrixStats",
+
         "Hmisc",
 
 
@@ -86283,7 +86283,7 @@
 
 
 
-        "matrixStats",
+
         "BiocSingular",
 
         "stringr",
@@ -86487,7 +86487,7 @@
 
 
 
-        "matrixStats",
+
 
         "backports",
         "purrr",
@@ -86523,7 +86523,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "lambda.r",
 
 
@@ -86793,7 +86793,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "cachem",
         "nlme",
 
@@ -86840,7 +86840,7 @@
         "RcmdrMisc",
         "raster",
         "SummarizedExperiment",
-        "matrixStats",
+
         "ggforce",
         "nlme",
 
@@ -87072,7 +87072,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -87248,7 +87248,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
 
     "nullranges": [
@@ -87330,7 +87330,7 @@
         "futile.logger",
 
 
-        "matrixStats",
+
         "cli",
         "utf8",
 
@@ -87386,7 +87386,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "Matrix",
         "MatrixGenerics",
@@ -87579,7 +87579,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "R.utils",
@@ -87761,7 +87761,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
 
         "cli",
 
@@ -87801,7 +87801,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -87850,7 +87850,7 @@
         "GO.db",
         "AnnotationDbi",
 
-        "matrixStats",
+
 
         "RSQLite",
         "KEGGREST",
@@ -87901,7 +87901,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
     ],
     "OmicCircos": [
@@ -87922,7 +87922,7 @@
         "DT",
         "knitr",
 
-        "matrixStats",
+
         "rmarkdown",
         "shiny",
         "vegan",
@@ -88064,7 +88064,7 @@
         "DelayedArray",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "edgeR",
 
         "sp",
@@ -88246,7 +88246,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -88376,7 +88376,7 @@
         "vctrs",
 
 
-        "matrixStats",
+
         "sass",
         "cachem",
         "memoise",
@@ -88481,7 +88481,7 @@
     ],
     "omicsPrint": [
 
-        "matrixStats",
+
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "RaggedExperiment",
@@ -88655,7 +88655,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -88840,7 +88840,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -89078,7 +89078,7 @@
 
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -89453,7 +89453,7 @@
         "dplyr",
         "lubridate",
         "magick",
-        "matrixStats",
+
         "pander",
         "pryr",
         "rapportools",
@@ -89639,7 +89639,7 @@
 
         "beachmat",
         "MatrixGenerics",
-        "matrixStats",
+
         "rhdf5",
         "rhdf5filters",
 
@@ -89839,7 +89839,7 @@
 
         "ks",
         "plot3D",
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
 
@@ -89944,7 +89944,7 @@
 
 
 
-        "matrixStats",
+
 
         "SummarizedExperiment",
         "BiocParallel",
@@ -90014,7 +90014,7 @@
         "fs",
         "XVector",
 
-        "matrixStats",
+
 
         "scales",
         "genefilter",
@@ -90186,7 +90186,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "OrganismDbi": [
@@ -90276,7 +90276,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -90303,7 +90303,7 @@
         "MatrixGenerics",
         "S4Vectors",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -90514,7 +90514,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "OUTRIDER": [
         "BiocParallel",
@@ -90530,7 +90530,7 @@
         "heatmaply",
         "pheatmap",
         "IRanges",
-        "matrixStats",
+
         "plotly",
         "plyr",
         "pcaMethods",
@@ -90686,7 +90686,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "formatR",
 
 
@@ -90711,7 +90711,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "edgeR",
         "futile.logger",
 
@@ -90846,7 +90846,7 @@
         "tibble",
 
 
-        "matrixStats",
+
         "dplyr",
         "ellipsis",
         "lifecycle",
@@ -90982,7 +90982,7 @@
         "RcppArmadillo",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
 
@@ -91101,7 +91101,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
         "callr",
         "cli",
@@ -91181,7 +91181,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "cli",
         "utf8",
         "ellipsis",
@@ -91194,7 +91194,7 @@
     "pandaR": [
         "Biobase",
 
-        "matrixStats",
+
         "igraph",
         "ggplot2",
         "reshape",
@@ -91425,7 +91425,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "Path2PPI": [
@@ -91446,7 +91446,7 @@
     "PathoStat": [
 
 
-        "matrixStats",
+
         "reshape2",
         "scales",
         "ggplot2",
@@ -91951,7 +91951,7 @@
 
 
 
-        "matrixStats",
+
         "RCurl",
         "dbplyr",
 
@@ -92039,7 +92039,7 @@
         "scales",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
 
@@ -92094,7 +92094,7 @@
         "ConsensusClusterPlus",
         "igraph",
         "ggplotify",
-        "matrixStats",
+
 
 
         "CoreGx",
@@ -92380,7 +92380,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
 
         "cli",
 
@@ -92402,7 +92402,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "Biobase",
@@ -92597,7 +92597,7 @@
         "R.filesets",
         "aroma.apd",
 
-        "matrixStats",
+
 
         "future",
         "R.rsp",
@@ -92701,7 +92701,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
         "RCurl",
 
@@ -92763,7 +92763,7 @@
         "ptw",
         "ggplot2",
         "gridExtra",
-        "matrixStats",
+
         "reshape2",
 
 
@@ -92947,7 +92947,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
 
         "scales",
@@ -93245,7 +93245,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "cachem",
         "utf8",
         "progress",
@@ -93314,7 +93314,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
         "gplots",
         "igraph",
@@ -93435,7 +93435,7 @@
         "HSMMSingleCell",
         "plyr",
 
-        "matrixStats",
+
         "densityClust",
         "reshape2",
 
@@ -93673,7 +93673,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
         "utf8",
@@ -93990,13 +93990,13 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
     "phosphonormalizer": [
         "plyr",
-        "matrixStats",
+
 
     ],
     "PhosR": [
@@ -94079,7 +94079,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
 
         "utf8",
@@ -94247,7 +94247,7 @@
         "graph",
         "GO.db",
 
-        "matrixStats",
+
 
         "KEGGREST",
 
@@ -94581,7 +94581,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "Pigengene": [
@@ -94590,7 +94590,7 @@
 
         "C50",
 
-        "matrixStats",
+
         "partykit",
         "Rgraphviz",
         "WGCNA",
@@ -94772,7 +94772,7 @@
         "GenomeInfoDb",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "fds",
@@ -94922,7 +94922,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Seurat",
-        "matrixStats",
+
         "Matrix",
 
         "aricode",
@@ -95128,7 +95128,7 @@
 
         "GenomicRanges",
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -95399,7 +95399,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "formatR"
     ],
@@ -95599,7 +95599,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "pmm": [
@@ -95652,7 +95652,7 @@
         "ggplot2",
         "SummarizedExperiment",
         "S4Vectors",
-        "matrixStats",
+
         "reshape2",
 
 
@@ -95799,7 +95799,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
 
@@ -95992,7 +95992,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "doParallel",
         "lifecycle",
         "R6",
@@ -96215,7 +96215,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
 
         "hms",
@@ -96311,7 +96311,7 @@
 
         "openssl",
         "checkmate",
-        "matrixStats",
+
         "nlme",
         "utf8",
         "callr",
@@ -96544,7 +96544,7 @@
         "DelayedArray",
         "formatR",
 
-        "matrixStats"
+
     ],
     "prebs": [
         "GenomicAlignments",
@@ -96629,7 +96629,7 @@
 
 
         "highr",
-        "matrixStats",
+
         "survival",
         "farver",
 
@@ -96817,7 +96817,7 @@
 
         "future",
         "globals",
-        "matrixStats",
+
 
         "parallelly",
         "formatR"
@@ -96845,7 +96845,7 @@
         "shinyBS",
         "DT",
         "brglm",
-        "matrixStats",
+
         "futile.logger",
 
 
@@ -97058,7 +97058,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "R.oo",
@@ -97403,7 +97403,7 @@
         "survival",
 
 
-        "matrixStats",
+
         "nlme",
 
         "cli",
@@ -97519,7 +97519,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR",
@@ -97577,7 +97577,7 @@
 
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
 
@@ -97727,7 +97727,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -97807,7 +97807,7 @@
         "tibble",
 
         "formatR",
-        "matrixStats",
+
         "doParallel",
         "calibrate",
         "farver",
@@ -97876,7 +97876,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -98141,7 +98141,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "formatR",
 
     ],
@@ -98617,7 +98617,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -99059,7 +99059,7 @@
 
         "BiocFileCache",
         "rappdirs",
-        "matrixStats",
+
         "lambda.r",
 
         "cli",
@@ -99251,7 +99251,7 @@
 
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
         "fs"
     ],
     "ProteoMM": [
@@ -99260,7 +99260,7 @@
         "ggplot2",
         "ggrepel",
 
-        "matrixStats",
+
 
         "AnnotationDbi",
         "progress",
@@ -99481,7 +99481,7 @@
         "Biostrings",
 
 
-        "matrixStats",
+
         "nlme",
         "askpass",
 
@@ -99652,7 +99652,7 @@
 
 
 
-        "matrixStats",
+
 
         "IRanges",
         "S4Vectors",
@@ -99972,7 +99972,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
         "farver",
 
@@ -100033,7 +100033,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "cachem",
 
 
@@ -100105,7 +100105,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "formatR",
         "nlme",
 
@@ -100253,7 +100253,7 @@
         "Biobase",
         "BSgenome",
         "latticeExtra",
-        "matrixStats",
+
 
 
         "RSQLite",
@@ -100668,7 +100668,7 @@
         "DNAcopy",
         "GenomicRanges",
         "IRanges",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -100764,7 +100764,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "later",
         "farver",
 
@@ -100882,7 +100882,7 @@
         "ellipsis",
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
 
         "utf8"
     ],
@@ -101089,7 +101089,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -101152,7 +101152,7 @@
         "S4Vectors",
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
 
@@ -101206,7 +101206,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -101367,7 +101367,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -101432,7 +101432,7 @@
         "XVector",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -101597,7 +101597,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -101855,7 +101855,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "BiocParallel",
@@ -102016,7 +102016,7 @@
 
         "formatR",
 
-        "matrixStats",
+
 
         "cli",
         "utf8"
@@ -102050,7 +102050,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
 
 
         "BiocParallel",
@@ -102149,7 +102149,7 @@
         "reshape2",
         "scales",
 
-        "matrixStats",
+
         "downloader",
 
         "futile.logger",
@@ -102277,7 +102277,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Biobase",
         "DelayedArray",
 
@@ -102305,7 +102305,7 @@
         "reshape2",
         "EnvStats",
         "ExtDist",
-        "matrixStats",
+
         "S4Vectors",
 
         "rngtools",
@@ -102429,7 +102429,7 @@
         "ellipsis",
 
 
-        "matrixStats",
+
         "askpass",
         "bit64",
         "memoise",
@@ -102519,7 +102519,7 @@
         "GenomicScores",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -102718,7 +102718,7 @@
         "MatrixGenerics",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "RBGL": [
         "graph",
@@ -102821,7 +102821,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
 
         "formatR"
@@ -102855,7 +102855,7 @@
         "gprofiler2",
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
 
         "scales",
@@ -103164,7 +103164,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "RcisTarget": [
@@ -103222,7 +103222,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
 
 
         "segmented",
@@ -104147,7 +104147,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -104167,7 +104167,7 @@
 
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
 
 
 
@@ -104287,7 +104287,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
 
 
@@ -104444,7 +104444,7 @@
 
 
         "openssl",
-        "matrixStats",
+
 
 
         "Rhtslib",
@@ -104526,7 +104526,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -104637,7 +104637,7 @@
         "clue",
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "RCurl",
@@ -104742,7 +104742,7 @@
 
         "GenomicRanges",
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "dplyr",
         "ensembldb",
@@ -104920,7 +104920,7 @@
 
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -105010,7 +105010,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -105111,7 +105111,7 @@
         "memoise",
         "foreach",
 
-        "matrixStats",
+
 
         "doRNG",
         "backports",
@@ -105232,7 +105232,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -105274,7 +105274,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
 
@@ -105439,7 +105439,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "ggplot2",
 
@@ -105619,7 +105619,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
         "locfit",
 
@@ -105785,7 +105785,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "survival",
@@ -105980,7 +105980,7 @@
         "MatrixGenerics",
         "IRanges",
 
-        "matrixStats"
+
     ],
     "restfulSE": [
         "SummarizedExperiment",
@@ -106050,7 +106050,7 @@
 
         "Biostrings",
 
-        "matrixStats",
+
 
         "utf8",
         "hms",
@@ -106348,7 +106348,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -106574,7 +106574,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "RGraph2js": [
@@ -106680,7 +106680,7 @@
         "R6",
 
         "Biostrings",
-        "matrixStats",
+
         "nlme",
         "hms",
 
@@ -106745,7 +106745,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "askpass",
 
     ],
@@ -106818,7 +106818,7 @@
         "R6",
 
 
-        "matrixStats",
+
         "cachem",
         "hms",
 
@@ -106928,7 +106928,7 @@
         "downloader",
         "philentropy",
         "fs",
-        "matrixStats",
+
         "genefilter",
         "locfit",
         "geneplotter",
@@ -107001,7 +107001,7 @@
         "S4Vectors",
         "IRanges",
         "GenomicRanges",
-        "matrixStats",
+
         "reldist",
         "doParallel",
         "foreach",
@@ -107196,7 +107196,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "dplyr",
@@ -107381,7 +107381,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "ShortRead",
         "aroma.light",
         "biomaRt",
@@ -107660,7 +107660,7 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "matrixStats",
+
 
         "BiocParallel",
 
@@ -107802,7 +107802,7 @@
 
         "tibble",
 
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -107908,7 +107908,7 @@
         "GO.db",
         "AnnotationDbi",
 
-        "matrixStats",
+
         "IRanges",
         "S4Vectors",
         "KEGGREST",
@@ -108014,7 +108014,7 @@
         "Matrix",
         "DelayedArray",
 
-        "matrixStats"
+
     ],
     "RLassoCox": [
         "glmnet",
@@ -108087,7 +108087,7 @@
         "clue",
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -108418,7 +108418,7 @@
 
         "highr",
         "stringr",
-        "matrixStats",
+
         "cachem",
         "shiny",
         "callr",
@@ -108548,7 +108548,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "RNAAgeCalc": [
@@ -108611,7 +108611,7 @@
 
         "Biostrings",
 
-        "matrixStats",
+
         "nlme",
 
 
@@ -108779,7 +108779,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "GenomicFeatures",
@@ -108990,7 +108990,7 @@
         "IRanges",
         "GenomicRanges",
         "Modstrings",
-        "matrixStats",
+
 
         "Biostrings",
         "BiocParallel",
@@ -109152,7 +109152,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "Modstrings",
@@ -109289,7 +109289,7 @@
         "Matrix",
         "RcppEigen",
         "Modstrings",
-        "matrixStats",
+
         "Biostrings",
         "BiocParallel",
         "GenomicFeatures",
@@ -109445,7 +109445,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "Modstrings",
@@ -109597,7 +109597,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "plyr",
 
@@ -109786,7 +109786,7 @@
         "latticeExtra",
         "MatrixGenerics",
         "DelayedArray",
-        "matrixStats",
+
 
 
         "ellipsis",
@@ -109949,7 +109949,7 @@
         "gplots",
         "gridExtra",
 
-        "matrixStats",
+
         "illuminaio",
         "methylumi",
         "plyr",
@@ -110171,7 +110171,7 @@
 
 
 
-        "matrixStats",
+
 
 
 
@@ -110214,7 +110214,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
 
@@ -110303,7 +110303,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -110626,7 +110626,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "nlme",
         "Matrix",
 
@@ -110727,7 +110727,7 @@
         "nloptr",
         "sp",
 
-        "matrixStats",
+
         "ggplot2",
         "ggrepel",
         "qqman",
@@ -111008,7 +111008,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -111083,7 +111083,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "rSWeeP": [
         "pracma"
@@ -111265,7 +111265,7 @@
         "rtracklayer",
         "biomaRt",
 
-        "matrixStats",
+
         "tidyr",
         "askpass",
         "cli",
@@ -111375,7 +111375,7 @@
         "RcppEigen",
         "sp",
 
-        "matrixStats",
+
         "broom",
         "dplyr",
 
@@ -111488,7 +111488,7 @@
         "RcppEigen",
         "sp",
 
-        "matrixStats",
+
         "broom",
         "dplyr",
 
@@ -111621,7 +111621,7 @@
         "RcppEigen",
         "sp",
 
-        "matrixStats",
+
         "broom",
         "dplyr",
 
@@ -111747,7 +111747,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "Rtreemix": [
@@ -111945,7 +111945,7 @@
         "cli",
         "lambda.r",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR"
@@ -112001,7 +112001,7 @@
         "mgcv",
         "scales",
         "tibble",
-        "matrixStats",
+
         "fs",
         "dplyr",
         "purrr",
@@ -112082,7 +112082,7 @@
         "R.methodsS3",
         "R.oo",
         "R.utils",
-        "matrixStats",
+
 
         "progress",
         "stringr",
@@ -112607,7 +112607,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -112726,7 +112726,7 @@
 
 
 
-        "matrixStats",
+
         "askpass",
         "bit64",
         "blob",
@@ -112820,7 +112820,7 @@
         "caTools",
 
 
-        "matrixStats",
+
         "nlme",
 
         "farver",
@@ -112855,7 +112855,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -112867,7 +112867,7 @@
         "MatrixGenerics",
         "IRanges",
 
-        "matrixStats"
+
     ],
     "scAlign": [
         "SingleCellExperiment",
@@ -112904,7 +112904,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -113068,7 +113068,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
         "edgeR",
         "futile.logger",
 
@@ -113325,7 +113325,7 @@
         "MatrixGenerics",
         "DelayedArray",
 
-        "matrixStats"
+
     ],
     "scAnnotatR": [
         "Seurat",
@@ -113396,7 +113396,7 @@
         "leiden",
         "lmtest",
         "Matrix",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -113554,7 +113554,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "SCArray": [
@@ -113568,7 +113568,7 @@
         "DelayedMatrixStats",
         "Matrix",
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
         "GenomicRanges",
         "Biobase",
@@ -113635,7 +113635,7 @@
 
         "lambda.r",
 
-        "matrixStats",
+
         "KEGGREST",
 
         "blob",
@@ -113719,7 +113719,7 @@
         "rsvd",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -113849,7 +113849,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -114030,7 +114030,7 @@
         "leiden",
         "lmtest",
 
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -114215,7 +114215,7 @@
         "leiden",
         "lmtest",
         "Matrix",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -114389,7 +114389,7 @@
         "RcppArmadillo",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "lifecycle",
@@ -114469,7 +114469,7 @@
 
 
 
-        "matrixStats",
+
         "Biobase",
 
 
@@ -114667,7 +114667,7 @@
         "GenomeInfoDb",
 
 
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
         "locfit",
@@ -114762,7 +114762,7 @@
 
         "BiocNeighbors",
 
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
         "locfit",
@@ -114887,7 +114887,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "cli",
 
         "utf8",
@@ -114898,7 +114898,7 @@
 
     ],
     "SCFA": [
-        "matrixStats",
+
         "keras",
         "tensorflow",
         "BiocParallel",
@@ -115058,7 +115058,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
         "cli",
 
@@ -115175,7 +115175,7 @@
         "leiden",
         "lmtest",
         "Matrix",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -115332,7 +115332,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -115381,7 +115381,7 @@
         "leiden",
         "lmtest",
         "Matrix",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -115499,7 +115499,7 @@
         "S4Vectors",
         "dplyr",
         "reshape2",
-        "matrixStats",
+
 
         "googleVis",
         "ggplot2",
@@ -115581,7 +115581,7 @@
         "beachmat",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -115716,7 +115716,7 @@
         "rtracklayer",
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "scales",
         "Biobase",
@@ -115879,7 +115879,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -115910,7 +115910,7 @@
         "gplots",
         "hexbin",
 
-        "matrixStats",
+
         "mixtools",
 
 
@@ -116057,7 +116057,7 @@
         "Biobase",
 
 
-        "matrixStats",
+
         "cytolib",
         "S4Vectors",
         "RcppArmadillo",
@@ -116116,7 +116116,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
 
 
         "mvtnorm",
@@ -116219,7 +116219,7 @@
         "Rhtslib",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "lambda.r",
 
         "RCurl",
@@ -116287,7 +116287,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "MsCoreUtils",
-        "matrixStats",
+
         "S4Vectors",
         "dplyr",
 
@@ -116368,7 +116368,7 @@
         "purrr",
         "stringr",
         "Rdpack",
-        "matrixStats",
+
         "BiocParallel",
         "elasticnet",
         "sparsepca",
@@ -116527,7 +116527,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -116596,7 +116596,7 @@
         "BiocNeighbors",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
         "locfit",
@@ -116638,7 +116638,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -116780,7 +116780,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -116880,7 +116880,7 @@
         "rappdirs",
 
 
-        "matrixStats",
+
 
 
         "lambda.r",
@@ -116982,7 +116982,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
         "lambda.r",
 
 
@@ -117181,7 +117181,7 @@
         "DT",
 
         "Biostrings",
-        "matrixStats",
+
         "nlme",
 
         "later",
@@ -117388,7 +117388,7 @@
 
 
         "openssl",
-        "matrixStats",
+
         "nlme",
 
         "cli",
@@ -117576,7 +117576,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -117739,7 +117739,7 @@
 
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
         "GenomeInfoDb",
         "XVector",
@@ -117781,7 +117781,7 @@
         "tibble",
 
 
-        "matrixStats",
+
         "plyr",
 
         "stringr",
@@ -117821,7 +117821,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "stringr",
@@ -117899,7 +117899,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "XVector",
@@ -118070,7 +118070,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "selectKSigs": [
         "HiLDA",
@@ -118133,7 +118133,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -118276,7 +118276,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -118462,7 +118462,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "BiocParallel",
         "biomaRt",
 
@@ -118596,7 +118596,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -118683,7 +118683,7 @@
 
 
         "Biostrings",
-        "matrixStats",
+
         "nlme",
         "askpass",
         "bit64",
@@ -118795,7 +118795,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -119013,7 +119013,7 @@
         "wheatmap",
         "ggplot2",
 
-        "matrixStats",
+
         "DNAcopy",
         "SummarizedExperiment",
         "e1071",
@@ -119158,7 +119158,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "GenomicRanges",
@@ -119325,7 +119325,7 @@
 
 
 
-        "matrixStats",
+
         "utf8",
 
         "lambda.r",
@@ -119381,7 +119381,7 @@
 
 
 
-        "matrixStats",
+
 
 
         "bit64",
@@ -119552,7 +119552,7 @@
 
         "memoise",
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -119628,7 +119628,7 @@
         "shiny",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
-        "matrixStats",
+
 
         "GenomicRanges",
         "SummarizedExperiment",
@@ -119810,7 +119810,7 @@
         "Matrix",
         "DelayedArray",
         "formatR",
-        "matrixStats"
+
     ],
     "SIAMCAT": [
         "mlr",
@@ -119820,7 +119820,7 @@
 
         "gridExtra",
         "LiblineaR",
-        "matrixStats",
+
         "ParamHelpers",
         "pROC",
         "PRROC",
@@ -119908,7 +119908,7 @@
         "doParallel",
         "Biostrings",
         "stringr",
-        "matrixStats",
+
         "plyr",
         "GenomicRanges",
         "IRanges",
@@ -120090,7 +120090,7 @@
 
 
         "XVector",
-        "matrixStats",
+
 
         "farver",
 
@@ -120313,7 +120313,7 @@
 
 
         "Biostrings",
-        "matrixStats",
+
         "cachem",
         "nlme",
 
@@ -120415,7 +120415,7 @@
         "Rhtslib",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "memoise",
 
 
@@ -120519,7 +120519,7 @@
         "IRanges",
         "XVector",
 
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -120865,7 +120865,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "doParallel",
 
@@ -120974,7 +120974,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
     ],
@@ -121042,7 +121042,7 @@
 
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
         "sitmo",
 
@@ -121097,7 +121097,7 @@
 
         "MAST",
         "Matrix",
-        "matrixStats",
+
         "msigdbr",
         "multtest",
         "plotly",
@@ -121432,7 +121432,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -121543,7 +121543,7 @@
         "rsvd",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "GenomicRanges",
@@ -121572,7 +121572,7 @@
         "Biobase",
         "BiocParallel",
         "SummarizedExperiment",
-        "matrixStats",
+
         "reshape2",
         "S4Vectors",
 
@@ -121712,7 +121712,7 @@
         "rsvd",
         "beachmat",
         "MatrixGenerics",
-        "matrixStats",
+
         "graph",
         "rhdf5",
         "rhdf5filters",
@@ -121846,7 +121846,7 @@
 
         "formatR",
 
-        "matrixStats",
+
 
         "utf8"
     ],
@@ -121920,7 +121920,7 @@
         "scales",
         "reshape2",
         "ggplot2",
-        "matrixStats",
+
         "FDb.InfiniumMethylation.hg19",
 
         "IRanges",
@@ -122112,7 +122112,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -122195,7 +122195,7 @@
         "princurve",
         "TrajectoryUtils",
         "igraph",
-        "matrixStats",
+
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -122267,7 +122267,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "askpass",
 
         "utf8",
@@ -122441,7 +122441,7 @@
         "lambda.r",
 
         "ellipsis",
-        "matrixStats",
+
         "formatR"
     ],
     "SNAGEE": [
@@ -122562,7 +122562,7 @@
         "DelayedArray",
         "RCurl",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -122700,7 +122700,7 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-        "matrixStats",
+
         "lambda.r",
 
         "annotate",
@@ -122813,7 +122813,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "nlme",
 
 
@@ -122999,7 +122999,7 @@
         "KEGGREST",
 
 
-        "matrixStats",
+
 
 
 
@@ -123198,7 +123198,7 @@
 
         "leiden",
         "lmtest",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -123353,7 +123353,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "MatrixGenerics",
@@ -123456,7 +123456,7 @@
         "MatrixGenerics",
 
         "Matrix",
-        "matrixStats",
+
 
     ],
     "sparsenetgls": [
@@ -123494,7 +123494,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -123647,7 +123647,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
         "utf8",
         "fs",
@@ -123736,7 +123736,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "nlme",
 
 
@@ -123950,7 +123950,7 @@
         "tidyselect",
         "vctrs",
 
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "sitmo",
@@ -124096,7 +124096,7 @@
         "MatrixGenerics",
         "GenomeInfoDb",
 
-        "matrixStats",
+
         "Hmisc",
 
 
@@ -124190,7 +124190,7 @@
         "GenomicRanges",
         "ggplot2",
         "IRanges",
-        "matrixStats",
+
         "motifmatchr",
         "S4Vectors",
         "SummarizedExperiment",
@@ -124486,7 +124486,7 @@
         "CGHbase",
         "CGHcall",
         "DNAcopy",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -124778,7 +124778,7 @@
         "ape",
         "tidytree",
         "treeio",
-        "matrixStats",
+
         "cachem",
 
         "utf8",
@@ -124826,7 +124826,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "RCurl",
 
         "SummarizedExperiment",
@@ -124887,7 +124887,7 @@
         "fitdistrplus",
         "ggplot2",
         "locfit",
-        "matrixStats",
+
         "scales",
         "scater",
         "SummarizedExperiment",
@@ -124973,7 +124973,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -125045,7 +125045,7 @@
         "R6",
 
         "formatR",
-        "matrixStats",
+
         "cachem",
         "hms",
 
@@ -125177,7 +125177,7 @@
         "ensembldb",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
 
 
@@ -125306,7 +125306,7 @@
         "ggridges",
         "SummarizedExperiment",
 
-        "matrixStats",
+
 
 
 
@@ -125395,7 +125395,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
 
         "doParallel",
 
@@ -125562,7 +125562,7 @@
 
 
 
-        "matrixStats",
+
         "nlme",
         "askpass",
         "RcppTOML",
@@ -125718,7 +125718,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
 
 
@@ -125945,7 +125945,7 @@
         "plyr",
         "rARPACK",
 
-        "matrixStats",
+
         "backports",
         "dplyr",
         "ellipsis",
@@ -126096,7 +126096,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -126125,7 +126125,7 @@
         "biovizBase",
         "Rsamtools",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
 
@@ -126479,7 +126479,7 @@
         "ape",
         "tidytree",
         "treeio",
-        "matrixStats",
+
 
 
         "futile.logger",
@@ -126672,7 +126672,7 @@
 
 
 
-        "matrixStats",
+
 
         "bit64",
         "blob",
@@ -126739,7 +126739,7 @@
         "Biobase",
         "BiocParallel",
 
-        "matrixStats",
+
 
         "futile.logger",
 
@@ -126777,7 +126777,7 @@
         "openssl",
         "R6",
 
-        "matrixStats",
+
         "hms",
 
 
@@ -126870,7 +126870,7 @@
 
 
         "openssl",
-        "matrixStats",
+
         "cli",
         "utf8",
         "hms",
@@ -126934,7 +126934,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "BiocParallel",
 
         "cli",
@@ -127187,7 +127187,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "utf8",
 
@@ -127215,7 +127215,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -127311,7 +127311,7 @@
 
         "mgcv",
         "scales",
-        "matrixStats",
+
 
 
         "cli",
@@ -127588,7 +127588,7 @@
         "rstatix",
         "gridtext",
 
-        "matrixStats",
+
 
         "mvtnorm",
         "farver",
@@ -127729,7 +127729,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -127836,7 +127836,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "BiocParallel",
         "cli",
 
@@ -127928,7 +127928,7 @@
         "BiocFileCache",
         "rappdirs",
 
-        "matrixStats",
+
         "BiocParallel",
         "cli",
 
@@ -128113,7 +128113,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -128516,7 +128516,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -128744,7 +128744,7 @@
 
 
         "openssl",
-        "matrixStats",
+
         "utf8",
         "hms",
 
@@ -128844,7 +128844,7 @@
         "CGHbase",
         "CGHcall",
         "DNAcopy",
-        "matrixStats",
+
         "R.utils",
         "Rsamtools",
         "future.apply",
@@ -128994,7 +128994,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -129071,7 +129071,7 @@
 
         "GenomicRanges",
         "IRanges",
-        "matrixStats",
+
         "shiny",
         "S4Vectors",
         "GenomeInfoDb",
@@ -129312,7 +129312,7 @@
         "highr",
 
         "formatR",
-        "matrixStats",
+
 
         "cli",
         "utf8"
@@ -129351,7 +129351,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "GenomicRanges",
@@ -129524,7 +129524,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -129641,7 +129641,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
         "nlme",
         "askpass",
         "utf8",
@@ -129781,7 +129781,7 @@
 
         "wheatmap",
 
-        "matrixStats",
+
         "DNAcopy",
         "fgsea",
         "httpuv",
@@ -130019,7 +130019,7 @@
         "openssl",
 
 
-        "matrixStats",
+
 
 
         "hms",
@@ -130107,7 +130107,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "nlme",
         "farver",
 
@@ -130142,7 +130142,7 @@
         "ontoProc",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "matrixStats",
+
         "org.Mm.eg.db",
 
         "Biobase",
@@ -130366,7 +130366,7 @@
 
 
 
-        "matrixStats",
+
         "Rsamtools",
 
         "GenomicAlignments",
@@ -130544,7 +130544,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "formatR"
     ],
     "TFHAZ": [
@@ -130708,7 +130708,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
         "utf8",
         "bit64",
@@ -130780,7 +130780,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "nlme",
 
         "later",
@@ -130853,7 +130853,7 @@
 
         "openssl",
 
-        "matrixStats",
+
         "nlme",
 
         "later",
@@ -130924,7 +130924,7 @@
         "IRanges",
         "nanotime",
 
-        "matrixStats",
+
         "bit64",
         "RcppCCTZ",
         "zoo",
@@ -131050,7 +131050,7 @@
 
 
         "reshape2",
-        "matrixStats",
+
         "rARPACK",
         "gridExtra",
         "BiocParallel",
@@ -131189,7 +131189,7 @@
 
 
         "interp",
-        "matrixStats",
+
         "nlme",
         "cli",
         "utf8",
@@ -131392,7 +131392,7 @@
         "treeio",
 
         "Biostrings",
-        "matrixStats",
+
         "askpass",
         "bit64",
 
@@ -131425,7 +131425,7 @@
         "R.filesets",
         "aroma.apd",
 
-        "matrixStats",
+
 
         "future",
 
@@ -131579,7 +131579,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -131651,7 +131651,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "BiocIO",
         "biomaRt",
         "cli",
@@ -131739,7 +131739,7 @@
 
         "mgcv",
 
-        "matrixStats",
+
         "farver",
 
         "munsell",
@@ -131906,7 +131906,7 @@
 
         "beachmat",
         "backports",
-        "matrixStats",
+
 
         "R6",
         "tidyselect",
@@ -132048,7 +132048,7 @@
 
 
         "e1071",
-        "matrixStats",
+
         "stringr",
 
         "Matrix",
@@ -132159,7 +132159,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "askpass",
         "RcppTOML",
@@ -132301,7 +132301,7 @@
         "AnnotationDbi",
 
 
-        "matrixStats",
+
 
         "IRanges",
         "RSQLite",
@@ -132408,7 +132408,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "nlme",
 
         "gplots",
@@ -132672,7 +132672,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
 
         "htmltools",
 
@@ -132795,7 +132795,7 @@
         "Matrix",
         "TrajectoryUtils",
         "viridis",
-        "matrixStats",
+
 
 
         "futile.logger",
@@ -132905,7 +132905,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
 
     ],
@@ -132960,7 +132960,7 @@
         "GO.db",
 
 
-        "matrixStats",
+
 
         "IRanges",
         "RSQLite",
@@ -133124,7 +133124,7 @@
 
         "interp",
 
-        "matrixStats",
+
         "cachem",
 
         "utf8",
@@ -133160,7 +133160,7 @@
         "IRanges",
 
         "DelayedMatrixStats",
-        "matrixStats",
+
         "RcppArmadillo",
         "beachmat",
         "rhdf5",
@@ -133267,7 +133267,7 @@
         "graph",
 
 
-        "matrixStats",
+
 
         "RSQLite",
         "KEGGREST",
@@ -133424,7 +133424,7 @@
         "dqrng",
         "SummarizedExperiment",
         "BiocParallel",
-        "matrixStats",
+
         "futile.logger",
 
 
@@ -133495,7 +133495,7 @@
         "XVector",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "RCurl",
 
@@ -133562,7 +133562,7 @@
         "DelayedArray",
         "TrajectoryUtils",
         "igraph",
-        "matrixStats",
+
         "MatrixGenerics",
         "IRanges",
         "GenomeInfoDb",
@@ -133713,7 +133713,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
         "doParallel",
         "MatrixGenerics",
@@ -133898,7 +133898,7 @@
 
         "RCurl",
 
-        "matrixStats",
+
         "cli",
 
         "utf8",
@@ -133952,7 +133952,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "Matrix",
         "foreach",
@@ -134131,7 +134131,7 @@
 
 
 
-        "matrixStats",
+
 
         "pillar",
 
@@ -134146,7 +134146,7 @@
         "S4Vectors",
         "rtracklayer",
         "Matrix",
-        "matrixStats",
+
         "GenomicRanges",
         "GenomicFeatures",
         "IRanges",
@@ -134291,7 +134291,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
         "RCurl",
 
@@ -134343,7 +134343,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -134670,7 +134670,7 @@
         "BSgenome",
         "Rsamtools",
 
-        "matrixStats",
+
         "RCurl",
 
 
@@ -134823,7 +134823,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "farver",
 
         "munsell",
@@ -134903,7 +134903,7 @@
         "clv",
         "rgl",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -134997,7 +134997,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
         "cli",
 
         "utf8",
@@ -135188,7 +135188,7 @@
         "stringr",
 
 
-        "matrixStats",
+
 
 
 
@@ -135264,7 +135264,7 @@
         "BSgenome",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "stringr",
@@ -135513,7 +135513,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -135590,7 +135590,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
         "utf8",
 
 
@@ -135678,7 +135678,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "htmltools",
         "htmlwidgets",
@@ -135820,7 +135820,7 @@
         "XVector",
 
         "rtracklayer",
-        "matrixStats",
+
         "BiocParallel",
         "genefilter",
         "locfit",
@@ -135985,7 +135985,7 @@
         "Biostrings",
         "biovizBase",
         "latticeExtra",
-        "matrixStats",
+
         "GenomicAlignments",
 
         "GO.db",
@@ -136212,7 +136212,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -136353,7 +136353,7 @@
         "HSMMSingleCell",
 
         "irlba",
-        "matrixStats",
+
         "densityClust",
         "Rtsne",
         "reshape2",
@@ -136487,7 +136487,7 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "lifecycle",
@@ -136599,7 +136599,7 @@
         "IRanges",
         "oligoClasses",
         "foreach",
-        "matrixStats",
+
 
 
         "GenomeInfoDb",
@@ -136679,7 +136679,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
 
 
@@ -136872,7 +136872,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -136969,7 +136969,7 @@
         "mgcv",
         "formula.tools",
 
-        "matrixStats",
+
 
 
         "nlme",
@@ -137044,7 +137044,7 @@
 
 
         "rtracklayer",
-        "matrixStats",
+
         "htmltools",
         "htmlwidgets",
 
@@ -137195,7 +137195,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "RCurl",
 
         "AnnotationDbi",
@@ -137272,7 +137272,7 @@
         "GenomicRanges",
         "S4Vectors",
         "Sushi",
-        "matrixStats",
+
         "GenomicAlignments",
         "GenomeInfoDb",
         "Rsamtools",
@@ -137402,7 +137402,7 @@
 
 
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -137565,7 +137565,7 @@
         "Biobase",
         "GenomeInfoDb",
         "cli",
-        "matrixStats",
+
         "sparseMatrixStats",
 
         "lambda.r",
@@ -137726,7 +137726,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "nlme",
 
         "hms",
@@ -137867,7 +137867,7 @@
         "graph",
 
 
-        "matrixStats",
+
         "plyr",
         "dbplyr",
 
@@ -138130,7 +138130,7 @@
         "vctrs",
         "lambda.r",
 
-        "matrixStats",
+
 
         "cli",
         "utf8",
@@ -138238,7 +138238,7 @@
         "stringr",
 
 
-        "matrixStats",
+
 
         "blob",
 
@@ -138335,7 +138335,7 @@
         "graph",
         "InteractionSet",
         "KEGGREST",
-        "matrixStats",
+
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -138545,7 +138545,7 @@
         "mgcv",
         "scales",
         "formatR",
-        "matrixStats",
+
         "cachem",
         "testthat",
         "askpass",
@@ -138580,7 +138580,7 @@
     "wateRmelon": [
         "Biobase",
 
-        "matrixStats",
+
         "methylumi",
         "lumi",
         "ROC",
@@ -138869,7 +138869,7 @@
 
         "ellipsis",
         "formatR",
-        "matrixStats",
+
         "askpass",
 
     ],
@@ -138982,7 +138982,7 @@
         "Matrix",
         "MatrixGenerics",
         "IRanges",
-        "matrixStats",
+
         "sparseMatrixStats",
 
 
@@ -139095,7 +139095,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "wpm": [
@@ -139178,7 +139178,7 @@
         "XVector",
 
 
-        "matrixStats",
+
         "nlme",
 
         "utf8",
@@ -139274,7 +139274,7 @@
     ],
     "Wrench": [
 
-        "matrixStats",
+
         "locfit",
 
     ],
@@ -139337,7 +139337,7 @@
 
         "tibble",
 
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -139439,7 +139439,7 @@
 
 
         "IRanges",
-        "matrixStats",
+
         "foreach",
 
 
@@ -139634,7 +139634,7 @@
         "GenomeInfoDb",
 
         "rtracklayer",
-        "matrixStats",
+
         "Rsamtools",
         "htmltools",
         "htmlwidgets",
@@ -139733,7 +139733,7 @@
 
 
 
-        "matrixStats",
+
 
     ],
     "YAPSA": [
@@ -139773,7 +139773,7 @@
 
 
 
-        "matrixStats",
+
         "foreach",
         "viridis",
 
@@ -139928,7 +139928,7 @@
         "edgeR",
         "gplots",
 
-        "matrixStats",
+
 
         "readr",
 
@@ -140102,7 +140102,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -140145,7 +140145,7 @@
 
         "XVector",
 
-        "matrixStats",
+
         "nlme",
         "cli",
 
@@ -140197,7 +140197,7 @@
         "RCurl",
 
         "XVector",
-        "matrixStats",
+
 
 
 
@@ -140982,7 +140982,7 @@
 
     ],
 
-    "matrixStats": [],
+
     "R.utils": [
         "R.oo",
         "R.methodsS3"
@@ -142752,7 +142752,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
         "bit64",
         "blob",
         "memoise",
@@ -143125,7 +143125,7 @@
 
         "vegan",
         "ggplot2",
-        "matrixStats",
+
         "Matrix",
         "ape",
 
@@ -143556,7 +143556,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -143669,7 +143669,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -143765,7 +143765,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -143779,7 +143779,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -143817,7 +143817,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -143877,7 +143877,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -143986,7 +143986,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -144095,7 +144095,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -144219,7 +144219,7 @@
         "RSQLite",
         "KEGGREST",
 
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -144317,7 +144317,7 @@
 
 
         "vctrs",
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -144408,7 +144408,7 @@
 
 
         "vctrs",
-        "matrixStats",
+
         "RCurl",
 
         "BiocIO",
@@ -144626,7 +144626,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -145018,7 +145018,7 @@
         "tibble",
 
         "checkmate",
-        "matrixStats",
+
         "callr",
         "cli",
 
@@ -145057,7 +145057,7 @@
 
     "loo": [
         "checkmate",
-        "matrixStats",
+
         "backports"
     ],
     "pkgbuild": [
@@ -145151,7 +145151,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -145713,7 +145713,7 @@
         "lmtest",
 
         "Matrix",
-        "matrixStats",
+
         "miniUI",
         "patchwork",
 
@@ -145955,7 +145955,7 @@
         "reshape2",
 
         "gridExtra",
-        "matrixStats",
+
         "RcppArmadillo",
 
 
@@ -146188,7 +146188,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -147328,7 +147328,7 @@
     "WGCNA": [
 
 
-        "matrixStats",
+
         "Hmisc",
 
         "foreach",
@@ -147902,7 +147902,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -148031,7 +148031,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -148304,7 +148304,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
 
         "doRNG",
         "BiocParallel",
@@ -148456,7 +148456,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -150035,7 +150035,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -150172,7 +150172,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -150306,7 +150306,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -150402,7 +150402,7 @@
 
     ],
     "kpmt": [
-        "matrixStats"
+
     ],
     "isva": [
         "qvalue",
@@ -150526,7 +150526,7 @@
 
         "ellipsis",
 
-        "matrixStats",
+
         "askpass",
 
         "formatR",
@@ -150692,7 +150692,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -150797,7 +150797,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
         "askpass",
 
         "formatR"
@@ -151007,7 +151007,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -151096,7 +151096,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -151185,7 +151185,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -151274,7 +151274,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -151363,7 +151363,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -151614,7 +151614,7 @@
     ],
 
     "matrixTests": [
-        "matrixStats"
+
     ],
     "babelgene": [
         "dplyr",
@@ -151823,7 +151823,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -152575,7 +152575,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -152666,7 +152666,7 @@
         "ellipsis",
         "formatR",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -152722,7 +152722,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -152932,7 +152932,7 @@
 
         "tibble",
 
-        "matrixStats",
+
         "doParallel",
         "foreach",
 
@@ -153311,7 +153311,7 @@
         "ggplot2",
 
         "geometry",
-        "matrixStats",
+
         "reshape2",
         "RcppEigen",
 
@@ -155697,7 +155697,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
         "bit64",
         "blob",
         "memoise",
@@ -155742,7 +155742,7 @@
     "coin": [
         "survival",
         "libcoin",
-        "matrixStats",
+
         "modeltools",
         "mvtnorm",
         "multcomp",
@@ -156430,7 +156430,7 @@
 
         "Matrix",
 
-        "matrixStats",
+
 
         "R.utils",
 
@@ -156663,7 +156663,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -157329,7 +157329,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -157830,7 +157830,7 @@
         "lambda.r",
 
 
-        "matrixStats",
+
 
         "utf8",
         "formatR"
@@ -158323,7 +158323,7 @@
         "DelayedArray",
 
 
-        "matrixStats",
+
 
         "cli",
 
@@ -158458,7 +158458,7 @@
         "ellipsis",
         "formatR",
 
-        "matrixStats",
+
         "askpass",
 
 
@@ -158518,7 +158518,7 @@
         "tibble",
 
         "checkmate",
-        "matrixStats",
+
         "callr",
 
 
@@ -158570,7 +158570,7 @@
         "tibble",
 
         "checkmate",
-        "matrixStats",
+
         "callr",
 
 
@@ -159244,7 +159244,7 @@
         "mgcv",
         "genefilter",
         "BiocParallel",
-        "matrixStats",
+
 
         "edgeR",
         "futile.logger",
@@ -159485,7 +159485,7 @@
         "foreach",
 
         "locfit",
-        "matrixStats",
+
         "doRNG",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -159706,7 +159706,7 @@
         "Matrix",
         "DelayedArray",
 
-        "matrixStats",
+
         "fs"
     ],
     "PerformanceAnalytics": [
@@ -159999,7 +159999,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -160857,7 +160857,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -161447,7 +161447,7 @@
 
 
 
-        "matrixStats",
+
         "httpuv",
 
         "fontawesome",
@@ -161500,7 +161500,7 @@
         "RCurl",
 
 
-        "matrixStats",
+
 
 
         "cli",
@@ -161599,7 +161599,7 @@
         "htmltools",
         "lubridate",
         "magick",
-        "matrixStats",
+
         "pander",
         "pryr",
         "rapportools",
@@ -161905,7 +161905,7 @@
         "R.filesets",
         "aroma.apd",
 
-        "matrixStats",
+
 
         "future",
         "R.huge",
@@ -161929,7 +161929,7 @@
         "R.oo",
         "R.cache",
         "R.rsp",
-        "matrixStats",
+
 
         "PSCBS",
 
@@ -161974,7 +161974,7 @@
         "R.oo",
         "R.utils",
         "R.cache",
-        "matrixStats",
+
         "aroma.light",
         "DNAcopy",
 
@@ -162225,7 +162225,7 @@
 
         "checkmate",
 
-        "matrixStats",
+
 
 
         "ellipsis",
@@ -162293,7 +162293,7 @@
 
         "pillar",
         "distributional",
-        "matrixStats",
+
         "backports",
 
 
@@ -162370,7 +162370,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -162780,7 +162780,7 @@
 
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
@@ -163012,7 +163012,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
 
@@ -163291,7 +163291,7 @@
         "DelayedArray",
         "lambda.r",
 
-        "matrixStats",
+
         "formatR"
     ],
     "caretEnsemble": [
@@ -163600,7 +163600,7 @@
 
         "ellipsis",
         "formatR",
-        "matrixStats",
+
         "askpass",
 
 
@@ -163628,7 +163628,7 @@
 
         "XVector",
 
-        "matrixStats",
+
 
 
     ],
@@ -163874,7 +163874,7 @@
         "shiny",
         "DT",
 
-        "matrixStats",
+
         "bit64",
         "memoise",
 
@@ -164387,7 +164387,7 @@
         "dplyr",
         "Matrix",
         "MatrixGenerics",
-        "matrixStats",
+
         "sparseMatrixStats",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -164565,7 +164565,7 @@
         "DT",
 
 
-        "matrixStats",
+
 
 
         "BiocParallel",
@@ -164686,7 +164686,7 @@
 
 
         "Biostrings",
-        "matrixStats",
+
         "cachem",
         "askpass",
 
@@ -165262,7 +165262,7 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "matrixStats",
+
         "XVector",
         "Rsamtools",
         "RCurl",
