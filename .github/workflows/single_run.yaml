@@ -57,7 +57,7 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with:
-          name: ${{steps.pkg.outputs.name}}
+          name: ${{steps.claim.outputs.pkg}}
           path: /tmp/tars/${{steps.tar.outputs.name}}
 
 
@@ -78,7 +78,7 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
-          name: ${{steps.pkg.outputs.name}}
+          name: ${{needs.build.outputs.pkg}}
           path: /tmp/${{needs.build.outputs.tar}}
 
       - name: Rclone push package and mark as pushed
