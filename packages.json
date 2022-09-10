@@ -5920,7 +5920,7 @@
         "stringi",
         "SummarizedExperiment",
         "tidyr",
-        "assertive.base",
+
         "assertive.properties",
         "assertive.types",
         "assertive.numbers",
@@ -15832,7 +15832,7 @@
         "combinat",
         "RcppArmadillo",
         "RcppProgress",
-        "assertive.base",
+
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
@@ -63124,7 +63124,7 @@
         "DBI",
         "RSQLite",
         "KEGGREST",
-        "assertive.base",
+
         "backports",
         "ellipsis",
         "generics",
@@ -82136,7 +82136,7 @@
         "stringi",
         "tidyr",
         "tidyselect",
-        "assertive.base",
+
         "assertive.properties",
         "assertive.types",
         "assertive.numbers",
@@ -121336,7 +121336,7 @@
         "reldist",
         "Hmisc",
         "combinat",
-        "assertive.base",
+
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
@@ -144820,7 +144820,7 @@
         "lattice"
     ],
     "assertive": [
-        "assertive.base",
+
         "assertive.properties",
         "assertive.types",
         "assertive.numbers",
@@ -144846,46 +144846,46 @@
         "glue",
         "magrittr"
     ],
-    "assertive.base": [],
+
     "assertive.properties": [
-        "assertive.base"
+
     ],
     "assertive.types": [
-        "assertive.base",
+
         "assertive.properties",
         "codetools"
     ],
     "assertive.numbers": [
-        "assertive.base"
+
     ],
     "assertive.strings": [
-        "assertive.base",
+
         "assertive.types",
         "stringi",
         "assertive.properties",
         "codetools"
     ],
     "assertive.datetimes": [
-        "assertive.base",
+
         "assertive.types",
         "assertive.properties",
         "codetools"
     ],
     "assertive.files": [
-        "assertive.base",
+
         "assertive.numbers"
     ],
     "assertive.sets": [
-        "assertive.base"
+
     ],
     "assertive.matrices": [
-        "assertive.base"
+
     ],
     "assertive.models": [
-        "assertive.base"
+
     ],
     "assertive.data": [
-        "assertive.base",
+
         "assertive.strings",
         "assertive.types",
         "stringi",
@@ -144893,7 +144893,7 @@
         "codetools"
     ],
     "assertive.data.uk": [
-        "assertive.base",
+
         "assertive.strings",
         "assertive.types",
         "stringi",
@@ -144901,7 +144901,7 @@
         "codetools"
     ],
     "assertive.data.us": [
-        "assertive.base",
+
         "assertive.strings",
         "assertive.types",
         "stringi",
@@ -144909,10 +144909,10 @@
         "codetools"
     ],
     "assertive.reflection": [
-        "assertive.base"
+
     ],
     "assertive.code": [
-        "assertive.base",
+
         "assertive.properties",
         "assertive.types",
         "codetools"
@@ -149469,7 +149469,7 @@
 
     ],
     "multipanelfigure": [
-        "assertive.base",
+
         "assertive.files",
         "assertive.numbers",
         "assertive.properties",
