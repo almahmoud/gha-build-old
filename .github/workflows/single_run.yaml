@@ -72,7 +72,6 @@ jobs:
     name: Rclone push
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
 
       - name: Add rclone conf file
         run: |
@@ -88,10 +87,23 @@ jobs:
 
       - name: Rclone push package and mark as pushed
         run: |
+          set -x
+          rclone copyto /tmp/${{needs.build.outputs.tar}} js2:/gha-build/${{needs.build.outputs.tar}} -vvvvvv
+
+  markpushed:
+    needs: ["build", "rclonepush"]
+    name: Mark pushed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Rclone push package and mark as pushed
+        run: |
+          set -x
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name github-actions
           git config user.email github-actions@github.com
-          for i in {1..20}; do bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed ${{needs.build.outputs.tar}}"; else exit 1; fi
+          for i in {1..20}; do bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed ${{needs.build.outputs.tar}}"; else exit 1; fi
         continue-on-error: true
 
 
