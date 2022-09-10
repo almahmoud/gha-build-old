@@ -151,7 +151,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "openssl",
         "Matrix",
         "later",
@@ -185,8 +184,7 @@
         "BiocParallel",
         "lifecycle",
         "pillar",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "aCGH": [
         "survival",
@@ -416,7 +414,6 @@
         "Biobase",
         "IRanges",
         "GenomeInfoDb",
-
         "XVector",
         "survival",
         "RcppEigen"
@@ -453,7 +450,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "dplyr",
         "ellipsis",
@@ -563,7 +559,6 @@
         "BiocFileCache",
         "tidyselect",
         "ellipsis",
-
         "checkmate",
         "interp",
         "hms",
@@ -728,7 +723,6 @@
         "BiocFileCache",
         "tidyselect",
         "ellipsis",
-
         "checkmate",
         "interp",
         "hms",
@@ -795,8 +789,7 @@
         "XVector",
         "survival",
         "ellipsis",
-        "purrr",
-
+        "purrr"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -817,7 +810,6 @@
         "Matrix",
         "DelayedArray",
         "NADA",
-
         "RcppGSL"
     ],
     "alevinQC": [
@@ -902,7 +894,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "survival",
         "ggplot2",
         "htmlTable",
@@ -943,7 +934,6 @@
         "crosstalk",
         "purrr",
         "promises",
-
         "openssl",
         "later",
         "ellipsis"
@@ -982,7 +972,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -1045,7 +1034,6 @@
         "ellipsis",
         "sass",
         "memoise",
-
         "XVector",
         "doRNG",
         "hms",
@@ -1175,7 +1163,6 @@
         "extrafont",
         "sass",
         "memoise",
-
         "SummarizedExperiment",
         "interp",
         "ellipsis",
@@ -1218,7 +1205,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -1297,8 +1283,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "ANF": [
         "igraph",
@@ -1384,7 +1369,6 @@
         "RcppTOML",
         "RSQLite",
         "KEGGREST",
-
         "prodlim",
         "Biostrings",
         "lava",
@@ -1429,7 +1413,6 @@
         "KEGGREST",
         "futile.logger",
         "Matrix",
-
         "openssl",
         "bit64",
         "blob",
@@ -1546,7 +1529,6 @@
         "knitr",
         "RBGL",
         "XVector",
-
         "BiocIO",
         "biomaRt",
         "BiocParallel",
@@ -1645,8 +1627,7 @@
         "bslib",
         "MatrixGenerics",
         "DelayedArray",
-        "sass",
-
+        "sass"
     ],
     "anota": [
         "qvalue",
@@ -1694,7 +1675,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -1714,7 +1694,6 @@
         "tidyr",
         "lifecycle",
         "pillar",
-
         "openssl",
         "ellipsis",
         "purrr"
@@ -1776,7 +1755,6 @@
         "sass",
         "memoise",
         "pillar",
-
         "ellipsis",
         "purrr",
         "bit64",
@@ -1840,7 +1818,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "hms"
     ],
     "apComplex": [
@@ -1956,7 +1933,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "hms",
         "triebeard"
     ],
@@ -2028,7 +2004,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "RcppEigen",
         "bit64",
@@ -2107,7 +2082,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "vroom"
     ],
@@ -2202,7 +2176,6 @@
         "segmented",
         "ellipsis",
         "futile.logger",
-
         "openssl",
         "Biostrings",
         "Matrix",
@@ -2248,7 +2221,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "ggrepel",
         "qqman",
@@ -2315,7 +2287,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-
         "tidyr",
         "caTools",
         "openssl",
@@ -2408,7 +2379,6 @@
         "DelayedArray",
         "dbplyr",
         "sass",
-
         "survival",
         "htmlTable",
         "viridis",
@@ -2460,7 +2430,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -2527,7 +2496,6 @@
         "memoise",
         "blob",
         "purrr",
-
         "openssl",
         "shiny",
         "DT",
@@ -2558,8 +2526,7 @@
         "XVector",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "atSNP": [
         "BSgenome",
@@ -2596,7 +2563,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "openssl",
         "Matrix",
         "bit64",
@@ -2775,7 +2741,6 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-
         "nloptr",
         "RcppEigen",
         "testthat",
@@ -2793,7 +2758,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -2837,7 +2801,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "bit64",
         "memoise"
@@ -2871,7 +2834,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "MatrixGenerics",
         "DelayedArray",
         "openssl",
@@ -2916,7 +2878,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -2948,7 +2909,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "GenomeInfoDb",
         "XVector",
         "Matrix",
@@ -3054,7 +3014,6 @@
         "interp",
         "Matrix",
         "later",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -3079,7 +3038,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-
         "BiocIO",
         "restfulr"
     ],
@@ -3125,7 +3083,6 @@
         "htmlwidgets",
         "sparseMatrixStats",
         "sitmo",
-
         "XVector",
         "lifecycle",
         "httpuv",
@@ -3154,8 +3111,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "basilisk": [
         "reticulate",
@@ -3188,7 +3144,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector"
     ],
     "BatchQC": [
@@ -3248,7 +3203,6 @@
         "RSQLite",
         "KEGGREST",
         "processx",
-
         "openssl",
         "foreach",
         "Biostrings",
@@ -3318,7 +3272,6 @@
         "sandwich",
         "bit64",
         "memoise",
-
         "ellipsis"
     ],
     "bayNorm": [
@@ -3338,7 +3291,6 @@
         "Biobase",
         "IRanges",
         "GenomeInfoDb",
-
         "XVector"
     ],
     "baySeq": [
@@ -3377,7 +3329,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -3504,7 +3455,6 @@
         "interp",
         "BiocIO",
         "restfulr",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -3513,8 +3463,7 @@
     "BEclear": [
         "BiocParallel",
         "futile.logger",
-        "Matrix",
-
+        "Matrix"
     ],
     "benchdamic": [
         "phyloseq",
@@ -3602,7 +3551,6 @@
         "tidyselect",
         "pillar",
         "survival",
-
         "globals",
         "AnnotationDbi",
         "annotate",
@@ -3710,8 +3658,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "BgeeDB": [
         "topGO",
@@ -3852,7 +3799,6 @@
         "purrr",
         "progress",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -3945,8 +3891,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "bioassayR": [
         "RSQLite",
@@ -4088,7 +4033,6 @@
         "ggplotify",
         "XVector",
         "GenomeInfoDb",
-
         "tweenr",
         "RcppEigen",
         "ape",
@@ -4172,8 +4116,7 @@
         "BiocParallel",
         "Matrix",
         "RcppHNSW",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "BiocOncoTK": [
         "ComplexHeatmap",
@@ -4268,7 +4211,6 @@
         "pkgload",
         "processx",
         "waldo",
-
         "rematch2"
     ],
     "BioCor": [
@@ -4283,7 +4225,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -4293,8 +4234,7 @@
         "GenomeInfoDb"
     ],
     "BiocParallel": [
-        "futile.logger",
-
+        "futile.logger"
     ],
     "BiocPkgTools": [
         "htmlwidgets",
@@ -4367,8 +4307,7 @@
         "beachmat",
         "futile.logger",
         "MatrixGenerics",
-        "IRanges",
-
+        "IRanges"
     ],
     "BiocSklearn": [
         "reticulate",
@@ -4685,7 +4624,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "latticeExtra",
         "viridis",
         "knitr",
@@ -4764,7 +4702,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -4828,7 +4765,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "annotate",
         "XVector",
         "latticeExtra",
@@ -4923,7 +4859,6 @@
         "RSQLite",
         "sass",
         "memoise",
-
         "checkmate",
         "httr",
         "Biostrings",
@@ -5052,7 +4987,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "ggdendro",
-
         "future",
         "globals",
         "XVector",
@@ -5118,7 +5052,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "RcppEigen",
         "hms",
@@ -5197,7 +5130,6 @@
         "foreach",
         "doRNG",
         "snowfall",
-
         "future",
         "globals",
         "biomaRt",
@@ -5259,8 +5191,7 @@
         "openssl",
         "bit64",
         "blob",
-        "memoise",
-
+        "memoise"
     ],
     "BitSeq": [
         "Rsamtools",
@@ -5270,8 +5201,7 @@
         "Biostrings",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "blacksheepr": [
         "circlize",
@@ -5420,8 +5350,7 @@
         "BiocParallel",
         "BiocNeighbors",
         "RcppHNSW",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "bnbc": [
         "SummarizedExperiment",
@@ -5448,7 +5377,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -5510,7 +5438,6 @@
         "KEGGREST",
         "flexmix",
         "prabclus",
-
         "gdata",
         "lifecycle",
         "pillar",
@@ -5619,7 +5546,6 @@
         "dbplyr",
         "progress",
         "tidyselect",
-
         "forcats",
         "reshape",
         "tidyr",
@@ -5746,7 +5672,6 @@
         "memoise",
         "MatrixGenerics",
         "DelayedArray",
-
         "lava",
         "future.apply",
         "future",
@@ -5775,8 +5700,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "brendaDb": [
         "dplyr",
@@ -5795,7 +5719,6 @@
         "pillar",
         "ellipsis",
         "blob",
-
         "openssl",
         "bit64",
         "memoise"
@@ -5832,7 +5755,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -5861,7 +5783,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -5891,7 +5812,6 @@
         "MatrixGenerics",
         "sparseMatrixStats",
         "lifecycle",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr"
@@ -5958,7 +5878,6 @@
         "blob",
         "restfulr",
         "dbplyr",
-
         "openssl",
         "RcppEigen",
         "hms"
@@ -6081,8 +6000,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "BumpyMatrix": [
         "Matrix",
@@ -6150,8 +6068,7 @@
         "restfulr",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "BUSseq": [
         "SingleCellExperiment",
@@ -6245,7 +6162,6 @@
         "memoise",
         "purrr",
         "dbplyr",
-
         "RcppEigen"
     ],
     "CAGEfightR": [
@@ -6295,7 +6211,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "interp",
         "bit64",
@@ -6401,7 +6316,6 @@
         "BiocFileCache",
         "tidyselect",
         "ellipsis",
-
         "annotate",
         "knitr",
         "checkmate",
@@ -6461,7 +6375,6 @@
         "stringr",
         "BiocIO",
         "restfulr",
-
         "lifecycle",
         "pillar",
         "dplyr",
@@ -6510,7 +6423,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "RcppEigen",
         "doParallel",
@@ -6634,7 +6546,6 @@
         "pillar",
         "htmlwidgets",
         "biglm",
-
         "ellipsis",
         "purrr"
     ],
@@ -6697,7 +6608,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "MatrixGenerics",
@@ -6796,7 +6706,6 @@
         "sandwich",
         "ellipsis",
         "httr",
-
         "interp",
         "nloptr",
         "flowViz",
@@ -6953,7 +6862,6 @@
         "purrr",
         "KEGGREST",
         "blob",
-
         "Biostrings",
         "BiocIO",
         "rtracklayer",
@@ -7144,8 +7052,7 @@
         "sitmo",
         "XVector",
         "openssl",
-        "pillar",
-
+        "pillar"
     ],
     "CellaRepertorium": [
         "dplyr",
@@ -7192,7 +7099,6 @@
         "Matrix",
         "lifecycle",
         "pillar",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -7218,8 +7124,7 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "pillar",
-
+        "pillar"
     ],
     "CellBench": [
         "SingleCellExperiment",
@@ -7245,7 +7150,6 @@
         "Matrix",
         "MatrixGenerics",
         "IRanges",
-
         "GenomeInfoDb",
         "XVector",
         "openssl",
@@ -7345,7 +7249,6 @@
         "rsvd",
         "sparseMatrixStats",
         "survival",
-
         "globals",
         "XVector",
         "htmlwidgets",
@@ -7500,7 +7403,6 @@
         "irlba",
         "rsvd",
         "sparseMatrixStats",
-
         "XVector"
     ],
     "CellNOptR": [
@@ -7654,7 +7556,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -7734,7 +7635,6 @@
         "scattermore",
         "future",
         "globals",
-
         "XVector",
         "testthat",
         "ALL",
@@ -7810,7 +7710,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "XVector",
         "lifecycle",
         "pillar",
@@ -7936,7 +7835,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "ggforce",
         "viridis",
         "tidygraph",
@@ -7988,7 +7886,6 @@
         "lifecycle",
         "vroom",
         "stringr",
-
         "ellipsis",
         "Matrix",
         "MatrixGenerics",
@@ -8023,8 +7920,7 @@
         "futile.logger",
         "Matrix",
         "ellipsis",
-        "purrr",
-
+        "purrr"
     ],
     "CGEN": [
         "survival",
@@ -8189,7 +8085,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-
         "RcppEigen",
         "hms",
         "vroom",
@@ -8249,7 +8144,6 @@
         "tidyselect",
         "stringr",
         "pillar",
-
         "survival",
         "prodlim",
         "lava",
@@ -8341,7 +8235,6 @@
         "ellipsis",
         "purrr",
         "dbplyr",
-
         "survival",
         "ggplot2",
         "htmlTable",
@@ -8372,8 +8265,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "ChIPComp": [
         "GenomicRanges",
@@ -8392,7 +8284,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -8459,7 +8350,6 @@
         "pillar",
         "tidyselect",
         "progress",
-
         "purrr"
     ],
     "ChIPexoQual": [
@@ -8504,7 +8394,6 @@
         "sass",
         "memoise",
         "rtracklayer",
-
         "BiocIO",
         "biomaRt",
         "survival",
@@ -8574,7 +8463,6 @@
         "DelayedArray",
         "futile.logger",
         "dbplyr",
-
         "openssl",
         "hms",
         "bit64",
@@ -8639,7 +8527,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "caTools",
         "BSgenome",
         "bit64",
@@ -8735,8 +8622,7 @@
         "openssl",
         "hms",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "chipseq": [
         "IRanges",
@@ -8753,7 +8639,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -8775,7 +8660,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -8796,7 +8680,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -8879,8 +8762,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "chromPlot": [
         "biomaRt",
@@ -9012,7 +8894,6 @@
         "memoise",
         "sparseMatrixStats",
         "sitmo",
-
         "RcppTOML",
         "RcppEigen",
         "selectr",
@@ -9051,8 +8932,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "chromswitch": [
         "GenomicRanges",
@@ -9085,7 +8965,6 @@
         "restfulr",
         "ellipsis",
         "purrr",
-
         "SummarizedExperiment",
         "mgcv",
         "scales",
@@ -9151,7 +9030,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-
         "openssl",
         "bit64",
         "blob",
@@ -9267,7 +9145,6 @@
         "memoise",
         "MatrixGenerics",
         "DelayedArray",
-
         "knitr",
         "checkmate",
         "htmlwidgets"
@@ -9392,7 +9269,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -9458,7 +9334,6 @@
         "RcppArmadillo",
         "tidyr",
         "RcppHNSW",
-
         "ellipsis",
         "purrr"
     ],
@@ -9471,7 +9346,6 @@
         "IRanges",
         "Biobase",
         "tidyr",
-
         "GenomeInfoDb",
         "XVector",
         "MatrixGenerics",
@@ -9506,7 +9380,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -9555,7 +9428,6 @@
         "progress",
         "stringr",
         "BiocFileCache",
-
         "openssl",
         "bit64",
         "blob",
@@ -9604,8 +9476,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "cliqueMS": [
         "xcms",
@@ -9639,7 +9510,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "pillar"
     ],
@@ -9704,8 +9574,7 @@
         "doParallel",
         "foreach",
         "hms",
-        "later",
-
+        "later"
     ],
     "clustComp": [],
     "clusterExperiment": [
@@ -9764,7 +9633,6 @@
         "KEGGREST",
         "tidyselect",
         "pillar",
-
         "openssl",
         "hms",
         "ellipsis",
@@ -9835,7 +9703,6 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -9847,7 +9714,6 @@
         "GenomicRanges",
         "edgeR",
         "futile.logger",
-
         "IRanges",
         "GenomeInfoDb",
         "XVector"
@@ -9889,8 +9755,7 @@
         "futile.logger",
         "XVector",
         "bit64",
-        "progress",
-
+        "progress"
     ],
     "CMA": [
         "Biobase"
@@ -9940,8 +9805,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "CNAnorm": [],
     "CNEr": [
@@ -9987,7 +9851,6 @@
         "pillar",
         "tidyselect",
         "progress",
-
         "purrr"
     ],
     "CNORdt": [
@@ -10116,7 +9979,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "survival",
         "ggplot2",
         "latticeExtra",
@@ -10230,7 +10092,6 @@
         "bit64",
         "blob",
         "dbplyr",
-
         "knitr",
         "checkmate",
         "interp",
@@ -10279,8 +10140,7 @@
         "jquerylib",
         "memoise",
         "pillar",
-        "rematch2",
-
+        "rematch2"
     ],
     "CNVRanger": [
         "GenomicRanges",
@@ -10302,7 +10162,6 @@
         "MatrixGenerics",
         "stringr",
         "Biobase",
-
         "Biostrings"
     ],
     "CNVrd2": [
@@ -10341,7 +10200,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -10411,7 +10269,6 @@
         "Rsamtools",
         "MatrixGenerics",
         "sparseMatrixStats",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr"
@@ -10444,7 +10301,6 @@
         "BiocParallel",
         "futile.logger",
         "rtracklayer",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -10469,7 +10325,6 @@
         "Matrix",
         "IRanges",
         "GenomeInfoDb",
-
         "XVector"
     ],
     "cogena": [
@@ -10581,8 +10436,7 @@
         "tidyselect",
         "ellipsis",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "COHCAP": [
         "gplots",
@@ -10696,7 +10550,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-
         "mgcv",
         "knitr",
         "checkmate",
@@ -10737,8 +10590,7 @@
         "lifecycle",
         "Biobase",
         "futile.logger",
-        "pillar",
-
+        "pillar"
     ],
     "COMPASS": [
         "scales",
@@ -10821,7 +10673,6 @@
         "futile.logger",
         "sass",
         "memoise",
-
         "hms",
         "readr",
         "Matrix",
@@ -10939,7 +10790,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -10994,7 +10844,6 @@
         "pROC",
         "recipes",
         "reshape2",
-
         "XVector",
         "spatstat.data",
         "spatstat.random",
@@ -11120,7 +10969,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "annotate",
         "survival",
         "mgcv",
@@ -11187,7 +11035,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-
         "XVector",
         "openssl",
         "lava",
@@ -11220,7 +11067,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-
         "SummarizedExperiment",
         "MatrixGenerics",
         "Biobase",
@@ -11255,7 +11101,6 @@
         "BiocIO",
         "restfulr",
         "foreach",
-
         "Matrix",
         "lifecycle",
         "Biobase",
@@ -11334,7 +11179,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "biomaRt",
         "hms",
         "vroom",
@@ -11401,7 +11245,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "survival",
         "ggplot2",
         "latticeExtra",
@@ -11436,7 +11279,6 @@
         "GenomeInfoDb",
         "futile.logger",
         "ShortRead",
-
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
@@ -11514,7 +11356,6 @@
         "jquerylib",
         "promises",
         "ggplot2",
-
         "XVector",
         "caTools",
         "lifecycle",
@@ -11598,7 +11439,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -11637,7 +11477,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -11746,7 +11585,6 @@
         "memoise",
         "XVector",
         "later",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -11774,8 +11612,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "covRNA": [
         "ade4",
@@ -11823,7 +11660,6 @@
         "progress",
         "stringr",
         "BiocFileCache",
-
         "Matrix",
         "bit64",
         "blob",
@@ -11898,7 +11734,6 @@
         "purrr",
         "futile.logger",
         "SummarizedExperiment",
-
         "Biobase"
     ],
     "crisprseekplus": [
@@ -11972,7 +11807,6 @@
         "segmented",
         "dbplyr",
         "AnnotationFilter",
-
         "mgcv",
         "scales",
         "openssl",
@@ -12003,7 +11837,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "httr",
         "Matrix",
         "bit64",
@@ -12110,8 +11943,7 @@
         "foreach",
         "hms",
         "vroom",
-        "purrr",
-
+        "purrr"
     ],
     "CSAR": [
         "IRanges",
@@ -12133,8 +11965,7 @@
         "Biostrings",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "csdR": [
         "WGCNA",
@@ -12211,7 +12042,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "purrr",
@@ -12358,8 +12188,7 @@
         "bit64",
         "blob",
         "XVector",
-        "GenomeInfoDb",
-
+        "GenomeInfoDb"
     ],
     "ctsGE": [
         "ccaPP",
@@ -12441,7 +12270,6 @@
         "DelayedArray",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "knitr",
         "checkmate",
@@ -12531,7 +12359,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "cyanoFilter": [
@@ -12644,7 +12471,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "XVector",
         "mgcv",
         "scales",
@@ -12765,7 +12591,6 @@
         "aws.s3",
         "aws.signature",
         "ncdfFlow",
-
         "tweenr",
         "ggsci",
         "ggsignif",
@@ -12846,7 +12671,6 @@
         "car",
         "DT",
         "emmeans",
-
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12902,7 +12726,6 @@
         "Biobase",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "irlba",
         "RcppArmadillo",
@@ -12951,7 +12774,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "XVector",
         "pillar"
     ],
@@ -13101,7 +12923,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "XVector",
         "interp",
         "flowViz",
@@ -13156,7 +12977,6 @@
         "Matrix",
         "lifecycle",
         "pillar",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -13245,7 +13065,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "blob",
         "memoise",
         "purrr",
@@ -13343,7 +13162,6 @@
         "GenomicAlignments",
         "pillar",
         "dbplyr",
-
         "openssl",
         "prodlim",
         "testthat",
@@ -13504,7 +13322,6 @@
         "XVector",
         "GenomeInfoDb",
         "processx",
-
         "ggstance",
         "ggridges",
         "mosaicCore",
@@ -13587,7 +13404,6 @@
         "testthat",
         "usethis",
         "blob",
-
         "openssl",
         "bit64",
         "memoise",
@@ -13734,8 +13550,7 @@
     "dcGSA": [
         "Matrix",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ddCt": [
         "Biobase"
@@ -13844,7 +13659,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "XVector",
         "mgcv",
         "scales",
@@ -13963,7 +13777,6 @@
         "TSP",
         "callr",
         "processx",
-
         "tweenr",
         "foreach"
     ],
@@ -14007,7 +13820,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "jquerylib",
-
         "XVector",
         "httr",
         "Biostrings",
@@ -14042,7 +13854,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -14110,8 +13921,7 @@
         "ellipsis",
         "openssl",
         "purrr",
-        "tidyselect",
-
+        "tidyselect"
     ],
     "DeconRNASeq": [
         "limSolve",
@@ -14178,7 +13988,6 @@
         "scales",
         "testthat",
         "stringr",
-
         "MatrixGenerics",
         "DelayedArray",
         "callr",
@@ -14233,8 +14042,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "DeepPINCS": [
         "keras",
@@ -14329,7 +14137,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -14367,7 +14174,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -14437,7 +14243,6 @@
         "callr",
         "dbplyr",
         "processx",
-
         "hms"
     ],
     "DEGraph": [
@@ -14508,7 +14313,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -14569,8 +14373,7 @@
         "dqrng",
         "rhdf5",
         "futile.logger",
-        "sitmo",
-
+        "sitmo"
     ],
     "deltaCaptureC": [
         "IRanges",
@@ -14600,7 +14403,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -14716,7 +14518,6 @@
         "gmm",
         "bit64",
         "progress",
-
         "sandwich"
     ],
     "DepecheR": [
@@ -14748,8 +14549,7 @@
         "futile.logger",
         "RSpectra",
         "ellipsis",
-        "purrr",
-
+        "purrr"
     ],
     "DEqMS": [
         "ggplot2",
@@ -14800,7 +14600,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "mgcv",
         "scales",
         "tibble",
@@ -14893,7 +14692,6 @@
         "dbplyr",
         "tidyselect",
         "ellipsis",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -14945,7 +14743,6 @@
         "tidyselect",
         "pillar",
         "AnnotationFilter",
-
         "mgcv",
         "scales",
         "survival",
@@ -14984,7 +14781,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -15003,8 +14799,7 @@
         "futile.logger",
         "gamlss.dist",
         "survival",
-        "sandwich",
-
+        "sandwich"
     ],
     "destiny": [
         "Matrix",
@@ -15111,7 +14906,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "stringr",
         "rematch2",
         "openssl",
@@ -15138,7 +14932,6 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -15195,7 +14988,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "bit64",
         "progress",
         "Biostrings",
@@ -15235,7 +15027,6 @@
         "DelayedArray",
         "dbplyr",
         "dplyr",
-
         "mgcv",
         "scales",
         "tibble",
@@ -15323,7 +15114,6 @@
         "stringr",
         "htmlwidgets",
         "bbmle",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -15507,8 +15297,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "DiffLogo": [
         "cba"
@@ -15560,8 +15349,7 @@
         "blob",
         "memoise",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "diffuStats": [
         "Matrix",
@@ -15635,7 +15423,6 @@
         "ellipsis",
         "purrr",
         "dbplyr",
-
         "openssl",
         "hms"
     ],
@@ -15705,7 +15492,6 @@
         "sparseMatrixStats",
         "sitmo",
         "survival",
-
         "globals",
         "XVector",
         "mgcv",
@@ -15809,7 +15595,6 @@
         "futile.logger",
         "sass",
         "memoise",
-
         "XVector",
         "openssl",
         "selectr",
@@ -15856,8 +15641,7 @@
         "sparseMatrixStats",
         "XVector",
         "lifecycle",
-        "pillar",
-
+        "pillar"
     ],
     "dittoSeq": [
         "ggplot2",
@@ -15928,7 +15712,6 @@
         "lifecycle",
         "pillar",
         "tidyselect",
-
         "openssl",
         "nloptr",
         "RcppEigen",
@@ -15963,8 +15746,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "DMRcaller": [
         "GenomicRanges",
@@ -16062,7 +15844,6 @@
         "tibble",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-
         "mgcv",
         "htmlTable",
         "viridis",
@@ -16140,7 +15921,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -16204,7 +15984,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "biomaRt",
         "openssl",
         "shiny",
@@ -16301,8 +16080,7 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
-
+        "ellipsis"
     ],
     "doppelgangR": [
         "Biobase",
@@ -16319,7 +16097,6 @@
         "mgcv",
         "genefilter",
         "edgeR",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -16418,7 +16195,6 @@
         "tibble",
         "GO.db",
         "stringr",
-
         "httr",
         "Biostrings",
         "bit64",
@@ -16471,7 +16247,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -16512,7 +16287,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -16539,8 +16313,7 @@
         "sitmo",
         "GenomeInfoDb",
         "XVector",
-        "Biobase",
-
+        "Biobase"
     ],
     "drugTargetInteractions": [
         "RSQLite",
@@ -16582,7 +16355,6 @@
         "ellipsis",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Matrix",
         "DelayedArray"
@@ -16665,7 +16437,6 @@
         "rtracklayer",
         "Rsamtools",
         "sparseMatrixStats",
-
         "lifecycle",
         "GenomicAlignments",
         "BiocIO",
@@ -16711,7 +16482,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "ellipsis",
-
         "XVector",
         "hms"
     ],
@@ -16776,7 +16546,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "annotate",
         "GenomeInfoDb",
         "XVector",
@@ -16869,7 +16638,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "openssl",
         "interp",
         "hms",
@@ -16914,7 +16682,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -17002,7 +16769,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "RcppEigen",
         "MatrixGenerics",
@@ -17036,7 +16802,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "testthat",
         "lifecycle",
         "pillar",
@@ -17122,7 +16887,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-
         "ggforce",
         "ggrepel",
         "viridis",
@@ -17239,7 +17003,6 @@
         "sn",
         "ellipsis",
         "XVector",
-
         "TH.data",
         "sandwich",
         "quantreg",
@@ -17368,7 +17131,6 @@
         "htmlTable",
         "viridis",
         "RcppEigen",
-
         "checkmate",
         "nloptr",
         "MatrixModels",
@@ -17387,7 +17149,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -17452,7 +17213,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "bit64",
         "memoise",
         "MatrixGenerics",
@@ -17547,7 +17307,6 @@
         "KEGGREST",
         "openssl",
         "tidyselect",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -17629,7 +17388,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -17747,7 +17505,6 @@
         "RcppEigen",
         "RcppArmadillo",
         "ellipsis",
-
         "httr",
         "Biostrings",
         "bit64",
@@ -17842,7 +17599,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "ggforce",
         "viridis",
         "tidygraph",
@@ -17897,7 +17653,6 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "MatrixGenerics",
@@ -17944,7 +17699,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -17988,7 +17742,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -18046,7 +17799,6 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-
         "testthat",
         "callr",
         "desc",
@@ -18091,7 +17843,6 @@
         "survival",
         "stringr",
         "openssl",
-
         "httr",
         "bit64",
         "blob",
@@ -18149,7 +17900,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "nloptr",
         "RcppEigen",
         "knitr",
@@ -18237,7 +17987,6 @@
         "bit64",
         "blob",
         "memoise",
-
         "ellipsis"
     ],
     "epiNEM": [
@@ -18329,8 +18078,7 @@
         "futile.logger",
         "Matrix",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "epivizr": [
         "epivizrServer",
@@ -18383,7 +18131,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "epivizrChart": [
@@ -18434,7 +18181,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "epivizrData": [
@@ -18484,7 +18230,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "epivizrServer": [
@@ -18544,8 +18289,7 @@
         "purrr",
         "tibble",
         "tidyselect",
-        "ellipsis",
-
+        "ellipsis"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -18607,7 +18351,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "biomaRt",
         "httr",
         "RBGL",
@@ -18641,7 +18384,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -18736,7 +18478,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-
         "interp",
         "bit64",
         "blob",
@@ -18799,7 +18540,6 @@
         "rsvd",
         "beachmat",
         "MatrixGenerics",
-
         "GenomeInfoDb",
         "XVector",
         "rhdf5",
@@ -18840,8 +18580,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "evaluomeR": [
         "SummarizedExperiment",
@@ -18951,7 +18690,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "EWCE": [
@@ -19030,8 +18768,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "ExiMiR": [
         "Biobase",
@@ -19045,8 +18782,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "exomePeak2": [
         "SummarizedExperiment",
@@ -19094,7 +18830,6 @@
         "progress",
         "BiocFileCache",
         "bbmle",
-
         "MatrixModels",
         "bit64",
         "blob",
@@ -19175,7 +18910,6 @@
         "dbplyr",
         "RBGL",
         "XVector",
-
         "BiocIO",
         "biomaRt",
         "BiocParallel",
@@ -19250,7 +18984,6 @@
         "purrr",
         "sparseMatrixStats",
         "sitmo",
-
         "openssl",
         "bit64",
         "memoise",
@@ -19406,7 +19139,6 @@
         "treeio",
         "bit64",
         "blob",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo"
@@ -19492,7 +19224,6 @@
         "memoise",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -19569,7 +19300,6 @@
         "bit64",
         "tidyselect",
         "progress",
-
         "purrr"
     ],
     "fCI": [
@@ -19579,7 +19309,6 @@
         "htmlwidgets",
         "knitr",
         "futile.logger",
-
         "stringr"
     ],
     "fcoex": [
@@ -19650,7 +19379,6 @@
         "bit64",
         "blob",
         "memoise",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -19692,7 +19420,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -19731,7 +19458,6 @@
         "igraph",
         "mgcv",
         "gplots",
-
         "XVector",
         "scales",
         "tibble",
@@ -19852,7 +19578,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-
         "hms",
         "vroom",
         "ellipsis",
@@ -19898,7 +19623,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "lifecycle",
         "pillar"
     ],
@@ -19912,8 +19636,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "FindIT2": [
         "GenomicRanges",
@@ -19963,7 +19686,6 @@
         "KEGGREST",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -20029,7 +19751,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -20088,8 +19809,7 @@
         "rsvd",
         "sparseMatrixStats",
         "mgcv",
-        "scales",
-
+        "scales"
     ],
     "flowAI": [
         "ggplot2",
@@ -20163,7 +19883,6 @@
         "memoise",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "openssl",
         "Matrix"
@@ -20563,7 +20282,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -20785,7 +20503,6 @@
         "syuzhet",
         "blob",
         "memoise",
-
         "lava",
         "future.apply",
         "future",
@@ -20881,7 +20598,6 @@
         "genefilter",
         "geneplotter",
         "tidyselect",
-
         "viridis",
         "dendextend",
         "seriation",
@@ -21008,7 +20724,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-
         "pcaPP",
         "hdrcde",
         "ks",
@@ -21064,7 +20779,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -21124,7 +20838,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "hms"
     ],
     "GA4GHshiny": [
@@ -21183,8 +20896,7 @@
         "hms",
         "Matrix",
         "DelayedArray",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "gaga": [
         "Biobase",
@@ -21338,7 +21050,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "annotate",
         "BiocIO",
         "rtracklayer",
@@ -21405,8 +21116,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "gcatest": [],
     "gCrisprTools": [
@@ -21582,7 +21292,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-
         "annotate",
         "GenomeInfoDb",
         "XVector",
@@ -21708,7 +21417,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "GeneAccord": [
@@ -21831,7 +21539,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "GeneBreak": [
@@ -21851,8 +21558,7 @@
         "globals",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "geneClassifiers": [
         "Biobase"
@@ -21954,7 +21660,6 @@
         "promises",
         "scales",
         "tibble",
-
         "nloptr",
         "RcppEigen",
         "broom",
@@ -22067,7 +21772,6 @@
         "quantsmooth",
         "stringr",
         "Biostrings",
-
         "mice",
         "mgcv",
         "quantreg",
@@ -22142,7 +21846,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -22238,8 +21941,7 @@
         "openssl",
         "Biostrings",
         "bit64",
-        "blob",
-
+        "blob"
     ],
     "geneXtendeR": [
         "rtracklayer",
@@ -22287,8 +21989,7 @@
         "sass",
         "openssl",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "GENIE3": [
         "reshape2",
@@ -22336,7 +22037,6 @@
         "bit64",
         "tidyselect",
         "progress",
-
         "purrr"
     ],
     "GenomeInfoDb": [
@@ -22374,8 +22074,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "GenomicDataCommons": [
         "httr",
@@ -22460,8 +22159,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "GenomicFiles": [
         "MatrixGenerics",
@@ -22487,7 +22185,6 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-
         "biomaRt",
         "progress",
         "stringr",
@@ -22571,7 +22268,6 @@
         "ellipsis",
         "purrr",
         "dbplyr",
-
         "survival",
         "htmlTable",
         "viridis",
@@ -22651,7 +22347,6 @@
         "interp",
         "bit64",
         "memoise",
-
         "RcppEigen"
     ],
     "GenomicRanges": [
@@ -22806,7 +22501,6 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-
         "biomaRt",
         "Matrix",
         "lifecycle",
@@ -22906,7 +22600,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "GeoDiff": [
@@ -23319,7 +23012,6 @@
         "memoise",
         "purrr",
         "dbplyr",
-
         "openssl",
         "RcppEigen"
     ],
@@ -23456,7 +23148,6 @@
         "openssl",
         "bit64",
         "memoise",
-
         "ellipsis"
     ],
     "ggtree": [
@@ -23522,7 +23213,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -23632,7 +23322,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -23684,7 +23373,6 @@
         "tidyselect",
         "pillar",
         "ellipsis",
-
         "mgcv",
         "scales",
         "foreach",
@@ -23810,7 +23498,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -23928,7 +23615,6 @@
         "DelayedArray",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -24144,7 +23830,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "GOSim": [
@@ -24261,7 +23946,6 @@
         "Matrix",
         "lifecycle",
         "pillar",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -24354,8 +24038,7 @@
         "BiocParallel",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "gprege": [
         "gptk"
@@ -24494,8 +24177,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "GRmetrics": [
         "SummarizedExperiment",
@@ -24566,8 +24248,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "GRridge": [
         "penalized",
@@ -24624,7 +24305,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "callr",
         "desc",
@@ -24692,7 +24372,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "XVector",
         "checkmate",
         "annotate",
@@ -24765,7 +24444,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-
         "caTools",
         "hms",
         "lifecycle",
@@ -24835,8 +24513,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "GSRI": [
         "genefilter",
@@ -24888,7 +24565,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "XVector",
         "openssl",
         "Biostrings",
@@ -24950,7 +24626,6 @@
         "Matrix",
         "MatrixGenerics",
         "AnnotationFilter",
-
         "BiocIO",
         "mgcv",
         "scales",
@@ -25015,8 +24690,7 @@
         "openssl",
         "hms",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "Gviz": [
         "IRanges",
@@ -25071,7 +24745,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -25170,8 +24843,7 @@
         "fontawesome",
         "later",
         "bslib",
-        "sass",
-
+        "sass"
     ],
     "GWASTools": [
         "Biobase",
@@ -25256,7 +24928,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "openssl",
         "hms",
         "scales"
@@ -25334,7 +25005,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "Matrix",
         "bit64",
         "blob",
@@ -25435,7 +25105,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -25498,8 +25167,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "HIBAG": [],
     "HiCcompare": [
@@ -25530,7 +25198,6 @@
         "Rsamtools",
         "future.apply",
         "snowfall",
-
         "future",
         "globals",
         "Biostrings",
@@ -25593,7 +25260,6 @@
         "AnnotationFilter",
         "interp",
         "dbplyr",
-
         "survival",
         "htmlTable",
         "viridis",
@@ -25681,8 +25347,7 @@
         "hms",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "hipathia": [
         "igraph",
@@ -25794,7 +25459,6 @@
         "scales",
         "cellranger",
         "progress",
-
         "mgcv",
         "hms",
         "BiocIO",
@@ -25827,8 +25491,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "hmdbQuery": [],
     "hopach": [
@@ -25945,7 +25608,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "interp",
         "bit64",
         "blob",
@@ -25975,7 +25637,6 @@
         "geneplotter",
         "ggplot2",
         "RcppArmadillo",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -26133,7 +25794,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector"
     ],
     "iBBiG": [
@@ -26230,7 +25890,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "annotate",
         "survival",
         "interp",
@@ -26324,7 +25983,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "vroom"
     ],
@@ -26356,7 +26014,6 @@
         "BiocParallel",
         "futile.logger",
         "rtracklayer",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -26479,7 +26136,6 @@
         "sass",
         "memoise",
         "GSEABase",
-
         "survival",
         "rtracklayer",
         "GenomicFeatures",
@@ -26518,8 +26174,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "idiogram": [
         "Biobase",
@@ -26568,7 +26223,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "XVector",
         "mgcv",
         "Matrix",
@@ -26639,7 +26293,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -26785,7 +26438,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "testthat",
         "bit64",
         "blob",
@@ -26876,7 +26528,6 @@
         "edgeR",
         "R.utils",
         "dqrng",
-
         "XVector",
         "tweenr",
         "RcppEigen",
@@ -27082,7 +26733,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "globals",
         "mgcv",
         "scales",
@@ -27160,7 +26810,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "SummarizedExperiment",
         "ellipsis",
         "Matrix",
@@ -27220,7 +26869,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "annotate",
         "survival",
         "mgcv",
@@ -27281,7 +26929,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "nloptr",
         "RcppEigen",
         "knitr",
@@ -27359,7 +27006,6 @@
         "memoise",
         "purrr",
         "dbplyr",
-
         "openssl",
         "RcppEigen"
     ],
@@ -27611,7 +27257,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "annotate",
         "survival",
         "mgcv",
@@ -27716,7 +27361,6 @@
         "latticeExtra",
         "ellipsis",
         "purrr",
-
         "SummarizedExperiment",
         "interp",
         "Matrix",
@@ -27764,7 +27408,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "gridtext",
         "car",
         "knitr",
@@ -27839,7 +27482,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-
         "survival",
         "ggplot2",
         "latticeExtra",
@@ -28013,7 +27655,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "ape",
         "tidytree",
         "treeio",
@@ -28051,7 +27692,6 @@
         "cellranger",
         "progress",
         "ellipsis",
-
         "Matrix",
         "bit64"
     ],
@@ -28247,7 +27887,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "scales",
         "hms",
@@ -28381,7 +28020,6 @@
         "bit64",
         "blob",
         "memoise",
-
         "openssl"
     ],
     "ITALICS": [
@@ -28477,7 +28115,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "testthat",
         "bit64",
         "blob",
@@ -28634,7 +28271,6 @@
         "DelayedArray",
         "dbplyr",
         "dplyr",
-
         "mgcv",
         "tibble",
         "knitr",
@@ -28720,7 +28356,6 @@
         "futile.logger",
         "gsubfn",
         "RSQLite",
-
         "bit64",
         "blob",
         "memoise"
@@ -28769,7 +28404,6 @@
         "rtracklayer",
         "Rsamtools",
         "sparseMatrixStats",
-
         "openssl",
         "bit64",
         "blob",
@@ -28831,7 +28465,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "RcppEigen",
         "prodlim",
         "Biostrings",
@@ -28902,7 +28535,6 @@
         "progress",
         "stringr",
         "BiocFileCache",
-
         "dbplyr",
         "dplyr",
         "hms",
@@ -29029,7 +28661,6 @@
         "MatrixGenerics",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector",
         "lifecycle",
         "pillar"
@@ -29159,7 +28790,6 @@
         "ggrepel",
         "qqman",
         "gmm",
-
         "sandwich"
     ],
     "LiquidAssociation": [
@@ -29223,7 +28853,6 @@
         "IRanges",
         "scam",
         "ellipsis",
-
         "nloptr",
         "RcppEigen",
         "classInt",
@@ -29269,7 +28898,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -29293,7 +28921,6 @@
         "GenomeInfoDb",
         "XVector",
         "scales",
-
         "lifecycle"
     ],
     "logicFS": [
@@ -29345,7 +28972,6 @@
         "ade4",
         "ggplot2",
         "htmlwidgets",
-
         "mgcv",
         "scales",
         "tibble",
@@ -29393,7 +29019,6 @@
         "IRanges",
         "KEGGREST",
         "dbplyr",
-
         "openssl",
         "shiny",
         "DT",
@@ -29484,7 +29109,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "vroom"
     ],
@@ -29520,7 +29144,6 @@
         "futile.logger",
         "ggplotify",
         "patchwork",
-
         "ellipsis"
     ],
     "M3C": [
@@ -29637,7 +29260,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "survival",
         "prodlim",
         "httpuv",
@@ -29738,7 +29360,6 @@
         "ShortRead",
         "futile.logger",
         "XVector",
-
         "SummarizedExperiment",
         "Biobase",
         "httr",
@@ -29894,7 +29515,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -29994,7 +29614,6 @@
         "multtest",
         "dbplyr",
         "tidyselect",
-
         "hms",
         "vroom",
         "ellipsis",
@@ -30057,7 +29676,6 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-
         "openssl"
     ],
     "MAI": [
@@ -30194,7 +29812,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "pillar",
-
         "XVector",
         "knitr",
         "checkmate",
@@ -30409,7 +30026,6 @@
         "memoise",
         "MatrixGenerics",
         "DelayedArray",
-
         "knitr",
         "checkmate"
     ],
@@ -30557,7 +30173,6 @@
         "restfulr",
         "AnnotationDbi",
         "httr",
-
         "SummarizedExperiment",
         "mgcv",
         "scales",
@@ -30581,8 +30196,7 @@
         "Matrix",
         "biglm",
         "irlba",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MBASED": [
         "BiocParallel",
@@ -30595,8 +30209,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "MBCB": [],
     "mbkmeans": [
@@ -30626,7 +30239,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "XVector",
         "mgcv",
         "scales",
@@ -30746,7 +30358,6 @@
         "tidyselect",
         "pillar",
         "ellipsis",
-
         "latticeExtra",
         "htmlTable",
         "viridis",
@@ -30826,7 +30437,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "survival",
         "htmlTable",
         "viridis",
@@ -30861,8 +30471,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "MEAL": [
         "Biobase",
@@ -30954,7 +30563,6 @@
         "dbplyr",
         "tidyselect",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-
         "htmlTable",
         "viridis",
         "hms",
@@ -31031,7 +30639,6 @@
         "openssl",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -31094,7 +30701,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "bit64",
         "memoise",
@@ -31349,7 +30955,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -31464,7 +31069,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -31545,7 +31149,6 @@
         "scales",
         "tibble",
         "survival",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -31631,7 +31234,6 @@
         "futile.logger",
         "tidyr",
         "testthat",
-
         "callr",
         "desc",
         "pkgload",
@@ -31757,7 +31359,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "Matrix",
         "bit64",
         "blob",
@@ -31798,7 +31399,6 @@
         "stringr",
         "BiocIO",
         "restfulr",
-
         "Matrix",
         "MatrixGenerics",
         "Biobase",
@@ -31847,7 +31447,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -31894,7 +31493,6 @@
         "fields",
         "futile.logger",
         "viridis",
-
         "ggplot2",
         "mgcv",
         "scales",
@@ -31992,7 +31590,6 @@
         "HDF5Array",
         "rhdf5",
         "beachmat",
-
         "mgcv",
         "tibble",
         "tidyr",
@@ -32088,7 +31685,6 @@
         "hms",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "MetaVolcanoR": [
@@ -32159,8 +31755,7 @@
         "Matrix",
         "doParallel",
         "foreach",
-        "pillar",
-
+        "pillar"
     ],
     "methimpute": [
         "GenomicRanges",
@@ -32209,7 +31804,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "lifecycle",
         "MatrixGenerics",
         "DelayedArray",
@@ -32325,8 +31919,7 @@
         "BiocParallel",
         "lifecycle",
         "pillar",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MethTargetedNGS": [
         "stringr",
@@ -32382,7 +31975,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-
         "annotate",
         "survival",
         "httr",
@@ -32477,7 +32069,6 @@
         "progress",
         "stringr",
         "BiocFileCache",
-
         "hms",
         "vroom",
         "bit64",
@@ -32613,7 +32204,6 @@
         "pbkrtest",
         "maptools",
         "lme4",
-
         "BiocIO",
         "biomaRt",
         "credentials",
@@ -32688,7 +32278,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-
         "GenomeInfoDb",
         "XVector",
         "httr",
@@ -32768,7 +32357,6 @@
         "rebus.unicode",
         "bbmle",
         "Biobase",
-
         "Matrix",
         "reshape2",
         "Biostrings",
@@ -32809,7 +32397,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "lifecycle",
         "MatrixGenerics",
         "DelayedArray",
@@ -32865,7 +32452,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "RcppGSL",
         "pillar",
         "foreach"
@@ -32899,8 +32485,7 @@
         "memoise",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "methylSig": [
         "bsseq",
@@ -32928,7 +32513,6 @@
         "rtracklayer",
         "Rsamtools",
         "lifecycle",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr"
@@ -32997,7 +32581,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-
         "hms",
         "vroom",
         "ellipsis",
@@ -33082,7 +32665,6 @@
         "DelayedArray",
         "ellipsis",
         "purrr",
-
         "XVector",
         "stringr"
     ],
@@ -33216,7 +32798,6 @@
         "ScaledMatrix",
         "irlba",
         "rsvd",
-
         "scales",
         "stringr",
         "bit64",
@@ -33298,7 +32879,6 @@
         "RSQLite",
         "reshape2",
         "sparseMatrixStats",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -33466,7 +33046,6 @@
         "RSQLite",
         "KEGGREST",
         "processx",
-
         "testthat",
         "Biostrings",
         "blob",
@@ -33570,7 +33149,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "prodlim",
         "RcppGSL",
         "callr",
@@ -33667,8 +33245,7 @@
         "bit64",
         "blob",
         "XVector",
-        "GenomeInfoDb",
-
+        "GenomeInfoDb"
     ],
     "MicrobiotaProcess": [
         "ape",
@@ -33787,7 +33364,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "mgcv",
         "scales",
         "tibble",
@@ -33851,7 +33427,6 @@
         "GenomeInfoDb",
         "ellipsis",
         "purrr",
-
         "XVector",
         "tweenr",
         "RcppEigen",
@@ -34035,7 +33610,6 @@
         "R.utils",
         "rhdf5",
         "multtest",
-
         "vroom"
     ],
     "minfi": [
@@ -34081,7 +33655,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -34132,8 +33705,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MiPP": [
         "Biobase",
@@ -34187,7 +33759,6 @@
         "sparseMatrixStats",
         "lifecycle",
         "pillar",
-
         "GenomicAlignments",
         "BiocIO",
         "restfulr"
@@ -34477,7 +34048,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-
         "tweenr",
         "ape",
         "tidytree",
@@ -34537,7 +34107,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-
         "tweenr",
         "RcppEigen",
         "ape",
@@ -34635,7 +34204,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-
         "hms",
         "vroom",
         "Rsamtools",
@@ -34786,7 +34354,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "purrr",
@@ -34814,7 +34381,6 @@
         "stringr",
         "ellipsis",
         "purrr",
-
         "RcppEigen"
     ],
     "MLInterfaces": [
@@ -34917,7 +34483,6 @@
         "processx",
         "waldo",
         "futile.logger",
-
         "AnnotationDbi",
         "annotate",
         "XVector",
@@ -34977,7 +34542,6 @@
         "Matrix",
         "RSQLite",
         "KEGGREST",
-
         "BiocIO",
         "biomaRt",
         "restfulr",
@@ -35024,7 +34588,6 @@
         "BiocIO",
         "restfulr",
         "pillar",
-
         "SummarizedExperiment",
         "MatrixGenerics",
         "DelayedArray"
@@ -35241,7 +34804,6 @@
         "base64url",
         "IRkernel",
         "IRdisplay",
-
         "openssl",
         "repr",
         "pillar",
@@ -35346,7 +34908,6 @@
         "GO.db",
         "R.utils",
         "KEGGREST",
-
         "bit64",
         "blob",
         "memoise",
@@ -35466,7 +35027,6 @@
         "ggplotify",
         "patchwork",
         "dbplyr",
-
         "ggforce",
         "ggrepel",
         "viridis",
@@ -35497,8 +35057,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "mosbi": [
         "igraph",
@@ -35580,7 +35139,6 @@
         "scales",
         "Hmisc",
         "AnnotationFilter",
-
         "mgcv",
         "tibble",
         "interp",
@@ -35626,8 +35184,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "motifmatchr": [
         "Matrix",
@@ -35666,7 +35223,6 @@
         "restfulr",
         "AnnotationDbi",
         "httr",
-
         "mgcv",
         "scales",
         "tibble",
@@ -35757,7 +35313,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "ellipsis",
         "lifecycle"
@@ -35827,24 +35382,21 @@
         "BiocParallel",
         "IRanges",
         "MsCoreUtils",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MsBackendMgf": [
         "Spectra",
         "BiocParallel",
         "IRanges",
         "MsCoreUtils",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MsBackendRawFileReader": [
         "Spectra",
         "MsCoreUtils",
         "IRanges",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "MsCoreUtils": [],
     "MsFeatures": [
@@ -35923,7 +35475,6 @@
         "purrr",
         "tidyselect",
         "ellipsis",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -35999,7 +35550,6 @@
         "Biobase",
         "GenomeInfoDb",
         "RcppHNSW",
-
         "XVector"
     ],
     "msmsEDA": [
@@ -36023,7 +35573,6 @@
         "doParallel",
         "foreach",
         "lifecycle",
-
         "Matrix",
         "pillar"
     ],
@@ -36053,7 +35602,6 @@
         "foreach",
         "stringr",
         "lifecycle",
-
         "Matrix",
         "pillar"
     ],
@@ -36075,7 +35623,6 @@
         "doParallel",
         "foreach",
         "lifecycle",
-
         "Matrix",
         "pillar"
     ],
@@ -36140,7 +35687,6 @@
         "htmlwidgets",
         "crosstalk",
         "promises",
-
         "caTools",
         "httpuv",
         "fontawesome",
@@ -36215,7 +35761,6 @@
         "KEGGREST",
         "sass",
         "memoise",
-
         "nloptr",
         "broom",
         "knitr",
@@ -36278,7 +35823,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "tidyr",
         "testthat",
@@ -36518,8 +36062,7 @@
         "ellipsis",
         "sass",
         "jquerylib",
-        "memoise",
-
+        "memoise"
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -36568,8 +36111,7 @@
         "stringr",
         "Matrix",
         "doParallel",
-        "foreach",
-
+        "foreach"
     ],
     "MSstatsSampleSize": [
         "ggplot2",
@@ -36593,7 +36135,6 @@
         "gplots",
         "RcppArmadillo",
         "stringr",
-
         "caTools",
         "Matrix",
         "nloptr",
@@ -36802,7 +36343,6 @@
         "hms",
         "processx",
         "tfautograph",
-
         "checkmate",
         "htmlwidgets",
         "interp",
@@ -36864,7 +36404,6 @@
         "purrr",
         "XVector",
         "GenomeInfoDb",
-
         "survival",
         "TH.data",
         "sandwich",
@@ -36893,7 +36432,6 @@
         "QDNAseq",
         "rhdf5",
         "scales",
-
         "SummarizedExperiment",
         "Matrix",
         "Biobase",
@@ -37068,7 +36606,6 @@
         "sn",
         "gert",
         "gh",
-
         "credentials",
         "tweenr",
         "RcppEigen",
@@ -37130,7 +36667,6 @@
         "Biobase",
         "GenomeInfoDb",
         "sitmo",
-
         "XVector"
     ],
     "MungeSumstats": [
@@ -37177,7 +36713,6 @@
         "bit64",
         "blob",
         "dbplyr",
-
         "hms"
     ],
     "muscat": [
@@ -37242,7 +36777,6 @@
         "irlba",
         "rsvd",
         "sparseMatrixStats",
-
         "globals",
         "AnnotationDbi",
         "annotate",
@@ -37399,7 +36933,6 @@
         "maptools",
         "lme4",
         "broom",
-
         "nloptr",
         "MatrixModels",
         "testthat",
@@ -37462,7 +36995,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "openssl",
         "hms"
     ],
@@ -37575,8 +37107,7 @@
         "tidyselect",
         "ellipsis",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "myvariant": [
         "VariantAnnotation",
@@ -37629,7 +37160,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-
         "hms",
         "purrr",
         "tidyselect",
@@ -37713,7 +37243,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "interp",
         "survival",
@@ -37799,7 +37328,6 @@
         "sparseMatrixStats",
         "httr",
         "progress",
-
         "openssl",
         "GenomicAlignments",
         "BiocIO",
@@ -37938,8 +37466,7 @@
         "tibble",
         "futile.logger",
         "lifecycle",
-        "pillar",
-
+        "pillar"
     ],
     "NBAMSeq": [
         "SummarizedExperiment",
@@ -37964,7 +37491,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "XVector",
         "scales",
         "tibble",
@@ -37992,7 +37518,6 @@
         "scales",
         "tibble",
         "stringr",
-
         "Matrix",
         "nloptr",
         "RcppEigen",
@@ -38033,7 +37558,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-
         "vsn",
         "affy",
         "pcaMethods",
@@ -38139,7 +37663,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -38367,7 +37890,6 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -38637,7 +38159,6 @@
         "benchmarkmeData",
         "dplyr",
         "httr",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -38705,8 +38226,7 @@
         "Biobase",
         "GenomeInfoDb",
         "futile.logger",
-        "XVector",
-
+        "XVector"
     ],
     "ngsReports": [
         "ggplot2",
@@ -38828,8 +38348,7 @@
         "ellipsis",
         "BiocParallel",
         "openssl",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "normalize450K": [
         "Biobase",
@@ -38942,8 +38461,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "NPARC": [
         "dplyr",
@@ -38959,7 +38477,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "scales",
         "Matrix"
@@ -39011,7 +38528,6 @@
         "Matrix",
         "ellipsis",
         "purrr",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -39050,8 +38566,7 @@
         "Biobase",
         "DelayedArray",
         "purrr",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
@@ -39106,7 +38621,6 @@
         "lifecycle",
         "pillar",
         "tidyselect",
-
         "openssl",
         "shiny",
         "DT",
@@ -39210,7 +38724,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -39363,7 +38876,6 @@
         "RcppZiggurat",
         "MatrixGenerics",
         "DelayedArray",
-
         "RcppGSL"
     ],
     "omicRexposome": [
@@ -39441,7 +38953,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "knitr",
         "checkmate",
         "interp",
@@ -39477,7 +38988,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "lifecycle",
         "pillar"
@@ -39579,7 +39089,6 @@
         "bit64",
         "blob",
         "dbplyr",
-
         "testthat",
         "hms",
         "desc",
@@ -40078,7 +39587,6 @@
         "rhdf5",
         "GenomicRanges",
         "GenomeInfoDb",
-
         "XVector",
         "openssl",
         "Biostrings",
@@ -40208,8 +39716,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "ORFik": [
         "IRanges",
@@ -40264,7 +39771,6 @@
         "tidyselect",
         "pillar",
         "ellipsis",
-
         "annotate",
         "survival",
         "hms",
@@ -40314,8 +39820,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "OrganismDbi": [
         "AnnotationDbi",
@@ -40357,8 +39862,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "orthogene": [
         "dplyr",
@@ -40439,7 +39943,6 @@
         "processx",
         "waldo",
         "Matrix",
-
         "caTools",
         "rematch2",
         "tibble",
@@ -40463,7 +39966,6 @@
         "SummarizedExperiment",
         "interp",
         "Matrix",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -40521,7 +40023,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-
         "annotate",
         "survival",
         "openssl",
@@ -40551,7 +40052,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector"
     ],
     "PAA": [
@@ -40576,7 +40076,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -40707,7 +40206,6 @@
         "restfulr",
         "AnnotationDbi",
         "httr",
-
         "mgcv",
         "scales",
         "tibble",
@@ -40735,7 +40233,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "callr",
         "desc",
@@ -40797,8 +40294,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "panp": [
         "affy",
@@ -40870,8 +40366,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "Path2PPI": [
         "igraph",
@@ -40976,7 +40471,6 @@
         "gh",
         "RSQLite",
         "KEGGREST",
-
         "credentials",
         "systemfonts",
         "textshaping",
@@ -41136,16 +40630,14 @@
         "blob",
         "TSP",
         "callr",
-        "processx",
-
+        "processx"
     ],
     "pcaMethods": [
         "Biobase"
     ],
     "PCAN": [
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "PCAtools": [
         "ggplot2",
@@ -41171,7 +40663,6 @@
         "mgcv",
         "tibble",
         "stringr",
-
         "lifecycle",
         "pillar"
     ],
@@ -41255,7 +40746,6 @@
         "jquerylib",
         "promises",
         "viridis",
-
         "XVector",
         "ggrepel",
         "ggsci",
@@ -41395,8 +40885,7 @@
         "sass",
         "memoise",
         "Matrix",
-        "pillar",
-
+        "pillar"
     ],
     "PECA": [
         "ROTS",
@@ -41470,7 +40959,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "lifecycle",
         "pillar"
     ],
@@ -41481,8 +40969,7 @@
         "Matrix",
         "foreach",
         "survival",
-        "RcppEigen",
-
+        "RcppEigen"
     ],
     "PepsNMR": [
         "Matrix",
@@ -41565,7 +41052,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-
         "SummarizedExperiment",
         "Matrix",
         "lifecycle",
@@ -41630,7 +41116,6 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo",
@@ -41693,7 +41178,6 @@
         "DelayedArray",
         "ellipsis",
         "purrr",
-
         "progress"
     ],
     "PharmacoGx": [
@@ -41722,7 +41206,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "gplots",
         "igraph",
@@ -42275,7 +41758,6 @@
         "memoise",
         "mgcv",
         "tibble",
-
         "pillar"
     ],
     "pickgene": [],
@@ -42293,8 +41775,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "Pigengene": [
         "BiocStyle",
@@ -42381,8 +41862,7 @@
         "bit64",
         "blob",
         "XVector",
-        "GenomeInfoDb",
-
+        "GenomeInfoDb"
     ],
     "PING": [
         "PICS",
@@ -42445,7 +41925,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -42528,7 +42007,6 @@
         "sparseMatrixStats",
         "sitmo",
         "survival",
-
         "globals",
         "XVector",
         "openssl",
@@ -42578,7 +42056,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -42678,8 +42155,7 @@
         "Matrix",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "plotGrouper": [
         "ggplot2",
@@ -42775,8 +42251,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "pmm": [
         "lme4",
@@ -42864,7 +42339,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-
         "SummarizedExperiment",
         "MatrixGenerics",
         "DelayedArray"
@@ -42985,7 +42459,6 @@
         "RSpectra",
         "hardhat",
         "ipred",
-
         "prodlim",
         "lava",
         "future.apply",
@@ -43120,7 +42593,6 @@
         "blob",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "Biostrings",
         "bit64",
@@ -43171,7 +42643,6 @@
         "XVector",
         "BiocIO",
         "restfulr",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -43215,7 +42686,6 @@
         "rhdf5",
         "sass",
         "memoise",
-
         "mgcv",
         "tibble",
         "survival",
@@ -43295,7 +42765,6 @@
         "future.apply",
         "MatrixGenerics",
         "DelayedArray",
-
         "future",
         "globals"
     ],
@@ -43340,7 +42809,6 @@
         "dplyr",
         "sass",
         "memoise",
-
         "Matrix",
         "hms",
         "pillar",
@@ -43452,7 +42920,6 @@
         "interp",
         "bit64",
         "blob",
-
         "mgcv",
         "survival",
         "htmlTable",
@@ -43514,7 +42981,6 @@
         "doParallel",
         "foreach",
         "quantmod",
-
         "xts",
         "TTR"
     ],
@@ -43558,7 +43024,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "annotate",
         "survival",
         "bit64",
@@ -43610,7 +43075,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "proBatch": [
@@ -43657,7 +43121,6 @@
         "RcppEigen",
         "affy",
         "httr",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -43720,7 +43183,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-
         "vsn",
         "affy",
         "pcaMethods",
@@ -43809,7 +43271,6 @@
         "shadowtext",
         "GOSemSim",
         "ggtree",
-
         "caTools",
         "bit64",
         "blob",
@@ -43891,7 +43352,6 @@
         "GenomeInfoDb",
         "ellipsis",
         "purrr",
-
         "XVector"
     ],
     "pRoloc": [
@@ -43945,7 +43405,6 @@
         "dplyr",
         "flexmix",
         "prabclus",
-
         "openssl",
         "Matrix",
         "doParallel",
@@ -44058,7 +43517,6 @@
         "dbplyr",
         "flexmix",
         "prabclus",
-
         "openssl",
         "hms",
         "hardhat",
@@ -44114,7 +43572,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -44286,7 +43743,6 @@
         "patchwork",
         "XVector",
         "GenomeInfoDb",
-
         "ggstance",
         "ggridges",
         "mosaicCore",
@@ -44338,7 +43794,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -44391,7 +43846,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "biomaRt",
         "mgcv",
@@ -44547,7 +44001,6 @@
         "restfulr",
         "foreach",
         "doRNG",
-
         "biomaRt",
         "VariantAnnotation",
         "latticeExtra",
@@ -44694,7 +44147,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "RcppEigen",
         "nloptr",
         "MatrixModels",
@@ -44790,7 +44242,6 @@
         "rhdf5",
         "Matrix",
         "XVector",
-
         "AnnotationDbi",
         "RSQLite",
         "BiocIO",
@@ -44907,7 +44358,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "PWMEnrich": [
@@ -45056,8 +44506,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "QFeatures": [
         "MultiAssayExperiment",
@@ -45119,7 +44568,6 @@
         "progress",
         "stringr",
         "BiocFileCache",
-
         "openssl",
         "bit64",
         "blob",
@@ -45175,8 +44623,7 @@
         "doParallel",
         "foreach",
         "bit64",
-        "progress",
-
+        "progress"
     ],
     "qrqc": [
         "reshape",
@@ -45239,7 +44686,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "RcppEigen",
         "hms",
@@ -45260,7 +44706,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-
         "SummarizedExperiment",
         "MatrixGenerics",
         "Biobase",
@@ -45301,7 +44746,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "RcppEigen",
         "lifecycle",
         "pillar",
@@ -45398,7 +44842,6 @@
         "KEGGREST",
         "openssl",
         "tidyselect",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -45471,7 +44914,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "interp",
         "bit64",
         "blob",
@@ -45599,7 +45041,6 @@
         "memoise",
         "purrr",
         "dbplyr",
-
         "openssl"
     ],
     "r3Cseq": [
@@ -45629,7 +45070,6 @@
         "bit64",
         "blob",
         "memoise",
-
         "Matrix",
         "lifecycle",
         "MatrixGenerics",
@@ -45679,7 +45119,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "RcppEigen",
         "bit64",
@@ -45714,7 +45153,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "tidyr",
         "gplots",
@@ -45820,7 +45258,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "bit64",
         "memoise"
@@ -45909,7 +45346,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "ellipsis",
         "httpuv",
         "fontawesome",
@@ -45955,7 +45391,6 @@
         "SummarizedExperiment",
         "interp",
         "purrr",
-
         "RcppEigen",
         "MatrixGenerics",
         "DelayedArray"
@@ -45972,8 +45407,7 @@
         "IRanges",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "rbsurv": [
         "Biobase",
@@ -46000,8 +45434,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "RCAS": [
         "plotly",
@@ -46070,8 +45503,7 @@
         "dbplyr",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "rcellminer": [
         "Biobase",
@@ -46155,8 +45587,7 @@
         "purrr",
         "tidyselect",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "RcisTarget": [
         "AUCell",
@@ -46324,7 +45755,6 @@
         "memoise",
         "tidyselect",
         "pillar",
-
         "Matrix",
         "hms",
         "vroom",
@@ -46378,7 +45808,6 @@
         "ellipsis",
         "sass",
         "jquerylib",
-
         "Matrix",
         "hms",
         "vroom",
@@ -46526,7 +45955,6 @@
         "memoise",
         "XVector",
         "GenomeInfoDb",
-
         "ellipsis"
     ],
     "ReadqPCR": [
@@ -46640,7 +46068,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "biomaRt",
         "VariantAnnotation",
         "survival",
@@ -46704,8 +46131,7 @@
         "bit64",
         "memoise",
         "futile.logger",
-        "ellipsis",
-
+        "ellipsis"
     ],
     "recountmethylation": [
         "minfi",
@@ -46758,7 +46184,6 @@
         "memoise",
         "multtest",
         "KEGGREST",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -46818,7 +46243,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "RedeR": [
@@ -46875,7 +46299,6 @@
         "DelayedArray",
         "futile.logger",
         "dbplyr",
-
         "openssl",
         "hms",
         "ellipsis",
@@ -46933,7 +46356,6 @@
         "survival",
         "GO.db",
         "RSQLite",
-
         "annotate",
         "XVector",
         "latticeExtra",
@@ -46972,8 +46394,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "regionReport": [
         "BiocStyle",
@@ -47039,7 +46460,6 @@
         "restfulr",
         "progress",
         "BiocFileCache",
-
         "htmlwidgets",
         "interp",
         "bit64",
@@ -47144,7 +46564,6 @@
         "Matrix",
         "DelayedArray",
         "sass",
-
         "mgcv",
         "knitr",
         "checkmate"
@@ -47207,7 +46626,6 @@
         "sparseMatrixStats",
         "tidyselect",
         "pillar",
-
         "annotate",
         "survival",
         "tidyr",
@@ -47278,7 +46696,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "mgcv",
         "scales",
         "tibble",
@@ -47362,7 +46779,6 @@
         "BiocFileCache",
         "tidyselect",
         "ellipsis",
-
         "checkmate",
         "htmlwidgets",
         "interp",
@@ -47399,7 +46815,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "bit64",
         "memoise"
@@ -47413,8 +46828,7 @@
         "IRanges",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ResidualMatrix": [
         "Matrix",
@@ -47568,8 +46982,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "rGADEM": [
         "Biostrings",
@@ -47586,7 +46999,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -47676,8 +47088,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "RGraph2js": [],
     "Rgraphviz": [],
@@ -47739,7 +47150,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "BiocIO",
         "ellipsis",
         "Rsamtools",
@@ -47797,7 +47207,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "Rhtslib": [],
@@ -47851,7 +47260,6 @@
         "genefilter",
         "geneplotter",
         "RcppArmadillo",
-
         "forcats",
         "reshape",
         "openssl",
@@ -47927,7 +47335,6 @@
         "restfulr",
         "MatrixGenerics",
         "DelayedArray",
-
         "hms",
         "loo",
         "pkgbuild",
@@ -47997,7 +47404,6 @@
         "dbplyr",
         "tidyselect",
         "ellipsis",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -48032,8 +47438,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ribosomeProfilingQC": [
         "GenomicRanges",
@@ -48087,7 +47492,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "interp",
         "hms",
@@ -48196,7 +47600,6 @@
         "ellipsis",
         "bit64",
         "DelayedArray",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -48228,7 +47631,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -48305,7 +47707,6 @@
         "rtracklayer",
         "stringr",
         "XVector",
-
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -48389,7 +47790,6 @@
         "pROC",
         "recipes",
         "reshape2",
-
         "SummarizedExperiment",
         "BiocParallel",
         "openssl",
@@ -48450,7 +47850,6 @@
         "doParallel",
         "foreach",
         "lifecycle",
-
         "Matrix",
         "pillar"
     ],
@@ -48526,7 +47925,6 @@
         "progress",
         "BiocFileCache",
         "sass",
-
         "credentials",
         "openssl",
         "systemfonts",
@@ -48565,8 +47963,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "RNAAgeCalc": [
         "ggplot2",
@@ -48617,7 +48014,6 @@
         "foreach",
         "doRNG",
         "tidyselect",
-
         "biomaRt",
         "VariantAnnotation",
         "survival",
@@ -48713,8 +48109,7 @@
         "hms",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "RNAinteract": [
         "ICS",
@@ -48797,7 +48192,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-
         "caTools",
         "interp",
         "Matrix",
@@ -48867,7 +48261,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "caTools",
         "survival",
         "htmlTable",
@@ -48934,7 +48327,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-
         "caTools",
         "interp",
         "bit64",
@@ -49002,7 +48394,6 @@
         "restfulr",
         "dbplyr",
         "dplyr",
-
         "caTools",
         "survival",
         "htmlTable",
@@ -49147,7 +48538,6 @@
         "patchwork",
         "progress",
         "BiocFileCache",
-
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -49276,7 +48666,6 @@
         "multtest",
         "dbplyr",
         "tidyselect",
-
         "hms",
         "vroom",
         "ellipsis",
@@ -49313,8 +48702,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ROC": [
         "knitr",
@@ -49497,7 +48885,6 @@
         "jquerylib",
         "sass",
         "memoise",
-
         "BiocIO",
         "biomaRt",
         "survival",
@@ -49605,8 +48992,7 @@
     ],
     "RRHO": [
         "VennDiagram",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "rrvgo": [
         "GOSemSim",
@@ -49653,8 +49039,7 @@
         "IRanges",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "rsbml": [],
     "rScudo": [
@@ -49701,7 +49086,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -49811,8 +49195,7 @@
         "purrr",
         "dbplyr",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "RTN": [
         "RedeR",
@@ -50000,8 +49383,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "Rtreemix": [
         "Biobase",
@@ -50081,8 +49463,7 @@
         "futile.logger",
         "openssl",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "runibic": [
         "biclust",
@@ -50123,8 +49504,7 @@
         "reshape2",
         "futile.logger",
         "Biobase",
-        "stringr",
-
+        "stringr"
     ],
     "RUVnormalize": [
         "RUVnormalizeData",
@@ -50173,7 +49553,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "RcppEigen",
         "MatrixGenerics",
@@ -50369,7 +49748,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "lifecycle",
         "pillar"
@@ -50596,7 +49974,6 @@
         "ellipsis",
         "purrr",
         "KEGGREST",
-
         "MatrixGenerics",
         "DelayedArray",
         "progress"
@@ -50613,7 +49990,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -50678,7 +50054,6 @@
         "memoise",
         "tidyselect",
         "pillar",
-
         "SummarizedExperiment",
         "openssl",
         "bit64",
@@ -50799,8 +50174,7 @@
         "MatrixGenerics",
         "Biobase",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "SCArray": [
         "DelayedArray",
@@ -50845,7 +50219,6 @@
         "httr",
         "dplyr",
         "dbplyr",
-
         "KEGGREST",
         "blob",
         "lifecycle",
@@ -50899,7 +50272,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector",
         "lifecycle",
         "pillar"
@@ -51000,7 +50372,6 @@
         "memoise",
         "tidyselect",
         "sitmo",
-
         "caTools",
         "stringr",
         "Biostrings",
@@ -51091,7 +50462,6 @@
         "jquerylib",
         "memoise",
         "tidyselect",
-
         "caTools",
         "stringr"
     ],
@@ -51217,7 +50587,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "tweenr",
         "RcppEigen",
         "annotate",
@@ -51352,7 +50721,6 @@
         "GenomeInfoDb",
         "sparseMatrixStats",
         "sitmo",
-
         "XVector",
         "mgcv",
         "scales",
@@ -51399,7 +50767,6 @@
         "BiocNeighbors",
         "sparseMatrixStats",
         "sitmo",
-
         "XVector",
         "caTools",
         "nloptr",
@@ -51430,8 +50797,7 @@
         "Matrix",
         "Biobase",
         "MatrixModels",
-        "survival",
-
+        "survival"
     ],
     "scds": [
         "Matrix",
@@ -51471,7 +50837,6 @@
         "ellipsis",
         "processx",
         "tfautograph",
-
         "RcppTOML",
         "tidyselect",
         "purrr"
@@ -51534,7 +50899,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "prodlim",
         "openssl",
         "Biostrings",
@@ -51651,7 +51015,6 @@
         "MatrixGenerics",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector",
         "pillar",
         "ellipsis",
@@ -51776,7 +51139,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -51872,7 +51234,6 @@
         "restfulr",
         "progress",
         "purrr",
-
         "ellipsis",
         "httpuv",
         "fontawesome"
@@ -51899,7 +51260,6 @@
         "Biobase",
         "IRanges",
         "GenomeInfoDb",
-
         "XVector",
         "pillar"
     ],
@@ -51940,7 +51300,6 @@
         "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
-
         "XVector",
         "RcppEigen",
         "RSQLite",
@@ -52022,7 +51381,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-
         "SummarizedExperiment",
         "hms",
         "lifecycle",
@@ -52055,7 +51413,6 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
@@ -52135,7 +51492,6 @@
         "future.apply",
         "RcppEigen",
         "rsvd",
-
         "globals",
         "ellipsis"
     ],
@@ -52209,8 +51565,7 @@
         "blob",
         "memoise",
         "purrr",
-        "rematch2",
-
+        "rematch2"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -52239,7 +51594,6 @@
         "Biobase",
         "GenomeInfoDb",
         "RcppHNSW",
-
         "XVector"
     ],
     "scReClassify": [
@@ -52274,7 +51628,6 @@
         "reticulate",
         "ggplot2",
         "glmnet",
-
         "mgcv",
         "scales",
         "tibble",
@@ -52368,7 +51721,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "dplyr",
         "forcats",
         "reshape",
@@ -52411,8 +51763,7 @@
         "Biobase",
         "GenomeInfoDb",
         "futile.logger",
-        "XVector",
-
+        "XVector"
     ],
     "scShapes": [
         "Matrix",
@@ -52420,8 +51771,7 @@
         "BiocParallel",
         "emdbook",
         "futile.logger",
-        "bbmle",
-
+        "bbmle"
     ],
     "scTensor": [
         "RSQLite",
@@ -52551,7 +51901,6 @@
         "ggfun",
         "ggplotify",
         "processx",
-
         "globals",
         "ape",
         "tidytree",
@@ -52674,8 +52023,7 @@
     "scTHI": [
         "BiocParallel",
         "Rtsne",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "scTreeViz": [
         "epivizr",
@@ -52794,7 +52142,6 @@
         "sass",
         "jquerylib",
         "memoise",
-
         "caTools",
         "bit64",
         "blob",
@@ -52818,8 +52165,7 @@
         "sparseMatrixStats",
         "GenomeInfoDb",
         "XVector",
-        "Biobase",
-
+        "Biobase"
     ],
     "SDAMS": [
         "SummarizedExperiment",
@@ -52946,8 +52292,7 @@
         "RcppEigen",
         "RcppArmadillo",
         "openssl",
-        "hms",
-
+        "hms"
     ],
     "segmentSeq": [
         "baySeq",
@@ -52966,7 +52311,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -53024,8 +52368,7 @@
         "hms",
         "futile.logger",
         "MatrixGenerics",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "SELEX": [
         "Biostrings",
@@ -53156,7 +52499,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "openssl",
         "hms"
     ],
@@ -53239,7 +52581,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "ellipsis",
         "Biostrings",
         "bit64",
@@ -53279,8 +52620,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "SeqSQC": [
         "ExperimentHub",
@@ -53405,7 +52745,6 @@
         "httr",
         "dplyr",
         "openssl",
-
         "bslib",
         "jquerylib",
         "knitr",
@@ -53459,7 +52798,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "mgcv",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -53511,8 +52849,7 @@
         "bit64",
         "tidyselect",
         "progress",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "SGSeq": [
         "IRanges",
@@ -53547,7 +52884,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -53645,7 +52981,6 @@
         "RSQLite",
         "KEGGREST",
         "processx",
-
         "biomaRt",
         "hms",
         "vroom",
@@ -53710,7 +53045,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -53741,7 +53075,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "interp",
-
         "RcppEigen",
         "MatrixGenerics",
         "Matrix",
@@ -53795,8 +53128,7 @@
         "GenomeInfoDb",
         "foreach",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "SigCheck": [
         "MLInterfaces",
@@ -53818,7 +53150,6 @@
         "httr",
         "flexmix",
         "prabclus",
-
         "dplyr",
         "httpuv",
         "fontawesome",
@@ -53863,7 +53194,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "lifecycle"
     ],
@@ -53958,7 +53288,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-
         "XVector",
         "ellipsis",
         "Biostrings",
@@ -54047,7 +53376,6 @@
         "rematch2",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "purrr",
@@ -54087,7 +53415,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -54186,8 +53513,7 @@
         "BiocParallel",
         "futile.logger",
         "ellipsis",
-        "purrr",
-
+        "purrr"
     ],
     "similaRpeak": [],
     "SIMLR": [
@@ -54292,7 +53618,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "RcppHNSW",
-
         "XVector"
     ],
     "singleCellTK": [
@@ -54455,7 +53780,6 @@
         "rtracklayer",
         "Rsamtools",
         "Biostrings",
-
         "globals",
         "XVector",
         "BiocIO",
@@ -54528,7 +53852,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "interp",
         "bit64",
         "blob",
@@ -54567,7 +53890,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector"
     ],
     "singscore": [
@@ -54607,7 +53929,6 @@
         "RSQLite",
         "KEGGREST",
         "pillar",
-
         "XVector",
         "openssl",
         "later",
@@ -54653,7 +53974,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "pillar",
-
         "XVector",
         "openssl",
         "Biostrings",
@@ -54697,7 +54017,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
@@ -54795,7 +54114,6 @@
         "BiocFileCache",
         "tidyselect",
         "pillar",
-
         "hms",
         "vroom",
         "bit64",
@@ -54968,7 +54286,6 @@
         "DelayedArray",
         "purrr",
         "tidyselect",
-
         "ellipsis"
     ],
     "SNAGEE": [],
@@ -55079,7 +54396,6 @@
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
-
         "annotate",
         "survival",
         "BiocIO",
@@ -55132,7 +54448,6 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-
         "lifecycle",
         "latticeExtra",
         "pillar",
@@ -55244,7 +54559,6 @@
         "memoise",
         "purrr",
         "dbplyr",
-
         "openssl",
         "RcppEigen"
     ],
@@ -55356,7 +54670,6 @@
         "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
-
         "caTools",
         "stringr"
     ],
@@ -55402,7 +54715,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "openssl",
         "Biostrings",
         "later",
@@ -55465,7 +54777,6 @@
         "pillar",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -55565,7 +54876,6 @@
         "openssl",
         "bit64",
         "memoise",
-
         "ellipsis"
     ],
     "SpatialDecon": [
@@ -55660,7 +54970,6 @@
         "openssl",
         "bit64",
         "memoise",
-
         "ellipsis"
     ],
     "spatialHeatmap": [
@@ -55755,7 +55064,6 @@
         "irlba",
         "rsvd",
         "sparseMatrixStats",
-
         "knitr",
         "checkmate",
         "Biostrings",
@@ -55823,7 +55131,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-
         "openssl",
         "interp",
         "hms",
@@ -55863,8 +55170,7 @@
         "BiocParallel",
         "IRanges",
         "MsCoreUtils",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "SpectralTAD": [
         "dplyr",
@@ -55887,7 +55193,6 @@
         "QDNAseq",
         "pheatmap",
         "rhdf5",
-
         "scales",
         "SummarizedExperiment",
         "Biobase",
@@ -55942,7 +55247,6 @@
         "spatstat.sparse",
         "ellipsis",
         "purrr",
-
         "testthat",
         "classInt",
         "units",
@@ -56038,8 +55342,7 @@
         "treeio",
         "futile.logger",
         "tweenr",
-        "RcppArmadillo",
-
+        "RcppArmadillo"
     ],
     "spiky": [
         "Rsamtools",
@@ -56067,8 +55370,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "spkTools": [
         "Biobase"
@@ -56109,7 +55411,6 @@
         "irlba",
         "rsvd",
         "sparseMatrixStats",
-
         "XVector",
         "pillar"
     ],
@@ -56150,7 +55451,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -56241,7 +55541,6 @@
         "pillar",
         "purrr",
         "tidyselect",
-
         "survival",
         "htmlTable",
         "viridis",
@@ -56468,7 +55767,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "jquerylib",
-
         "annotate",
         "survival",
         "mgcv",
@@ -56613,8 +55911,7 @@
         "futile.logger",
         "Matrix",
         "lifecycle",
-        "pillar",
-
+        "pillar"
     ],
     "stageR": [
         "SummarizedExperiment",
@@ -56681,7 +55978,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "mgcv",
         "ellipsis",
         "knitr",
@@ -56810,8 +56106,7 @@
         "treeio",
         "futile.logger",
         "tweenr",
-        "RcppArmadillo",
-
+        "RcppArmadillo"
     ],
     "STATegRa": [
         "Biobase",
@@ -56880,7 +56175,6 @@
         "progress",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "restfulr",
@@ -56906,8 +56200,7 @@
     "STROMA4": [
         "Biobase",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "struct": [
         "knitr",
@@ -57005,8 +56298,7 @@
         "dbplyr",
         "futile.logger",
         "openssl",
-        "hms",
-
+        "hms"
     ],
     "SubCellBarCode": [
         "Rtsne",
@@ -57099,7 +56391,6 @@
         "DelayedArray",
         "ellipsis",
         "purrr",
-
         "XVector"
     ],
     "SummarizedExperiment": [
@@ -57343,7 +56634,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -57394,8 +56684,7 @@
         "dbplyr",
         "futile.logger",
         "openssl",
-        "hms",
-
+        "hms"
     ],
     "svaRetro": [
         "GenomicRanges",
@@ -57439,8 +56728,7 @@
         "dbplyr",
         "futile.logger",
         "openssl",
-        "hms",
-
+        "hms"
     ],
     "SWATH2stats": [
         "reshape2",
@@ -57478,8 +56766,7 @@
     "SwathXtend": [
         "e1071",
         "VennDiagram",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "switchBox": [
         "pROC",
@@ -57678,7 +56965,6 @@
         "interp",
         "lifecycle",
         "pillar",
-
         "RcppEigen"
     ],
     "systemPipeShiny": [
@@ -57795,7 +57081,6 @@
         "later",
         "RSQLite",
         "KEGGREST",
-
         "Biostrings",
         "bit64",
         "blob",
@@ -57848,7 +57133,6 @@
         "maptools",
         "lme4",
         "snowfall",
-
         "future",
         "globals",
         "Biostrings",
@@ -57923,7 +57207,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -58023,7 +57306,6 @@
         "htmlTable",
         "viridis",
         "stringr",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -58089,7 +57371,6 @@
         "irlba",
         "rsvd",
         "beachmat",
-
         "AnnotationDbi",
         "annotate",
         "survival",
@@ -58144,7 +57425,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -58325,7 +57605,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-
         "ggforce",
         "viridis",
         "tidygraph",
@@ -58408,8 +57687,7 @@
         "purrr",
         "dbplyr",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "TCseq": [
         "edgeR",
@@ -58435,8 +57713,7 @@
         "DelayedArray",
         "futile.logger",
         "lifecycle",
-        "pillar",
-
+        "pillar"
     ],
     "TDARACNE": [
         "GenKern",
@@ -58509,15 +57786,13 @@
         "Biostrings",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ternarynet": [
         "igraph",
         "BiocParallel",
         "futile.logger",
-        "Matrix",
-
+        "Matrix"
     ],
     "TFARM": [
         "arules",
@@ -58569,7 +57844,6 @@
         "restfulr",
         "AnnotationDbi",
         "httr",
-
         "SummarizedExperiment",
         "mgcv",
         "scales",
@@ -58629,8 +57903,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "TFHAZ": [
         "GenomicRanges",
@@ -58683,8 +57956,7 @@
         "blob",
         "purrr",
         "hms",
-        "bit64",
-
+        "bit64"
     ],
     "tidybulk": [
         "tibble",
@@ -58856,7 +58128,6 @@
         "futile.logger",
         "Matrix",
         "RSpectra",
-
         "RcppEigen"
     ],
     "timescape": [
@@ -58914,7 +58185,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "RcppEigen",
         "openssl",
         "Biostrings",
@@ -59011,7 +58281,6 @@
         "treeio",
         "Biostrings",
         "bit64",
-
         "tweenr",
         "RcppEigen",
         "RcppArmadillo"
@@ -59140,7 +58409,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "openssl",
         "hms"
     ],
@@ -59188,7 +58456,6 @@
         "blob",
         "memoise",
         "dbplyr",
-
         "openssl",
         "hms"
     ],
@@ -59197,8 +58464,7 @@
         "flexclust",
         "Biobase",
         "SPEM",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "TNBC.CMS": [
         "e1071",
@@ -59264,7 +58530,6 @@
         "quantreg",
         "maptools",
         "lme4",
-
         "openssl",
         "Biostrings",
         "nloptr",
@@ -59389,8 +58654,7 @@
         "doParallel",
         "foreach",
         "lifecycle",
-        "pillar",
-
+        "pillar"
     ],
     "topGO": [
         "Biobase",
@@ -59438,7 +58702,6 @@
         "DelayedArray",
         "ellipsis",
         "purrr",
-
         "XVector",
         "gplots",
         "igraph",
@@ -59482,7 +58745,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "scales",
         "bslib",
@@ -59508,7 +58770,6 @@
         "scales",
         "ellipsis",
         "purrr",
-
         "Matrix"
     ],
     "tracktables": [
@@ -59522,8 +58783,7 @@
         "Biostrings",
         "BiocParallel",
         "RNifti",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "trackViewer": [
         "GenomicRanges",
@@ -59573,7 +58833,6 @@
         "DelayedArray",
         "dbplyr",
         "dplyr",
-
         "survival",
         "ggplot2",
         "htmlTable",
@@ -59613,7 +58872,6 @@
         "GenomeInfoDb",
         "lifecycle",
         "pillar",
-
         "XVector"
     ],
     "TrajectoryGeometry": [
@@ -59734,7 +58992,6 @@
         "DelayedArray",
         "pillar",
         "dbplyr",
-
         "openssl",
         "survival",
         "prodlim",
@@ -59822,7 +59079,6 @@
         "Matrix",
         "DelayedArray",
         "httr",
-
         "Biostrings",
         "stringr",
         "bit64",
@@ -59887,7 +59143,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "lifecycle",
         "pillar"
@@ -59908,7 +59163,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -60091,7 +59345,6 @@
         "Biobase",
         "Matrix",
         "tidytree",
-
         "ellipsis",
         "purrr",
         "tidyr"
@@ -60163,7 +59416,6 @@
         "checkmate",
         "htmlwidgets",
         "interp",
-
         "MatrixGenerics",
         "DelayedArray"
     ],
@@ -60197,7 +59449,6 @@
         "DelayedArray",
         "sass",
         "memoise",
-
         "XVector",
         "pillar"
     ],
@@ -60231,7 +59482,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "MatrixGenerics",
@@ -60291,7 +59541,6 @@
         "memoise",
         "ellipsis",
         "purrr",
-
         "openssl"
     ],
     "trigger": [
@@ -60316,7 +59565,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "lifecycle",
         "pillar",
         "openssl",
@@ -60446,7 +59694,6 @@
         "mgcv",
         "tibble",
         "lifecycle",
-
         "Matrix",
         "MatrixGenerics",
         "Biobase",
@@ -60572,7 +59819,6 @@
         "DelayedArray",
         "KEGGREST",
         "dbplyr",
-
         "openssl",
         "shiny",
         "DT",
@@ -60710,7 +59956,6 @@
         "tidyselect",
         "pillar",
         "ellipsis",
-
         "BiocIO",
         "interp",
         "hms",
@@ -60782,7 +60027,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "SummarizedExperiment",
         "bit64",
         "blob",
@@ -60855,8 +60099,7 @@
         "later",
         "bslib",
         "ellipsis",
-        "sass",
-
+        "sass"
     ],
     "Ularcirc": [
         "AnnotationHub",
@@ -60923,7 +60166,6 @@
         "restfulr",
         "MatrixGenerics",
         "DelayedArray",
-
         "hms"
     ],
     "UMI4Cats": [
@@ -60988,7 +60230,6 @@
         "bit64",
         "restfulr",
         "ellipsis",
-
         "RcppEigen",
         "hms",
         "pcaPP",
@@ -61073,7 +60314,6 @@
         "interp",
         "bit64",
         "restfulr",
-
         "survival",
         "ggplot2",
         "viridis",
@@ -61155,7 +60395,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -61282,7 +60521,6 @@
         "textstem",
         "httr",
         "rvest",
-
         "openssl",
         "selectr",
         "rsparse",
@@ -61332,8 +60570,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "VarCon": [
         "Biostrings",
@@ -61369,7 +60606,6 @@
         "pillar",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "DelayedArray"
@@ -61405,7 +60641,6 @@
         "tidyr",
         "tidyselect",
         "pillar",
-
         "testthat",
         "callr",
         "desc",
@@ -61447,7 +60682,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -61549,7 +60783,6 @@
         "AnnotationFilter",
         "sass",
         "memoise",
-
         "interp",
         "bit64",
         "blob",
@@ -61597,7 +60830,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -61647,7 +60879,6 @@
         "KEGGREST",
         "dbplyr",
         "dplyr",
-
         "annotate",
         "survival",
         "openssl",
@@ -61692,7 +60923,6 @@
         "stringr",
         "httr",
         "BiocFileCache",
-
         "bit64",
         "blob",
         "memoise",
@@ -61760,7 +60990,6 @@
         "Biobase",
         "GenomeInfoDb",
         "sparseMatrixStats",
-
         "XVector"
     ],
     "veloviz": [
@@ -61781,7 +61010,6 @@
         "lifecycle",
         "tidyselect",
         "pillar",
-
         "mgcv",
         "scales",
         "Matrix",
@@ -61841,7 +61069,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "openssl",
         "Biostrings",
         "bit64",
@@ -61919,7 +61146,6 @@
         "callr",
         "XVector",
         "GenomeInfoDb",
-
         "foreach"
     ],
     "vissE": [
@@ -62017,8 +61243,7 @@
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
-        "pillar",
-
+        "pillar"
     ],
     "vsn": [
         "Biobase",
@@ -62092,8 +61317,7 @@
         "fontawesome",
         "later",
         "bslib",
-        "sass",
-
+        "sass"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -62169,7 +61393,6 @@
         "htmlwidgets",
         "dbplyr",
         "bbmle",
-
         "openssl",
         "irlba",
         "hms",
@@ -62207,7 +61430,6 @@
         "MatrixGenerics",
         "IRanges",
         "ggplot2",
-
         "GenomeInfoDb",
         "XVector",
         "openssl",
@@ -62297,7 +61519,6 @@
         "pillar",
         "dbplyr",
         "tidyselect",
-
         "hms",
         "vroom",
         "ellipsis",
@@ -62352,7 +61573,6 @@
         "pillar",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "RcppEigen",
         "hms",
@@ -62421,7 +61641,6 @@
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
-
         "XVector",
         "ellipsis"
     ],
@@ -62453,8 +61672,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "wpm": [
         "Biobase",
@@ -62553,7 +61771,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -62620,7 +61837,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "pillar",
-
         "XVector",
         "gplots",
         "igraph",
@@ -62692,7 +61908,6 @@
         "sass",
         "memoise",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -62792,7 +62007,6 @@
         "bit64",
         "blob",
         "dbplyr",
-
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -62864,7 +62078,6 @@
         "base64",
         "memoise",
         "multtest",
-
         "BiocIO",
         "rtracklayer",
         "Rsamtools",
@@ -62931,7 +62144,6 @@
         "httr",
         "RSQLite",
         "KEGGREST",
-
         "XVector",
         "openssl",
         "Biostrings",
@@ -63012,8 +62224,7 @@
         "stringr"
     ],
     "VennDiagram": [
-        "futile.logger",
-
+        "futile.logger"
     ],
     "plyr": [],
     "flexdashboard": [
@@ -63090,9 +62301,7 @@
         "Matrix"
     ],
     "stringr": [],
-    "futile.logger": [
-
-    ],
+    "futile.logger": [],
     "bookdown": [
         "knitr",
         "rmarkdown",
@@ -63165,7 +62374,6 @@
     "pillar": [
         "lifecycle"
     ],
-
     "nlme": [],
     "later": [],
     "munsell": [],
@@ -64144,7 +63352,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -64189,8 +63396,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -64236,8 +63442,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -64254,7 +63459,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -64275,7 +63479,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -64335,7 +63538,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -64389,7 +63591,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -64443,7 +63644,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -64485,7 +63685,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "lifecycle",
@@ -64530,7 +63729,6 @@
         "openssl",
         "dbplyr",
         "dplyr",
-
         "hms",
         "lifecycle",
         "pillar",
@@ -64574,7 +63772,6 @@
         "openssl",
         "dbplyr",
         "dplyr",
-
         "hms",
         "lifecycle",
         "pillar",
@@ -64650,8 +63847,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "base64": [
         "openssl"
@@ -64863,7 +64059,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -65296,7 +64491,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -65948,8 +65142,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "org.Mm.eg.db": [
         "AnnotationDbi",
@@ -66005,8 +65198,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "betareg": [
         "flexmix",
@@ -66156,7 +65348,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "mgcv",
         "scales",
         "knitr",
@@ -66193,7 +65384,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -66751,7 +65941,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -66815,7 +66004,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -66878,7 +66066,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -66950,7 +66137,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "ellipsis"
     ],
     "JADE": [],
@@ -66972,8 +66158,7 @@
         "IRanges",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "ChIC.data": [
         "genomeIntervals",
@@ -67025,7 +66210,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -67066,8 +66250,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "purrr",
-
+        "purrr"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
@@ -67153,8 +66336,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "GenomicFeatures",
@@ -67195,8 +66377,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "GenomicFeatures",
@@ -67237,8 +66418,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "GenomicFeatures",
@@ -67279,8 +66459,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "GenomicFeatures",
@@ -67321,8 +66500,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "ashr": [
         "Matrix",
@@ -67508,7 +66686,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -67836,7 +67013,6 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "MatrixGenerics",
@@ -67898,7 +67074,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -67963,7 +67138,6 @@
         "Matrix",
         "GenomeInfoDb",
         "DelayedArray",
-
         "XVector",
         "mgcv",
         "tibble",
@@ -68408,7 +67582,6 @@
         "doParallel",
         "foreach",
         "lifecycle",
-
         "Matrix",
         "pillar"
     ],
@@ -69425,7 +68598,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -69692,8 +68864,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "gptk": [],
     "DescTools": [
@@ -69882,8 +69053,7 @@
         "ellipsis",
         "MatrixGenerics",
         "Matrix",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "threejs": [
         "igraph",
@@ -70112,7 +69282,6 @@
         "SummarizedExperiment",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "hms",
         "MatrixGenerics",
@@ -70455,7 +69624,6 @@
         "IRanges",
         "RSQLite",
         "KEGGREST",
-
         "scales",
         "tibble",
         "stringr",
@@ -70566,7 +69734,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -70621,7 +69788,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "BiocIO",
         "biomaRt",
         "shiny",
@@ -70770,7 +69936,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -71101,7 +70266,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -71336,7 +70500,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -71733,7 +70896,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -71909,7 +71071,6 @@
         "crosstalk",
         "jquerylib",
         "promises",
-
         "httpuv",
         "fontawesome",
         "later",
@@ -71981,7 +71142,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
@@ -72083,8 +71243,7 @@
         "futile.logger",
         "MatrixGenerics",
         "Biobase",
-        "DelayedArray",
-
+        "DelayedArray"
     ],
     "caretEnsemble": [
         "ggplot2",
@@ -72170,8 +71329,7 @@
         "IRanges",
         "XVector",
         "BiocParallel",
-        "futile.logger",
-
+        "futile.logger"
     ],
     "rafalib": [],
     "systemPipeRdata": [
@@ -72206,7 +71364,6 @@
         "memoise",
         "dbplyr",
         "dplyr",
-
         "openssl",
         "RcppEigen",
         "hms",
@@ -72292,7 +71449,6 @@
         "mgcv",
         "scales",
         "tibble",
-
         "Matrix",
         "lifecycle",
         "pillar"
@@ -72331,7 +71487,6 @@
         "purrr",
         "tibble",
         "tidyselect",
-
         "openssl",
         "shiny",
         "DT",
@@ -72636,8 +71791,7 @@
         "later",
         "bslib",
         "ellipsis",
-        "sass",
-
+        "sass"
     ],
     "TENxPBMCData": [
         "SingleCellExperiment",
@@ -72914,7 +72068,6 @@
         "restfulr",
         "futile.logger",
         "SummarizedExperiment",
-
         "MatrixGenerics",
         "Biobase",
         "Matrix",
