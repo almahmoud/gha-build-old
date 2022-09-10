@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: bioconductor/bioconductor_docker:RELEASE_3_15
+    outputs:
+      tar: ${{steps.tar.outputs.name}}
+      pkg: ${{steps.claim.outputs.pkg}}
     steps:
       - uses: actions/checkout@v3
 
@@ -60,4 +63,35 @@ jobs:
         with:
           name: ${{steps.tar.outputs.name}}
           path: /tmp/tars/${{steps.tar.outputs.name}}
+
+
+  rclonepush:
+    needs: build
+    container:
+      image: rclone/rclone:latest
+    name: Rclone push
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add rclone conf file
+        run: |
+          apk add --no-cache git
+          echo "$RCLONE_CONF" > ~/.rclone.conf
+        env:
+          RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: ${{steps.tar.outputs.name}}
+          path: /tmp/${{needs.build.outputs.tar}}
+
+      - name: Rclone push package and mark as pushed
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          for i in {1..20}; do bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "Pushed ${{needs.build.outputs.tar}}"; else exit 1; fi
+        continue-on-error: true
+
+
+
 
