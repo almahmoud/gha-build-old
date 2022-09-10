@@ -3223,14 +3223,11 @@
     ],
     "basilisk": [
         "reticulate",
-        "dir.expiry",
         "basilisk.utils",
         "Matrix",
         "RcppTOML"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -4465,7 +4462,6 @@
         "SummarizedExperiment",
         "knitr",
         "basilisk",
-        "dir.expiry",
         "basilisk.utils",
         "stringr",
         "Matrix",
@@ -7127,7 +7123,6 @@
         "shinyBS",
         "shinycssloaders",
         "rintrojs",
-        "dir.expiry",
         "basilisk.utils",
         "lifecycle",
         "tibble",
@@ -13808,7 +13803,6 @@
         "stringr",
         "SummarizedExperiment",
         "tidyr",
-        "dir.expiry",
         "basilisk.utils",
         "dbplyr",
         "RSQLite",
@@ -14931,7 +14925,6 @@
     "densvis": [
         "basilisk",
         "reticulate",
-        "dir.expiry",
         "basilisk.utils",
         "Matrix",
         "RcppTOML"
@@ -16037,7 +16030,6 @@
         "caTools",
         "stringr"
     ],
-    "dir.expiry": [],
     "Director": [],
     "DirichletMultinomial": [
         "IRanges"
@@ -20419,7 +20411,6 @@
         "dplyr",
         "tidyr",
         "scuttle",
-        "dir.expiry",
         "basilisk.utils",
         "lifecycle",
         "tibble",
@@ -30348,7 +30339,6 @@
         "interactiveDisplayBase",
         "httr",
         "dplyr",
-        "dir.expiry",
         "basilisk.utils",
         "Matrix",
         "RcppTOML",
@@ -35843,7 +35833,6 @@
         "Rtsne",
         "uwot",
         "basilisk",
-        "dir.expiry",
         "basilisk.utils",
         "scales",
         "Matrix",
@@ -39866,7 +39855,6 @@
         "restfulr",
         "Biobase",
         "KEGGREST",
-        "dir.expiry",
         "basilisk.utils",
         "futile.logger",
         "foreach",
@@ -47107,7 +47095,6 @@
         "R.utils",
         "basilisk",
         "reticulate",
-        "dir.expiry",
         "basilisk.utils",
         "base64url",
         "checkmate",
@@ -47162,7 +47149,6 @@
         "R.utils",
         "basilisk",
         "reticulate",
-        "dir.expiry",
         "basilisk.utils",
         "base64url",
         "checkmate",
@@ -47361,7 +47347,6 @@
         "knitr",
         "rmarkdown",
         "CodeDepends",
-        "dir.expiry",
         "BiocStyle",
         "bookdown",
         "stringr",
@@ -55964,7 +55949,6 @@
         "basilisk",
         "reticulate",
         "irlba",
-        "dir.expiry",
         "basilisk.utils",
         "Matrix",
         "RcppTOML"
@@ -56475,7 +56459,6 @@
         "ggplot2",
         "ggrepel",
         "scales",
-        "dir.expiry",
         "basilisk.utils",
         "mgcv",
         "tibble",
@@ -62792,7 +62775,6 @@
         "SingleCellExperiment",
         "BiocParallel",
         "BiocSingular",
-        "dir.expiry",
         "basilisk.utils",
         "futile.logger",
         "ScaledMatrix",
@@ -63943,7 +63925,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DelayedArray",
-        "dir.expiry",
         "basilisk.utils",
         "MatrixGenerics",
         "IRanges",
