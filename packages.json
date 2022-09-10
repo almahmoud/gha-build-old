@@ -2826,7 +2826,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "xts",
@@ -5748,7 +5747,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -8610,7 +8608,6 @@
         "recipes",
         "reshape2",
         "XVector",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.core",
         "spatstat.linnet",
@@ -12290,7 +12287,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -21852,7 +21848,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "ggfun",
@@ -22779,7 +22774,6 @@
         "tidyselect",
         "pillar",
         "scales",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "lmerTest",
@@ -29831,7 +29825,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -32631,7 +32624,6 @@
         "fontawesome",
         "bslib",
         "TTR",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -33192,7 +33184,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "sass",
@@ -39478,7 +39469,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "tidyselect",
@@ -39659,7 +39649,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -39769,7 +39758,6 @@
         "spatstat.geom",
         "scales",
         "tibble",
-        "spatstat.data",
         "pillar"
     ],
     "scBFA": [
@@ -39833,7 +39821,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -39907,7 +39894,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -39973,7 +39959,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -40084,7 +40069,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -40321,7 +40305,6 @@
         "reshape2",
         "rgeos",
         "classInt",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng"
@@ -40389,7 +40372,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -41056,7 +41038,6 @@
         "RcppTOML",
         "rgeos",
         "classInt",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng"
@@ -41136,7 +41117,6 @@
         "reshape2",
         "rgeos",
         "classInt",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng"
@@ -41237,7 +41217,6 @@
         "rgeos",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "KEGGREST",
@@ -42558,7 +42537,6 @@
         "multcomp",
         "hms",
         "rgeos",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "sn",
@@ -43257,7 +43235,6 @@
         "RcppTOML",
         "reshape2",
         "rgeos",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse"
     ],
@@ -43706,7 +43683,6 @@
         "scales",
         "nloptr",
         "RcppEigen",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "testthat",
@@ -50380,7 +50356,6 @@
         "pillar"
     ],
     "qqman": [],
-    "calibrate": [],
     "DRaWR": [
         "ROCR"
     ],
@@ -50718,7 +50693,6 @@
         "httpuv",
         "fontawesome",
         "bslib",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.sparse",
         "pillar",
@@ -50772,14 +50746,11 @@
         "RcppEigen"
     ],
     "spatstat.core": [
-        "spatstat.data",
         "spatstat.geom",
         "spatstat.random",
         "spatstat.sparse"
     ],
-    "spatstat.geom": [
-        "spatstat.data"
-    ],
+    "spatstat.geom": [],
     "uwot": [
         "irlba",
         "dqrng"
@@ -50791,9 +50762,7 @@
     "Rvmmin": [],
     "Rcgmin": [],
     "rgeos": [],
-    "spatstat.data": [],
     "spatstat.random": [
-        "spatstat.data",
         "spatstat.geom"
     ],
     "spatstat.sparse": [],
@@ -52654,7 +52623,6 @@
         "tibble",
         "tidyselect",
         "pillar",
-        "spatstat.data",
         "spatstat.random",
         "spatstat.core",
         "spatstat.linnet",
@@ -52671,7 +52639,6 @@
         "future"
     ],
     "spatstat": [
-        "spatstat.data",
         "spatstat.geom",
         "spatstat.random",
         "spatstat.core",
@@ -52682,7 +52649,6 @@
         "RcppEigen"
     ],
     "spatstat.linnet": [
-        "spatstat.data",
         "spatstat.geom",
         "spatstat.random",
         "spatstat.core",
