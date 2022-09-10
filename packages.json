@@ -21,7 +21,7 @@
 
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "annotate",
         "survival",
         "Matrix",
@@ -88,7 +88,7 @@
 
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "annotate",
         "survival",
         "Matrix",
@@ -202,7 +202,7 @@
         "KernSmooth",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -480,7 +480,7 @@
         "lattice",
         "ggplot2",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -576,7 +576,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "crayon",
@@ -692,7 +692,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "sass",
@@ -840,7 +840,7 @@
         "TTR",
         "lattice",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -942,7 +942,7 @@
         "multtest",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "httr",
@@ -1082,7 +1082,7 @@
         "edgeR",
         "RSQLite",
         "BiocGenerics",
-        "DBI",
+
         "Glimma",
         "affyio",
 
@@ -1285,7 +1285,7 @@
         "preprocessCore",
         "zlibbioc",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -1355,7 +1355,7 @@
         "graph",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -1447,7 +1447,7 @@
         "S4Vectors",
         "edgeR",
         "RSQLite",
-        "DBI",
+
         "Glimma",
         "IRanges",
         "KEGGREST",
@@ -1870,7 +1870,7 @@
         "GenomeInfoDb",
         "nlme",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -2081,7 +2081,7 @@
         "GenomeInfoDbData",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "rtracklayer",
@@ -2355,7 +2355,7 @@
         "gridExtra",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -2640,7 +2640,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -3009,7 +3009,7 @@
         "rhdf5filters",
         "stringi",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "sys",
@@ -3048,7 +3048,7 @@
 
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "BiocGenerics",
         "IRanges",
         "RSQLite",
@@ -3087,7 +3087,7 @@
     ],
     "annmap": [
         "GenomicRanges",
-        "DBI",
+
         "RMySQL",
 
         "Biobase",
@@ -3148,7 +3148,7 @@
         "AnnotationDbi",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -3190,7 +3190,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -3242,7 +3242,7 @@
         "BiocGenerics",
         "Biobase",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XML",
         "S4Vectors",
@@ -3295,7 +3295,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -3376,7 +3376,7 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "DBI",
+
         "GenomeInfoDb",
         "OrganismDbi",
         "RSQLite",
@@ -3505,7 +3505,7 @@
         "S4Vectors",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -3709,7 +3709,7 @@
         "plyr",
         "stringr",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -3797,7 +3797,7 @@
         "shiny",
         "bigrquery",
         "shinytoastr",
-        "DBI",
+
         "magrittr",
         "dplyr",
         "lubridate",
@@ -3981,7 +3981,7 @@
         "pillar",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "GenomeInfoDb",
         "AnnotationDbi",
         "ProtGenerics",
@@ -4079,7 +4079,7 @@
         "BH",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -4188,7 +4188,7 @@
         "jquerylib",
         "promises",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -4312,7 +4312,7 @@
         "Biostrings",
         "affyio",
         "affxparser",
-        "DBI",
+
         "ff",
         "preprocessCore",
         "RSQLite",
@@ -4407,7 +4407,7 @@
 
         "GenomicAlignments",
         "hwriter",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -4505,7 +4505,7 @@
         "nleqslv",
         "KernSmooth",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
 
         "cluster",
@@ -4701,7 +4701,7 @@
 
         "systemfonts",
 
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -4801,7 +4801,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -5052,7 +5052,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "Biostrings",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -5193,7 +5193,7 @@
 
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "bookdown",
@@ -5340,7 +5340,7 @@
         "GenomeInfoDb",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "RCurl",
         "GenomeInfoDbData",
         "bit64",
@@ -5420,7 +5420,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -5479,7 +5479,7 @@
         "crayon",
         "matrixStats",
         "AnnotationDbi",
-        "DBI",
+
         "dplyr",
         "ensembldb",
         "GenomicFeatures",
@@ -5655,7 +5655,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -5765,7 +5765,7 @@
         "org.Hs.eg.db",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "Category",
@@ -5860,7 +5860,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "DBI",
+
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -5939,7 +5939,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -6209,7 +6209,7 @@
         "Rhtslib",
         "MatrixGenerics",
         "SummarizedExperiment",
-        "DBI",
+
         "Biobase",
         "rtracklayer",
         "BSgenome",
@@ -6321,7 +6321,7 @@
         "rjson",
         "yaml",
         "Rhtslib",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -6391,7 +6391,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -7142,7 +7142,7 @@
         "stringi",
         "callr",
         "XML",
-        "DBI",
+
         "IRanges",
         "RSQLite",
         "S4Vectors",
@@ -7208,7 +7208,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -7385,7 +7385,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -7561,7 +7561,7 @@
         "IRanges",
         "illuminaio",
         "ggplot2",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -7902,7 +7902,7 @@
         "GenomicFeatures",
         "nleqslv",
         "RSQLite",
-        "DBI",
+
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "illuminaio",
@@ -8061,7 +8061,7 @@
         "vctrs",
         "pillar",
         "GenomicRanges",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -8151,7 +8151,7 @@
 
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
 
@@ -8222,7 +8222,7 @@
         "XML",
         "survival",
 
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -8347,7 +8347,7 @@
         "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -8651,7 +8651,7 @@
         "formatR"
     ],
     "bioassayR": [
-        "DBI",
+
         "RSQLite",
         "Matrix",
         "rjson",
@@ -8802,7 +8802,7 @@
         "GO.db",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -9071,7 +9071,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -9120,7 +9120,7 @@
         "AnnotationDbi",
         "RColorBrewer",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -9190,7 +9190,7 @@
         "IRanges",
         "ggplot2",
         "SummarizedExperiment",
-        "DBI",
+
         "GenomicFeatures",
         "curatedTCGAData",
         "scales",
@@ -9385,7 +9385,7 @@
         "AnnotationDbi",
         "XML",
         "lattice",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -9458,7 +9458,7 @@
         "graph",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -9531,7 +9531,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "generics",
         "glue",
@@ -9800,7 +9800,7 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -9871,7 +9871,7 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -9957,7 +9957,7 @@
         "waldo",
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -10015,7 +10015,7 @@
         "glue",
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -10086,7 +10086,7 @@
 
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -10155,7 +10155,7 @@
         "testthat",
         "dbplyr",
         "dplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -10222,7 +10222,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -10346,7 +10346,7 @@
         "GO.db",
         "AnnotationDbi",
         "matrixStats",
-        "DBI",
+
 
         "zoo",
 
@@ -10453,7 +10453,7 @@
         "matrixStats",
         "GenomicAlignments",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -10650,7 +10650,7 @@
         "survival",
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "shape",
@@ -10764,7 +10764,7 @@
         "Biobase",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -10889,7 +10889,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "sass",
@@ -10943,7 +10943,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -11277,7 +11277,7 @@
         "AnnotationFilter",
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -11492,7 +11492,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -11618,7 +11618,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -11760,7 +11760,7 @@
         "IRanges",
         "illuminaio",
         "ggplot2",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -11844,7 +11844,7 @@
         "KEGGgraph",
         "Rgraphviz",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "rngtools",
@@ -11960,7 +11960,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "rprojroot",
         "iterators",
@@ -12095,7 +12095,7 @@
 
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -12234,7 +12234,7 @@
 
         "clue",
 
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -12433,7 +12433,7 @@
         "tibble",
         "withr",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -12576,7 +12576,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -12712,7 +12712,7 @@
         "magrittr",
         "stringi",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -12875,7 +12875,7 @@
         "rappdirs",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "httr",
         "futile.logger",
@@ -12966,7 +12966,7 @@
         "matrixStats",
         "rjson",
         "yaml",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -13178,7 +13178,7 @@
         "mgcv",
         "withr",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -13285,7 +13285,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -13459,7 +13459,7 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "rngtools",
@@ -13601,7 +13601,7 @@
         "RcppProgress",
         "BH",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -13747,7 +13747,7 @@
         "zlibbioc",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "scales",
@@ -13908,7 +13908,7 @@
         "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -14087,7 +14087,7 @@
         "plyr",
 
         "stringr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -14511,7 +14511,7 @@
         "ellipse",
 
         "Matrix",
-        "DBI",
+
         "httr",
         "IRanges",
         "RSQLite",
@@ -14771,7 +14771,7 @@
         "biglm",
 
 
-        "DBI",
+
         "lambda.r",
         "futile.options",
         "base64enc",
@@ -14868,7 +14868,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -15184,7 +15184,7 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "DBI",
+
         "XML",
         "xtable",
         "httr",
@@ -15238,7 +15238,7 @@
         "graph",
         "RCy3",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -15321,7 +15321,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -15410,7 +15410,7 @@
 
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -15617,7 +15617,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -15667,7 +15667,7 @@
         "graph",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -16098,7 +16098,7 @@
         "lubridate",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -16166,7 +16166,7 @@
         "graph",
         "RBGL",
         "annotate",
-        "DBI",
+
         "survival",
         "XML",
         "lattice",
@@ -16420,7 +16420,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -16883,7 +16883,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "modeltools",
         "tm",
         "IRanges",
@@ -17016,7 +17016,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -17367,7 +17367,7 @@
         "stringr",
         "GenomicRanges",
         "GenomeInfoDb",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -17569,7 +17569,7 @@
         "MatrixGenerics",
         "GenomeInfoDb",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "backports",
@@ -17872,7 +17872,7 @@
         "Biobase",
         "survival",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -18073,7 +18073,7 @@
         "lumi",
         "ROC",
         "XML",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "openssl",
@@ -18184,7 +18184,7 @@
     "ChemmineR": [
         "rjson",
         "RCurl",
-        "DBI",
+
 
         "BiocGenerics",
 
@@ -18430,7 +18430,7 @@
         "magick",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -18667,7 +18667,7 @@
         "S4Vectors",
         "stringr",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "readr",
@@ -18858,7 +18858,7 @@
         "viridisLite",
         "gridExtra",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -18937,7 +18937,7 @@
         "AnnotationDbi",
         "BiocGenerics",
         "Biostrings",
-        "DBI",
+
         "dplyr",
         "ensembldb",
         "GenomeInfoDb",
@@ -19089,7 +19089,7 @@
         "GenomeInfoDb",
         "Biostrings",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -19219,7 +19219,7 @@
         "S4Vectors",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "generics",
@@ -19499,7 +19499,7 @@
         "bigmemory.sri",
         "uuid",
 
-        "DBI",
+
         "oligo",
         "oligoClasses",
         "httr",
@@ -19598,7 +19598,7 @@
         "rtracklayer",
         "GenomicRanges",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -19672,7 +19672,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -19910,7 +19910,7 @@
         "stringi",
         "systemfonts",
         "callr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "sys",
@@ -20173,7 +20173,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -20270,7 +20270,7 @@
 
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -20391,7 +20391,7 @@
         "ellipsis",
         "purrr",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "graph",
@@ -20675,7 +20675,7 @@
         "RcppThread",
         "pixmap",
         "sp",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -21035,7 +21035,7 @@
         "mvtnorm",
 
         "BH",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -21297,7 +21297,7 @@
         "ROC",
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
         "plogr",
@@ -21533,7 +21533,7 @@
         "lazyeval",
         "tidyr",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "generics",
@@ -21610,7 +21610,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -21871,7 +21871,7 @@
         "ff",
         "oligoClasses",
         "snow",
-        "DBI",
+
         "affxparser",
         "oligo",
         "DNAcopy",
@@ -21944,7 +21944,7 @@
     ],
     "CNEr": [
         "Biostrings",
-        "DBI",
+
         "RSQLite",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -22248,7 +22248,7 @@
         "Biobase",
         "survival",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -22325,7 +22325,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -22554,7 +22554,7 @@
         "cachem",
         "ellipsis",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -22828,7 +22828,7 @@
         "Rhtslib",
         "MatrixGenerics",
         "SummarizedExperiment",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "rtracklayer",
@@ -22911,7 +22911,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -23057,7 +23057,7 @@
         "annotate",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -23325,7 +23325,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "RCurl",
@@ -23621,7 +23621,7 @@
         "RCurl",
         "BiocIO",
         "restfulr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -24075,7 +24075,7 @@
         "DT",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -24594,7 +24594,7 @@
         "SummarizedExperiment",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -24772,7 +24772,7 @@
 
         "bootstrap",
         "rmeta",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -24963,7 +24963,7 @@
         "pillar",
         "pkgconfig",
         "vctrs",
-        "DBI",
+
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -25084,7 +25084,7 @@
         "Rhtslib",
         "multtest",
 
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -25202,7 +25202,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -25712,7 +25712,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -25847,7 +25847,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -26012,7 +26012,7 @@
         "purrr",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -26125,7 +26125,7 @@
         "annotate",
         "survival",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -26180,7 +26180,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -26423,7 +26423,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -26585,7 +26585,7 @@
         "S4Vectors",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -26681,7 +26681,7 @@
 
         "S4Vectors",
         "RSQLite",
-        "DBI",
+
         "Matrix",
 
         "openssl",
@@ -26715,7 +26715,7 @@
         "BiocGenerics",
 
         "DT",
-        "DBI",
+
         "DESeq2",
         "data.table",
         "edgeR",
@@ -26927,7 +26927,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -27027,7 +27027,7 @@
         "Biostrings",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -27128,7 +27128,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -27339,7 +27339,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -27559,7 +27559,7 @@
         "stringr",
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
         "plogr",
@@ -27675,7 +27675,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "rjson",
         "RCurl",
@@ -27764,7 +27764,7 @@
         "AnnotationDbi",
         "biomaRt",
         "S4Vectors",
-        "DBI",
+
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools",
@@ -29050,7 +29050,7 @@
         "e1071",
         "laeken",
         "ranger",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -29247,7 +29247,7 @@
         "pixmap",
         "sp",
         "Biobase",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -29366,7 +29366,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "rtracklayer",
         "BSgenome",
         "RSQLite",
@@ -29531,7 +29531,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "matrixStats",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "R.methodsS3",
@@ -29719,7 +29719,7 @@
         "cluster",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -29997,7 +29997,7 @@
         "basilisk.utils",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -30284,7 +30284,7 @@
 
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -30590,7 +30590,7 @@
         "mitools",
         "nlme",
 
-        "DBI",
+
         "farver",
 
         "lifecycle",
@@ -30631,7 +30631,7 @@
         "quantmod",
         "dplyr",
         "readr",
-        "DBI",
+
         "magic",
 
         "linprog",
@@ -30751,7 +30751,7 @@
         "ashr",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -30915,7 +30915,7 @@
     "DECIPHER": [
         "Biostrings",
         "RSQLite",
-        "DBI",
+
         "S4Vectors",
         "IRanges",
         "XVector",
@@ -30964,7 +30964,7 @@
         "sp",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -31110,7 +31110,7 @@
         "tibble",
         "withr",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -31173,7 +31173,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "rtracklayer",
@@ -31726,7 +31726,7 @@
         "Matrix",
         "DelayedArray",
         "Rsamtools",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -31846,7 +31846,7 @@
         "matrixStats",
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -31912,7 +31912,7 @@
         "Biostrings",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -32176,7 +32176,7 @@
         "cli",
         "utf8",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -32371,7 +32371,7 @@
         "vctrs",
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -32812,7 +32812,7 @@
         "rtracklayer",
         "S4Vectors",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -32970,7 +32970,7 @@
         "rtracklayer",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -33124,7 +33124,7 @@
         "BH",
         "AnnotationDbi",
         "Biostrings",
-        "DBI",
+
         "dplyr",
         "ensembldb",
         "GenomicFeatures",
@@ -33256,7 +33256,7 @@
         "Matrix",
         "DelayedArray",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -33534,7 +33534,7 @@
         "pillar",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -33619,7 +33619,7 @@
 
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -33736,7 +33736,7 @@
         "ellipsis",
         "purrr",
         "XML",
-        "DBI",
+
         "xtable",
         "IRanges",
         "RSQLite",
@@ -33784,7 +33784,7 @@
         "statmod",
         "geneplotter",
         "genefilter",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -33887,7 +33887,7 @@
         "reticulate",
         "ggplot2",
         "RSQLite",
-        "DBI",
+
         "ape",
         "phangorn",
         "pracma",
@@ -34051,7 +34051,7 @@
         "pkgconfig",
         "ellipsis",
         "purrr",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -34116,7 +34116,7 @@
         "GO.db",
         "AnnotationDbi",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "iterators",
@@ -34519,7 +34519,7 @@
         "BiocIO",
         "restfulr",
         "zoo",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -34667,7 +34667,7 @@
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "ProtGenerics",
         "Biostrings",
         "curl",
@@ -35522,7 +35522,7 @@
         "stringr",
         "MatrixGenerics",
         "Matrix",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocVersion",
@@ -35682,7 +35682,7 @@
         "matrixStats",
         "GenomicAlignments",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -35888,7 +35888,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -36065,7 +36065,7 @@
         "GenomicRanges",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -36182,7 +36182,7 @@
         "lattice",
         "nlme",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -36373,7 +36373,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -36712,7 +36712,7 @@
         "GenomicRanges",
         "lazyeval",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -36816,7 +36816,7 @@
         "zlibbioc",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "httr",
         "oligo",
         "progress",
@@ -37221,7 +37221,7 @@
         "mixtools",
         "e1071",
         "XML",
-        "DBI",
+
         "xtable",
         "KEGGREST",
         "dbplyr",
@@ -37360,7 +37360,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -37510,7 +37510,7 @@
         "Matrix",
         "DelayedArray",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -37655,7 +37655,7 @@
         "GenomicFeatures",
         "GenomicRanges",
 
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -37788,7 +37788,7 @@
         "plyr",
         "stringr",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -37878,7 +37878,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "downloader",
@@ -38095,7 +38095,7 @@
         "DT",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -38236,7 +38236,7 @@
     ],
     "eiR": [
         "ChemmineR",
-        "DBI",
+
         "snow",
         "snowfall",
         "RUnit",
@@ -38383,7 +38383,7 @@
         "pillar",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -38660,7 +38660,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -38893,7 +38893,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -39020,7 +39020,7 @@
         "MatrixGenerics",
         "Matrix",
         "XML",
-        "DBI",
+
         "xtable",
         "KEGGREST",
         "openssl",
@@ -39177,7 +39177,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "dbplyr",
         "dplyr",
@@ -39291,7 +39291,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -39435,7 +39435,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -39569,7 +39569,7 @@
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -39673,7 +39673,7 @@
         "Matrix",
         "DelayedArray",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "AnnotationDbi",
         "rtracklayer",
@@ -39768,7 +39768,7 @@
         "Matrix",
         "DelayedArray",
         "Rsamtools",
-        "DBI",
+
         "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
@@ -40009,7 +40009,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -40252,7 +40252,7 @@
         "survival",
         "GO.db",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocParallel",
@@ -40483,7 +40483,7 @@
         "S4Vectors",
         "IRanges",
         "RSQLite",
-        "DBI",
+
         "Biostrings",
         "tRNAdbImport",
         "Biobase",
@@ -40602,7 +40602,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "rngtools",
@@ -40708,7 +40708,7 @@
 
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -40802,7 +40802,7 @@
         "BiocGenerics",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
@@ -40919,7 +40919,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -41073,7 +41073,7 @@
         "BiocParallel",
         "IRanges",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -41239,7 +41239,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -41303,7 +41303,7 @@
 
         "motifmatchr",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -41512,7 +41512,7 @@
         "lattice",
         "babelgene",
         "GenomicRanges",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -41580,7 +41580,7 @@
         "KernSmooth",
 
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -41799,7 +41799,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -41963,7 +41963,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -42137,7 +42137,7 @@
         "survival",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -42238,7 +42238,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "Biobase",
         "IRanges",
@@ -42309,7 +42309,7 @@
         "AnnotationHubData",
         "ExperimentHub",
 
-        "DBI",
+
         "httr",
         "curl",
         "IRanges",
@@ -42460,7 +42460,7 @@
 
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -42673,7 +42673,7 @@
         "scales",
         "withr",
 
-        "DBI",
+
         "httr",
         "jsonlite",
         "viridisLite",
@@ -42781,7 +42781,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "XVector",
@@ -42897,7 +42897,7 @@
 
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -43330,7 +43330,7 @@
         "stringi",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "MatrixGenerics",
@@ -43427,7 +43427,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -43724,7 +43724,7 @@
         "nleqslv",
         "KernSmooth",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
 
         "scales",
@@ -43873,7 +43873,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "httr",
@@ -44048,7 +44048,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -46039,7 +46039,7 @@
         "BiocGenerics",
         "rjson",
         "RCurl",
-        "DBI",
+
 
 
         "ggplot2",
@@ -46136,7 +46136,7 @@
         "ggrepel",
         "viridis",
         "graphlayouts",
-        "DBI",
+
         "RSQLite",
         "ff",
         "e1071",
@@ -46236,7 +46236,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "IRanges",
         "RSQLite",
         "S4Vectors",
@@ -46320,7 +46320,7 @@
 
 
         "RcppArmadillo",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "checkmate",
@@ -46582,7 +46582,7 @@
     "frma": [
         "Biobase",
 
-        "DBI",
+
         "affy",
         "oligo",
         "oligoClasses",
@@ -46630,7 +46630,7 @@
     "frmaTools": [
         "affy",
         "Biobase",
-        "DBI",
+
         "preprocessCore",
         "BiocGenerics",
         "affyio",
@@ -46809,7 +46809,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -46908,7 +46908,7 @@
         "MatrixGenerics",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "AnnotationDbi",
@@ -46985,7 +46985,7 @@
         "shinythemes",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "generics",
@@ -47103,7 +47103,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "httr",
@@ -47165,7 +47165,7 @@
         "matrixStats",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -47385,7 +47385,7 @@
         "pkgconfig",
         "vctrs",
         "futile.logger",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "R.methodsS3",
@@ -47739,7 +47739,7 @@
         "boot",
         "bit64",
         "blob",
-        "DBI",
+
         "pkgconfig",
 
         "plogr",
@@ -47915,7 +47915,7 @@
         "survMisc",
         "purrr",
         "ggtext",
-        "DBI",
+
         "RSQLite",
         "dbplyr",
         "filelock",
@@ -48157,7 +48157,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -48285,7 +48285,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -48383,7 +48383,7 @@
         "RBGL",
         "downloader",
         "AnnotationDbi",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -48436,7 +48436,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -48572,7 +48572,7 @@
         "Biobase",
         "survival",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -48643,7 +48643,7 @@
         "rmeta",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -48858,7 +48858,7 @@
         "annotate",
         "survival",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -48943,7 +48943,7 @@
         "AnnotationDbi",
         "RColorBrewer",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -49039,7 +49039,7 @@
         "BH",
         "GenomeInfoDb",
         "XVector",
-        "DBI",
+
         "RSQLite",
         "GWASExactHW",
         "DNAcopy",
@@ -49151,7 +49151,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -49311,7 +49311,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "Matrix",
@@ -49446,7 +49446,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -49847,7 +49847,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -49958,7 +49958,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -50106,7 +50106,7 @@
         "BiocIO",
         "restfulr",
         "stringi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -50236,7 +50236,7 @@
         "tibble",
         "withr",
         "rbibutils",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -50371,7 +50371,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "XVector",
         "crayon",
@@ -50452,7 +50452,7 @@
         "BiocGenerics",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -50644,7 +50644,7 @@
         "restfulr",
         "MatrixGenerics",
         "SummarizedExperiment",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "BSgenome",
@@ -50794,7 +50794,7 @@
         "biomaRt",
         "BiocGenerics",
         "Biostrings",
-        "DBI",
+
         "FField",
         "GenomicFeatures",
         "GenomicRanges",
@@ -51237,7 +51237,7 @@
         "limma",
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
 
@@ -51450,7 +51450,7 @@
         "AnnotationDbi",
         "Rhdf5lib",
         "rhdf5filters",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -51540,7 +51540,7 @@
         "lattice",
         "plyr",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -51728,7 +51728,7 @@
         "AnnotationDbi",
         "AnnotationFilter",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -52095,7 +52095,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -52349,7 +52349,7 @@
         "interp",
 
 
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -52449,7 +52449,7 @@
     ],
     "GladiaTOX": [
         "data.table",
-        "DBI",
+
         "RMySQL",
         "RSQLite",
         "numDeriv",
@@ -52555,7 +52555,7 @@
 
         "matrixStats",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -52702,7 +52702,7 @@
         "survMisc",
         "purrr",
         "ggtext",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -52801,7 +52801,7 @@
         "GSEABase",
 
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -52872,7 +52872,7 @@
         "AnnotationDbi",
         "annotate",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -52937,7 +52937,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -53024,7 +53024,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53177,7 +53177,7 @@
         "SummarizedExperiment",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -53379,7 +53379,7 @@
         "magrittr",
         "stringi",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53441,7 +53441,7 @@
         "AnnotationDbi",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53492,7 +53492,7 @@
         "BH",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "magrittr",
@@ -53571,7 +53571,7 @@
         "stringr",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53615,7 +53615,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53658,7 +53658,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53758,7 +53758,7 @@
 
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -53809,7 +53809,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -53879,7 +53879,7 @@
         "AnnotationForge",
         "Rgraphviz",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -54043,7 +54043,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -54155,7 +54155,7 @@
         "IRanges",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -54370,7 +54370,7 @@
         "munsell",
         "viridisLite",
         "classInt",
-        "DBI",
+
         "s2",
         "units",
         "lattice",
@@ -54457,7 +54457,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -54928,7 +54928,7 @@
         "graph",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -54980,7 +54980,7 @@
         "S4Vectors",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -55190,7 +55190,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -55267,7 +55267,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -55371,7 +55371,7 @@
         "boot",
         "gplots",
         "RColorBrewer",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -55448,7 +55448,7 @@
         "lattice",
         "GenomicRanges",
         "GenomeInfoDb",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -55528,7 +55528,7 @@
         "crayon",
         "rtracklayer",
         "AnnotationDbi",
-        "DBI",
+
         "ensembldb",
         "GenomicFeatures",
         "RBGL",
@@ -55658,7 +55658,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -55774,7 +55774,7 @@
         "GenomeInfoDb",
         "BiocGenerics",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -55981,7 +55981,7 @@
         "AnnotationHub",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -56089,7 +56089,7 @@
     "GWASTools": [
         "Biobase",
         "gdsfmt",
-        "DBI",
+
         "RSQLite",
         "GWASExactHW",
         "DNAcopy",
@@ -56164,7 +56164,7 @@
         "SNPRelate",
         "Biobase",
         "gdsfmt",
-        "DBI",
+
         "RSQLite",
         "GWASExactHW",
         "DNAcopy",
@@ -56350,7 +56350,7 @@
         "survival",
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "htmltools",
@@ -56429,7 +56429,7 @@
         "brew",
         "checkmate",
         "data.table",
-        "DBI",
+
 
         "RSQLite",
         "sendmailR",
@@ -56527,7 +56527,7 @@
 
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -56645,7 +56645,7 @@
         "GenomeInfoDbData",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -57011,7 +57011,7 @@
         "stringi",
         "MatrixGenerics",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -57165,7 +57165,7 @@
         "tibble",
         "withr",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -57291,7 +57291,7 @@
         "xfun",
         "jsonlite",
         "GenomeInfoDb",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -57803,7 +57803,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -57920,7 +57920,7 @@
         "Matrix",
         "DelayedArray",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -58445,7 +58445,7 @@
         "geneplotter",
         "RcppArmadillo",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -58560,7 +58560,7 @@
         "mgcv",
         "nleqslv",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
         "htmlwidgets",
         "htmltools",
@@ -58900,7 +58900,7 @@
         "base64enc",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -59102,7 +59102,7 @@
         "plotrix",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -59353,7 +59353,7 @@
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "BSgenome",
@@ -59586,7 +59586,7 @@
         "graph",
         "RBGL",
         "annotate",
-        "DBI",
+
 
         "survival",
 
@@ -59665,7 +59665,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -59859,7 +59859,7 @@
         "DelayedMatrixStats",
         "beachmat",
         "classInt",
-        "DBI",
+
         "s2",
         "units",
         "BiocFileCache",
@@ -59987,7 +59987,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "zlibbioc",
         "bit64",
@@ -60472,7 +60472,7 @@
         "plyranges",
         "readr",
         "RSQLite",
-        "DBI",
+
         "purrr",
         "GenomicFeatures",
         "ggplot2",
@@ -60618,7 +60618,7 @@
         "GenomeInfoDbData",
         "Biostrings",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -60869,7 +60869,7 @@
         "AnnotationFilter",
 
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -61122,7 +61122,7 @@
         "AnnotationDbi",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -61365,7 +61365,7 @@
         "RSpectra",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -61467,7 +61467,7 @@
         "GenomicFeatures",
         "IRanges",
         "seqinr",
-        "DBI",
+
         "RMySQL",
         "GenomicAlignments",
         "BiocParallel",
@@ -61607,7 +61607,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "MatrixGenerics",
         "Biobase",
@@ -61960,7 +61960,7 @@
         "Biostrings",
         "GenomicRanges",
         "RSQLite",
-        "DBI",
+
         "IRanges",
         "assertthat",
         "BiocGenerics",
@@ -62193,7 +62193,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -62734,7 +62734,7 @@
         "withr",
 
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -62885,7 +62885,7 @@
         "RColorBrewer",
         "rtracklayer",
         "VennDiagram",
-        "DBI",
+
         "GenomeInfoDb",
         "tximport",
         "tximeta",
@@ -63058,7 +63058,7 @@
         "preprocessCore",
         "zlibbioc",
         "XML",
-        "DBI",
+
         "httr",
         "IRanges",
         "RSQLite",
@@ -63121,7 +63121,7 @@
         "S4Vectors",
         "tidyr",
         "tibble",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -63241,7 +63241,7 @@
         "oligo",
         "affxparser",
         "pd.mapping50k.xba240",
-        "DBI",
+
         "oligoClasses",
         "aws",
         "BiocGenerics",
@@ -63381,7 +63381,7 @@
         "ggfortify",
         "Matrix",
         "BiocParallel",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -63720,7 +63720,7 @@
         "VariantAnnotation",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -63900,7 +63900,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "curl",
@@ -63942,7 +63942,7 @@
         "graph",
         "hgu95av2.db",
         "AnnotationDbi",
-        "DBI",
+
         "BiocGenerics",
         "Biobase",
         "IRanges",
@@ -64013,7 +64013,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "lambda.r",
         "futile.options",
@@ -64105,7 +64105,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -64269,7 +64269,7 @@
 
         "pillar",
         "pkgconfig",
-        "DBI",
+
         "xtable",
         "IRanges",
         "RSQLite",
@@ -64363,7 +64363,7 @@
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "rtracklayer",
@@ -65061,7 +65061,7 @@
         "magrittr",
         "AnnotationDbi",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -65199,7 +65199,7 @@
         "munsell",
         "viridisLite",
         "classInt",
-        "DBI",
+
         "s2",
         "units",
         "pkgconfig",
@@ -65534,7 +65534,7 @@
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "BiocGenerics",
         "IRanges",
@@ -65612,7 +65612,7 @@
 
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -65688,7 +65688,7 @@
         "KernSmooth",
         "preprocessCore",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
 
         "BiocGenerics",
@@ -66105,7 +66105,7 @@
         "httr",
         "yaml",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "ggplot2",
         "lattice",
@@ -66240,7 +66240,7 @@
         "cplm",
         "pscl",
         "lme4",
-        "DBI",
+
         "carData",
         "abind",
         "mgcv",
@@ -66355,7 +66355,7 @@
         "annotate",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -66608,7 +66608,7 @@
         "withr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -66735,7 +66735,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "GenomicFeatures",
         "ape",
@@ -66912,7 +66912,7 @@
         "Biostrings",
 
         "RSQLite",
-        "DBI",
+
         "farver",
 
         "lifecycle",
@@ -67043,7 +67043,7 @@
 
         "stringr",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -67195,7 +67195,7 @@
         "glue",
         "assertthat",
         "blob",
-        "DBI",
+
         "lifecycle",
         "R6",
         "tidyselect",
@@ -67516,7 +67516,7 @@
         "reactome.db",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -67583,7 +67583,7 @@
         "preprocessCore",
         "zlibbioc",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -67826,7 +67826,7 @@
         "zlibbioc",
         "BiocIO",
         "restfulr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "progress",
@@ -68188,7 +68188,7 @@
         "DirichletMultinomial",
         "GenomicRanges",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "rtracklayer",
         "seqLogo",
@@ -68293,7 +68293,7 @@
         "ProtGenerics",
 
         "irlba",
-        "DBI",
+
         "futile.logger",
         "snow",
         "BH",
@@ -68420,7 +68420,7 @@
         "Biobase",
         "BiocGenerics",
         "gdsfmt",
-        "DBI",
+
         "RSQLite",
         "GWASExactHW",
         "DNAcopy",
@@ -68520,7 +68520,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -68623,7 +68623,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -68765,7 +68765,7 @@
         "BH",
         "BiocGenerics",
         "GenomeInfoDb",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -69034,7 +69034,7 @@
         "MatrixGenerics",
         "Matrix",
         "cluster",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -69251,7 +69251,7 @@
         "nleqslv",
         "KernSmooth",
         "RSQLite",
-        "DBI",
+
         "scales",
         "reshape2",
         "ggplot2",
@@ -69388,7 +69388,7 @@
         "BiocIO",
         "restfulr",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -69879,7 +69879,7 @@
         "Biobase",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "S4Vectors",
         "KEGGREST",
         "bit64",
@@ -69924,7 +69924,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -70077,7 +70077,7 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "DBI",
+
         "evaluate",
         "highr",
         "stringr",
@@ -70152,7 +70152,7 @@
         "S4Vectors",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "nlme",
@@ -70558,7 +70558,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "XML",
@@ -70945,7 +70945,7 @@
         "BiocGenerics",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "S4Vectors",
@@ -71445,7 +71445,7 @@
         "survival",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "BiocIO",
         "gtools",
         "caTools",
@@ -71652,7 +71652,7 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "rtracklayer",
         "Rsamtools",
         "ProtGenerics",
@@ -72155,7 +72155,7 @@
         "viridisLite",
         "bit64",
         "zlibbioc",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -72430,7 +72430,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "openssl",
@@ -72549,7 +72549,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -72758,7 +72758,7 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "yaml",
-        "DBI",
+
         "filelock",
         "futile.logger",
         "snow",
@@ -72925,7 +72925,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -73455,7 +73455,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -73587,7 +73587,7 @@
         "illuminaio",
         "GenomicFeatures",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -73721,7 +73721,7 @@
         "ChemmineR",
         "rjson",
         "RCurl",
-        "DBI",
+
 
         "BiocGenerics",
 
@@ -73988,7 +73988,7 @@
         "annotate",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -74032,7 +74032,7 @@
         "AnnotationDbi",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -74135,7 +74135,7 @@
         "GenomeInfoDb",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "ggplot2",
         "reshape2",
         "Matrix",
@@ -74319,7 +74319,7 @@
         "XVector",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "reshape2",
         "matrixStats",
         "sparseMatrixStats",
@@ -74687,7 +74687,7 @@
         "progress",
         "callr",
         "XML",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "bit",
@@ -74882,7 +74882,7 @@
         "zlibbioc",
         "NADA",
         "truncnorm",
-        "DBI",
+
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -75008,7 +75008,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -75327,7 +75327,7 @@
         "Rgraphviz",
         "vegan",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -75497,7 +75497,7 @@
         "S4Vectors",
         "preprocessCore",
         "scales",
-        "DBI",
+
         "affy",
         "affyPLM",
         "oligo",
@@ -75681,7 +75681,7 @@
         "RcppEigen",
         "magrittr",
         "stringi",
-        "DBI",
+
         "knitr",
         "checkmate",
         "htmlwidgets",
@@ -75740,7 +75740,7 @@
         "fpc",
         "lumiHumanAll.db",
         "XML",
-        "DBI",
+
         "httr",
         "IRanges",
         "RSQLite",
@@ -75981,7 +75981,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -76077,7 +76077,7 @@
         "affyio",
 
         "RSQLite",
-        "DBI",
+
         "Matrix",
         "DelayedArray",
         "crlmm",
@@ -76272,7 +76272,7 @@
         "AnnotationDbi",
 
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "httr",
@@ -76323,7 +76323,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -76411,7 +76411,7 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "DBI",
+
         "amap",
         "generics",
         "glue",
@@ -76582,7 +76582,7 @@
     ],
     "miRNAmeConverter": [
         "miRBaseVersions.db",
-        "DBI",
+
         "AnnotationDbi",
         "reshape2",
         "BiocGenerics",
@@ -76630,7 +76630,7 @@
 
     "miRNAtap": [
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "stringr",
         "sqldf",
@@ -76780,7 +76780,7 @@
         "GO.db",
         "pixmap",
         "sp",
-        "DBI",
+
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -76958,7 +76958,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -77112,7 +77112,7 @@
         "statmod",
         "stringr",
         "SummarizedExperiment",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "GenomeInfoDb",
@@ -77541,7 +77541,7 @@
         "pkgconfig",
         "vctrs",
         "Rsamtools",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -77678,7 +77678,7 @@
         "magrittr",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "mclust",
@@ -77765,7 +77765,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -77909,7 +77909,7 @@
         "diffobj",
         "rematch2",
         "XML",
-        "DBI",
+
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -77994,7 +77994,7 @@
         "purrr",
 
         "MatrixGenerics",
-        "DBI",
+
         "AnnotationDbi",
         "Matrix",
         "RSQLite",
@@ -78191,7 +78191,7 @@
         "ellipsis",
         "purrr",
 
-        "DBI",
+
         "carData",
         "abind",
         "nnet",
@@ -78385,7 +78385,7 @@
         "AnnotationDbi",
         "SparseM",
         "lattice",
-        "DBI",
+
         "viridisLite",
         "gridExtra",
         "RSQLite",
@@ -78462,7 +78462,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -78716,7 +78716,7 @@
         "httr",
         "rappdirs",
         "XML",
-        "DBI",
+
         "xtable",
         "IRanges",
         "RSQLite",
@@ -78888,7 +78888,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -79114,7 +79114,7 @@
         "rvest",
         "TCGAbiolinksGUI.data",
         "purrr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -79404,7 +79404,7 @@
         "Matrix",
         "DelayedArray",
 
-        "DBI",
+
         "Rhtslib",
 
         "pixmap",
@@ -79579,7 +79579,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -79770,7 +79770,7 @@
         "purrr",
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -80010,7 +80010,7 @@
         "IRanges",
         "ProtGenerics",
         "MsCoreUtils",
-        "DBI",
+
         "futile.logger",
         "snow",
         "BH",
@@ -80133,7 +80133,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "gridExtra",
@@ -80652,7 +80652,7 @@
         "AnnotationDbi",
         "xtable",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -80899,7 +80899,7 @@
         "cachem",
         "lmtest",
         "XML",
-        "DBI",
+
         "httr",
         "RSQLite",
         "KEGGREST",
@@ -80970,7 +80970,7 @@
         "reshape2",
         "fastcluster",
         "ggplot2",
-        "DBI",
+
         "RSQLite",
         "uuid",
         "jsonlite",
@@ -81299,7 +81299,7 @@
 
         "assertthat",
         "blob",
-        "DBI",
+
         "viridis",
         "car",
         "DT",
@@ -82168,7 +82168,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -82362,7 +82362,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -82563,7 +82563,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -82766,7 +82766,7 @@
         "cachem",
         "ellipsis",
         "stringi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "ggfun",
@@ -83024,7 +83024,7 @@
         "stringi",
         "MatrixGenerics",
         "SummarizedExperiment",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -83205,7 +83205,7 @@
         "plyr",
         "stringr",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -83351,7 +83351,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -83584,7 +83584,7 @@
 
         "MatrixGenerics",
         "SummarizedExperiment",
-        "DBI",
+
         "zlibbioc",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -83787,7 +83787,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -83943,7 +83943,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "XVector",
@@ -84119,7 +84119,7 @@
         "InteractionSet",
         "graph",
         "rhdf5",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -84302,7 +84302,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "Matrix",
         "DelayedArray",
@@ -84473,7 +84473,7 @@
 
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -84569,7 +84569,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -84762,7 +84762,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -85192,7 +85192,7 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -85543,7 +85543,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -85662,7 +85662,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -85785,7 +85785,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "iterators",
@@ -85920,7 +85920,7 @@
         "minqa",
         "numDeriv",
         "mitools",
-        "DBI"
+
     ],
     "netOmics": [
         "dplyr",
@@ -85938,7 +85938,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -86151,7 +86151,7 @@
         "survival",
         "GO.db",
         "R2HTML",
-        "DBI",
+
         "BiocGenerics",
         "Biobase",
         "IRanges",
@@ -86392,7 +86392,7 @@
         "pkgconfig",
         "vctrs",
         "zlibbioc",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "generics",
@@ -86709,7 +86709,7 @@
 
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "tidyr",
         "S4Vectors",
         "SummarizedExperiment",
@@ -87134,7 +87134,7 @@
         "graph",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -87379,7 +87379,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "futile.logger",
         "snow",
@@ -87512,7 +87512,7 @@
         "tibble",
         "dbplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -87728,7 +87728,7 @@
         "Biostrings",
         "affyio",
         "affxparser",
-        "DBI",
+
         "ff",
         "preprocessCore",
         "RSQLite",
@@ -87778,7 +87778,7 @@
 
         "S4Vectors",
         "RSQLite",
-        "DBI",
+
         "ff",
         "zlibbioc",
         "XVector",
@@ -87851,7 +87851,7 @@
         "AnnotationDbi",
         "SparseM",
         "matrixStats",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "RCurl",
@@ -88133,7 +88133,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -88399,7 +88399,7 @@
         "modeltools",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "biomaRt",
         "ggsci",
@@ -88688,7 +88688,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -88980,7 +88980,7 @@
         "AnnotationHub",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -89200,7 +89200,7 @@
         "GenomeInfoDb",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "startupmsg",
 
         "generics",
@@ -89346,7 +89346,7 @@
         "memoise",
         "lazyeval",
         "RSQLite",
-        "DBI",
+
         "startupmsg",
 
         "generics",
@@ -89560,7 +89560,7 @@
 
 
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -89625,7 +89625,7 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -89993,7 +89993,7 @@
         "S4Vectors",
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -90110,7 +90110,7 @@
         "AnnotationDbi",
 
         "BiocFileCache",
-        "DBI",
+
         "dbplyr",
         "tibble",
         "BiocGenerics",
@@ -90199,7 +90199,7 @@
         "graph",
         "IRanges",
         "RBGL",
-        "DBI",
+
         "S4Vectors",
         "RSQLite",
         "KEGGREST",
@@ -90551,7 +90551,7 @@
         "geneplotter",
         "GenomeInfoDb",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -90728,7 +90728,7 @@
 
         "nlme",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -90920,7 +90920,7 @@
         "nlme",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "rngtools",
@@ -90997,7 +90997,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -91327,7 +91327,7 @@
         "brew",
         "checkmate",
         "data.table",
-        "DBI",
+
 
         "RSQLite",
         "sendmailR",
@@ -91621,7 +91621,7 @@
         "gh",
         "rappdirs",
         "rstudioapi",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -91657,7 +91657,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -91739,7 +91739,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "RCurl",
@@ -91859,7 +91859,7 @@
         "tidyr",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -92270,7 +92270,7 @@
         "km.ci",
 
         "lmtest",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -92346,7 +92346,7 @@
         "oligo",
         "Biostrings",
         "BiocGenerics",
-        "DBI",
+
         "IRanges",
         "oligoClasses",
         "S4Vectors",
@@ -92608,7 +92608,7 @@
         "survival",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -93036,7 +93036,7 @@
 
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -93141,7 +93141,7 @@
         "curl",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -93707,7 +93707,7 @@
         "hgu133a.db",
         "ellipse",
         "XML",
-        "DBI",
+
         "BiocGenerics",
         "httr",
         "IRanges",
@@ -94222,7 +94222,7 @@
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "xfun",
         "tinytex",
@@ -94604,7 +94604,7 @@
         "ReactomePA",
         "ggplot2",
         "openxlsx",
-        "DBI",
+
         "bookdown",
         "knitr",
         "rmarkdown",
@@ -94788,7 +94788,7 @@
         "latticeExtra",
         "GenomicAlignments",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -95203,7 +95203,7 @@
         "purrr"
     ],
     "plethy": [
-        "DBI",
+
         "RSQLite",
         "BiocGenerics",
         "S4Vectors",
@@ -95292,7 +95292,7 @@
         "stringi",
         "zip",
         "XML",
-        "DBI",
+
         "BiocGenerics",
         "IRanges",
         "RSQLite",
@@ -95870,7 +95870,7 @@
         "ellipsis",
         "lifecycle",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -96120,7 +96120,7 @@
 
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -96383,7 +96383,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -96452,7 +96452,7 @@
         "GSEABase",
         "genefilter",
         "annotate",
-        "DBI",
+
         "XML",
         "xtable",
         "httr",
@@ -96705,7 +96705,7 @@
 
         "preprocessCore",
         "zlibbioc",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -96892,7 +96892,7 @@
         "lifecycle",
         "stringi",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -96947,7 +96947,7 @@
         "annotate",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -97088,7 +97088,7 @@
         "CNEr",
         "DirichletMultinomial",
         "gtools",
-        "DBI",
+
         "RSQLite",
         "seqLogo",
         "TFMPvalue",
@@ -97343,7 +97343,7 @@
         "tibble",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -97446,7 +97446,7 @@
         "rtracklayer",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -97593,7 +97593,7 @@
         "GO.db",
         "AnnotationDbi",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -97891,7 +97891,7 @@
         "locfit",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "Biostrings",
@@ -98245,7 +98245,7 @@
 
         "preprocessCore",
         "zlibbioc",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -98497,7 +98497,7 @@
         "pkgconfig",
         "purrr",
         "limma",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -98561,7 +98561,7 @@
         "graph",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -98633,7 +98633,7 @@
         "magrittr",
         "stringi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -98795,7 +98795,7 @@
         "callr",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -99031,7 +99031,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "rtracklayer",
@@ -99125,7 +99125,7 @@
         "biocViews",
         "BiocCheck",
         "graph",
-        "DBI",
+
         "OrganismDbi",
         "AnnotationForge",
         "futile.logger",
@@ -99282,7 +99282,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -99382,7 +99382,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -99564,7 +99564,7 @@
 
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -99653,7 +99653,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "IRanges",
         "S4Vectors",
         "KEGGREST",
@@ -100005,7 +100005,7 @@
         "zlibbioc",
         "Biostrings",
         "affxparser",
-        "DBI",
+
         "ff",
         "RSQLite",
         "IRanges",
@@ -100070,7 +100070,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -100255,7 +100255,7 @@
         "latticeExtra",
         "matrixStats",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -100389,7 +100389,7 @@
         "GenomicRanges",
         "graph",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -100538,7 +100538,7 @@
         "anytime",
         "sass",
         "XML",
-        "DBI",
+
         "httr",
         "IRanges",
         "RSQLite",
@@ -100807,7 +100807,7 @@
 
         "Rgraphviz",
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -101035,7 +101035,7 @@
         "R6",
         "waldo",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -101241,7 +101241,7 @@
         "nlme",
         "viridisLite",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -101468,7 +101468,7 @@
         "pkgconfig",
         "vctrs",
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -101589,7 +101589,7 @@
         "GenomicFiles",
         "AnnotationDbi",
         "Rhtslib",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -101849,7 +101849,7 @@
 
         "plyr",
         "stringr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -101968,7 +101968,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "futile.logger",
         "snow",
@@ -102062,7 +102062,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "GenomicFeatures",
         "RSQLite",
         "KEGGREST",
@@ -102386,7 +102386,7 @@
 
         "Rhtslib",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -102525,7 +102525,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -102877,7 +102877,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "BiocIO",
         "biomaRt",
         "Biobase",
@@ -103064,7 +103064,7 @@
 
         "preprocessCore",
         "zlibbioc",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -103214,7 +103214,7 @@
         "DelayedArray",
 
         "pkgconfig",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -103360,7 +103360,7 @@
         "XVector",
         "GenomeInfoDb",
         "crayon",
-        "DBI",
+
 
 
         "ggplot2",
@@ -103602,7 +103602,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "jsonlite",
@@ -103950,7 +103950,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -104280,7 +104280,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "crayon",
@@ -104400,7 +104400,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -104480,7 +104480,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -104644,7 +104644,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "BiocParallel",
-        "DBI",
+
         "BiocIO",
         "Biobase",
         "glue",
@@ -104733,7 +104733,7 @@
         "AnnotationDbi",
         "IRanges",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -104928,7 +104928,7 @@
         "preprocessCore",
         "survival",
         "GO.db",
-        "DBI",
+
         "RSQLite",
         "iterators",
         "codetools",
@@ -105099,7 +105099,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -105240,7 +105240,7 @@
         "AnnotationDbi",
         "AnnotationHub",
         "Biostrings",
-        "DBI",
+
         "GenomicRanges",
         "Gviz",
         "IRanges",
@@ -105492,7 +105492,7 @@
         "BiocIO",
         "restfulr",
         "MatrixGenerics",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -105658,7 +105658,7 @@
         "affyio",
 
         "preprocessCore",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -105724,7 +105724,7 @@
         "ggplot2",
         "ggbio",
         "IRanges",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -105895,7 +105895,7 @@
         "BiocParallel",
         "Rhtslib",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -105989,7 +105989,7 @@
         "Biobase",
         "reshape2",
         "AnnotationDbi",
-        "DBI",
+
         "GO.db",
         "rhdf5client",
         "dplyr",
@@ -106450,7 +106450,7 @@
         "stringi",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -106620,7 +106620,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -106762,7 +106762,7 @@
         "IRanges",
         "GenomeInfoDb",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -106880,7 +106880,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "rtracklayer",
@@ -107012,7 +107012,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -107151,7 +107151,7 @@
         "SummarizedExperiment",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -107377,7 +107377,7 @@
         "ggrepel",
         "cluster",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "crayon",
@@ -107487,7 +107487,7 @@
     "RImmPort": [
         "plyr",
         "dplyr",
-        "DBI",
+
         "data.table",
         "reshape2",
         "sqldf",
@@ -107541,7 +107541,7 @@
         "preprocessCore",
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -107645,7 +107645,7 @@
         "restfulr",
         "magrittr",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "Rhtslib",
@@ -107878,7 +107878,7 @@
         "expm",
         "plyr",
 
-        "DBI",
+
 
         "BiocGenerics",
 
@@ -108101,7 +108101,7 @@
         "pillar",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -108386,7 +108386,7 @@
         "Rsamtools",
         "xtable",
         "GenomicFeatures",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -108561,7 +108561,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -108793,7 +108793,7 @@
 
         "Matrix",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "rngtools",
@@ -108917,7 +108917,7 @@
         "interp",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -109015,7 +109015,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -109161,7 +109161,7 @@
         "ggplot2",
         "reshape2",
         "ROCR",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -109311,7 +109311,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -109454,7 +109454,7 @@
         "ggplot2",
         "reshape2",
         "ROCR",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -109727,7 +109727,7 @@
         "htmlwidgets",
         "remotes",
         "GenomicFeatures",
-        "DBI",
+
         "RSQLite",
         "futile.logger",
         "snow",
@@ -109888,7 +109888,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "dbplyr",
@@ -109984,7 +109984,7 @@
         "GenomicFeatures",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -110435,7 +110435,7 @@
         "RBGL",
         "hypergraph",
         "AnnotationDbi",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -110483,7 +110483,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "httr",
@@ -110596,7 +110596,7 @@
         "hwriter",
         "lattice",
         "latticeExtra",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -110882,7 +110882,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -111252,7 +111252,7 @@
         "MultiAssayExperiment",
         "rvest",
 
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -111819,7 +111819,7 @@
     "rTRM": [
         "igraph",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocGenerics",
         "Biobase",
@@ -111875,7 +111875,7 @@
         "splitstackshape",
         "AnnotationDbi",
         "igraph",
-        "DBI",
+
         "RSQLite",
         "httpuv",
         "mime",
@@ -112075,7 +112075,7 @@
         "limma",
         "locfit",
 
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -112235,7 +112235,7 @@
         "SparseM",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -112302,7 +112302,7 @@
         "AnnotationDbi",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -112420,7 +112420,7 @@
         "GenomeInfoDb",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "htmltools",
         "htmlwidgets",
         "jsonlite",
@@ -112682,7 +112682,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "htmltools",
@@ -113062,7 +113062,7 @@
         "limma",
         "oligoClasses",
         "affxparser",
-        "DBI",
+
         "ff",
         "RSQLite",
         "mgcv",
@@ -113217,7 +113217,7 @@
         "waiter",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "lazyeval",
@@ -113422,7 +113422,7 @@
         "Biobase",
         "IRanges",
         "GenomeInfoDb",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -113631,7 +113631,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "lambda.r",
         "futile.options",
@@ -113948,7 +113948,7 @@
 
         "dqrng",
         "XML",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "sass",
@@ -114423,7 +114423,7 @@
         "cli",
 
         "gridExtra",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -115078,7 +115078,7 @@
         "viridisLite",
         "pkgconfig",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -115251,7 +115251,7 @@
         "sp",
         "rgeos",
         "classInt",
-        "DBI",
+
         "s2",
         "units",
         "spatstat.data",
@@ -115751,7 +115751,7 @@
         "plyr",
         "bslib",
         "tinytex",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -115972,7 +115972,7 @@
 
         "RcppEigen",
         "nlme",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -116211,7 +116211,7 @@
         "Biobase",
         "DelayedArray",
         "Rsamtools",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -116452,7 +116452,7 @@
         "testthat",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -116822,7 +116822,7 @@
         "Rsubread",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -117049,7 +117049,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "BiocFileCache",
         "BiocVersion",
@@ -117364,7 +117364,7 @@
         "GenomeInfoDb",
 
         "pillar",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -117616,7 +117616,7 @@
         "sitmo",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "rtracklayer",
         "Rsamtools",
         "ProtGenerics",
@@ -117907,7 +117907,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "shape",
@@ -118105,7 +118105,7 @@
         "tibble",
         "withr",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -118208,7 +118208,7 @@
         "annotate",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -118286,7 +118286,7 @@
         "GO.db",
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -118454,7 +118454,7 @@
         "ellipsis",
         "purrr",
 
-        "DBI",
+
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -118628,7 +118628,7 @@
         "RcppArmadillo",
         "foreach",
         "iterators",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -118865,7 +118865,7 @@
         "interactiveDisplayBase",
         "httr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "sass",
         "cachem",
@@ -119091,7 +119091,7 @@
         "R6",
         "viridisLite",
         "zlibbioc",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -119216,7 +119216,7 @@
         "jsonlite",
         "curl",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -119348,7 +119348,7 @@
         "igraph",
         "rtracklayer",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XVector",
@@ -119594,7 +119594,7 @@
         "stringi",
         "pkgconfig",
         "callr",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "processx",
@@ -119715,7 +119715,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "openssl",
@@ -119969,7 +119969,7 @@
         "Matrix",
         "AnnotationDbi",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "mclust",
@@ -120224,7 +120224,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "S4Vectors",
         "KEGGREST",
         "futile.logger",
@@ -120406,7 +120406,7 @@
         "MatrixGenerics",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "AnnotationDbi",
         "rtracklayer",
@@ -120531,7 +120531,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "GenomicFeatures",
         "Rhtslib",
@@ -120616,7 +120616,7 @@
         "MatrixModels",
 
         "XML",
-        "DBI",
+
         "xtable",
         "BiocGenerics",
         "httr",
@@ -120718,7 +120718,7 @@
         "preprocessCore",
         "zlibbioc",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -120856,7 +120856,7 @@
         "cluster",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -121141,7 +121141,7 @@
 
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "nlme",
@@ -121445,7 +121445,7 @@
         "GenomicFiles",
         "AnnotationDbi",
         "Rhtslib",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -121619,7 +121619,7 @@
         "lifecycle",
         "tidyselect",
 
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -121699,7 +121699,7 @@
         "BiocSingular",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -121787,7 +121787,7 @@
         "crayon",
         "RCurl",
         "GenomeInfoDbData",
-        "DBI",
+
         "BiocIO",
         "zlibbioc",
 
@@ -121956,7 +121956,7 @@
         "ROC",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -122103,7 +122103,7 @@
         "MatrixGenerics",
         "IRanges",
         "GenomeInfoDb",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -122156,7 +122156,7 @@
         "GO.db",
         "BiocGenerics",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -122324,7 +122324,7 @@
         "S4Vectors",
         "geneLenDataBase",
         "BiocGenerics",
-        "DBI",
+
         "RSQLite",
         "graph",
         "RBGL",
@@ -122480,7 +122480,7 @@
         "lattice",
         "ggplot2",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -122693,7 +122693,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -122992,7 +122992,7 @@
 
         "plyr",
         "MatrixGenerics",
-        "DBI",
+
         "zlibbioc",
         "Rhtslib",
         "RSQLite",
@@ -123385,7 +123385,7 @@
         "purrr",
         "promises",
         "gridExtra",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "cluster",
@@ -123716,7 +123716,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -123910,7 +123910,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -124022,7 +124022,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -124202,7 +124202,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -124345,7 +124345,7 @@
         "xfun"
     ],
     "specL": [
-        "DBI",
+
         "protViz",
         "RSQLite",
         "seqinr",
@@ -124607,7 +124607,7 @@
         "munsell",
         "viridisLite",
         "classInt",
-        "DBI",
+
         "s2",
         "units",
         "pkgconfig",
@@ -124652,7 +124652,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -124998,7 +124998,7 @@
         "SummarizedExperiment",
         "Biostrings",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -125089,7 +125089,7 @@
         "Matrix",
         "pkgconfig",
 
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -125158,7 +125158,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "BiocParallel",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "rtracklayer",
@@ -125404,7 +125404,7 @@
         "pixmap",
         "sp",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "nlme",
@@ -125480,7 +125480,7 @@
         "dplyr",
         "dbplyr",
         "S4Vectors",
-        "DBI",
+
         "lazyeval",
         "BiocGenerics",
         "RSQLite",
@@ -125607,7 +125607,7 @@
 
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
 
@@ -125707,7 +125707,7 @@
         "GenomeInfoDbData",
         "Biostrings",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -126129,7 +126129,7 @@
         "GenomicAlignments",
 
         "truncnorm",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "XML",
@@ -126256,7 +126256,7 @@
         "graph",
         "RBGL",
         "annotate",
-        "DBI",
+
         "survival",
         "XML",
         "lattice",
@@ -126334,7 +126334,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -126631,7 +126631,7 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -126721,7 +126721,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "lattice",
         "bit64",
@@ -126911,7 +126911,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -126987,7 +126987,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -127456,7 +127456,7 @@
         "pixmap",
         "sp",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -127673,7 +127673,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -127745,7 +127745,7 @@
         "nlme",
         "Matrix",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -127814,7 +127814,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -127906,7 +127906,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -127996,7 +127996,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -128258,7 +128258,7 @@
         "nlme",
         "assertthat",
         "blob",
-        "DBI",
+
         "spam",
         "viridis",
         "operator.tools",
@@ -128343,7 +128343,7 @@
         "GenomeInfoDb",
         "crayon",
         "RSQLite",
-        "DBI",
+
         "RCurl",
         "GenomeInfoDbData",
         "bit64",
@@ -128601,7 +128601,7 @@
         "data.table",
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
 
@@ -128755,7 +128755,7 @@
         "munsell",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -129010,7 +129010,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -129443,7 +129443,7 @@
         "ellipsis",
         "tidyselect",
 
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -129515,7 +129515,7 @@
         "Matrix",
         "DelayedArray",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -129633,7 +129633,7 @@
 
         "pkgconfig",
         "ellipsis",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -129802,7 +129802,7 @@
         "BiocGenerics",
         "knitr",
         "R.utils",
-        "DBI",
+
         "RSQLite",
         "futile.logger",
         "snow",
@@ -129976,7 +129976,7 @@
         "SummarizedExperiment",
 
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "RCurl",
@@ -130147,7 +130147,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -130354,7 +130354,7 @@
         "GenomicRanges",
         "gtools",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "rtracklayer",
         "seqLogo",
@@ -130484,7 +130484,7 @@
         "BiocGenerics",
         "S4Vectors",
         "GenomeInfoDb",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -130576,7 +130576,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -130872,7 +130872,7 @@
         "AnnotationDbi",
         "gplots",
         "annotate",
-        "DBI",
+
         "RSQLite",
         "XML",
         "xtable",
@@ -130953,7 +130953,7 @@
         "lattice",
         "ggplot2",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -131197,7 +131197,7 @@
 
         "munsell",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -131318,7 +131318,7 @@
         "viridisLite",
         "stringi",
         "ellipsis",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "backports",
@@ -131444,7 +131444,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -131570,7 +131570,7 @@
         "ellipsis",
         "purrr",
 
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -131639,7 +131639,7 @@
         "MatrixGenerics",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "Biostrings",
@@ -131747,7 +131747,7 @@
         "viridisLite",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "Biostrings",
@@ -131939,7 +131939,7 @@
 
         "pkgconfig",
 
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -132302,7 +132302,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "IRanges",
         "RSQLite",
         "S4Vectors",
@@ -132654,7 +132654,7 @@
         "graph",
         "rhdf5",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "RCurl",
@@ -132961,7 +132961,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "IRanges",
         "RSQLite",
         "S4Vectors",
@@ -133037,7 +133037,7 @@
         "Biostrings",
         "BiocParallel",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "XVector",
         "BiocIO",
@@ -133268,7 +133268,7 @@
         "SparseM",
         "lattice",
         "matrixStats",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -133923,7 +133923,7 @@
         "vbsr",
         "xgboost",
         "RPostgreSQL",
-        "DBI",
+
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -134154,7 +134154,7 @@
         "AnnotationDbi",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "GenomeInfoDb",
@@ -134246,7 +134246,7 @@
         "SummarizedExperiment",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "boot",
@@ -134369,7 +134369,7 @@
         "plyr",
         "stringr",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -134983,7 +134983,7 @@
         "Biobase",
         "Matrix",
         "DelayedArray",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -135234,7 +135234,7 @@
         "crayon",
         "GenomicFeatures",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "rtracklayer",
@@ -135441,7 +135441,7 @@
         "rtracklayer",
         "BiocParallel",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -135537,7 +135537,7 @@
         "Matrix",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -135664,7 +135664,7 @@
         "yaml",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -135810,7 +135810,7 @@
         "AnnotationDbi",
         "XML",
         "Biobase",
-        "DBI",
+
         "xtable",
         "httr",
         "dbplyr",
@@ -135949,7 +135949,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "filelock",
         "curl",
         "httr",
@@ -136129,7 +136129,7 @@
         "rappdirs",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "S4Vectors",
         "KEGGREST",
         "dbplyr",
@@ -136200,7 +136200,7 @@
         "MatrixGenerics",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "Biostrings",
@@ -136624,7 +136624,7 @@
         "Biostrings",
 
         "RSQLite",
-        "DBI",
+
         "Matrix",
         "DelayedArray",
         "zlibbioc",
@@ -136857,7 +136857,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biobase",
         "S4Vectors",
@@ -137036,7 +137036,7 @@
         "DT",
         "shinyTree",
         "XVector",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "futile.logger",
@@ -137199,7 +137199,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocIO",
         "biomaRt",
@@ -137316,7 +137316,7 @@
         "genefilter",
         "edgeR",
         "lattice",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -137391,7 +137391,7 @@
         "zlibbioc",
 
         "Rhtslib",
-        "DBI",
+
         "Biobase",
         "AnnotationDbi",
         "BSgenome",
@@ -137476,7 +137476,7 @@
         "rappdirs",
 
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -137736,7 +137736,7 @@
 
         "pkgconfig",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -137803,7 +137803,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -137994,7 +137994,7 @@
         "slam",
 
         "BH",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -138196,7 +138196,7 @@
         "VariantAnnotation",
         "AnnotationHub",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
 
@@ -138320,7 +138320,7 @@
         "IRanges",
         "AnnotationDbi",
         "Biostrings",
-        "DBI",
+
         "dplyr",
         "ensembldb",
         "GenomeInfoDb",
@@ -138487,7 +138487,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -138599,7 +138599,7 @@
         "KernSmooth",
         "preprocessCore",
         "RSQLite",
-        "DBI",
+
         "AnnotationDbi",
 
         "scales",
@@ -138758,7 +138758,7 @@
         "codetools",
         "iterators",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "BiocIO",
@@ -138892,7 +138892,7 @@
         "zlibbioc",
         "GO.db",
         "AnnotationDbi",
-        "DBI",
+
         "XVector",
         "Biostrings",
         "survival",
@@ -139376,7 +139376,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -139600,7 +139600,7 @@
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
 
         "pillar",
@@ -139817,7 +139817,7 @@
         "MatrixGenerics",
         "SummarizedExperiment",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "AnnotationDbi",
         "rtracklayer",
@@ -139965,7 +139965,7 @@
 
         "tzdb",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -140187,7 +140187,7 @@
         "IRanges",
         "GenomeInfoDb",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "RSQLite",
@@ -140269,7 +140269,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -140304,7 +140304,7 @@
         "sys",
 
     ],
-    "DBI": [],
+
     "survival": [
         "Matrix",
         "lattice"
@@ -140344,7 +140344,7 @@
     "RSQLite": [
         "bit64",
         "blob",
-        "DBI",
+
         "memoise",
         "pkgconfig",
 
@@ -141783,7 +141783,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -141951,7 +141951,7 @@
         "assertthat",
         "blob",
         "cli",
-        "DBI",
+
         "dplyr",
         "glue",
         "lifecycle",
@@ -142025,7 +142025,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -142729,7 +142729,7 @@
         "tidyr",
         "MatrixGenerics",
         "GenomeInfoDb",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -143376,7 +143376,7 @@
     ],
 
     "RMySQL": [
-        "DBI"
+
     ],
     "stringdist": [],
     "optparse": [
@@ -143399,7 +143399,7 @@
         "assertthat",
         "bit64",
         "curl",
-        "DBI",
+
         "gargle",
         "glue",
         "httr",
@@ -143512,7 +143512,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -143591,7 +143591,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -143684,7 +143684,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -143900,7 +143900,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "crayon",
         "Matrix",
@@ -144009,7 +144009,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "crayon",
         "Matrix",
@@ -144118,7 +144118,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "crayon",
         "Matrix",
@@ -144208,7 +144208,7 @@
         "Matrix",
         "DelayedArray",
         "Rsamtools",
-        "DBI",
+
         "zlibbioc",
         "Biostrings",
         "AnnotationDbi",
@@ -144292,7 +144292,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "S4Vectors",
         "KEGGREST",
         "bit64",
@@ -144383,7 +144383,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "S4Vectors",
         "KEGGREST",
         "bit64",
@@ -144477,7 +144477,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -144549,7 +144549,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -144775,7 +144775,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -146214,7 +146214,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -146538,7 +146538,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -146663,7 +146663,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -147341,7 +147341,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -147744,7 +147744,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -147821,7 +147821,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -147912,7 +147912,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -147953,7 +147953,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -148071,7 +148071,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -148112,7 +148112,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -148287,7 +148287,7 @@
         "org.Hs.eg.db",
         "BiocGenerics",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -148933,13 +148933,13 @@
         "lattice"
     ],
     "biglm": [
-        "DBI"
+
     ],
     "sqldf": [
         "gsubfn",
         "proto",
         "RSQLite",
-        "DBI",
+
 
         "bit64",
         "blob",
@@ -150061,7 +150061,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -150198,7 +150198,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -150332,7 +150332,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -150453,7 +150453,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -150731,7 +150731,7 @@
         "rtracklayer",
         "S4Vectors",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "RCurl",
@@ -150807,7 +150807,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -150847,7 +150847,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -150887,7 +150887,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -150929,7 +150929,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -151018,7 +151018,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -151107,7 +151107,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -151196,7 +151196,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -151285,7 +151285,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -151409,7 +151409,7 @@
         "biglm",
 
         "BH",
-        "DBI",
+
         "bigmemory.sri",
         "uuid",
         "codetools",
@@ -152586,7 +152586,7 @@
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -152748,7 +152748,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -154176,7 +154176,7 @@
         "glue",
         "assertthat",
         "blob",
-        "DBI",
+
         "lifecycle",
         "R6",
         "tidyselect",
@@ -154945,10 +154945,10 @@
         "numDeriv",
         "mitools",
 
-        "DBI"
+
     ],
     "mitools": [
-        "DBI"
+
     ],
     "DMwR2": [
         "xts",
@@ -154958,7 +154958,7 @@
         "quantmod",
         "dplyr",
         "readr",
-        "DBI",
+
 
         "generics",
         "glue",
@@ -155571,7 +155571,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -155674,7 +155674,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -156006,7 +156006,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "Biobase",
         "IRanges",
@@ -156241,7 +156241,7 @@
     ],
 
     "RecordLinkage": [
-        "DBI",
+
         "RSQLite",
         "ff",
         "e1071",
@@ -157251,7 +157251,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -157418,7 +157418,7 @@
 
 
         "classInt",
-        "DBI",
+
         "magrittr",
         "s2",
         "units",
@@ -157454,7 +157454,7 @@
     ],
     "sf": [
         "classInt",
-        "DBI",
+
         "magrittr",
 
         "s2",
@@ -157595,7 +157595,7 @@
         "brew",
         "checkmate",
         "data.table",
-        "DBI",
+
 
         "RSQLite",
         "sendmailR",
@@ -157752,7 +157752,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -157875,7 +157875,7 @@
         "vctrs",
         "pillar",
         "classInt",
-        "DBI",
+
 
         "s2",
         "units",
@@ -158287,7 +158287,7 @@
         "RSQLite",
         "oligoClasses",
         "oligo",
-        "DBI",
+
         "IRanges",
         "S4Vectors",
         "BiocGenerics",
@@ -158335,7 +158335,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -158378,7 +158378,7 @@
         "GenomicFeatures",
         "AnnotationFilter",
         "RSQLite",
-        "DBI",
+
         "Biobase",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -158743,7 +158743,7 @@
         "reshape2",
         "statmod",
         "tweedie",
-        "DBI",
+
         "lattice",
 
         "glue",
@@ -159262,7 +159262,7 @@
         "ggplot2",
         "reshape2",
         "XML",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -159384,7 +159384,7 @@
         "xfun",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -159511,7 +159511,7 @@
         "multtest",
 
         "XML",
-        "DBI",
+
         "xtable",
         "RSQLite",
         "KEGGREST",
@@ -159591,7 +159591,7 @@
         "curl",
         "rappdirs",
         "AnnotationHubData",
-        "DBI",
+
         "httr",
         "RSQLite",
         "BiocVersion",
@@ -159955,7 +159955,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -160058,7 +160058,7 @@
     ],
     "miRBaseVersions.db": [
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "gtools",
         "BiocGenerics",
@@ -161137,7 +161137,7 @@
         "numDeriv",
         "mitools",
 
-        "DBI"
+
     ],
     "longitudinal": [
         "corpcor"
@@ -161152,7 +161152,7 @@
         "numDeriv",
         "mitools",
 
-        "DBI"
+
     ],
     "dnet": [
         "igraph",
@@ -161363,7 +161363,7 @@
         "dbplyr",
         "dplyr",
         "RSQLite",
-        "DBI",
+
         "rappdirs",
         "filelock",
         "curl",
@@ -161745,7 +161745,7 @@
 
         "pkgconfig",
         "Biobase",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "dbplyr",
@@ -162393,7 +162393,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "crayon",
         "Matrix",
@@ -162700,7 +162700,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "Biobase",
         "IRanges",
@@ -162803,7 +162803,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "crayon",
         "Matrix",
@@ -163108,7 +163108,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -163416,7 +163416,7 @@
         "dplyr",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -163520,7 +163520,7 @@
         "S4Vectors",
         "GenomeInfoDb",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "RCurl",
         "XVector",
@@ -163835,7 +163835,7 @@
         "yaml",
         "dplyr",
         "dbplyr",
-        "DBI",
+
         "filelock",
         "futile.logger",
         "snow",
@@ -164373,7 +164373,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -164463,7 +164463,7 @@
         "AnnotationDbi",
         "XML",
         "org.Hs.eg.db",
-        "DBI",
+
         "xtable",
         "httr",
         "IRanges",
@@ -164513,7 +164513,7 @@
         "GenomicFeatures",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "KEGGREST",
         "BiocFileCache",
@@ -164643,7 +164643,7 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "Biobase",
-        "DBI",
+
         "KEGGREST",
         "dbplyr",
         "filelock",
@@ -164721,7 +164721,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -164781,7 +164781,7 @@
     "miRNAtap.db": [
         "miRNAtap",
         "AnnotationDbi",
-        "DBI",
+
         "RSQLite",
         "BiocGenerics",
         "Biobase",
@@ -165251,7 +165251,7 @@
         "lars"
     ],
     "RPostgreSQL": [
-        "DBI"
+
     ],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
@@ -165383,7 +165383,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
@@ -165485,7 +165485,7 @@
         "BiocGenerics",
         "Biobase",
         "IRanges",
-        "DBI",
+
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
