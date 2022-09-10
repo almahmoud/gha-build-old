@@ -65,7 +65,6 @@
     "ABAEnrichment": [
         "ABAData",
         "GOfuncR",
-        "vioplot",
         "GenomicRanges",
         "IRanges",
         "AnnotationDbi",
@@ -3628,7 +3627,6 @@
         "precrec",
         "ranger",
         "ggplot2",
-        "vioplot",
         "imager",
         "topGO",
         "xlsx",
@@ -5787,7 +5785,6 @@
         "doParallel",
         "FME",
         "SpatialTools",
-        "vioplot",
         "FactoMineR",
         "Hmisc",
         "car",
@@ -8433,7 +8430,6 @@
         "ggplot2",
         "modeest",
         "edgeR",
-        "vioplot",
         "scales",
         "tibble",
         "fBasics",
@@ -10477,7 +10473,6 @@
         "tmvtnorm",
         "cp4p",
         "scales",
-        "vioplot",
         "imp4p",
         "forcats",
         "DAPARdata",
@@ -18768,7 +18763,6 @@
         "GenomeInfoDb"
     ],
     "GOfuncR": [
-        "vioplot",
         "GenomicRanges",
         "IRanges",
         "AnnotationDbi",
@@ -20028,7 +20022,6 @@
         "rtracklayer",
         "biomaRt",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -22898,7 +22891,6 @@
         "pillar"
     ],
     "LPEadj": [],
-    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "RSQLite",
@@ -27584,7 +27576,6 @@
         "ComplexHeatmap",
         "XVector",
         "GenomeInfoDb",
-        "vioplot",
         "futile.logger",
         "rtracklayer",
         "Rsamtools",
@@ -34469,7 +34460,6 @@
         "tmvtnorm",
         "cp4p",
         "scales",
-        "vioplot",
         "imp4p",
         "forcats",
         "siggenes",
@@ -35795,7 +35785,6 @@
         "progress"
     ],
     "randPack": [],
-    "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [
         "VariantAnnotation",
@@ -41414,7 +41403,6 @@
         "rtracklayer",
         "biomaRt",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -44420,7 +44408,6 @@
         "knitr",
         "pcaPP"
     ],
-    "stepNorm": [],
     "strandCheckR": [
         "dplyr",
         "GenomeInfoDb",
@@ -49176,7 +49163,6 @@
     "memoise": [],
     "vctrs": [],
     "ABAData": [],
-    "vioplot": [],
     "zoo": [],
     "ggplot2": [
         "scales",
@@ -54183,10 +54169,8 @@
         "memoise"
     ],
     "R2jags": [
-        "rjags",
-        "R2WinBUGS"
+        "rjags"
     ],
-    "R2WinBUGS": [],
     "servr": [
         "httpuv",
         "promises"
@@ -55659,7 +55643,6 @@
         "jquerylib",
         "memoise"
     ],
-    "ParallelLogger": [],
     "pairsD3": [
         "htmlwidgets",
         "shiny",
