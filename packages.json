@@ -662,8 +662,7 @@
         "survival",
         "RcppZiggurat",
         "DelayedArray",
-        "NADA",
-        "RcppGSL"
+        "NADA"
     ],
     "alevinQC": [
         "rmarkdown",
@@ -857,7 +856,6 @@
         "httr",
         "selectr",
         "openssl",
-        "RcppGSL",
         "RcppEigen"
     ],
     "alsace": [
@@ -2990,7 +2988,6 @@
         "reshape",
         "GEOquery",
         "HDF5Array",
-        "RcppGSL",
         "blob",
         "BiocFileCache",
         "doRNG",
@@ -23639,8 +23636,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "RcppGSL"
+        "XVector"
     ],
     "lapmix": [],
     "ldblock": [
@@ -26953,7 +26949,6 @@
         "sass",
         "jquerylib",
         "memoise",
-        "RcppGSL",
         "pillar"
     ],
     "MethylSeekR": [
@@ -27535,7 +27530,6 @@
         "jquerylib",
         "memoise",
         "prodlim",
-        "RcppGSL",
         "callr",
         "pkgload",
         "waldo",
@@ -32276,8 +32270,7 @@
         "XVector",
         "survival",
         "RcppZiggurat",
-        "DelayedArray",
-        "RcppGSL"
+        "DelayedArray"
     ],
     "omicRexposome": [
         "rexposome",
@@ -32929,7 +32922,6 @@
         "RcppEigen",
         "ks",
         "cytolib",
-        "RcppGSL",
         "pcaPP",
         "mgcv"
     ],
@@ -34406,7 +34398,6 @@
         "RcppZiggurat",
         "pillar",
         "tidyselect",
-        "RcppGSL",
         "callr",
         "pkgload",
         "waldo",
@@ -36528,7 +36519,6 @@
         "readr",
         "Biostrings",
         "TTR",
-        "RcppGSL",
         "BiocIO",
         "restfulr",
         "doRNG",
@@ -50630,8 +50620,7 @@
     "VERSO": [
         "ape",
         "Rfast",
-        "RcppZiggurat",
-        "RcppGSL"
+        "RcppZiggurat"
     ],
     "vidger": [
         "DESeq2",
@@ -52130,16 +52119,12 @@
         "survival"
     ],
     "Rfast": [
-        "RcppZiggurat",
-        "RcppGSL"
+        "RcppZiggurat"
     ],
-    "RcppZiggurat": [
-        "RcppGSL"
-    ],
+    "RcppZiggurat": [],
     "NADA": [
         "survival"
     ],
-    "RcppGSL": [],
     "shinydashboard": [
         "shiny",
         "promises",
@@ -52182,7 +52167,6 @@
         "httr",
         "selectr",
         "openssl",
-        "RcppGSL",
         "pillar"
     ],
     "pcaPP": [],
@@ -58286,8 +58270,7 @@
     ],
     "SmoothWin": [
         "Rfast",
-        "RcppZiggurat",
-        "RcppGSL"
+        "RcppZiggurat"
     ],
     "pingr": [],
     "osfr": [
