@@ -20028,7 +20028,6 @@
         "rtracklayer",
         "biomaRt",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -41413,7 +41412,6 @@
         "rtracklayer",
         "biomaRt",
         "rjags",
-        "R2WinBUGS",
         "dplyr",
         "tidyselect",
         "KEGGREST",
@@ -54182,10 +54180,8 @@
         "memoise"
     ],
     "R2jags": [
-        "rjags",
-        "R2WinBUGS"
+        "rjags"
     ],
-    "R2WinBUGS": [],
     "servr": [
         "httpuv",
         "promises"
