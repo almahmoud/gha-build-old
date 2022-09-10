@@ -828,7 +828,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "boot",
         "Matrix",
         "plyr",
@@ -2440,7 +2440,7 @@
         "DelayedArray",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "ellipsis",
         "base64enc",
 
@@ -2758,7 +2758,7 @@
         "colorspace",
         "utf8",
         "fs",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "stringi",
         "diffobj",
@@ -3005,7 +3005,7 @@
         "here",
 
         "rappdirs",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "stringi",
 
@@ -4260,7 +4260,7 @@
         "httpcode",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
         "openssl",
         "lattice",
@@ -4609,7 +4609,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "colorspace",
         "askpass",
         "hms",
@@ -5552,7 +5552,7 @@
         "scales",
         "withr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "htmltools",
         "jsonlite",
 
@@ -7233,7 +7233,7 @@
         "withr",
         "magrittr",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -7991,7 +7991,7 @@
         "desc",
         "fs",
         "RcppGSL",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "registry",
         "slam",
@@ -8066,7 +8066,7 @@
         "RCurl",
         "BiocIO",
         "Biobase",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "whisker",
         "zlibbioc",
@@ -8387,7 +8387,7 @@
         "withr",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "jsonlite",
         "mime",
@@ -9313,7 +9313,7 @@
         "GenomeInfoDbData",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
         "lattice",
         "boot",
@@ -10281,7 +10281,7 @@
         "rhdf5",
         "lattice",
 
-        "Rhdf5lib",
+
         "rhdf5filters"
     ],
     "BioMM": [
@@ -11457,7 +11457,7 @@
         "GenomeInfoDbData",
         "XVector",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "AnnotationDbi",
         "OrganismDbi",
         "GenomicFeatures",
@@ -12067,7 +12067,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "MatrixGenerics",
         "Biobase",
@@ -13097,7 +13097,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "R.oo",
         "R.methodsS3",
@@ -14426,7 +14426,7 @@
         "XML",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -15056,7 +15056,7 @@
         "lme4",
         "nlme",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "jsonlite",
         "RBGL",
@@ -17215,7 +17215,7 @@
         "cluster",
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "data.table",
         "jsonlite",
@@ -17361,7 +17361,7 @@
         "XML",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "plyr",
 
         "stringr",
@@ -18113,7 +18113,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "checkmate",
         "rstudioapi",
         "clue",
@@ -20791,7 +20791,7 @@
 
         "fastcluster",
         "stringr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "BiocGenerics",
         "farver",
@@ -21235,7 +21235,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
 
         "farver",
 
@@ -21367,7 +21367,7 @@
         "XML",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "magrittr",
         "statnet.common",
         "httr",
@@ -21468,7 +21468,7 @@
         "locfit",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "ClusterR",
         "benchmarkme",
         "RcppArmadillo",
@@ -21850,7 +21850,7 @@
         "RcppArmadillo",
         "BH",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "MatrixGenerics",
         "GenomicRanges",
@@ -22346,7 +22346,7 @@
         "biomaRt",
         "lattice",
         "cachem",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "XML",
         "restfulr",
@@ -22583,7 +22583,7 @@
 
         "utf8",
         "BSgenome",
-        "Rhdf5lib",
+
         "rhdf5filters",
 
         "BiocParallel",
@@ -23034,7 +23034,7 @@
         "MatrixGenerics",
         "sparseMatrixStats",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "utf8",
         "R.oo",
@@ -23149,7 +23149,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "BiocGenerics",
         "GenomicRanges",
@@ -23575,7 +23575,7 @@
         "cli",
         "utf8",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc"
     ],
@@ -23758,7 +23758,7 @@
         "withr",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "plyr",
         "stringr",
@@ -24489,7 +24489,7 @@
         "plyr",
         "stringr",
         "RcppParallel",
-        "Rhdf5lib",
+
         "ks",
         "plot3D",
         "KernSmooth",
@@ -24758,7 +24758,7 @@
         "graph",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "pamr",
         "iC10TrainingData",
         "lattice",
@@ -25075,7 +25075,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
 
         "plyr",
@@ -25193,7 +25193,7 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -25779,7 +25779,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -26366,7 +26366,7 @@
 
         "rappdirs",
         "withr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "ade4",
         "segmented",
@@ -26513,7 +26513,7 @@
 
         "RcppTOML",
         "here",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
         "Rhtslib",
@@ -27396,7 +27396,7 @@
 
         "progress",
         "plyr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -27915,7 +27915,7 @@
         "nlme",
         "cluster",
         "RcppParallel",
-        "Rhdf5lib",
+
         "generics",
         "magrittr",
         "R6",
@@ -28082,7 +28082,7 @@
         "jquerylib",
         "memoise",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lambda.r",
         "futile.options",
         "RCurl",
@@ -28148,7 +28148,7 @@
         "survival",
         "RcppEigen",
         "RcppParallel",
-        "Rhdf5lib",
+
 
         "lattice",
         "cli",
@@ -28312,7 +28312,7 @@
         "uuid",
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "data.table",
         "RBGL",
@@ -28670,7 +28670,7 @@
 
 
         "BH",
-        "Rhdf5lib",
+
         "RcppArmadillo"
     ],
     "cytomapper": [
@@ -28720,7 +28720,7 @@
         "tibble",
         "withr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "sp",
 
         "terra",
@@ -28801,7 +28801,7 @@
 
         "BH",
 
-        "Rhdf5lib",
+
         "RcppArmadillo",
         "BiocGenerics",
         "generics",
@@ -28980,7 +28980,7 @@
         "snow",
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "data.table",
         "jsonlite",
@@ -29893,7 +29893,7 @@
         "clue",
         "colorspace",
         "ncdf4",
-        "Rhdf5lib",
+
         "testthat",
         "utf8",
         "prettyunits",
@@ -30463,7 +30463,7 @@
         "lme4",
         "nlme",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lattice",
         "KernSmooth",
         "latticeExtra",
@@ -32306,7 +32306,7 @@
 
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "futile.logger",
         "snow",
@@ -32664,7 +32664,7 @@
         "highr",
         "nlme",
         "ncdf4",
-        "Rhdf5lib",
+
         "utf8",
         "farver",
 
@@ -33916,7 +33916,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "igraph",
         "Matrix",
@@ -34277,7 +34277,7 @@
         "cluster",
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "data.table",
         "jsonlite",
@@ -34428,7 +34428,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lattice",
-        "Rhdf5lib",
+
         "rhdf5filters",
 
         "XML",
@@ -35556,7 +35556,7 @@
         "tidyr",
         "magrittr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
 
 
@@ -35906,7 +35906,7 @@
         "futile.options",
         "biomaRt",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "jsonlite",
         "mime",
         "openssl",
@@ -36674,7 +36674,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
         "futile.logger",
         "snow",
@@ -36955,7 +36955,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "R.oo",
         "R.methodsS3",
@@ -38183,7 +38183,7 @@
 
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "curl",
         "mime",
@@ -38858,7 +38858,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "Formula",
         "latticeExtra",
         "nnet",
@@ -39054,7 +39054,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "jsonlite",
         "mime",
         "shiny",
@@ -40082,7 +40082,7 @@
         "csaw",
         "S4Vectors",
         "limma",
-        "Rhdf5lib",
+
         "rhdf5",
         "Matrix",
 
@@ -41530,7 +41530,7 @@
         "XVector",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "nlme",
         "cli",
 
@@ -41817,7 +41817,7 @@
         "ggplot2",
         "reshape2",
         "BH",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "GenomicAlignments",
         "RUnit",
@@ -42487,7 +42487,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "RCurl",
         "GenomeInfoDbData",
         "matrixStats",
@@ -43818,7 +43818,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "jsonlite",
         "mime",
 
@@ -44275,7 +44275,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -44475,7 +44475,7 @@
         "cachem",
         "memoise",
         "RcppParallel",
-        "Rhdf5lib",
+
         "base64enc",
 
         "nlme",
@@ -44517,7 +44517,7 @@
         "lattice",
         "pcaPP",
         "RcppParallel",
-        "Rhdf5lib",
+
 
         "glue",
         "magrittr",
@@ -44541,7 +44541,7 @@
 
         "flowViz",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lattice",
         "KernSmooth",
         "latticeExtra",
@@ -44680,7 +44680,7 @@
         "permute",
         "cluster",
         "RcppParallel",
-        "Rhdf5lib",
+
         "base64enc",
 
         "jsonlite",
@@ -44725,7 +44725,7 @@
         "BH",
 
         "RcppParallel",
-        "Rhdf5lib",
+
         "lattice"
     ],
     "flowClust": [
@@ -44754,7 +44754,7 @@
         "hexbin",
         "IDPmisc",
         "RcppParallel",
-        "Rhdf5lib",
+
 
 
         "interp",
@@ -44773,7 +44773,7 @@
         "BH",
 
         "RcppParallel",
-        "Rhdf5lib"
+
     ],
     "flowCut": [
         "flowCore",
@@ -44809,7 +44809,7 @@
         "lme4",
         "nlme",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lattice",
         "KernSmooth",
         "latticeExtra",
@@ -44982,7 +44982,7 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "Rhdf5lib",
+
         "gtools",
         "caTools",
         "RPMG",
@@ -45093,7 +45093,7 @@
         "hexbin",
         "IDPmisc",
         "RcppParallel",
-        "Rhdf5lib",
+
 
 
         "interp",
@@ -45202,7 +45202,7 @@
         "BH",
 
         "RcppParallel",
-        "Rhdf5lib"
+
     ],
     "flowMeans": [
         "Biobase",
@@ -45224,7 +45224,7 @@
         "lattice",
         "pcaPP",
         "RcppParallel",
-        "Rhdf5lib",
+
 
         "kernlab",
         "KernSmooth",
@@ -45270,7 +45270,7 @@
         "pcaPP",
         "cluster",
         "RcppParallel",
-        "Rhdf5lib",
+
         "KernSmooth",
         "latticeExtra",
 
@@ -45352,7 +45352,7 @@
         "sass",
         "memoise",
         "RcppParallel",
-        "Rhdf5lib",
+
 
         "base64enc",
         "Matrix",
@@ -45455,7 +45455,7 @@
 
         "BH",
 
-        "Rhdf5lib",
+
         "RcppArmadillo",
         "generics",
         "glue",
@@ -45619,7 +45619,7 @@
         "stringr",
         "lattice",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lambda.r",
         "futile.options",
         "nlme",
@@ -45682,7 +45682,7 @@
         "aws.s3",
         "aws.signature",
         "DelayedArray",
-        "Rhdf5lib",
+
 
         "kernlab",
         "Matrix",
@@ -45770,7 +45770,7 @@
 
         "pkgconfig",
         "RcppParallel",
-        "Rhdf5lib",
+
         "cli",
         "utf8",
         "ellipsis",
@@ -45803,7 +45803,7 @@
         "IDPmisc",
         "cluster",
         "RcppParallel",
-        "Rhdf5lib",
+
 
 
         "interp",
@@ -45827,7 +45827,7 @@
         "BH",
 
         "RcppParallel",
-        "Rhdf5lib"
+
     ],
     "flowViz": [
         "flowCore",
@@ -45851,7 +45851,7 @@
 
         "interp",
         "RcppParallel",
-        "Rhdf5lib",
+
         "deldir",
         "RcppEigen",
         "Matrix"
@@ -45883,7 +45883,7 @@
         "hexbin",
         "IDPmisc",
         "RcppParallel",
-        "Rhdf5lib",
+
         "fds",
 
         "XML",
@@ -45985,7 +45985,7 @@
         "DelayedArray",
         "S4Vectors",
         "BH",
-        "Rhdf5lib",
+
         "RcppArmadillo",
         "curl",
         "httr",
@@ -46352,7 +46352,7 @@
         "mgcv",
         "withr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "DESeq2",
         "heatmaply",
         "plyr",
@@ -46802,7 +46802,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
 
         "plyr",
@@ -47508,7 +47508,7 @@
         "robustbase",
         "sp",
         "RcppParallel",
-        "Rhdf5lib",
+
         "lattice",
         "KernSmooth",
         "latticeExtra",
@@ -50380,7 +50380,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "KEGGREST",
         "assertthat",
         "blob",
@@ -51448,7 +51448,7 @@
         "annotate",
         "graph",
         "AnnotationDbi",
-        "Rhdf5lib",
+
         "rhdf5filters",
 
         "xtable",
@@ -51880,7 +51880,7 @@
         "aws.s3",
         "aws.signature",
         "DelayedArray",
-        "Rhdf5lib",
+
         "glue",
 
 
@@ -52110,7 +52110,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
         "RCurl",
         "GenomeInfoDbData",
@@ -52612,7 +52612,7 @@
         "sparseMatrixStats",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "GenomicRanges",
         "Biobase",
         "GenomeInfoDb",
@@ -54812,7 +54812,7 @@
         "plyr",
 
         "stringr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "httpuv",
         "mime",
@@ -55444,7 +55444,7 @@
         "XML",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -55599,7 +55599,7 @@
         "RcppTOML",
         "here",
         "jsonlite",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "restfulr",
         "ade4",
@@ -56451,7 +56451,7 @@
         "tibble",
         "withr",
         "plyr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -56577,7 +56577,7 @@
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
-        "Rhdf5lib",
+
         "MatrixGenerics",
         "lattice",
         "matrixStats"
@@ -56892,7 +56892,7 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "marray",
         "impute",
@@ -58670,7 +58670,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "colorspace",
         "askpass",
         "hms",
@@ -59891,7 +59891,7 @@
         "edgeR",
         "R.utils",
         "dqrng",
-        "Rhdf5lib",
+
         "lambda.r",
         "futile.options",
         "GenomeInfoDbData",
@@ -60040,7 +60040,7 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "Rhdf5lib",
+
         "glue",
 
 
@@ -60144,7 +60144,7 @@
         "BH",
 
         "RcppParallel",
-        "Rhdf5lib"
+
     ],
     "immunotation": [
         "stringr",
@@ -60446,7 +60446,7 @@
         "data.table",
         "jsonlite",
         "RcppParallel",
-        "Rhdf5lib",
+
         "sitmo",
         "lattice"
     ],
@@ -61770,7 +61770,7 @@
         "mgcv",
         "scales",
         "withr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "Rsamtools",
         "GenomicAlignments",
@@ -62100,7 +62100,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -64119,7 +64119,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "colorspace",
         "cli",
         "utf8",
@@ -65291,7 +65291,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -65437,7 +65437,7 @@
         "GenomeInfoDb",
         "XVector",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "glue",
         "magrittr",
@@ -65795,7 +65795,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "colorspace",
         "askpass",
         "hms",
@@ -66868,7 +66868,7 @@
         "rhdf5filters",
         "S4Vectors",
         "IRanges",
-        "Rhdf5lib",
+
         "magrittr",
         "pkgconfig",
 
@@ -67377,7 +67377,7 @@
         "XML",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "dplyr",
         "cli",
         "ellipsis",
@@ -68345,7 +68345,7 @@
         "Matrix",
         "BiocParallel",
         "RcppArmadillo",
-        "Rhdf5lib",
+
         "beachmat",
         "BiocGenerics",
         "benchmarkmeData",
@@ -69070,7 +69070,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "clue",
 
@@ -69244,7 +69244,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "affy",
         "mgcv",
@@ -70303,7 +70303,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -70789,7 +70789,7 @@
 
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "data.table",
         "jsonlite",
@@ -71191,7 +71191,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -71558,7 +71558,7 @@
         "sparseMatrixStats",
         "generics",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "ellipsis",
 
         "formatR",
@@ -71698,7 +71698,7 @@
         "rngtools",
         "colorspace",
         "BH",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
         "BiocParallel",
@@ -71900,7 +71900,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "magrittr",
 
         "pillar",
@@ -72253,7 +72253,7 @@
         "withr",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "XML",
         "zlibbioc",
         "RCurl",
@@ -72414,7 +72414,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
 
         "base64",
@@ -72571,7 +72571,7 @@
 
         "tidyr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "cli",
 
@@ -72791,7 +72791,7 @@
         "rematch2",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "mime",
         "openssl",
         "base64",
@@ -73071,7 +73071,7 @@
         "treeio",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "openssl",
         "base64",
@@ -73539,7 +73539,7 @@
         "rtracklayer",
         "Rsamtools",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "R.oo",
         "R.methodsS3",
@@ -73660,7 +73660,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "jsonlite",
         "mime",
@@ -74430,7 +74430,7 @@
         "stringi",
         "RCurl",
         "GenomeInfoDbData",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -74514,7 +74514,7 @@
         "colorspace",
         "cli",
         "utf8",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zoo",
         "stringi",
@@ -74670,7 +74670,7 @@
         "utf8",
 
         "MatrixModels",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "fs",
         "rappdirs",
@@ -74858,7 +74858,7 @@
 
         "stringr",
         "RcppZiggurat",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -75898,7 +75898,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "rjson",
         "Rhtslib",
         "multtest",
@@ -75975,7 +75975,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -76232,7 +76232,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "nlme",
         "R.oo",
@@ -77183,7 +77183,7 @@
         "withr",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
 
         "plyr",
@@ -78608,7 +78608,7 @@
         "mgcv",
 
         "rhdf5filters",
-        "Rhdf5lib",
+
         "plyr",
         "stringr",
         "RcppTOML",
@@ -80275,7 +80275,7 @@
         "BiocGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "httpuv",
         "mime",
         "jsonlite",
@@ -80455,7 +80455,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "farver",
 
         "lifecycle",
@@ -80532,7 +80532,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "stringr",
         "farver",
 
@@ -80599,7 +80599,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "farver",
 
         "lifecycle",
@@ -80700,7 +80700,7 @@
         "XML",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "R.methodsS3",
         "R.oo",
         "R.utils",
@@ -81001,7 +81001,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "bit64",
         "memoise",
         "pkgconfig",
@@ -81599,7 +81599,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "cli",
 
         "utf8",
@@ -81740,7 +81740,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "askpass",
         "fs",
         "rappdirs",
@@ -82236,7 +82236,7 @@
         "nlme",
 
         "rjson",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "bit64",
         "blob",
@@ -82524,7 +82524,7 @@
         "Rsamtools",
         "future.apply",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -84053,7 +84053,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib"
+
     ],
     "NADfinder": [
         "BiocGenerics",
@@ -84156,7 +84156,7 @@
         "robustbase",
         "rbibutils",
         "rjson",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -84367,7 +84367,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "httr",
 
         "lattice",
@@ -84918,7 +84918,7 @@
         "BiocGenerics",
         "zlibbioc",
 
-        "Rhdf5lib",
+
         "matrixStats",
         "cytolib",
         "S4Vectors",
@@ -84965,7 +84965,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -86299,7 +86299,7 @@
         "IRanges",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "scuttle",
         "ggplot2",
@@ -87407,7 +87407,7 @@
         "tibble",
         "withr",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "ExperimentHub",
         "jsonlite",
         "viridisLite",
@@ -88894,7 +88894,7 @@
         "processx",
 
         "RcppParallel",
-        "Rhdf5lib",
+
         "generics",
         "tidyselect",
         "pillar",
@@ -89099,7 +89099,7 @@
         "aws.s3",
         "aws.signature",
         "DelayedArray",
-        "Rhdf5lib",
+
 
         "kernlab",
         "Matrix",
@@ -89642,7 +89642,7 @@
         "matrixStats",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -89863,7 +89863,7 @@
         "ellipsis",
         "purrr",
         "RcppParallel",
-        "Rhdf5lib",
+
 
         "kernlab",
         "KernSmooth",
@@ -91637,7 +91637,7 @@
         "ini",
         "systemfonts",
         "textshaping",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "diffobj",
         "rematch2",
@@ -92427,7 +92427,7 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "Rhdf5lib",
+
         "glue",
 
 
@@ -92526,7 +92526,7 @@
 
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "farver",
 
         "lifecycle",
@@ -92922,7 +92922,7 @@
         "colorspace",
         "cli",
         "utf8",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "stringi",
         "zlibbioc",
@@ -93190,7 +93190,7 @@
         "zip",
         "brew",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -94321,7 +94321,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "colorspace",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "stringi",
 
@@ -96071,7 +96071,7 @@
 
         "data.table",
         "ncdf4",
-        "Rhdf5lib",
+
         "cli",
         "utf8",
         "RSpectra",
@@ -96642,7 +96642,7 @@
         "permute",
         "formatR",
         "colorspace",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "fs",
         "rappdirs",
@@ -97130,7 +97130,7 @@
         "ProtGenerics",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
 
 
@@ -97295,7 +97295,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "cli",
 
         "utf8",
@@ -97787,7 +97787,7 @@
         "limma",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "Matrix",
@@ -98122,7 +98122,7 @@
         "utf8",
         "xtable",
         "assertthat",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "GenomicRanges",
         "DelayedArray",
@@ -98272,7 +98272,7 @@
         "colorspace",
         "doParallel",
         "ncdf4",
-        "Rhdf5lib",
+
         "hms",
         "prettyunits",
         "crayon",
@@ -98488,7 +98488,7 @@
         "doParallel",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "cli",
 
         "utf8",
@@ -98938,7 +98938,7 @@
         "clue",
         "colorspace",
         "ncdf4",
-        "Rhdf5lib",
+
         "testthat",
 
         "prettyunits",
@@ -99151,7 +99151,7 @@
 
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "affyio",
         "preprocessCore",
@@ -99782,7 +99782,7 @@
 
         "vctrs",
 
-        "Rhdf5lib",
+
         "rhdf5filters",
         "farver",
 
@@ -100084,7 +100084,7 @@
         "tibble",
         "withr",
         "lattice",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -100967,7 +100967,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "utf8",
         "bit64",
         "progress",
@@ -101452,7 +101452,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "farver",
@@ -102558,7 +102558,7 @@
 
         "crayon",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
 
         "BiocParallel",
@@ -103339,7 +103339,7 @@
         "colorspace",
         "cli",
         "utf8",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -104226,7 +104226,7 @@
         "colorspace",
         "cli",
         "utf8",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -104490,7 +104490,7 @@
         "rhdf5filters",
         "BiocGenerics",
         "IRanges",
-        "Rhdf5lib",
+
         "GenomicRanges",
         "SummarizedExperiment",
         "Biostrings",
@@ -105521,7 +105521,7 @@
         "scales",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "ellipsis",
         "pkgconfig",
         "jsonlite",
@@ -106727,7 +106727,7 @@
         "Rhtslib"
     ],
     "rhdf5": [
-        "Rhdf5lib",
+
         "rhdf5filters"
     ],
     "rhdf5client": [
@@ -106750,9 +106750,9 @@
         "sys"
     ],
     "rhdf5filters": [
-        "Rhdf5lib"
+
     ],
-    "Rhdf5lib": [],
+
     "Rhisat2": [
         "GenomicFeatures",
         "SGSeq",
@@ -107302,7 +107302,7 @@
         "mgcv",
         "scales",
         "withr",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "BiocGenerics",
         "ellipsis",
@@ -107783,7 +107783,7 @@
         "ggplot2",
         "scales",
         "ncdf4",
-        "Rhdf5lib",
+
 
 
         "MatrixGenerics",
@@ -108278,7 +108278,7 @@
 
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "rcdklibs",
         "fingerprint",
 
@@ -110051,7 +110051,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "jsonlite",
         "mime",
@@ -110415,7 +110415,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "colorspace",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "fs",
         "rappdirs",
@@ -114006,7 +114006,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
         "limma",
         "locfit",
@@ -114408,7 +114408,7 @@
         "XML",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "plyr",
         "stringr",
         "farver",
@@ -114532,7 +114532,7 @@
         "openssl",
         "RSpectra",
         "RcppParallel",
-        "Rhdf5lib",
+
         "MatrixGenerics",
         "IRanges",
         "survival",
@@ -115743,7 +115743,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "evaluate",
         "highr",
         "stringr",
@@ -115942,7 +115942,7 @@
         "segmented",
         "survival",
         "RSpectra",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "Biobase",
         "EDASeq",
@@ -116079,7 +116079,7 @@
 
         "pkgconfig",
         "RcppParallel",
-        "Rhdf5lib",
+
         "ellipsis",
         "nlme",
         "Matrix",
@@ -116971,7 +116971,7 @@
 
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "GenomicRanges",
         "Biobase",
@@ -119569,7 +119569,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "openssl",
         "base64",
@@ -119706,7 +119706,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "base64enc",
 
@@ -119894,7 +119894,7 @@
         "permute",
         "RCurl",
         "GenomeInfoDbData",
-        "Rhdf5lib",
+
         "rhdf5filters",
 
         "pillar",
@@ -120263,7 +120263,7 @@
         "graph",
         "XML",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "cli",
 
@@ -120674,7 +120674,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "plyr",
         "stringr",
         "nlme",
@@ -121195,7 +121195,7 @@
         "rhdf5",
         "edgeR",
         "dqrng",
-        "Rhdf5lib",
+
         "crosstalk",
         "jquerylib",
         "promises",
@@ -121716,7 +121716,7 @@
         "graph",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "nlme",
         "farver",
@@ -121996,7 +121996,7 @@
         "withr",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "affy",
         "nleqslv",
@@ -122249,7 +122249,7 @@
         "vroom",
 
         "tzdb",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "MatrixGenerics",
         "GenomicRanges",
@@ -123165,7 +123165,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
 
 
@@ -123729,7 +123729,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
         "RCurl",
         "GenomeInfoDbData",
@@ -123929,7 +123929,7 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "Rhdf5lib",
+
         "BH",
         "magrittr",
         "MatrixGenerics",
@@ -124062,7 +124062,7 @@
         "DelayedArray",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "htmltools",
         "jsonlite",
         "magrittr",
@@ -124490,7 +124490,7 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "pkgconfig",
         "ellipsis",
@@ -125454,7 +125454,7 @@
         "highr",
         "xfun",
         "colorspace",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "bit64",
         "blob",
@@ -128848,7 +128848,7 @@
         "R.utils",
         "Rsamtools",
         "future.apply",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "broom",
         "corrplot",
@@ -129146,7 +129146,7 @@
         "BiocGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "generics",
         "lifecycle",
         "R6",
@@ -129419,7 +129419,7 @@
         "XML",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
 
         "nlme",
@@ -131923,7 +131923,7 @@
         "XML",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "nlme",
         "hms",
@@ -132256,7 +132256,7 @@
 
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "affyio",
 
         "preprocessCore",
@@ -132678,7 +132678,7 @@
         "jsonlite",
         "yaml",
         "Matrix",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "zlibbioc",
 
@@ -133165,7 +133165,7 @@
         "beachmat",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "lattice",
         "GenomicRanges",
         "Biobase",
@@ -133756,7 +133756,7 @@
 
         "ALL",
         "RcppParallel",
-        "Rhdf5lib",
+
         "openCyto",
         "RBGL",
         "Rgraphviz",
@@ -137114,7 +137114,7 @@
         "lambda.r",
         "futile.options",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64enc",
 
 
@@ -138693,7 +138693,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "curl",
         "jsonlite",
         "mime",
@@ -139315,7 +139315,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -139720,7 +139720,7 @@
         "ProtGenerics",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
         "MatrixGenerics",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -140037,7 +140037,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
 
         "askpass",
@@ -142723,7 +142723,7 @@
         "Matrix",
         "rhdf5filters",
         "IRanges",
-        "Rhdf5lib",
+
         "GenomicRanges",
         "Biobase",
         "tidyr",
@@ -143906,7 +143906,7 @@
         "Matrix",
         "MatrixGenerics",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "zlibbioc",
         "BiocParallel",
@@ -144015,7 +144015,7 @@
         "Matrix",
         "MatrixGenerics",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "zlibbioc",
         "BiocParallel",
@@ -144124,7 +144124,7 @@
         "Matrix",
         "MatrixGenerics",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "zlibbioc",
         "BiocParallel",
@@ -145688,7 +145688,7 @@
         "permute",
         "RCurl",
         "GenomeInfoDbData",
-        "Rhdf5lib",
+
         "rhdf5filters",
         "stringi",
         "zlibbioc",
@@ -146208,7 +146208,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -150055,7 +150055,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -150192,7 +150192,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -150326,7 +150326,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -152742,7 +152742,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -152910,7 +152910,7 @@
         "scales",
         "ncdf4",
         "zlibbioc",
-        "Rhdf5lib",
+
 
         "MatrixGenerics",
         "GenomicRanges",
@@ -154114,7 +154114,7 @@
         "foreach",
         "iterators",
         "ncdf4",
-        "Rhdf5lib",
+
         "farver",
 
         "lifecycle",
@@ -159505,7 +159505,7 @@
         "R.utils",
         "rhdf5",
         "rhdf5filters",
-        "Rhdf5lib",
+
         "base64",
         "plyr",
         "multtest",
@@ -162399,7 +162399,7 @@
         "Matrix",
         "MatrixGenerics",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "zlibbioc",
         "BiocParallel",
@@ -162809,7 +162809,7 @@
         "Matrix",
         "MatrixGenerics",
         "rhdf5filters",
-        "Rhdf5lib",
+
 
         "zlibbioc",
         "BiocParallel",
@@ -164639,7 +164639,7 @@
         "Matrix",
         "rhdf5filters",
         "IRanges",
-        "Rhdf5lib",
+
         "SummarizedExperiment",
         "GenomicRanges",
         "Biobase",
