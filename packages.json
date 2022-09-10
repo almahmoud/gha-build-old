@@ -32,7 +32,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "MASS",
+
         "cluster",
         "randomForest",
         "XML",
@@ -99,7 +99,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "MASS",
+
         "XML",
         "xtable",
         "httr",
@@ -244,7 +244,7 @@
         "multtest",
         "BiocGenerics",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -283,7 +283,7 @@
         "scales",
         "sass",
         "bslib",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -371,7 +371,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -434,7 +434,7 @@
         "multtest",
         "Biobase",
         "BiocGenerics",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -473,7 +473,7 @@
         "gsl",
         "AnnotationDbi",
         "annotate",
-        "MASS",
+
         "zoo",
         "sandwich",
         "Matrix",
@@ -652,7 +652,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -781,7 +781,7 @@
         "smoother",
         "dplyr",
         "zoo",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -894,7 +894,7 @@
         "data.table",
         "DrImpute",
         "kernlab",
-        "MASS",
+
         "Matrix",
         "rsvd",
         "S4Vectors",
@@ -949,7 +949,7 @@
 
         "Biostrings",
         "survival",
-        "MASS",
+
         "XVector",
         "GenomeInfoDb",
         "crayon",
@@ -1097,7 +1097,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -1458,7 +1458,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -1613,7 +1613,7 @@
         "BiocGenerics",
         "class",
         "proxy",
-        "MASS"
+
     ],
     "airpart": [
         "SingleCellExperiment",
@@ -1659,7 +1659,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "lattice",
         "coda",
         "bbmle",
@@ -1746,7 +1746,7 @@
         "XVector",
         "Biobase",
         "survival",
-        "MASS",
+
 
         "RcppZiggurat",
         "RcppArmadillo",
@@ -1802,7 +1802,7 @@
         "tidyr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "bslib",
@@ -1889,7 +1889,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -2017,7 +2017,7 @@
         "Matrix",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -2092,7 +2092,7 @@
         "bitops",
         "Rhtslib",
         "Matrix",
-        "MASS",
+
         "glue",
         "magrittr",
         "stringi",
@@ -2206,7 +2206,7 @@
         "reshape",
         "scales",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -2392,7 +2392,7 @@
         "promises",
         "codetools",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -2517,7 +2517,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -2597,7 +2597,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -2674,7 +2674,7 @@
 
     ],
     "ANCOMBC": [
-        "MASS",
+
         "nloptr",
         "Rdpack",
         "phyloseq",
@@ -2801,7 +2801,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
         "BiocParallel",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -2849,7 +2849,7 @@
         "igraph",
         "Biobase",
         "survival",
-        "MASS",
+
         "RColorBrewer",
         "BiocGenerics",
         "magrittr",
@@ -2931,7 +2931,7 @@
         "cli",
         "ellipsis",
 
-        "MASS",
+
         "mgcv",
         "shape",
         "survival",
@@ -3534,7 +3534,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -3627,7 +3627,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
         "ggplot2",
         "reshape2",
         "digest",
@@ -3682,7 +3682,7 @@
 
         "RcppArmadillo",
         "survival",
-        "MASS",
+
         "reshape2",
         "MatrixGenerics",
         "Matrix",
@@ -3829,7 +3829,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -3993,7 +3993,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -4121,7 +4121,7 @@
 
         "RcppEigen",
         "RcppNumerical",
-        "MASS",
+
         "lattice",
         "plyr",
         "coda",
@@ -4236,7 +4236,7 @@
         "digest",
         "MatrixGenerics",
         "Matrix",
-        "MASS",
+
         "pixmap",
         "sp",
         "KEGGREST",
@@ -4403,7 +4403,7 @@
         "base64enc",
         "zlibbioc",
         "BiocParallel",
-        "MASS",
+
 
         "GenomicAlignments",
         "hwriter",
@@ -4507,7 +4507,7 @@
         "RSQLite",
         "DBI",
         "AnnotationDbi",
-        "MASS",
+
         "cluster",
         "XML",
         "xtable",
@@ -4698,7 +4698,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "systemfonts",
 
         "DBI",
@@ -4819,7 +4819,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -4913,7 +4913,7 @@
     "ASEB": [],
     "ASGSCA": [
         "Matrix",
-        "MASS",
+
         "lattice"
     ],
     "ASICS": [
@@ -4935,7 +4935,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -5058,7 +5058,7 @@
         "BiocIO",
         "Biobase",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "lattice",
@@ -5190,7 +5190,7 @@
         "UpSetR",
         "tidyr",
         "DT",
-        "MASS",
+
 
         "Biobase",
         "DBI",
@@ -5360,7 +5360,7 @@
         "glue"
     ],
     "ASSET": [
-        "MASS",
+
         "msm",
         "rmeta",
         "survival",
@@ -5378,7 +5378,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -5514,7 +5514,7 @@
         "Rhtslib",
         "BiocIO",
         "restfulr",
-        "MASS",
+
         "pixmap",
         "sp",
         "RSQLite",
@@ -5675,7 +5675,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -5829,7 +5829,7 @@
         "AnnotationDbi",
         "XML",
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "R.oo",
@@ -5948,7 +5948,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -6055,7 +6055,7 @@
         "broom",
         "Deriv",
         "dplyr",
-        "MASS",
+
         "Matrix",
         "magrittr",
         "microbenchmark",
@@ -6154,7 +6154,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -6465,7 +6465,7 @@
     "BANDITS": [
 
         "doRNG",
-        "MASS",
+
         "data.table",
         "R.utils",
         "doParallel",
@@ -6550,7 +6550,7 @@
         "stringi",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -6613,7 +6613,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -6703,7 +6703,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -6829,7 +6829,7 @@
         "cowplot",
         "ggExtra",
         "ggplot2",
-        "MASS",
+
 
         "S4Vectors",
         "scran",
@@ -7072,7 +7072,7 @@
         "xfun",
         "lattice",
         "coda",
-        "MASS",
+
         "mcmc",
         "quantreg",
         "digest",
@@ -7226,7 +7226,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -7314,7 +7314,7 @@
         "iterators",
         "doSNOW",
         "Matrix",
-        "MASS",
+
         "locfit",
         "fitdistrplus",
         "SingleCellExperiment",
@@ -7499,7 +7499,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -7570,7 +7570,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -7630,7 +7630,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "BeadDataPackR": [],
@@ -7641,7 +7641,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -7713,7 +7713,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "XML",
         "BiocIO",
@@ -7799,7 +7799,7 @@
         "affy",
         "lumi",
         "methylumi",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -8221,7 +8221,7 @@
         "AnnotationDbi",
         "XML",
         "survival",
-        "MASS",
+
         "DBI",
         "xtable",
         "httr",
@@ -8286,7 +8286,7 @@
         "diagram",
         "quadprog",
 
-        "MASS",
+
         "BiocGenerics",
         "glue",
         "magrittr",
@@ -8338,7 +8338,7 @@
         "mclust",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "DelayedArray",
         "HDF5Array",
@@ -8494,7 +8494,7 @@
         "scales",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "lattice",
@@ -8589,7 +8589,7 @@
         "XVector",
 
         "scales",
-        "MASS",
+
         "tweenr",
 
 
@@ -8687,7 +8687,7 @@
         "promises",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -8739,7 +8739,7 @@
 
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -8863,7 +8863,7 @@
         "patchwork",
         "bslib",
 
-        "MASS",
+
         "base64enc",
         "ggraph",
         "graphite",
@@ -9214,7 +9214,7 @@
         "rapidjsonr",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -10307,7 +10307,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -10480,7 +10480,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -10614,7 +10614,7 @@
         "sna",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -10835,7 +10835,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -11038,7 +11038,7 @@
         "ggrepel",
         "qqman",
         "limma",
-        "MASS",
+
         "GenomeInfoDb",
         "XVector",
         "digest",
@@ -11096,7 +11096,7 @@
         "stringr",
         "GenomicRanges",
         "Hmisc",
-        "MASS",
+
         "BiocGenerics",
         "S4Vectors",
         "IRanges",
@@ -11195,7 +11195,7 @@
         "future.apply",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -11333,7 +11333,7 @@
         "matrixStats",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -11518,7 +11518,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ellipsis",
@@ -11723,7 +11723,7 @@
         "crayon",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -11769,7 +11769,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -11919,7 +11919,7 @@
         "rappdirs",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -12190,7 +12190,7 @@
 
         "cachem",
         "memoise",
-        "MASS",
+
         "proxy",
         "locfit",
         "AnnotationDbi",
@@ -12286,7 +12286,7 @@
     "BPRMeth": [
         "GenomicRanges",
         "assertthat",
-        "MASS",
+
         "doParallel",
         "e1071",
         "earth",
@@ -12428,7 +12428,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -12700,7 +12700,7 @@
         "GenomeInfoDbData",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
 
@@ -12821,7 +12821,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -12957,7 +12957,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -13174,7 +13174,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -13631,7 +13631,7 @@
         "GenomeInfoDbData",
         "BiocIO",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -13774,7 +13774,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -13963,7 +13963,7 @@
         "lambda.r",
         "futile.options",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "pkgconfig",
@@ -14079,7 +14079,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -14297,7 +14297,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -14400,7 +14400,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -14534,7 +14534,7 @@
         "cluster",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -14658,7 +14658,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -14691,7 +14691,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -14770,7 +14770,7 @@
         "RCurl",
         "biglm",
         "digest",
-        "MASS",
+
         "DBI",
         "lambda.r",
         "futile.options",
@@ -14996,7 +14996,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "car",
         "gtools",
         "multcomp",
@@ -15534,7 +15534,7 @@
 
         "pander",
         "reshape2",
-        "MASS",
+
         "Matrix",
         "RcppTOML",
         "here",
@@ -15731,7 +15731,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -15824,7 +15824,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -15969,7 +15969,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -16186,7 +16186,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -16259,7 +16259,7 @@
         "gridExtra",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -16429,7 +16429,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -16509,7 +16509,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggplot2",
@@ -16659,7 +16659,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "plyr",
@@ -16722,7 +16722,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -16814,7 +16814,7 @@
         "proxy",
         "magrittr",
         "viridis",
-        "MASS",
+
         "nortest",
         "digest",
         "glue",
@@ -16977,7 +16977,7 @@
 
         "Matrix",
         "BH",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -17113,7 +17113,7 @@
         "fitdistrplus",
         "lme4",
         "magrittr",
-        "MASS",
+
         "mice",
         "multcomp",
         "purrr",
@@ -17349,7 +17349,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -17440,7 +17440,7 @@
         "listenv",
         "parallelly",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -17541,7 +17541,7 @@
         "scales",
         "sna",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggsci",
@@ -17727,7 +17727,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -17793,7 +17793,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -17998,7 +17998,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -18205,7 +18205,7 @@
         "promises",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -18283,7 +18283,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -18339,7 +18339,7 @@
     "Chicago": [
         "data.table",
         "matrixStats",
-        "MASS",
+
         "Hmisc",
 
         "lattice",
@@ -18504,7 +18504,7 @@
         "highr",
         "jpeg",
         "interp",
-        "MASS",
+
         "cli",
 
         "utf8",
@@ -18654,7 +18654,7 @@
         "IRanges",
         "lattice",
         "latticeExtra",
-        "MASS",
+
         "mgcv",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
@@ -18836,7 +18836,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "lattice",
@@ -18986,7 +18986,7 @@
         "BiocParallel",
         "BiocIO",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -19099,7 +19099,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -19251,7 +19251,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -19374,7 +19374,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "lambda.r",
         "futile.options",
@@ -19402,7 +19402,7 @@
         "crayon",
 
         "timeSeries",
-        "MASS",
+
         "spatial",
 
         "stabledist",
@@ -19466,7 +19466,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "lambda.r",
         "futile.options",
@@ -19498,7 +19498,7 @@
         "BH",
         "bigmemory.sri",
         "uuid",
-        "MASS",
+
         "DBI",
         "oligo",
         "oligoClasses",
@@ -19810,7 +19810,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "knitr",
@@ -19958,7 +19958,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -20064,7 +20064,7 @@
         "GenomeInfoDbData",
         "SummarizedExperiment",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -20133,7 +20133,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -20352,7 +20352,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -20509,7 +20509,7 @@
         "reshape2",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -20649,7 +20649,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -20771,7 +20771,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -20935,7 +20935,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "MASS",
+
         "pixmap",
         "sp",
         "bitops",
@@ -21133,7 +21133,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -21208,7 +21208,7 @@
         "ggplot2",
         "XML",
         "scales",
-        "MASS",
+
         "slam",
         "sparsesvd",
         "docopt",
@@ -21347,7 +21347,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -21501,7 +21501,7 @@
         "GenomeInfoDb",
         "softImpute",
         "genefilter",
-        "MASS",
+
         "pixmap",
         "sp",
         "benchmarkmeData",
@@ -21585,7 +21585,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
 
         "deldir",
         "RcppEigen",
@@ -21650,7 +21650,7 @@
 
         "Matrix",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -21780,7 +21780,7 @@
         "BH",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "curl",
@@ -21976,7 +21976,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22064,7 +22064,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22108,7 +22108,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22152,7 +22152,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22212,7 +22212,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22396,7 +22396,7 @@
         "vctrs",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -22439,7 +22439,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22573,7 +22573,7 @@
         "BiocIO",
         "biomaRt",
 
-        "MASS",
+
         "mgcv",
         "yaml",
         "curl",
@@ -22674,7 +22674,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22785,7 +22785,7 @@
         "MatrixGenerics",
         "stringr",
         "Biobase",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "matrixStats",
@@ -22809,7 +22809,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -22970,7 +22970,7 @@
         "matrixStats",
         "foreach",
         "doParallel",
-        "MASS",
+
         "survival",
         "GenomeInfoDb",
         "XVector",
@@ -23195,7 +23195,7 @@
         "Matrix",
         "BiocGenerics",
         "robustbase",
-        "MASS",
+
         "usethis",
         "cli",
         "desc",
@@ -23338,7 +23338,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -23518,7 +23518,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -23646,7 +23646,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "hms",
         "prettyunits",
         "bitops",
@@ -23751,7 +23751,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -23876,7 +23876,7 @@
         "gtools",
         "caTools",
         "KernSmooth",
-        "MASS",
+
         "ggplot2",
         "stringr",
         "modeest",
@@ -23990,7 +23990,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "foreign",
         "haven",
@@ -24122,7 +24122,7 @@
         "reshape2",
         "ggrepel",
         "codetools",
-        "MASS",
+
         "mclust",
         "flexmix",
         "prabclus",
@@ -24369,7 +24369,7 @@
         "purrr",
         "data.table",
         "RcppEigen",
-        "MASS",
+
         "codetools",
         "iterators",
         "digest",
@@ -24428,7 +24428,7 @@
         "foreach",
         "ggplot2",
         "limma",
-        "MASS",
+
         "moments",
         "outliers",
         "plotrix",
@@ -24622,7 +24622,7 @@
         "curl",
         "RCurl",
         "BiocIO",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -24792,7 +24792,7 @@
         "openssl",
         "R6",
         "rpart",
-        "MASS",
+
         "nnet",
         "cluster",
         "lava",
@@ -24919,7 +24919,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -25037,7 +25037,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -25271,7 +25271,7 @@
         "vctrs",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -25351,7 +25351,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
 
         "deldir",
         "RcppEigen"
@@ -25382,7 +25382,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -25542,7 +25542,7 @@
         "generics",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "base64enc",
         "formatR",
@@ -25579,7 +25579,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -25636,7 +25636,7 @@
         "e1071",
         "class",
         "proxy",
-        "MASS"
+
     ],
     "coseq": [
         "SummarizedExperiment",
@@ -25657,7 +25657,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "tensorA",
         "robustbase",
         "bayesm",
@@ -25765,7 +25765,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "clue",
         "vsn",
         "affy",
@@ -25871,7 +25871,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "annotate",
@@ -25993,7 +25993,7 @@
         "survival",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -26117,7 +26117,7 @@
         "ade4",
         "Biobase",
         "genefilter",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -26192,7 +26192,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -26280,14 +26280,14 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "CRImage": [
         "EBImage",
         "DNAcopy",
         "aCGH",
-        "MASS",
+
         "e1071",
         "foreach",
         "sgeostat",
@@ -26371,7 +26371,7 @@
         "ade4",
         "segmented",
         "zlibbioc",
-        "MASS",
+
         "pixmap",
         "sp",
         "rprojroot",
@@ -26524,7 +26524,7 @@
         "restfulr",
         "ade4",
         "segmented",
-        "MASS",
+
         "pixmap",
         "sp",
         "dbplyr",
@@ -26599,7 +26599,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -26826,7 +26826,7 @@
         "lattice",
         "GenomeInfoDbData",
 
-        "MASS",
+
         "scales",
         "base64enc",
         "yaml",
@@ -26950,7 +26950,7 @@
         "Matrix",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -27037,7 +27037,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -27136,7 +27136,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -27206,7 +27206,7 @@
         "matrixStats",
         "densityClust",
         "Rtsne",
-        "MASS",
+
         "reshape2",
         "limma",
         "tibble",
@@ -27370,7 +27370,7 @@
         "BH",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "rlist",
@@ -27468,7 +27468,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -27532,7 +27532,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -27719,7 +27719,7 @@
         "jquerylib",
         "promises",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "mime",
@@ -27898,7 +27898,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -28027,7 +28027,7 @@
         "proxy",
 
         "DynDoc",
-        "MASS"
+
     ],
     "cydar": [
         "SingleCellExperiment",
@@ -28090,7 +28090,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -28185,7 +28185,7 @@
         "stringr",
         "strucchange",
         "ggrepel",
-        "MASS",
+
         "logging",
         "Matrix",
         "caret",
@@ -28450,7 +28450,7 @@
         "strucchange",
         "tibble",
         "ggrepel",
-        "MASS",
+
         "logging",
         "Matrix",
         "tidyr",
@@ -28713,7 +28713,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -28830,7 +28830,7 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "MASS",
+
         "clue",
         "ks",
         "rrcov",
@@ -28962,7 +28962,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -29160,7 +29160,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -29243,7 +29243,7 @@
         "scales",
         "RSQLite",
         "RCurl",
-        "MASS",
+
         "pixmap",
         "sp",
         "Biobase",
@@ -29306,7 +29306,7 @@
         "utf8"
     ],
     "daMA": [
-        "MASS"
+
     ],
     "DAMEfinder": [
         "GenomeInfoDb",
@@ -29344,7 +29344,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -29442,7 +29442,7 @@
         "randomForest",
         "e1071",
         "caret",
-        "MASS",
+
         "lubridate",
         "plsVarSel",
         "kknn",
@@ -29754,7 +29754,7 @@
         "emmeans",
         "flashClust",
 
-        "MASS",
+
 
         "scatterplot3d",
         "cli",
@@ -30025,7 +30025,7 @@
         "Biobase",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -30182,7 +30182,7 @@
         "ggplot2",
 
         "expm",
-        "MASS",
+
         "CombinePValue",
         "edgeR",
         "epiNEM",
@@ -30444,7 +30444,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -30576,7 +30576,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -30657,7 +30657,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "MASS",
+
         "iterators",
         "generics",
         "glue",
@@ -30801,7 +30801,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -30959,7 +30959,7 @@
         "gdata",
         "reshape2",
         "gridExtra",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -31103,7 +31103,7 @@
         "crayon",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -31182,7 +31182,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -31268,7 +31268,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -31304,7 +31304,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -31347,7 +31347,7 @@
         "quadprog",
         "nnls",
         "rsq",
-        "MASS",
+
         "dplyr",
         "tidyr",
         "assertthat",
@@ -31484,7 +31484,7 @@
 
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "cli",
@@ -31696,7 +31696,7 @@
         "gridExtra",
         "sys",
 
-        "MASS",
+
         "mgcv",
         "colorspace",
         "zoo",
@@ -31837,7 +31837,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -31923,7 +31923,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32136,7 +32136,7 @@
         "vctrs",
         "pillar",
         "limma",
-        "MASS",
+
 
         "mgcv",
         "withr",
@@ -32208,7 +32208,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32337,7 +32337,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32412,7 +32412,7 @@
         "zoo",
 
         "timeSeries",
-        "MASS",
+
         "spatial",
 
         "stabledist",
@@ -32466,7 +32466,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32591,7 +32591,7 @@
         "jquerylib",
         "promises",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -32688,7 +32688,7 @@
     ],
     "DepecheR": [
         "ggplot2",
-        "MASS",
+
 
         "dplyr",
         "gplots",
@@ -32769,7 +32769,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32869,7 +32869,7 @@
         "futile.options",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -32990,7 +32990,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -33173,7 +33173,7 @@
         "lambda.r",
         "futile.options",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -33246,7 +33246,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -33303,7 +33303,7 @@
     ],
     "DEsingle": [
         "Matrix",
-        "MASS",
+
 
         "bbmle",
         "gamlss",
@@ -33358,7 +33358,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -33486,7 +33486,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -33609,7 +33609,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -33700,7 +33700,7 @@
         "edgeR",
         "amap",
         "gplots",
-        "MASS",
+
         "futile.logger",
         "snow",
         "BH",
@@ -33827,7 +33827,7 @@
         "RCurl",
         "GenomeInfoDbData",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -33907,7 +33907,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -34002,7 +34002,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -34137,7 +34137,7 @@
         "viridis",
         "htmltools",
         "base64enc",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -34253,7 +34253,7 @@
         "XML",
         "scattermore",
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -34500,7 +34500,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -34571,7 +34571,7 @@
     ],
     "diffuStats": [
         "Matrix",
-        "MASS",
+
         "checkmate",
         "expm",
         "igraph",
@@ -34675,7 +34675,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -34763,7 +34763,7 @@
         "proxy",
         "lattice",
         "nlme",
-        "MASS",
+
         "segmented",
         "survival",
 
@@ -34813,7 +34813,7 @@
         "KernSmooth",
         "leiden",
         "lmtest",
-        "MASS",
+
         "miniUI",
         "patchwork",
 
@@ -34962,7 +34962,7 @@
         "Biobase",
         "biwt",
         "gtools",
-        "MASS",
+
         "BiocGenerics",
         "robustbase",
         "DEoptimR"
@@ -35027,7 +35027,7 @@
         "scales",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "dendextend",
@@ -35133,7 +35133,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -35212,7 +35212,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -35281,7 +35281,7 @@
         "GenomicRanges",
         "IRanges",
         "speedglm",
-        "MASS",
+
         "data.table",
         "arm",
         "rtracklayer",
@@ -35386,7 +35386,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "BiocGenerics",
         "GenomeInfoDb",
         "XVector",
@@ -35506,7 +35506,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "GEOquery",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -35709,7 +35709,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -35796,7 +35796,7 @@
     ],
     "DMRScan": [
         "Matrix",
-        "MASS",
+
         "RcppRoll",
         "GenomicRanges",
         "IRanges",
@@ -35876,7 +35876,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -36028,7 +36028,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -36238,7 +36238,7 @@
 
         "preprocessCore",
         "zlibbioc",
-        "MASS",
+
         "car",
         "gtools",
         "multcomp",
@@ -36388,7 +36388,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -36455,7 +36455,7 @@
         "locfit",
 
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -36507,7 +36507,7 @@
     ],
     "dpeak": [
 
-        "MASS",
+
         "IRanges",
         "BSgenome",
         "BiocGenerics",
@@ -36563,7 +36563,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -36600,7 +36600,7 @@
         "prettyunits"
     ],
     "DRIMSeq": [
-        "MASS",
+
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
@@ -36851,7 +36851,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -36991,7 +36991,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -37055,7 +37055,7 @@
         "scales",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "MatrixGenerics",
@@ -37156,7 +37156,7 @@
         "AnnotationHub",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -37414,7 +37414,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "matrixStats",
         "hms",
         "prettyunits",
@@ -37500,7 +37500,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -37702,7 +37702,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "hms",
         "prettyunits",
         "bit64",
@@ -37751,7 +37751,7 @@
         "snm",
         "jackstraw",
         "qvalue",
-        "MASS",
+
         "BiocGenerics",
         "ggplot2",
         "reshape2",
@@ -37906,7 +37906,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -38014,7 +38014,7 @@
         "zoo",
         "igraph",
         "plyr",
-        "MASS",
+
         "RCurl",
         "BiocGenerics",
         "httr",
@@ -38112,7 +38112,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -38264,7 +38264,7 @@
         "promises",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -38390,7 +38390,7 @@
         "BiocIO",
         "Biobase",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggsci",
@@ -38538,7 +38538,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -38579,7 +38579,7 @@
         "scales",
 
         "maps",
-        "MASS",
+
         "extrafont",
         "tibble",
         "plotly",
@@ -38739,7 +38739,7 @@
 
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
 
@@ -38782,7 +38782,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -39010,7 +39010,7 @@
         "mclust",
         "nlme",
         "reshape",
-        "MASS",
+
         "data.table",
         "GEOquery",
         "DelayedArray",
@@ -39267,7 +39267,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -39393,7 +39393,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -39857,7 +39857,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "nortest",
         "BiocGenerics",
         "S4Vectors",
@@ -39961,7 +39961,7 @@
         "rematch2"
     ],
     "EpiDISH": [
-        "MASS",
+
         "e1071",
         "quadprog",
         "matrixStats",
@@ -39997,7 +39997,7 @@
         "GenomeInfoDbData",
         "XVector",
         "coda",
-        "MASS",
+
         "lattice",
         "mcmc",
         "quantreg",
@@ -40085,7 +40085,7 @@
         "Rhdf5lib",
         "rhdf5",
         "Matrix",
-        "MASS",
+
         "scales",
         "ggpubr",
         "ggplot2",
@@ -40225,7 +40225,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -40383,7 +40383,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "infotheo",
         "cluster",
         "Rgraphviz",
@@ -40545,7 +40545,7 @@
         "SummarizedExperiment",
         "BiocParallel",
 
-        "MASS",
+
         "mgcv",
 
         "utf8",
@@ -41020,7 +41020,7 @@
         "gtools",
         "limma",
         "locfit",
-        "MASS",
+
         "plyr",
         "qvalue",
         "reshape2",
@@ -41089,7 +41089,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -41209,7 +41209,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -41332,7 +41332,7 @@
         "biomaRt",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -41490,7 +41490,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -41572,7 +41572,7 @@
         "Rtsne",
         "MLP",
         "Biobase",
-        "MASS",
+
         "BiocGenerics",
         "lattice",
         "AnnotationDbi",
@@ -41658,7 +41658,7 @@
         "plotrix",
         "matrixStats",
         "Rdpack",
-        "MASS",
+
         "class",
         "prabclus",
         "mclust",
@@ -41763,7 +41763,7 @@
         "stringr",
         "GenomeInfoDb",
         "igraph",
-        "MASS",
+
         "nnls",
         "limma",
         "matrixStats",
@@ -41938,7 +41938,7 @@
         "globals",
         "listenv",
         "parallelly",
-        "MASS",
+
         "glue",
 
         "mgcv",
@@ -42144,7 +42144,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -42541,7 +42541,7 @@
         "rintrojs",
         "scales",
         "tibble",
-        "MASS",
+
         "limma",
         "S4Vectors",
         "shinyjs",
@@ -42668,7 +42668,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -42799,7 +42799,7 @@
         "shadowtext",
         "ggtree",
 
-        "MASS",
+
         "mgcv",
 
         "yaml",
@@ -42853,7 +42853,7 @@
     ],
     "farms": [
         "affy",
-        "MASS",
+
         "Biobase",
         "BiocGenerics",
         "affyio",
@@ -42902,7 +42902,7 @@
         "S4Vectors",
         "KEGGREST",
         "codetools",
-        "MASS",
+
         "broom",
         "magrittr",
         "digest",
@@ -43037,7 +43037,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "lambda.r",
         "futile.options",
@@ -43073,7 +43073,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -43152,7 +43152,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -43306,7 +43306,7 @@
         "mclust",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -43550,7 +43550,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -43627,7 +43627,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "purrr",
@@ -43726,7 +43726,7 @@
         "RSQLite",
         "DBI",
         "AnnotationDbi",
-        "MASS",
+
         "scales",
         "reshape2",
         "ggplot2",
@@ -43889,7 +43889,7 @@
         "RcppEigen",
         "RcppArmadillo",
         "BH",
-        "MASS",
+
         "assertthat",
         "blob",
         "cli",
@@ -43956,7 +43956,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -44057,7 +44057,7 @@
         "Biobase",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
 
@@ -44175,7 +44175,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -44213,7 +44213,7 @@
         "xcms",
         "CAMERA",
         "gplots",
-        "MASS",
+
         "SparseM",
         "Biobase",
         "RBGL",
@@ -44408,7 +44408,7 @@
         "vipor",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "rprojroot",
@@ -44450,7 +44450,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -44530,7 +44530,7 @@
         "limma",
         "snow",
         "BiocGenerics",
-        "MASS",
+
         "Biobase",
 
         "matrixStats",
@@ -44618,7 +44618,7 @@
         "lambda.r",
         "futile.options",
 
-        "MASS",
+
         "mgcv",
         "yaml",
 
@@ -44670,7 +44670,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -44749,7 +44749,7 @@
         "lattice",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -44800,7 +44800,7 @@
         "flowWorkspace",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -44927,7 +44927,7 @@
         "KernSmooth",
         "permute",
         "lattice",
-        "MASS",
+
         "cluster",
         "mgcv",
         "bitops",
@@ -44945,7 +44945,7 @@
         "flowWorkspace",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -45088,7 +45088,7 @@
         "lattice",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -45132,7 +45132,7 @@
         "uuid",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -45167,7 +45167,7 @@
         "reshape2",
         "scales",
         "Matrix",
-        "MASS",
+
         "pixmap",
         "sp",
         "foreach",
@@ -45273,7 +45273,7 @@
         "Rhdf5lib",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -45304,7 +45304,7 @@
         "shiny",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -45473,7 +45473,7 @@
         "aws.signature",
         "ncdfFlow",
         "DelayedArray",
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -45609,7 +45609,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -45644,7 +45644,7 @@
     ],
     "flowStats": [
         "BiocGenerics",
-        "MASS",
+
         "flowCore",
         "flowWorkspace",
         "ncdfFlow",
@@ -45797,7 +45797,7 @@
         "lattice",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -45835,7 +45835,7 @@
         "Biobase",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -45869,7 +45869,7 @@
         "RcppArmadillo",
         "BH",
         "RProtoBufLib",
-        "MASS",
+
         "flowWorkspace",
         "ncdfFlow",
         "fda",
@@ -46005,7 +46005,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -46059,7 +46059,7 @@
         "promises",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -46127,7 +46127,7 @@
         "BH",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -46214,7 +46214,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -46348,7 +46348,7 @@
         "BiocIO",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "rhdf5filters",
@@ -46447,7 +46447,7 @@
         "MCMCpack",
         "NHPoisson",
         "coda",
-        "MASS",
+
         "lattice",
         "mcmc",
         "quantreg",
@@ -46528,7 +46528,7 @@
         "colorspace"
     ],
     "FRGEpistasis": [
-        "MASS",
+
         "fda",
         "fds",
         "deSolve",
@@ -46581,7 +46581,7 @@
     ],
     "frma": [
         "Biobase",
-        "MASS",
+
         "DBI",
         "affy",
         "oligo",
@@ -46703,7 +46703,7 @@
         "futile.options",
         "lattice",
         "matrixStats",
-        "MASS",
+
         "pcaPP",
         "hdrcde",
         "cluster",
@@ -46770,7 +46770,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -47261,7 +47261,7 @@
         "randomForest",
         "e1071",
         "caret",
-        "MASS",
+
         "lubridate",
         "plsVarSel",
         "kknn",
@@ -47512,7 +47512,7 @@
         "lattice",
         "KernSmooth",
         "latticeExtra",
-        "MASS",
+
         "RColorBrewer",
         "hexbin",
         "IDPmisc",
@@ -47535,7 +47535,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "matrixStats",
-        "MASS",
+
         "XVector",
         "crayon",
         "rtracklayer",
@@ -47590,7 +47590,7 @@
         "doParallel",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -47775,7 +47775,7 @@
 
         "knitr",
 
-        "MASS",
+
         "brio",
         "evaluate",
         "praise",
@@ -47881,7 +47881,7 @@
         "tibble",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -48070,7 +48070,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -48113,7 +48113,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "kernlab",
@@ -48263,7 +48263,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -48377,7 +48377,7 @@
         "Biobase",
         "XML",
         "RSQLite",
-        "MASS",
+
         "Heatplus",
         "RColorBrewer",
         "RBGL",
@@ -48658,7 +48658,7 @@
         "openssl",
         "R6",
         "rpart",
-        "MASS",
+
         "nnet",
         "cluster",
 
@@ -48718,7 +48718,7 @@
         "hash",
         "ade4",
         "segmented",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -48742,7 +48742,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggplot2",
@@ -49014,7 +49014,7 @@
     ],
     "GeneSelectMMD": [
         "Biobase",
-        "MASS",
+
         "limma",
         "BiocGenerics"
     ],
@@ -49087,7 +49087,7 @@
 
         "SparseM",
         "MatrixModels",
-        "MASS",
+
         "bitops",
         "backports",
         "ellipsis",
@@ -49173,7 +49173,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "bitops",
         "rjson",
         "yaml",
@@ -49262,10 +49262,10 @@
         "lattice",
         "cluster",
         "infotheo",
-        "MASS"
+
     ],
     "GeneticsPed": [
-        "MASS",
+
         "gdata",
         "genetics",
         "gtools",
@@ -49352,7 +49352,7 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -49592,7 +49592,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -49815,7 +49815,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -50025,7 +50025,7 @@
         "SummarizedExperiment",
         "backports",
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "MatrixGenerics",
@@ -50078,7 +50078,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -50231,7 +50231,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -50489,7 +50489,7 @@
         "gdtools",
         "base64enc",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -50629,7 +50629,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -50745,7 +50745,7 @@
         "loo",
         "pkgbuild",
         "BH",
-        "MASS",
+
         "generics",
         "glue",
         "lifecycle",
@@ -50832,7 +50832,7 @@
         "BiocIO",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -50922,7 +50922,7 @@
         "outliers",
         "lmerTest",
         "dplyr",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -51053,7 +51053,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -51301,7 +51301,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "ggplot2",
         "nortest",
         "lme4",
@@ -51529,7 +51529,7 @@
         "pillar",
         "codetools",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -51625,7 +51625,7 @@
         "car",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -51754,7 +51754,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -51883,7 +51883,7 @@
         "Rhdf5lib",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -51960,7 +51960,7 @@
         "scales",
 
         "maps",
-        "MASS",
+
         "extrafont",
         "plotly",
 
@@ -52048,7 +52048,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "colorspace",
         "hms",
@@ -52073,7 +52073,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -52194,7 +52194,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -52222,7 +52222,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -52267,7 +52267,7 @@
     ],
     "GIGSEA": [
         "Matrix",
-        "MASS",
+
         "locfdr",
         "lattice"
     ],
@@ -52303,7 +52303,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "lambda.r",
         "futile.options",
 
@@ -52347,7 +52347,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
 
         "DBI",
         "xtable",
@@ -52466,7 +52466,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -52545,7 +52545,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -52664,7 +52664,7 @@
         "lambda.r",
         "futile.options",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "foreach",
@@ -52817,7 +52817,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -53110,7 +53110,7 @@
         "bit",
         "vctrs",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -53298,7 +53298,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "Matrix",
@@ -53366,7 +53366,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -53508,7 +53508,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -53933,7 +53933,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -53984,7 +53984,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -54097,7 +54097,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -54254,7 +54254,7 @@
         "stringr",
         "BiocGenerics",
 
-        "MASS",
+
         "boot",
         "mvtnorm",
         "expm",
@@ -54312,7 +54312,7 @@
         "ggplotify",
         "limSolve",
         "magrittr",
-        "MASS",
+
         "nnls",
         "pheatmap",
         "purrr",
@@ -54408,7 +54408,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -54439,7 +54439,7 @@
         "MCMCpack",
         "BiocGenerics",
         "coda",
-        "MASS",
+
         "lattice",
         "mcmc",
         "quantreg",
@@ -54519,7 +54519,7 @@
         "lattice",
         "Biobase",
         "survival",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc",
@@ -54533,7 +54533,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -54567,7 +54567,7 @@
         "BSgenome",
         "Rsamtools",
         "rtracklayer",
-        "MASS",
+
         "GenomeInfoDb",
         "SummarizedExperiment",
         "BiocGenerics",
@@ -54606,7 +54606,7 @@
         "plotly",
         "ggplot2",
         "S4Vectors",
-        "MASS",
+
         "car",
         "gtools",
         "multcomp",
@@ -54721,7 +54721,7 @@
         "rematch2"
     ],
     "groHMM": [
-        "MASS",
+
         "S4Vectors",
         "IRanges",
         "GenomeInfoDb",
@@ -54800,7 +54800,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -54876,7 +54876,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "MASS",
+
         "spatial",
 
         "stabledist",
@@ -55108,7 +55108,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -55164,7 +55164,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -55581,7 +55581,7 @@
         "futile.options",
         "BiocIO",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -55679,7 +55679,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -55801,7 +55801,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -55912,7 +55912,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -56127,7 +56127,7 @@
 
         "SparseM",
         "MatrixModels",
-        "MASS",
+
         "backports",
         "ellipsis",
         "glue",
@@ -56238,7 +56238,7 @@
 
         "SparseM",
         "MatrixModels",
-        "MASS",
+
         "rjson",
         "yaml",
         "dbplyr",
@@ -56308,7 +56308,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -56444,7 +56444,7 @@
         "GenomeInfoDbData",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -56749,7 +56749,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -56797,7 +56797,7 @@
         "codetools",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "XML",
@@ -56876,7 +56876,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "scales",
         "withr",
         "SummarizedExperiment",
@@ -56942,7 +56942,7 @@
         "tidyr",
         "GenomeInfoDb",
 
-        "MASS",
+
         "GenomicRanges",
         "IRanges",
         "tibble",
@@ -57174,7 +57174,7 @@
         "Biobase",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "rjags",
         "coda",
@@ -57346,7 +57346,7 @@
 
 
         "bslib",
-        "MASS",
+
         "zlibbioc",
         "sys",
         "sass",
@@ -57378,7 +57378,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -57476,7 +57476,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "cli",
@@ -57586,7 +57586,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -57700,7 +57700,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "curl",
@@ -57833,7 +57833,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "rjson",
         "yaml",
         "bit64",
@@ -57910,7 +57910,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -58114,7 +58114,7 @@
     "HybridMTest": [
         "Biobase",
         "fdrtool",
-        "MASS",
+
         "survival",
         "BiocGenerics",
         "Matrix",
@@ -58149,7 +58149,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -58261,7 +58261,7 @@
         "biclust",
         "xtable",
         "ade4",
-        "MASS",
+
         "pixmap",
         "sp",
         "colorspace",
@@ -58313,7 +58313,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -58360,7 +58360,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -58453,7 +58453,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -58541,7 +58541,7 @@
         "limma",
         "GeneSelectMMD",
         "rgl",
-        "MASS",
+
         "lmtest",
         "scatterplot3d",
         "BiocGenerics",
@@ -58734,7 +58734,7 @@
         "maps",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -58816,7 +58816,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "plyr",
@@ -58930,7 +58930,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -59164,7 +59164,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -59219,7 +59219,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "Matrix",
@@ -59285,7 +59285,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -59464,7 +59464,7 @@
 
         "magrittr",
         "viridis",
-        "MASS",
+
         "boot",
         "mvtnorm",
         "expm",
@@ -59587,7 +59587,7 @@
         "RBGL",
         "annotate",
         "DBI",
-        "MASS",
+
         "survival",
         "digest",
         "glue",
@@ -59689,7 +59689,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "withr",
@@ -59841,7 +59841,7 @@
         "RCurl",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -59973,7 +59973,7 @@
         "gplots",
         "hash",
         "plotrix",
-        "MASS",
+
         "pixmap",
         "sp",
         "GenomeInfoDbData",
@@ -60043,7 +60043,7 @@
         "Rhdf5lib",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -60159,7 +60159,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -60367,7 +60367,7 @@
         "pillar",
         "limma",
         "locfit",
-        "MASS",
+
         "codetools",
         "lambda.r",
         "futile.options",
@@ -60492,7 +60492,7 @@
         "e1071",
         "stringr",
         "nnet",
-        "MASS",
+
         "Rsolnp",
         "nlme",
         "generics",
@@ -60623,7 +60623,7 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "MASS",
+
         "plyr",
         "zlibbioc",
         "bitops",
@@ -60731,7 +60731,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -60893,7 +60893,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -61135,7 +61135,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -61322,7 +61322,7 @@
         "reshape2",
         "ggrepel",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "attempt",
@@ -61506,7 +61506,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "MASS",
+
         "pixmap",
         "sp",
         "KEGGREST",
@@ -61675,7 +61675,7 @@
         "multcomp",
         "htmlTable",
         "htmltools",
-        "MASS",
+
         "cluster",
         "digest",
         "glue",
@@ -61766,7 +61766,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -61828,7 +61828,7 @@
         "gtools",
         "Biobase",
         "survival",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "Matrix",
@@ -61852,7 +61852,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -62086,7 +62086,7 @@
         "pkgconfig",
 
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -62210,7 +62210,7 @@
 
         "tidyr",
 
-        "MASS",
+
 
         "bbmle",
         "gamlss",
@@ -62470,7 +62470,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -62550,7 +62550,7 @@
         "promises",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -62629,7 +62629,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -62724,7 +62724,7 @@
         "rappdirs",
 
         "startupmsg",
-        "MASS",
+
         "glue",
 
         "mgcv",
@@ -62921,7 +62921,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "locfit",
 
         "lambda.r",
@@ -63046,7 +63046,7 @@
         "nlme",
         "quadprog",
         "mvtnorm",
-        "MASS",
+
         "Matrix",
         "xtable",
         "affy",
@@ -63161,7 +63161,7 @@
         "progress",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "caTools",
@@ -63333,7 +63333,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -63405,7 +63405,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "withr",
@@ -63506,7 +63506,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -63657,7 +63657,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "zlibbioc",
-        "MASS",
+
         "pcaPP",
         "hdrcde",
         "cluster",
@@ -63802,7 +63802,7 @@
         "futile.options",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -63848,7 +63848,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
 
         "Matrix",
         "lattice"
@@ -63871,7 +63871,7 @@
         "proxy",
         "lattice",
         "zlibbioc",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "bitops"
@@ -64060,7 +64060,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -64188,7 +64188,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -64465,7 +64465,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -64516,7 +64516,7 @@
     "lefser": [
         "SummarizedExperiment",
         "coin",
-        "MASS",
+
         "ggplot2",
         "survival",
         "libcoin",
@@ -64613,7 +64613,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -64708,7 +64708,7 @@
         "doParallel",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -64778,7 +64778,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -64903,7 +64903,7 @@
         "ellipse",
         "limma",
         "statmod",
-        "MASS",
+
         "igraph",
         "fastcluster",
         "ggdendro",
@@ -65003,7 +65003,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tmvtnorm",
@@ -65056,7 +65056,7 @@
         "org.Sc.sgd.db",
         "Biobase",
         "BiocGenerics",
-        "MASS",
+
         "broom",
         "magrittr",
         "AnnotationDbi",
@@ -65143,7 +65143,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "V8",
         "sf",
         "magrittr",
@@ -65277,7 +65277,7 @@
         "pkgconfig",
 
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -65484,7 +65484,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "MASS",
+
         "pixmap",
         "sp",
         "lambda.r",
@@ -65605,7 +65605,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -65690,7 +65690,7 @@
         "RSQLite",
         "DBI",
         "AnnotationDbi",
-        "MASS",
+
         "BiocGenerics",
         "affyio",
 
@@ -65866,7 +65866,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -65927,7 +65927,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -65976,7 +65976,7 @@
         "reldist",
         "Hmisc",
         "lattice",
-        "MASS",
+
 
         "mvtnorm",
         "gtools",
@@ -66142,7 +66142,7 @@
         "proxy",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "jsonlite",
@@ -66236,7 +66236,7 @@
         "hash",
         "optparse",
         "glmmTMB",
-        "MASS",
+
         "cplm",
         "pscl",
         "lme4",
@@ -66472,7 +66472,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "R.oo",
         "R.methodsS3",
         "cli",
@@ -66516,7 +66516,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -66677,7 +66677,7 @@
         "Biobase",
         "SummarizedExperiment",
         "ade4",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -66769,7 +66769,7 @@
 
         "pkgconfig",
         "permute",
-        "MASS",
+
         "cluster",
         "mgcv",
         "progress",
@@ -66874,7 +66874,7 @@
 
         "stringr",
         "GenomicRanges",
-        "MASS",
+
         "cluster",
         "fields",
         "gplots",
@@ -67035,7 +67035,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -67154,7 +67154,7 @@
         "Biobase",
         "BiocGenerics",
 
-        "MASS",
+
         "MatrixGenerics",
         "GenomicRanges",
         "Matrix",
@@ -67290,7 +67290,7 @@
         "gplots",
         "e1071",
         "class",
-        "MASS",
+
         "plsgenomics",
         "agricolae",
         "xcms",
@@ -67523,7 +67523,7 @@
 
         "Matrix",
         "cluster",
-        "MASS",
+
         "ade4",
         "R2HTML",
         "class",
@@ -67564,7 +67564,7 @@
         "bitops"
     ],
     "maPredictDSC": [
-        "MASS",
+
         "affy",
         "limma",
         "gcrma",
@@ -67717,7 +67717,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -67801,7 +67801,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -67914,7 +67914,7 @@
         "Biobase",
         "venn",
         "mclust",
-        "MASS",
+
         "BiocGenerics",
         "admisc"
     ],
@@ -67968,7 +67968,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -68063,7 +68063,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -68232,7 +68232,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -68385,7 +68385,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -68477,7 +68477,7 @@
 
         "SparseM",
         "MatrixModels",
-        "MASS",
+
         "backports",
         "ellipsis",
         "glue",
@@ -68527,7 +68527,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -68642,7 +68642,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -68775,7 +68775,7 @@
         "Biobase",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -68888,7 +68888,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -68915,7 +68915,7 @@
     ],
     "mdqc": [
         "cluster",
-        "MASS"
+
     ],
     "MDTS": [
         "GenomicAlignments",
@@ -68976,7 +68976,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -69205,7 +69205,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -69340,7 +69340,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -69446,7 +69446,7 @@
     ],
     "MEDME": [
         "Biostrings",
-        "MASS",
+
         "drc",
         "BiocGenerics",
         "S4Vectors",
@@ -69644,7 +69644,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -69694,7 +69694,7 @@
         "rmarkdown",
         "yaml",
 
-        "MASS",
+
         "e1071",
         "earth",
         "randomForest",
@@ -69807,7 +69807,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -69978,7 +69978,7 @@
         "Matrix",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -70183,7 +70183,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "plyr",
@@ -70236,7 +70236,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -70290,7 +70290,7 @@
         "snow",
         "BH",
         "waveslim",
-        "MASS",
+
         "clue",
         "vsn",
         "affy",
@@ -70388,7 +70388,7 @@
         "iterators",
         "digest",
 
-        "MASS",
+
         "scales",
 
         "data.table",
@@ -70428,7 +70428,7 @@
         "stringr",
         "MsCoreUtils",
         "S4Vectors",
-        "MASS",
+
         "clue",
 
         "glue",
@@ -70512,7 +70512,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -70602,7 +70602,7 @@
         "crayon",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -70771,7 +70771,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -70961,7 +70961,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -71066,7 +71066,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -71177,7 +71177,7 @@
         "pkgconfig",
 
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -71273,7 +71273,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -71332,7 +71332,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -71397,7 +71397,7 @@
         "lattice",
         "log4r",
         "magrittr",
-        "MASS",
+
         "Matrix",
         "NBPSeq",
         "pander",
@@ -71637,7 +71637,7 @@
         "scales",
         "permute",
         "lattice",
-        "MASS",
+
         "mgcv",
         "pixmap",
         "sp",
@@ -71760,7 +71760,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "htmltools",
@@ -71838,7 +71838,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -71936,7 +71936,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -71995,7 +71995,7 @@
         "survival",
         "mvtnorm",
         "expm",
-        "MASS",
+
         "lattice",
         "plyr",
         "coda",
@@ -72074,7 +72074,7 @@
         "stringr",
         "readr",
         "Matrix",
-        "MASS",
+
 
         "pscl",
         "IRanges",
@@ -72245,7 +72245,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -72312,7 +72312,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "MASS",
+
         "pixmap",
         "sp",
         "bitops",
@@ -72340,7 +72340,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -72543,7 +72543,7 @@
         "mclust",
         "nlme",
         "reshape",
-        "MASS",
+
         "GEOquery",
         "rtracklayer",
         "GenomicAlignments",
@@ -72686,7 +72686,7 @@
         "rappdirs",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "ggpp",
@@ -72946,7 +72946,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -73132,7 +73132,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -73225,7 +73225,7 @@
         "limma",
         "Rhtslib",
         "zlibbioc",
-        "MASS",
+
         "lattice",
         "plyr",
         "coda",
@@ -73304,7 +73304,7 @@
         "iterators",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -73371,7 +73371,7 @@
         "cluster",
         "gclus",
         "colorspace",
-        "MASS",
+
         "registry",
         "httpuv",
         "mime",
@@ -73605,7 +73605,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -73767,7 +73767,7 @@
         "jquerylib",
         "promises",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -73868,7 +73868,7 @@
         "reshape2",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -73936,7 +73936,7 @@
         "GGally",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -73981,7 +73981,7 @@
         "proxy",
 
         "DynDoc",
-        "MASS"
+
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -74106,7 +74106,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "MASS",
+
         "ape",
         "decontam",
         "vegan",
@@ -74273,7 +74273,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -74381,7 +74381,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ade4",
@@ -74437,7 +74437,7 @@
     ],
     "microbiomeDASim": [
         "ggplot2",
-        "MASS",
+
         "tmvtnorm",
         "Matrix",
         "mvtnorm",
@@ -74564,7 +74564,7 @@
         "ggplot2",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -74722,7 +74722,7 @@
         "phyloseq",
         "magrittr",
         "purrr",
-        "MASS",
+
         "ggplot2",
         "tibble",
 
@@ -74974,7 +74974,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -75107,7 +75107,7 @@
         "zoo",
         "ggtree",
         "tidytree",
-        "MASS",
+
 
         "tibble",
         "coin",
@@ -75263,7 +75263,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "base64enc",
@@ -75337,7 +75337,7 @@
 
         "lambda.r",
         "futile.options",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -75450,7 +75450,7 @@
         "vipor",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggforce",
@@ -75550,7 +75550,7 @@
         "cli"
     ],
     "MIMOSA": [
-        "MASS",
+
         "plyr",
         "reshape",
         "Biobase",
@@ -75657,7 +75657,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -75754,7 +75754,7 @@
 
         "codetools",
         "iterators",
-        "MASS",
+
         "flexmix",
         "prabclus",
         "class",
@@ -75940,7 +75940,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -76130,7 +76130,7 @@
     "MiPP": [
         "Biobase",
         "e1071",
-        "MASS",
+
         "BiocGenerics",
         "class",
         "proxy"
@@ -76145,7 +76145,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -76214,7 +76214,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -76330,7 +76330,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -76497,7 +76497,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -76714,7 +76714,7 @@
         "lattice",
         "randomcoloR",
         "multtest",
-        "MASS",
+
         "colorspace",
         "flexclust",
         "additivityTests",
@@ -76983,7 +76983,7 @@
         "gridExtra",
 
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -77051,7 +77051,7 @@
     ],
     "mirTarRnaSeq": [
         "purrr",
-        "MASS",
+
         "pscl",
         "assertthat",
         "caTools",
@@ -77138,7 +77138,7 @@
         "mclust",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -77257,7 +77257,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -77314,7 +77314,7 @@
         "filelock",
         "furrr",
         "ggplot2",
-        "MASS",
+
         "purrr",
         "ranger",
         "readr",
@@ -77401,7 +77401,7 @@
 
     ],
     "mitch": [
-        "MASS",
+
         "plyr",
         "reshape2",
         "GGally",
@@ -77509,7 +77509,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -77599,7 +77599,7 @@
         "sys"
     ],
     "mixOmics": [
-        "MASS",
+
         "lattice",
         "ggplot2",
         "igraph",
@@ -77664,7 +77664,7 @@
         "cluster",
         "gdata",
 
-        "MASS",
+
         "rpart",
         "genefilter",
         "fpc",
@@ -77841,7 +77841,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -78065,7 +78065,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -78151,7 +78151,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "cluster",
         "mclust",
         "flexmix",
@@ -78300,7 +78300,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -78355,7 +78355,7 @@
         "SummarizedExperiment",
         "topGO",
         "S4Vectors",
-        "MASS",
+
         "limma",
         "viridis",
         "edgeR",
@@ -78484,7 +78484,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -78604,7 +78604,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "rhdf5filters",
@@ -78791,7 +78791,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -78929,7 +78929,7 @@
         "vctrs",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -78989,7 +78989,7 @@
         "matrixStats",
         "densityClust",
         "Rtsne",
-        "MASS",
+
         "reshape2",
         "limma",
         "tibble",
@@ -79145,7 +79145,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -79219,7 +79219,7 @@
     ],
     "mosaics": [
 
-        "MASS",
+
         "lattice",
         "IRanges",
         "GenomicRanges",
@@ -79262,7 +79262,7 @@
         "QUBIC",
         "akmbiclust",
         "RColorBrewer",
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -79332,7 +79332,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -79406,7 +79406,7 @@
 
         "DBI",
         "Rhtslib",
-        "MASS",
+
         "pixmap",
         "sp",
         "RSQLite",
@@ -79614,7 +79614,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -79668,7 +79668,7 @@
         "ggplot2",
         "htmlwidgets",
         "XML",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -79753,7 +79753,7 @@
         "GenomeInfoDbData",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "mime",
@@ -79904,7 +79904,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -80015,7 +80015,7 @@
         "snow",
         "BH",
         "BiocGenerics",
-        "MASS",
+
         "clue",
 
         "fs",
@@ -80034,7 +80034,7 @@
         "snow",
         "BH",
         "BiocGenerics",
-        "MASS",
+
         "clue",
 
         "ProtGenerics",
@@ -80055,7 +80055,7 @@
         "snow",
         "BH",
         "BiocGenerics",
-        "MASS",
+
         "clue",
 
         "ProtGenerics",
@@ -80067,7 +80067,7 @@
     ],
     "MsCoreUtils": [
         "S4Vectors",
-        "MASS",
+
         "clue",
 
         "cluster",
@@ -80078,7 +80078,7 @@
         "MsCoreUtils",
         "SummarizedExperiment",
         "S4Vectors",
-        "MASS",
+
         "clue",
 
         "MatrixGenerics",
@@ -80150,7 +80150,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -80409,7 +80409,7 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "MASS",
+
         "gplots",
         "RColorBrewer",
         "gtools",
@@ -80487,7 +80487,7 @@
         "limma",
         "locfit",
 
-        "MASS",
+
         "gplots",
         "RColorBrewer",
         "BiocGenerics",
@@ -80579,7 +80579,7 @@
         "ggplot2",
         "XML",
         "scales",
-        "MASS",
+
 
         "affyio",
 
@@ -80681,7 +80681,7 @@
         "codetools",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -80814,7 +80814,7 @@
         "doRNG",
         "BiocGenerics",
 
-        "MASS",
+
         "stringi",
         "MatrixGenerics",
         "GenomicRanges",
@@ -80993,7 +80993,7 @@
         "codetools",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "Biobase",
@@ -81029,7 +81029,7 @@
         "purrr",
         "BiocParallel",
         "Matrix",
-        "MASS",
+
         "limma",
         "SummarizedExperiment",
         "codetools",
@@ -81135,7 +81135,7 @@
         "MSstatsConvert",
         "data.table",
         "checkmate",
-        "MASS",
+
         "limma",
         "lme4",
         "preprocessCore",
@@ -81251,7 +81251,7 @@
         "ggrepel",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggsci",
@@ -81401,7 +81401,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -81458,7 +81458,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -81539,7 +81539,7 @@
         "shinyjs",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "BiocGenerics",
@@ -81688,7 +81688,7 @@
         "jquerylib",
         "memoise",
 
-        "MASS",
+
         "mgcv",
         "yaml",
 
@@ -81775,7 +81775,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -81881,7 +81881,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -81955,7 +81955,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -82026,7 +82026,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -82092,7 +82092,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -82176,7 +82176,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -82316,7 +82316,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -82396,7 +82396,7 @@
         "backports",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -82502,7 +82502,7 @@
         "RColorBrewer",
         "scales",
         "calibrate",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "digest",
@@ -82738,7 +82738,7 @@
         "mutoss",
         "mathjaxr",
         "qqconf",
-        "MASS",
+
         "ellipse",
         "corpcor",
         "matrixStats",
@@ -82910,7 +82910,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -83130,7 +83130,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "TMB",
@@ -83273,7 +83273,7 @@
         "gtools",
         "gridExtra",
         "MCMCprecision",
-        "MASS",
+
         "matrixTests",
         "data.table",
         "dplyr",
@@ -83561,7 +83561,7 @@
         "RCurl",
         "GenomeInfoDbData",
         "lazyeval",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -83663,7 +83663,7 @@
         "ComplexHeatmap",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -83831,7 +83831,7 @@
         "GenomeInfoDbData",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -83962,7 +83962,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -84104,7 +84104,7 @@
         "XML",
         "BiocIO",
         "restfulr",
-        "MASS",
+
         "MatrixGenerics",
         "Biobase",
         "DelayedArray",
@@ -84335,7 +84335,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "clipr",
         "crayon",
@@ -84429,7 +84429,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -84498,7 +84498,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -84636,7 +84636,7 @@
         "data.table",
         "GenomeInfoDbData",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "gargle",
@@ -84704,7 +84704,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -84777,7 +84777,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -84819,7 +84819,7 @@
     ],
     "NBSplice": [
         "edgeR",
-        "MASS",
+
         "car",
         "mppa",
         "BiocParallel",
@@ -84951,7 +84951,7 @@
         "lambda.r",
         "futile.options",
         "waveslim",
-        "MASS",
+
         "clue",
         "vsn",
         "affy",
@@ -85068,7 +85068,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -85168,7 +85168,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -85261,7 +85261,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -85446,7 +85446,7 @@
         "ggplot2",
         "wesanderson",
         "XML",
-        "MASS",
+
         "modeltools",
         "digest",
         "glue",
@@ -85567,7 +85567,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -85704,7 +85704,7 @@
         "gridExtra",
 
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -85797,7 +85797,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -85880,7 +85880,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -85952,7 +85952,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -86054,7 +86054,7 @@
         "codetools",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -86096,7 +86096,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -86177,7 +86177,7 @@
         "cluster",
         "gclus",
         "colorspace",
-        "MASS",
+
         "registry",
         "dynamicTreeCut",
         "fastcluster",
@@ -86334,7 +86334,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -86461,7 +86461,7 @@
         "BiocGenerics",
         "GenomicRanges",
         "DelayedArray",
-        "MASS",
+
         "Matrix",
         "MatrixGenerics",
         "IRanges",
@@ -86574,7 +86574,7 @@
         "cli",
         "ellipsis",
         "withr",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -86648,7 +86648,7 @@
         "mvtnorm",
         "arm",
         "HTqPCR",
-        "MASS",
+
         "Matrix",
         "lme4",
         "abind",
@@ -86759,7 +86759,7 @@
         "Biostrings",
         "BiocIO",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "Matrix",
@@ -86832,7 +86832,7 @@
         "vsn",
         "preprocessCore",
         "limma",
-        "MASS",
+
         "ape",
         "car",
         "ggplot2",
@@ -86982,7 +86982,7 @@
         "ReadqPCR",
         "qpcR",
         "BiocGenerics",
-        "MASS",
+
         "minpack.lm",
         "rgl",
         "robustbase",
@@ -87037,7 +87037,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -87083,7 +87083,7 @@
         "tidyr",
         "BiocParallel",
         "broom",
-        "MASS",
+
 
         "magrittr",
         "futile.logger",
@@ -87207,7 +87207,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -87273,7 +87273,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -87400,7 +87400,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -87485,7 +87485,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
         "lattice",
         "Matrix"
     ],
@@ -87546,7 +87546,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -87716,7 +87716,7 @@
         "proxy",
         "lattice",
         "zlibbioc",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "bitops"
@@ -87878,7 +87878,7 @@
         "ade4",
         "made4",
         "Biobase",
-        "MASS",
+
         "pixmap",
         "sp",
         "BiocGenerics",
@@ -87937,7 +87937,7 @@
         "tensorA",
         "robustbase",
         "bayesm",
-        "MASS",
+
         "htmltools",
         "htmlwidgets",
         "magrittr",
@@ -88025,7 +88025,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -88225,7 +88225,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -88286,7 +88286,7 @@
         "factoextra",
         "rgl",
         "corrplot",
-        "MASS",
+
         "FactoMineR",
         "PerformanceAnalytics",
         "tidyr",
@@ -88480,7 +88480,7 @@
         "rematch2"
     ],
     "omicsPrint": [
-        "MASS",
+
         "matrixStats",
         "SummarizedExperiment",
         "MultiAssayExperiment",
@@ -88542,7 +88542,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "clipr",
@@ -88635,7 +88635,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -88756,7 +88756,7 @@
         "stringr",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -88899,7 +88899,7 @@
         "tidyselect",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "yaml",
         "curl",
@@ -88940,7 +88940,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -89062,7 +89062,7 @@
         "flowWorkspace",
         "flowStats",
         "flowClust",
-        "MASS",
+
         "clue",
         "plyr",
         "RBGL",
@@ -89202,7 +89202,7 @@
         "RSQLite",
         "DBI",
         "startupmsg",
-        "MASS",
+
         "generics",
         "glue",
         "lifecycle",
@@ -89348,7 +89348,7 @@
         "RSQLite",
         "DBI",
         "startupmsg",
-        "MASS",
+
         "generics",
         "tibble",
         "tidyselect",
@@ -89409,7 +89409,7 @@
     ],
     "OpenStats": [
         "nlme",
-        "MASS",
+
         "jsonlite",
         "Hmisc",
         "knitr",
@@ -89710,7 +89710,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -89877,7 +89877,7 @@
     ],
     "OPWeight": [
         "qvalue",
-        "MASS",
+
         "tibble",
         "ggplot2",
         "reshape2",
@@ -90034,7 +90034,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "mime",
         "openssl",
@@ -90316,7 +90316,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -90490,7 +90490,7 @@
         "latticeExtra",
         "Rhtslib",
         "permute",
-        "MASS",
+
         "cluster",
         "mgcv",
         "futile.logger",
@@ -90562,7 +90562,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -90697,7 +90697,7 @@
         "gplots",
         "gtools",
         "limma",
-        "MASS",
+
         "mRMRe",
         "randomForest",
         "ROCR",
@@ -90801,7 +90801,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggplot2",
@@ -91030,7 +91030,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -91204,7 +91204,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -91267,7 +91267,7 @@
     ],
     "PANR": [
         "igraph",
-        "MASS",
+
         "pvclust",
         "RedeR",
         "magrittr",
@@ -91289,7 +91289,7 @@
         "Biobase",
         "BiocGenerics",
 
-        "MASS",
+
         "httpuv",
         "mime",
         "xtable",
@@ -91377,7 +91377,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -91536,7 +91536,7 @@
         "jquerylib",
         "promises",
 
-        "MASS",
+
         "mgcv",
         "Matrix",
         "shape",
@@ -91702,7 +91702,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -91888,7 +91888,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -92002,7 +92002,7 @@
         "Biobase",
         "BiocGenerics",
 
-        "MASS"
+
     ],
     "PCAN": [
         "BiocParallel",
@@ -92045,7 +92045,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -92153,7 +92153,7 @@
         "limma",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "gridGraphics",
 
@@ -92430,7 +92430,7 @@
         "Rhdf5lib",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -92503,7 +92503,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -92596,7 +92596,7 @@
         "R.devices",
         "R.filesets",
         "aroma.apd",
-        "MASS",
+
         "matrixStats",
         "listenv",
         "future",
@@ -92711,7 +92711,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -92768,7 +92768,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -92817,7 +92817,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -92860,7 +92860,7 @@
         "psych",
         "Matrix",
         "fitdistrplus",
-        "MASS",
+
         "survival",
         "digest",
         "glue",
@@ -92956,7 +92956,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -93016,7 +93016,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -93168,7 +93168,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -93285,7 +93285,7 @@
 
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -93424,7 +93424,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -93651,7 +93651,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -93729,7 +93729,7 @@
         "RBGL",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -93824,7 +93824,7 @@
         "car",
         "nlme",
         "nortest",
-        "MASS",
+
         "msgps",
         "logistf",
         "knitr",
@@ -93928,7 +93928,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -94043,7 +94043,7 @@
         "progress",
         "reshape",
         "scales",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -94192,7 +94192,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -94283,7 +94283,7 @@
         "reshape2",
         "scales",
         "vegan",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -94348,7 +94348,7 @@
         "lattice",
         "caret",
         "plot3D",
-        "MASS",
+
         "IRanges",
         "BiocGenerics",
         "dplyr",
@@ -94532,7 +94532,7 @@
         "bitops",
         "lazyeval",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "base64enc",
@@ -94551,7 +94551,7 @@
         "utf8"
     ],
     "pickgene": [
-        "MASS"
+
     ],
     "PICS": [
         "IRanges",
@@ -94589,7 +94589,7 @@
         "BiocStyle",
         "bnlearn",
         "C50",
-        "MASS",
+
         "matrixStats",
         "partykit",
         "Rgraphviz",
@@ -94816,7 +94816,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -94966,7 +94966,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "yaImpute",
@@ -95217,7 +95217,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -95256,7 +95256,7 @@
     ],
     "plgem": [
         "Biobase",
-        "MASS",
+
         "BiocGenerics"
     ],
     "plier": [
@@ -95366,7 +95366,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -95435,7 +95435,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggrepel",
@@ -95545,7 +95545,7 @@
     "PLPE": [
         "Biobase",
         "LPE",
-        "MASS",
+
         "BiocGenerics"
     ],
     "plyranges": [
@@ -95605,7 +95605,7 @@
     "pmm": [
         "lme4",
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -95657,7 +95657,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -95727,7 +95727,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -95832,7 +95832,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -96002,7 +96002,7 @@
         "class",
         "proxy",
 
-        "MASS",
+
         "mgcv",
         "scales",
 
@@ -96166,7 +96166,7 @@
 
 
         "iterators",
-        "MASS",
+
         "gsl",
         "SparseM",
         "codetools",
@@ -96192,7 +96192,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -96281,7 +96281,7 @@
         "listenv",
         "parallelly",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -96358,7 +96358,7 @@
         "BH",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -96603,7 +96603,7 @@
         "MatrixGenerics",
         "Matrix",
         "DelayedArray",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -96708,7 +96708,7 @@
         "DBI",
         "RSQLite",
         "KEGGREST",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "Biostrings",
@@ -96866,7 +96866,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -96952,7 +96952,7 @@
         "BiocGenerics",
         "httr",
         "survival",
-        "MASS",
+
         "IRanges",
         "RSQLite",
         "S4Vectors",
@@ -96994,7 +96994,7 @@
         "catnet",
         "penalized",
         "RBGL",
-        "MASS",
+
         "magrittr",
         "Matrix",
         "pkgconfig",
@@ -97136,7 +97136,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "cli",
         "utf8",
         "rjson",
@@ -97259,7 +97259,7 @@
         "digest",
         "XML",
         "scales",
-        "MASS",
+
         "hms",
         "prettyunits",
         "crayon",
@@ -97372,7 +97372,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "gtools",
@@ -97562,7 +97562,7 @@
         "stringr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -97707,7 +97707,7 @@
         "GenomeInfoDbData",
         "lattice",
         "zlibbioc",
-        "MASS",
+
         "bitops"
     ],
     "proDA": [
@@ -97768,7 +97768,7 @@
         "lambda.r",
         "futile.options",
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -97899,7 +97899,7 @@
         "biomaRt",
         "Biobase",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -98031,7 +98031,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -98088,7 +98088,7 @@
         "lazyeval",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "pkgmaker",
@@ -98167,7 +98167,7 @@
         "dendextend",
         "RColorBrewer",
         "scales",
-        "MASS",
+
         "knitr",
         "mvtnorm",
         "LaplacesDemon",
@@ -98378,7 +98378,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "mzR",
@@ -98826,7 +98826,7 @@
         "emmeans",
         "flashClust",
 
-        "MASS",
+
 
         "scatterplot3d",
         "cli",
@@ -99147,7 +99147,7 @@
         "lattice",
         "ggplot2",
         "scales",
-        "MASS",
+
 
         "ncdf4",
         "zlibbioc",
@@ -99272,7 +99272,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -99341,7 +99341,7 @@
     "ProtGenerics": [],
     "PSEA": [
         "Biobase",
-        "MASS",
+
         "BiocGenerics"
     ],
     "psichomics": [
@@ -99411,7 +99411,7 @@
         "promises",
         "locfit",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -99637,7 +99637,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -99739,7 +99739,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -99900,7 +99900,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -99950,7 +99950,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -100077,7 +100077,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -100166,7 +100166,7 @@
         "vsn",
         "lme4",
         "BiocGenerics",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -100287,7 +100287,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "zlibbioc",
         "bitops",
         "Rhtslib",
@@ -100511,7 +100511,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -100620,7 +100620,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -100721,7 +100721,7 @@
         "Matrix",
         "pkgconfig",
 
-        "MASS",
+
         "clue",
 
         "tidyr",
@@ -100918,7 +100918,7 @@
         "R6",
         "vctrs",
         "pillar",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -101013,7 +101013,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -101222,7 +101222,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -101329,7 +101329,7 @@
     "quantiseqr": [
         "Biobase",
         "limSolve",
-        "MASS",
+
         "preprocessCore",
         "SummarizedExperiment",
         "ggplot2",
@@ -101395,7 +101395,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -101532,7 +101532,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "QuartPAC": [
@@ -101560,7 +101560,7 @@
 
         "Biobase",
         "survival",
-        "MASS",
+
         "combinat",
         "foreach",
         "codetools",
@@ -101626,7 +101626,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "rjson",
         "yaml",
         "bit64",
@@ -101699,7 +101699,7 @@
 
         "Matrix",
         "RcppArmadillo",
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -101757,7 +101757,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -101827,7 +101827,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -101977,7 +101977,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -102084,7 +102084,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "hms",
         "prettyunits",
         "restfulr",
@@ -102168,7 +102168,7 @@
 
         "digest",
         "celestial",
-        "MASS",
+
         "plotrix",
         "sm",
         "mapproj",
@@ -102289,7 +102289,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -102309,7 +102309,7 @@
         "S4Vectors",
         "iterators",
         "rngtools",
-        "MASS",
+
         "nortest",
         "numDeriv",
         "optimx",
@@ -102456,7 +102456,7 @@
         "BiocGenerics",
         "hexbin",
         "ape",
-        "MASS",
+
         "readr",
         "tibble",
         "tidyr",
@@ -102650,7 +102650,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -102884,7 +102884,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -102984,7 +102984,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -103078,7 +103078,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -103224,7 +103224,7 @@
         "lattice",
         "matrixStats",
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "cli",
@@ -103273,7 +103273,7 @@
         "nleqslv",
         "phyloseq",
         "tensor",
-        "MASS",
+
         "numDeriv",
         "limma",
         "locfit",
@@ -103394,7 +103394,7 @@
         "GenomeInfoDbData",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -103446,7 +103446,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -103581,7 +103581,7 @@
         "ggplot2",
         "gridExtra",
 
-        "MASS",
+
         "mgcv",
         "rprojroot",
         "formatR",
@@ -103706,7 +103706,7 @@
         "ggplot2",
         "gridExtra",
 
-        "MASS",
+
         "mgcv",
         "rprojroot",
         "formatR",
@@ -103782,7 +103782,7 @@
 
     ],
     "RDRToolbox": [
-        "MASS",
+
         "rgl",
         "htmlwidgets",
         "htmltools",
@@ -103906,7 +103906,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -103972,7 +103972,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -104064,7 +104064,7 @@
     ],
     "REBET": [
         "ASSET",
-        "MASS",
+
         "msm",
         "rmeta",
         "survival",
@@ -104127,7 +104127,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -104171,7 +104171,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -104340,7 +104340,7 @@
         "rngtools",
         "codetools",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -104510,7 +104510,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -104649,7 +104649,7 @@
         "Biobase",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -104757,7 +104757,7 @@
         "InteractionSet",
         "regioneR",
         "survival",
-        "MASS",
+
         "XML",
         "progress",
         "stringr",
@@ -104908,7 +104908,7 @@
         "Matrix",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -105126,7 +105126,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -105334,7 +105334,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "cachem",
         "bitops",
         "zlibbioc",
@@ -105467,7 +105467,7 @@
         "mclust",
         "genefilter",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -105610,7 +105610,7 @@
         "rtracklayer",
         "BSgenome",
         "gplots",
-        "MASS",
+
         "gsmoothr",
         "edgeR",
         "DNAcopy",
@@ -105762,7 +105762,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -106119,7 +106119,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "digest",
         "glue",
@@ -106284,7 +106284,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -106669,7 +106669,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -106888,7 +106888,7 @@
         "Biobase",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -107026,7 +107026,7 @@
         "geneplotter",
         "RcppArmadillo",
         "iterators",
-        "MASS",
+
         "codetools",
         "GenomeInfoDb",
         "Biostrings",
@@ -107170,7 +107170,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -107298,7 +107298,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -107396,7 +107396,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -107551,7 +107551,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -107620,7 +107620,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -107772,7 +107772,7 @@
         "snow",
         "BH",
         "waveslim",
-        "MASS",
+
         "clue",
         "vsn",
         "impute",
@@ -107857,7 +107857,7 @@
         "Biobase",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -107940,7 +107940,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -108033,7 +108033,7 @@
         "iterators"
     ],
     "RLMM": [
-        "MASS"
+
     ],
     "RLSeq": [
         "dplyr",
@@ -108108,7 +108108,7 @@
         "biomaRt",
         "Biobase",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -108235,7 +108235,7 @@
         "proxy",
         "cluster",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -108275,7 +108275,7 @@
         "lattice",
         "ggplot2",
         "scales",
-        "MASS",
+
         "ncdf4",
         "zlibbioc",
         "Rhdf5lib",
@@ -108411,7 +108411,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -108568,7 +108568,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -108718,7 +108718,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -108851,7 +108851,7 @@
         "SummarizedExperiment",
         "BiocParallel",
 
-        "MASS",
+
         "scales",
         "jsonlite",
         "mime",
@@ -108915,7 +108915,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "XML",
         "DBI",
         "xtable",
@@ -109023,7 +109023,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -109189,7 +109189,7 @@
         "BiocIO",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -109319,7 +109319,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -109482,7 +109482,7 @@
         "BiocIO",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -109577,7 +109577,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -109694,7 +109694,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "digest",
@@ -109941,7 +109941,7 @@
         "BiocGenerics",
         "S4Vectors",
         "GenomicRanges",
-        "MASS",
+
         "cluster",
         "ff",
         "fields",
@@ -110114,7 +110114,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -110289,7 +110289,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -110372,7 +110372,7 @@
         "stringr",
         "tinytex",
         "xfun",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -110565,7 +110565,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -110689,7 +110689,7 @@
 
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -110808,7 +110808,7 @@
         "Biobase",
         "BiocGenerics",
         "biclust",
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -110889,7 +110889,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -111072,7 +111072,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "lambda.r",
         "futile.options",
@@ -111122,7 +111122,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "stringr",
@@ -111336,7 +111336,7 @@
         "pheatmap",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -111449,7 +111449,7 @@
         "pheatmap",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -111559,7 +111559,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -111667,7 +111667,7 @@
         "multtest",
         "BiocGenerics",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -111691,7 +111691,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -111773,7 +111773,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -111955,7 +111955,7 @@
         "SummarizedExperiment",
 
         "testthat",
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -112026,7 +112026,7 @@
     ],
     "RUVcorr": [
         "corrplot",
-        "MASS",
+
         "lattice",
         "gridExtra",
         "snowfall",
@@ -112060,7 +112060,7 @@
         "Biobase",
         "EDASeq",
         "edgeR",
-        "MASS",
+
         "BiocGenerics",
         "ShortRead",
         "IRanges",
@@ -112311,7 +112311,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -112428,7 +112428,7 @@
         "crosstalk",
         "jquerylib",
         "promises",
-        "MASS",
+
         "ggplot2",
         "evaluate",
         "highr",
@@ -112587,7 +112587,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -112637,7 +112637,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -112774,7 +112774,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -112881,7 +112881,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -113039,7 +113039,7 @@
         "affyio",
         "foreach",
         "sva",
-        "MASS",
+
         "IRanges",
         "BiocGenerics",
 
@@ -113157,7 +113157,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -113251,7 +113251,7 @@
         "biomaRt",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -113377,7 +113377,7 @@
         "proxy",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "gplots",
@@ -113726,7 +113726,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -113766,7 +113766,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -113800,7 +113800,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Seurat",
-        "MASS",
+
         "zinbwave",
         "copula",
         "ggplot2",
@@ -114029,7 +114029,7 @@
         "KernSmooth",
         "leiden",
         "lmtest",
-        "MASS",
+
         "matrixStats",
         "miniUI",
         "patchwork",
@@ -114195,7 +114195,7 @@
         "proxy",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "gplots",
@@ -114365,7 +114365,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "scales",
         "tibble",
         "withr",
@@ -114468,7 +114468,7 @@
         "scales",
         "RColorBrewer",
         "corrplot",
-        "MASS",
+
         "matrixStats",
         "Biobase",
         "BiocGenerics",
@@ -114632,7 +114632,7 @@
         "bluster",
         "DelayedArray",
         "xgboost",
-        "MASS",
+
 
         "RcppHNSW",
         "futile.logger",
@@ -114714,7 +114714,7 @@
         "SummarizedExperiment",
         "S4Vectors",
         "scran",
-        "MASS",
+
         "Matrix",
         "lme4",
         "abind",
@@ -114823,7 +114823,7 @@
         "mgcv",
         "Rook",
         "rjson",
-        "MASS",
+
 
         "RColorBrewer",
         "edgeR",
@@ -114971,7 +114971,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -115035,7 +115035,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "Matrix",
@@ -115147,7 +115147,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -115304,7 +115304,7 @@
         "BH",
 
         "scales",
-        "MASS",
+
         "tweenr",
 
 
@@ -115359,7 +115359,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -115520,7 +115520,7 @@
         "class",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -115584,7 +115584,7 @@
         "matrixStats",
         "sparseMatrixStats",
         "startupmsg",
-        "MASS",
+
         "magrittr",
         "pkgconfig",
 
@@ -115776,7 +115776,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "base64enc",
@@ -115860,7 +115860,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "SparseM",
@@ -115925,7 +115925,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "tensorA",
         "robustbase",
         "bayesm",
@@ -116065,7 +116065,7 @@
         "RProtoBufLib",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -116117,7 +116117,7 @@
         "crayon",
         "rtracklayer",
         "matrixStats",
-        "MASS",
+
         "boot",
         "mvtnorm",
         "expm",
@@ -116300,7 +116300,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "clue",
 
         "GenomicRanges",
@@ -116427,7 +116427,7 @@
         "Rhtslib",
         "biomaRt",
         "GGally",
-        "MASS",
+
         "mclust",
 
         "reshape",
@@ -116633,7 +116633,7 @@
         "Matrix",
         "IRanges",
         "GenomeInfoDb",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "XVector",
@@ -116649,7 +116649,7 @@
         "kernlab",
         "rsvd",
         "Matrix",
-        "MASS",
+
         "pscl",
         "bbmle",
         "gamlss",
@@ -116741,7 +116741,7 @@
         "lazyeval",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -116848,7 +116848,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -116968,7 +116968,7 @@
         "beachmat",
         "MatrixGenerics",
         "IRanges",
-        "MASS",
+
         "rhdf5",
         "rhdf5filters",
         "Rhdf5lib",
@@ -116995,7 +116995,7 @@
 
         "dgof",
         "BiocParallel",
-        "MASS",
+
         "emdbook",
         "magrittr",
         "futile.logger",
@@ -117067,7 +117067,7 @@
         "genefilter",
         "annotate",
         "fields",
-        "MASS",
+
         "backports",
         "BiocParallel",
         "DO.db",
@@ -117308,7 +117308,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "withr",
@@ -117533,7 +117533,7 @@
         "mime",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -117774,7 +117774,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -117833,7 +117833,7 @@
         "TSP",
         "qap",
         "gclus",
-        "MASS",
+
         "registry",
         "MatrixGenerics",
         "GenomicRanges",
@@ -117943,7 +117943,7 @@
         "rjson",
         "crayon",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -118061,7 +118061,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "deldir",
@@ -118114,7 +118114,7 @@
         "Biobase",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "rjags",
         "coda",
@@ -118335,7 +118335,7 @@
         "withr",
         "generics",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "ellipsis",
@@ -118432,7 +118432,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "XML",
@@ -118522,7 +118522,7 @@
         "iterators",
         "snow",
         "aws",
-        "MASS",
+
         "pixmap",
         "filehash",
         "awsMethods",
@@ -118557,7 +118557,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "Matrix",
@@ -118647,7 +118647,7 @@
         "XVector",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -118754,7 +118754,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -118837,7 +118837,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -118984,7 +118984,7 @@
         "bitops",
         "digest",
 
-        "MASS",
+
         "scales",
         "cli",
 
@@ -119004,7 +119004,7 @@
         "stringr",
         "tibble",
         "illuminaio",
-        "MASS",
+
         "GenomicRanges",
         "IRanges",
         "preprocessCore",
@@ -119182,7 +119182,7 @@
         "TSP",
         "qap",
         "gclus",
-        "MASS",
+
         "registry",
         "MatrixGenerics",
         "GenomeInfoDb",
@@ -119477,7 +119477,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -119650,7 +119650,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -119799,7 +119799,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "bitops",
         "lambda.r",
         "futile.options",
@@ -119869,7 +119869,7 @@
         "viridisLite",
         "glue",
         "magrittr",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -119954,7 +119954,7 @@
         "cluster",
         "gdata",
 
-        "MASS",
+
         "rpart",
         "genefilter",
         "fpc",
@@ -120085,7 +120085,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "GenomeInfoDbData",
@@ -120118,7 +120118,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -120155,12 +120155,12 @@
 
         "BiocGenerics",
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
     "sights": [
-        "MASS",
+
         "qvalue",
         "ggplot2",
         "reshape2",
@@ -120256,7 +120256,7 @@
         "gridExtra",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "annotate",
@@ -120377,7 +120377,7 @@
         "S4Vectors",
         "XVector",
         "crayon",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "testthat",
@@ -120614,7 +120614,7 @@
         "SparseM",
         "Matrix",
         "MatrixModels",
-        "MASS",
+
         "XML",
         "DBI",
         "xtable",
@@ -120663,7 +120663,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -120728,7 +120728,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -120912,7 +120912,7 @@
 
 
         "scatterplot3d",
-        "MASS",
+
         "TSP",
         "ggplot2",
         "reshape2",
@@ -121010,7 +121010,7 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
         "RColorBrewer",
         "scales",
         "SingleCellExperiment",
@@ -121213,7 +121213,7 @@
         "qvalue",
         "svMisc",
 
-        "MASS",
+
         "mgcv",
         "gridGraphics",
 
@@ -121476,7 +121476,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "rjson",
         "yaml",
         "bit64",
@@ -121585,7 +121585,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -121679,7 +121679,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -121870,7 +121870,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -121944,7 +121944,7 @@
         "mclust",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -122084,7 +122084,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -122335,7 +122335,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -122473,7 +122473,7 @@
         "gsl",
         "AnnotationDbi",
         "annotate",
-        "MASS",
+
         "zoo",
         "sandwich",
         "Matrix",
@@ -122591,7 +122591,7 @@
         "corpcor",
         "lme4",
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -122674,7 +122674,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -122792,7 +122792,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -122848,7 +122848,7 @@
         "reshape2",
         "gridExtra",
         "EBImage",
-        "MASS",
+
         "R.matlab",
 
         "fitdistrplus",
@@ -122974,7 +122974,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -123117,7 +123117,7 @@
         "gtools",
         "Biobase",
         "survival",
-        "MASS",
+
         "RCurl",
         "GenomeInfoDbData",
         "Matrix",
@@ -123169,7 +123169,7 @@
         "BH",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -123363,7 +123363,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -123435,7 +123435,7 @@
     ],
     "sparseDOSSA": [
         "optparse",
-        "MASS",
+
         "tmvtnorm",
         "MCMCpack",
         "coda",
@@ -123461,7 +123461,7 @@
     ],
     "sparsenetgls": [
         "Matrix",
-        "MASS",
+
         "glmnet",
         "huge",
         "foreach",
@@ -123501,7 +123501,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -123594,7 +123594,7 @@
         "pillar",
 
         "scales",
-        "MASS",
+
         "tweenr",
 
         "withr",
@@ -123682,7 +123682,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -123815,7 +123815,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "ggplot2",
         "nortest",
         "globals",
@@ -124044,7 +124044,7 @@
         "AnnotationDbi",
         "annotate",
         "survival",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -124217,7 +124217,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -124357,7 +124357,7 @@
         "plogr",
         "ade4",
         "segmented",
-        "MASS",
+
         "pixmap",
         "sp",
         "bit",
@@ -124387,7 +124387,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -124421,7 +124421,7 @@
         "futile.logger",
         "snow",
         "BH",
-        "MASS",
+
         "clue",
 
         "cluster",
@@ -124473,7 +124473,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "scales",
         "withr",
         "SummarizedExperiment",
@@ -124570,7 +124570,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "scales",
         "withr",
         "Matrix",
@@ -124660,7 +124660,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -124834,7 +124834,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "tibble",
         "withr",
@@ -124899,7 +124899,7 @@
         "backports",
         "limma",
 
-        "MASS",
+
         "survival",
         "digest",
         "glue",
@@ -125165,7 +125165,7 @@
         "Biobase",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -125275,7 +125275,7 @@
         "foreach",
         "doRNG",
         "data.table",
-        "MASS",
+
         "expm",
         "gRbase",
         "glmnet",
@@ -125310,7 +125310,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -125360,7 +125360,7 @@
         "phyloseq",
         "locfit",
 
-        "MASS",
+
         "survival",
         "lattice",
         "Formula",
@@ -125519,7 +125519,7 @@
 
         "ggplot2",
         "reshape2",
-        "MASS",
+
         "RColorBrewer",
         "gridExtra",
         "visNetwork",
@@ -125755,7 +125755,7 @@
         "survival",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "evaluate",
@@ -125869,7 +125869,7 @@
         "crayon",
         "ade4",
         "segmented",
-        "MASS",
+
         "pixmap",
         "sp",
         "RCurl",
@@ -125894,7 +125894,7 @@
         "ROCR",
         "dml",
         "MESS",
-        "MASS",
+
         "lfda",
         "Matrix",
 
@@ -126042,7 +126042,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -126154,7 +126154,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "bitops",
         "zlibbioc",
         "Rhtslib",
@@ -126276,7 +126276,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -126343,7 +126343,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -126500,7 +126500,7 @@
         "Biobase",
         "gridExtra",
         "ggplot2",
-        "MASS",
+
         "calibrate",
         "gplots",
         "edgeR",
@@ -126573,7 +126573,7 @@
     ],
     "stepNorm": [
         "marray",
-        "MASS",
+
         "limma"
     ],
     "strandCheckR": [
@@ -126609,7 +126609,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -126822,7 +126822,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -127005,7 +127005,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -127107,7 +127107,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -127161,7 +127161,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -127308,7 +127308,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "matrixStats",
@@ -127350,7 +127350,7 @@
     "supraHex": [
         "hexbin",
         "ape",
-        "MASS",
+
         "readr",
         "tibble",
         "tidyr",
@@ -127425,7 +127425,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -127505,7 +127505,7 @@
         "bootstrap",
         "rmeta",
         "rpart",
-        "MASS",
+
         "nnet",
         "class",
 
@@ -127577,7 +127577,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggrepel",
@@ -127985,7 +127985,7 @@
 
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -128063,7 +128063,7 @@
         "stringi",
         "zip",
         "futile.logger",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "formatR"
@@ -128096,7 +128096,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -128185,7 +128185,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "car",
         "gtools",
         "multcomp",
@@ -128372,7 +128372,7 @@
         "reshape2",
         "broom",
         "Deriv",
-        "MASS",
+
         "Matrix",
         "microbenchmark",
         "pbkrtest",
@@ -128454,7 +128454,7 @@
         "glue",
         "magrittr",
         "stringi",
-        "MASS",
+
         "pixmap",
         "sp",
         "RCurl",
@@ -128484,7 +128484,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -128586,7 +128586,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -128706,7 +128706,7 @@
         "tidyr",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "aplot",
@@ -128802,7 +128802,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggrepel",
@@ -128932,7 +128932,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -129118,7 +129118,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -129251,7 +129251,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -129371,7 +129371,7 @@
         "gtools",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -129500,7 +129500,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -129603,7 +129603,7 @@
         "GenomeInfoDb",
         "XVector",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -129746,7 +129746,7 @@
         "DelayedArray",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "RColorBrewer",
@@ -130085,7 +130085,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -130320,7 +130320,7 @@
         "zlibbioc",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -130401,7 +130401,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -130744,7 +130744,7 @@
         "vctrs",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -130817,7 +130817,7 @@
         "vctrs",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -130963,7 +130963,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -131009,7 +131009,7 @@
         "bitops"
     ],
     "timecourse": [
-        "MASS",
+
         "Biobase",
         "limma",
         "marray",
@@ -131038,7 +131038,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -131143,7 +131143,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -131278,7 +131278,7 @@
         "vctrs",
         "pillar",
         "shiny",
-        "MASS",
+
         "ggrepel",
         "purrr",
 
@@ -131424,7 +131424,7 @@
         "R.devices",
         "R.filesets",
         "aroma.apd",
-        "MASS",
+
         "matrixStats",
         "listenv",
         "future",
@@ -131550,7 +131550,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -131736,7 +131736,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "matrixStats",
@@ -131831,7 +131831,7 @@
         "modeltools",
         "class",
         "Rsolnp",
-        "MASS",
+
         "lambda.r",
         "futile.options",
         "truncnorm",
@@ -131867,7 +131867,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -132046,7 +132046,7 @@
         "GGally",
         "foreach",
         "iterators",
-        "MASS",
+
         "e1071",
         "matrixStats",
         "stringr",
@@ -132120,7 +132120,7 @@
         "nnls",
         "Iso",
         "ptw",
-        "MASS",
+
         "RcppDE"
     ],
     "tomoda": [
@@ -132134,7 +132134,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -132194,7 +132194,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -132236,7 +132236,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -132379,7 +132379,7 @@
         "vctrs",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "plyr",
@@ -132471,7 +132471,7 @@
         "gridExtra",
         "knitr",
         "limma",
-        "MASS",
+
         "mefa",
         "nls2",
         "openxlsx",
@@ -132550,7 +132550,7 @@
         "openxlsx",
         "stringr",
         "RCurl",
-        "MASS",
+
         "BiocParallel",
         "limma",
         "futile.logger",
@@ -132712,7 +132712,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "glue",
         "colorspace",
         "rjson",
@@ -132796,7 +132796,7 @@
         "TrajectoryUtils",
         "viridis",
         "matrixStats",
-        "MASS",
+
         "BiocGenerics",
         "futile.logger",
         "snow",
@@ -132847,7 +132847,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -132934,7 +132934,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -133046,7 +133046,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -133205,7 +133205,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -133282,7 +133282,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -133433,7 +133433,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -133541,7 +133541,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -133678,7 +133678,7 @@
         "uuid",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -134032,7 +134032,7 @@
         "generics",
         "SummarizedExperiment",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "ellipsis",
@@ -134089,7 +134089,7 @@
         "caTools",
         "KernSmooth",
         "BiocGenerics",
-        "MASS",
+
         "nlme",
         "httpuv",
         "mime",
@@ -134265,7 +134265,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -134359,7 +134359,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -134429,7 +134429,7 @@
         "Matrix",
         "BiocGenerics",
         "lattice",
-        "MASS"
+
     ],
     "triplex": [
         "S4Vectors",
@@ -134520,7 +134520,7 @@
         "memoise",
         "rprojroot",
 
-        "MASS",
+
         "mgcv",
         "curl",
         "openssl",
@@ -134571,7 +134571,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -134629,7 +134629,7 @@
         "GenomeInfoDbData",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -134693,7 +134693,7 @@
         "SummarizedExperiment",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -134782,7 +134782,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -134856,7 +134856,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "MASS",
+
         "generics",
         "glue",
         "lifecycle",
@@ -135140,7 +135140,7 @@
         "ggplot2",
         "gridExtra",
 
-        "MASS",
+
         "mgcv",
         "rprojroot",
         "colorspace",
@@ -135255,7 +135255,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -135353,7 +135353,7 @@
         "xfun"
     ],
     "tweeDEseq": [
-        "MASS",
+
         "limma",
         "edgeR",
         "cqn",
@@ -135381,7 +135381,7 @@
         "shiny",
         "RColorBrewer",
         "S4Vectors",
-        "MASS",
+
         "digest",
         "glue",
 
@@ -135695,7 +135695,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -135843,7 +135843,7 @@
         "biomaRt",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "R.oo",
@@ -136055,7 +136055,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "tinytex",
         "bit64",
         "pkgconfig",
@@ -136099,7 +136099,7 @@
     "UNDO": [
         "BiocGenerics",
         "Biobase",
-        "MASS",
+
         "boot",
         "nnls"
     ],
@@ -136277,7 +136277,7 @@
         "utf8"
     ],
     "universalmotif": [
-        "MASS",
+
         "ggplot2",
         "yaml",
         "IRanges",
@@ -136333,7 +136333,7 @@
         "fpc",
         "BiocGenerics",
         "monocle",
-        "MASS",
+
         "mclust",
         "flexmix",
         "prabclus",
@@ -136500,7 +136500,7 @@
         "beeswarm",
         "vipor",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "base64enc",
@@ -136684,7 +136684,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -136756,7 +136756,7 @@
         "ggplot2",
         "limma",
         "BiocParallel",
-        "MASS",
+
         "pbkrtest",
         "lmerTest",
         "Matrix",
@@ -136997,7 +136997,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "scales",
         "cli",
 
@@ -137120,7 +137120,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "bit64",
         "blob",
         "pkgconfig",
@@ -137612,7 +137612,7 @@
         "futile.options",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -137679,7 +137679,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -137770,7 +137770,7 @@
         "class",
         "proxy",
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "nlme",
@@ -137841,7 +137841,7 @@
         "Matrix",
         "BH",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "reshape2",
@@ -137940,7 +137940,7 @@
         "scales",
         "ggraph",
 
-        "MASS",
+
         "tweenr",
 
 
@@ -138097,7 +138097,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -138150,7 +138150,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -138405,7 +138405,7 @@
         "GenomeInfoDbData",
         "BiocIO",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -138478,7 +138478,7 @@
         "BiocParallel",
         "SingleCellExperiment",
         "RcppArmadillo",
-        "MASS",
+
         "Matrix",
         "lme4",
         "abind",
@@ -138601,7 +138601,7 @@
         "RSQLite",
         "DBI",
         "AnnotationDbi",
-        "MASS",
+
         "scales",
         "reshape2",
         "ggplot2",
@@ -138767,7 +138767,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -138896,7 +138896,7 @@
         "XVector",
         "Biostrings",
         "survival",
-        "MASS",
+
         "ggplot2",
         "reshape2",
         "limma",
@@ -138995,7 +138995,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "plyr",
@@ -139056,7 +139056,7 @@
         "XVector",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "XML",
@@ -139134,7 +139134,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -139300,7 +139300,7 @@
         "snow",
         "BH",
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -139383,7 +139383,7 @@
         "RSQLite",
         "S4Vectors",
         "KEGGREST",
-        "MASS",
+
         "Matrix",
         "curl",
         "jsonlite",
@@ -139444,7 +139444,7 @@
         "iterators",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -139568,7 +139568,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -139792,7 +139792,7 @@
         "beeswarm",
         "vipor",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -139977,7 +139977,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -140125,7 +140125,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -140226,7 +140226,7 @@
     ],
     "zlibbioc": [],
     "mpm": [
-        "MASS",
+
         "KernSmooth"
     ],
     "glmnet": [
@@ -140328,7 +140328,7 @@
         "bitops"
     ],
     "KernSmooth": [],
-    "MASS": [],
+
     "cluster": [],
     "randomForest": [],
     "XML": [],
@@ -140425,7 +140425,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -140562,7 +140562,7 @@
     "vegan": [
         "permute",
         "lattice",
-        "MASS",
+
         "cluster",
         "mgcv",
         "nlme",
@@ -140574,7 +140574,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -140604,7 +140604,7 @@
         "utf8"
     ],
     "ggdendro": [
-        "MASS",
+
         "ggplot2",
         "digest",
         "glue",
@@ -140662,7 +140662,7 @@
         "tidyselect",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -141063,7 +141063,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -141111,7 +141111,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
 
@@ -141179,7 +141179,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -141275,7 +141275,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -141306,7 +141306,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -141349,7 +141349,7 @@
         "ggplot2",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -141476,7 +141476,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -141500,7 +141500,7 @@
     "car": [
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -141601,7 +141601,7 @@
         "broom",
         "dplyr",
         "magrittr",
-        "MASS",
+
         "Matrix",
         "numDeriv",
         "knitr",
@@ -141669,7 +141669,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "maptools": [
@@ -141679,7 +141679,7 @@
     ],
     "lme4": [
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -141849,7 +141849,7 @@
     ],
     "OrgMassSpecR": [],
     "ade4": [
-        "MASS",
+
         "pixmap",
         "sp",
         "lattice"
@@ -141885,7 +141885,7 @@
     ],
     "pracma": [],
     "fpc": [
-        "MASS",
+
         "cluster",
         "mclust",
         "flexmix",
@@ -141921,11 +141921,11 @@
         "nnet"
     ],
     "prabclus": [
-        "MASS",
+
         "mclust"
     ],
     "class": [
-        "MASS"
+
     ],
     "diptest": [],
     "robustbase": [
@@ -142079,7 +142079,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -142147,7 +142147,7 @@
         "withr",
         "digest",
 
-        "MASS",
+
         "mgcv",
 
         "hms",
@@ -142207,7 +142207,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
 
         "deldir",
         "RcppEigen",
@@ -142242,7 +142242,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -142301,13 +142301,13 @@
     "e1071": [
         "class",
         "proxy",
-        "MASS"
+
     ],
     "proxy": [],
     "smurf": [
         "catdata",
         "glmnet",
-        "MASS",
+
         "Matrix",
         "mgcv",
         "RColorBrewer",
@@ -142324,7 +142324,7 @@
         "iterators"
     ],
     "emdbook": [
-        "MASS",
+
         "lattice",
         "plyr",
         "coda",
@@ -142362,7 +142362,7 @@
     "bbmle": [
         "numDeriv",
         "lattice",
-        "MASS",
+
 
         "Matrix",
         "mvtnorm"
@@ -142374,7 +142374,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -142403,11 +142403,11 @@
 
     ],
     "catdata": [
-        "MASS"
+
     ],
     "speedglm": [
         "Matrix",
-        "MASS",
+
         "lattice"
     ],
 
@@ -142422,7 +142422,7 @@
     "beeswarm": [],
     "vipor": [],
     "zCompositions": [
-        "MASS",
+
         "NADA",
         "truncnorm",
         "survival",
@@ -142483,14 +142483,14 @@
     "seqinr": [
         "ade4",
         "segmented",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
         "lattice"
     ],
     "segmented": [
-        "MASS",
+
         "nlme",
         "lattice"
     ],
@@ -142509,7 +142509,7 @@
         "lattice"
     ],
     "signal": [
-        "MASS"
+
     ],
     "readxl": [
         "cellranger",
@@ -142554,7 +142554,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -142622,13 +142622,13 @@
         "limSolve",
         "quadprog",
 
-        "MASS"
+
     ],
     "zip": [],
     "limSolve": [
         "quadprog",
 
-        "MASS"
+
     ],
     "ellipse": [],
     "corpcor": [],
@@ -142862,7 +142862,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "withr",
@@ -142896,7 +142896,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -142967,7 +142967,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -143056,7 +143056,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -143131,7 +143131,7 @@
         "statmod",
 
         "dirmult",
-        "MASS",
+
         "ggrepel",
         "foreach",
         "modeest",
@@ -143207,7 +143207,7 @@
         "R6",
         "pillar",
         "rpart",
-        "MASS",
+
         "survival",
         "nnet",
         "class",
@@ -143244,7 +143244,7 @@
         "statip",
 
         "timeSeries",
-        "MASS",
+
         "spatial",
 
 
@@ -143271,7 +143271,7 @@
     "fBasics": [
 
         "timeSeries",
-        "MASS",
+
         "spatial",
 
         "stabledist"
@@ -143301,7 +143301,7 @@
     ],
     "ipred": [
         "rpart",
-        "MASS",
+
         "survival",
         "nnet",
         "class",
@@ -144531,7 +144531,7 @@
 
     ],
     "sampling": [
-        "MASS",
+
 
     ],
 
@@ -144673,7 +144673,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -144701,10 +144701,10 @@
     "log4r": [],
     "qqman": [
         "calibrate",
-        "MASS"
+
     ],
     "calibrate": [
-        "MASS"
+
     ],
     "DRaWR": [
         "Matrix",
@@ -144737,7 +144737,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -144812,7 +144812,7 @@
     ],
     "mixtools": [
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "nlme",
@@ -144922,7 +144922,7 @@
         "Deriv",
         "dplyr",
         "ggplot2",
-        "MASS",
+
         "Matrix",
         "magrittr",
         "microbenchmark",
@@ -145011,7 +145011,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -145080,7 +145080,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -145194,7 +145194,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -145249,7 +145249,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -145341,7 +145341,7 @@
     ],
     "MCMCpack": [
         "coda",
-        "MASS",
+
         "lattice",
         "mcmc",
         "quantreg",
@@ -145414,7 +145414,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -145480,7 +145480,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -145511,7 +145511,7 @@
         "cluster",
         "gclus",
         "colorspace",
-        "MASS",
+
         "registry",
         "foreach",
         "codetools",
@@ -145531,7 +145531,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -145597,7 +145597,7 @@
         "quadprog"
     ],
     "fitdistrplus": [
-        "MASS",
+
         "survival",
         "Matrix",
         "lattice"
@@ -145631,7 +145631,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "lattice",
@@ -145711,7 +145711,7 @@
         "KernSmooth",
         "leiden",
         "lmtest",
-        "MASS",
+
         "Matrix",
         "matrixStats",
         "miniUI",
@@ -145885,7 +145885,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -145920,7 +145920,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -145947,7 +145947,7 @@
     "sctransform": [
         "dplyr",
         "magrittr",
-        "MASS",
+
         "Matrix",
         "future.apply",
         "future",
@@ -146144,7 +146144,7 @@
         "shape",
         "quadprog",
 
-        "MASS"
+
     ],
     "diagram": [
         "shape"
@@ -146173,7 +146173,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -146319,7 +146319,7 @@
         "ggplot2",
 
         "scales",
-        "MASS",
+
         "tweenr",
 
 
@@ -146396,7 +146396,7 @@
         "patchwork",
         "bslib",
 
-        "MASS",
+
         "base64enc",
         "backports",
         "ellipsis",
@@ -146623,7 +146623,7 @@
         "ggplot2",
         "gridExtra",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "lattice",
@@ -146786,7 +146786,7 @@
         "ggforce",
         "igraph",
         "scales",
-        "MASS",
+
         "digest",
         "ggrepel",
         "viridis",
@@ -146838,7 +146838,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -146871,7 +146871,7 @@
         "tidyr",
 
         "scales",
-        "MASS",
+
         "tweenr",
 
         "tidyselect",
@@ -146912,7 +146912,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -146978,7 +146978,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -147009,7 +147009,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -147170,7 +147170,7 @@
         "multcomp",
         "htmlTable",
         "htmltools",
-        "MASS",
+
         "cluster",
         "digest",
         "glue",
@@ -147240,7 +147240,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -147311,7 +147311,7 @@
         "codetools",
         "zoo",
         "Matrix",
-        "MASS",
+
         "lattice"
     ],
     "xlsxjars": [
@@ -147319,7 +147319,7 @@
     ],
     "TH.data": [
         "survival",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -147365,7 +147365,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -147435,7 +147435,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -147502,7 +147502,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -147625,7 +147625,7 @@
         "tidyselect",
         "vctrs",
         "pillar",
-        "MASS",
+
         "digest",
 
         "mgcv",
@@ -147672,7 +147672,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "iterators",
         "lattice",
         "gplots",
@@ -147706,7 +147706,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "cubature": [
@@ -148179,7 +148179,7 @@
         "lattice",
         "modeltools",
         "class",
-        "MASS"
+
     ],
     "binom": [],
     "hash": [],
@@ -148213,7 +148213,7 @@
         "pkgconfig",
 
         "DEoptimR",
-        "MASS",
+
         "colorspace",
         "lmtest",
         "zoo",
@@ -148234,7 +148234,7 @@
     ],
     "amap": [],
     "gmodels": [
-        "MASS",
+
         "gdata",
         "gtools"
     ],
@@ -148249,7 +148249,7 @@
         "lattice"
     ],
     "vcd": [
-        "MASS",
+
         "colorspace",
         "lmtest",
         "zoo",
@@ -148392,7 +148392,7 @@
         "lambda.r",
         "futile.options",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "knitr",
@@ -148771,7 +148771,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -148869,7 +148869,7 @@
         "codetools",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -148961,7 +148961,7 @@
     "proto": [],
 
     "drc": [
-        "MASS",
+
         "car",
         "gtools",
         "multcomp",
@@ -149053,7 +149053,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -149117,7 +149117,7 @@
         "deSolve",
         "rainbow",
         "RCurl",
-        "MASS",
+
         "pcaPP",
         "hdrcde",
         "cluster",
@@ -149175,7 +149175,7 @@
     "fds": [
         "rainbow",
         "RCurl",
-        "MASS",
+
         "pcaPP",
         "hdrcde",
         "cluster",
@@ -149224,7 +149224,7 @@
     "deSolve": [],
     "misc3d": [],
     "rainbow": [
-        "MASS",
+
         "pcaPP",
         "hdrcde",
         "cluster",
@@ -149279,7 +149279,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -149375,7 +149375,7 @@
         "plyr",
         "pander",
         "reshape2",
-        "MASS",
+
         "digest",
 
         "stringr",
@@ -149426,7 +149426,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -149483,7 +149483,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -149532,7 +149532,7 @@
         "rootSolve",
         "coda",
         "minpack.lm",
-        "MASS",
+
         "minqa",
         "lattice",
 
@@ -149558,7 +149558,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggplot2",
@@ -149686,7 +149686,7 @@
         "proxy"
     ],
     "EnvStats": [
-        "MASS",
+
         "ggplot2",
         "nortest",
         "digest",
@@ -149747,7 +149747,7 @@
         "scales",
 
         "generics",
-        "MASS",
+
         "confintr",
         "polynom",
         "quantreg",
@@ -149806,7 +149806,7 @@
         "dplyr",
         "xts",
         "zoo",
-        "MASS",
+
         "polynom",
         "lubridate",
         "stringr",
@@ -149879,7 +149879,7 @@
         "listenv",
         "parallelly",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "codetools",
@@ -149917,7 +149917,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "cli",
@@ -150020,7 +150020,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -150157,7 +150157,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -150291,7 +150291,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -150414,7 +150414,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -150544,7 +150544,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -150624,7 +150624,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -151744,7 +151744,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -151789,7 +151789,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -151898,7 +151898,7 @@
 
         "rncl",
         "RNeXML",
-        "MASS",
+
         "pixmap",
         "sp",
         "nlme",
@@ -151951,7 +151951,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -152109,7 +152109,7 @@
     ],
     "biwt": [
         "robustbase",
-        "MASS",
+
         "DEoptimR"
     ],
     "COHCAPanno": [],
@@ -152138,7 +152138,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "colortools": [],
@@ -152234,7 +152234,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "digest",
@@ -152370,7 +152370,7 @@
 
         "data.table",
         "RcppEigen",
-        "MASS",
+
         "codetools",
         "iterators",
         "digest",
@@ -152481,7 +152481,7 @@
         "multcomp",
         "htmlTable",
         "htmltools",
-        "MASS",
+
         "cluster",
         "digest",
         "zoo",
@@ -152541,7 +152541,7 @@
         "utf8"
     ],
     "wavethresh": [
-        "MASS"
+
     ],
     "feature": [
         "ks",
@@ -152707,7 +152707,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -152840,7 +152840,7 @@
     ],
     "maps": [],
     "capushe": [
-        "MASS"
+
     ],
     "Rmixmod": [
 
@@ -152852,7 +152852,7 @@
         "edgeR",
         "plotrix",
         "capushe",
-        "MASS",
+
         "limma",
         "locfit",
 
@@ -152862,7 +152862,7 @@
         "tensorA",
         "robustbase",
         "bayesm",
-        "MASS",
+
 
         "RcppArmadillo",
         "DEoptimR"
@@ -152895,7 +152895,7 @@
         "snow",
         "BH",
         "waveslim",
-        "MASS",
+
         "clue",
 
         "vsn",
@@ -152978,7 +152978,7 @@
         "class",
         "proxy",
         "kernlab",
-        "MASS",
+
         "segmented",
         "survival",
         "cli",
@@ -153171,7 +153171,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -153245,7 +153245,7 @@
 
         "lattice",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -153283,7 +153283,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -153323,7 +153323,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -153358,7 +153358,7 @@
         "RPMG",
         "GEOmap",
         "RSEIS",
-        "MASS",
+
         "splancs",
         "fields",
         "MBA",
@@ -153428,7 +153428,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -153544,7 +153544,7 @@
         "codetools",
         "iterators",
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "minqa",
@@ -153601,7 +153601,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -153631,7 +153631,7 @@
         "robustbase",
         "sp",
         "vcd",
-        "MASS",
+
         "nnet",
         "e1071",
 
@@ -153723,14 +153723,14 @@
     ],
     "laeken": [
         "boot",
-        "MASS"
+
     ],
     "plsVarSel": [
 
         "genalg",
         "mvtnorm",
 
-        "MASS",
+
         "progress",
         "MSQC",
         "praznik",
@@ -153780,7 +153780,7 @@
     ],
     "ineq": [],
     "arm": [
-        "MASS",
+
         "Matrix",
         "lme4",
         "abind",
@@ -153872,7 +153872,7 @@
         "multtest",
         "qvalue",
         "limma",
-        "MASS",
+
         "Matrix",
 
         "geepack",
@@ -153976,7 +153976,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggrepel",
@@ -154094,7 +154094,7 @@
         "ggplot2",
         "XML",
         "scales",
-        "MASS",
+
 
         "affyio",
 
@@ -154185,7 +154185,7 @@
         "data.table",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "gargle",
@@ -154243,7 +154243,7 @@
 
     ],
     "MESS": [
-        "MASS",
+
         "Matrix",
 
         "geepack",
@@ -154334,7 +154334,7 @@
         "flashClust",
         "lattice",
 
-        "MASS",
+
 
         "scatterplot3d",
         "ggrepel",
@@ -154532,7 +154532,7 @@
         "R6",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -154595,7 +154595,7 @@
         "sys"
     ],
     "geepack": [
-        "MASS",
+
         "broom",
         "magrittr",
         "backports",
@@ -154652,7 +154652,7 @@
         "ggforce",
         "labelled",
 
-        "MASS",
+
         "tweenr",
 
         "tidyselect",
@@ -154713,7 +154713,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -154741,7 +154741,7 @@
         "dplyr",
 
         "tidyr",
-        "MASS",
+
         "generics",
         "glue",
         "lifecycle",
@@ -154862,7 +154862,7 @@
         "plotrix",
         "multtest",
         "multcomp",
-        "MASS",
+
         "robustbase",
 
         "rbibutils",
@@ -154883,7 +154883,7 @@
         "zoo"
     ],
     "ppcor": [
-        "MASS"
+
     ],
     "glm2": [],
     "harmonicmeanp": [
@@ -154902,7 +154902,7 @@
         "SparseM",
         "MatrixModels",
         "survival",
-        "MASS"
+
     ],
     "mutoss": [
         "mvtnorm",
@@ -154915,13 +154915,13 @@
         "codetools",
         "BiocGenerics",
         "Biobase",
-        "MASS",
+
         "zoo",
         "Matrix",
         "lattice"
     ],
     "qqconf": [
-        "MASS",
+
         "robustbase",
 
         "DEoptimR"
@@ -154934,7 +154934,7 @@
         "Matrix",
         "MatrixModels",
         "survival",
-        "MASS",
+
         "lattice"
     ],
     "survey": [
@@ -154959,7 +154959,7 @@
         "dplyr",
         "readr",
         "DBI",
-        "MASS",
+
         "generics",
         "glue",
         "lifecycle",
@@ -154996,7 +154996,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -155022,7 +155022,7 @@
         "utf8"
     ],
     "rsq": [
-        "MASS",
+
         "lme4",
         "nlme",
         "Deriv",
@@ -155406,7 +155406,7 @@
         "Biobase",
         "BiocGenerics",
 
-        "MASS",
+
         "mvtnorm",
         "Matrix",
         "gmm",
@@ -155418,17 +155418,17 @@
         "gamlss.data",
         "gamlss.dist",
         "nlme",
-        "MASS",
+
         "survival",
         "lattice",
         "Matrix"
     ],
     "pscl": [
-        "MASS"
+
     ],
     "gamlss.data": [],
     "gamlss.dist": [
-        "MASS"
+
     ],
     "NBPSeq": [
         "qvalue",
@@ -155437,7 +155437,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -155478,7 +155478,7 @@
         "impute",
         "amap",
         "gplots",
-        "MASS",
+
         "gtools",
         "caTools",
         "KernSmooth",
@@ -155522,13 +155522,13 @@
         "BiocGenerics",
         "Biobase",
         "survival",
-        "MASS",
+
 
         "lattice"
     ],
     "MetaCycle": [
         "gnm",
-        "MASS",
+
         "Matrix",
         "nnet",
         "qvcalc",
@@ -155536,7 +155536,7 @@
         "lattice"
     ],
     "gnm": [
-        "MASS",
+
         "Matrix",
         "nnet",
         "qvcalc",
@@ -155617,7 +155617,7 @@
         "scales",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -155752,7 +155752,7 @@
         "Matrix",
         "lattice",
         "zoo",
-        "MASS"
+
     ],
     "libcoin": [
         "mvtnorm"
@@ -155790,7 +155790,7 @@
         "scales",
 
         "maps",
-        "MASS",
+
         "extrafont",
         "tibble",
         "plotly",
@@ -155855,7 +155855,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -155922,7 +155922,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -156089,7 +156089,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -156155,7 +156155,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -156210,7 +156210,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -156255,7 +156255,7 @@
         "class",
         "proxy",
         "bit",
-        "MASS",
+
         "survival",
         "prodlim",
         "bit64",
@@ -156300,7 +156300,7 @@
         "car",
         "carData",
         "abind",
-        "MASS",
+
         "mgcv",
         "nnet",
         "pbkrtest",
@@ -156442,7 +156442,7 @@
 
         "R.oo",
         "R.methodsS3",
-        "MASS",
+
         "glue",
         "magrittr"
     ],
@@ -156474,7 +156474,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ggrepel",
@@ -156570,7 +156570,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -156640,7 +156640,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "scales",
         "cli",
 
@@ -156696,7 +156696,7 @@
         "combinat",
         "gdata",
         "gtools",
-        "MASS",
+
         "mvtnorm"
     ],
     "backbone": [
@@ -156859,7 +156859,7 @@
     "robust": [
         "fit.models",
         "lattice",
-        "MASS",
+
         "robustbase",
         "rrcov",
         "DEoptimR",
@@ -156873,7 +156873,7 @@
     "lmerTest": [
         "lme4",
         "numDeriv",
-        "MASS",
+
         "ggplot2",
         "digest",
         "glue",
@@ -156996,7 +156996,7 @@
         "rematch",
         "gridExtra",
 
-        "MASS",
+
         "mgcv",
 
         "curl",
@@ -157092,7 +157092,7 @@
         "tibble",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -157143,7 +157143,7 @@
 
         "jpeg",
         "interp",
-        "MASS",
+
         "mvtnorm",
         "TH.data",
         "sandwich",
@@ -157336,7 +157336,7 @@
     ],
     "gptk": [],
     "DescTools": [
-        "MASS",
+
         "boot",
         "mvtnorm",
         "expm",
@@ -157390,7 +157390,7 @@
         "lmom",
         "class",
         "proxy",
-        "MASS"
+
     ],
     "lmom": [],
     "epiR": [
@@ -157442,7 +157442,7 @@
         "sass",
         "cachem",
         "memoise",
-        "MASS",
+
         "proxy",
         "glue",
         "stringi",
@@ -157463,14 +157463,14 @@
         "class",
         "KernSmooth",
 
-        "MASS",
+
         "proxy"
     ],
     "classInt": [
         "e1071",
         "class",
         "KernSmooth",
-        "MASS",
+
         "proxy"
     ],
     "s2": [
@@ -157496,7 +157496,7 @@
 
         "timeSeries",
         "Matrix",
-        "MASS",
+
         "spatial",
 
         "stabledist",
@@ -157544,7 +157544,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -157704,7 +157704,7 @@
 
     ],
     "biclust": [
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -157890,7 +157890,7 @@
         "pkgconfig",
         "ellipsis",
         "purrr",
-        "MASS",
+
         "proxy"
     ],
     "Rlabkey": [
@@ -157919,7 +157919,7 @@
 
     "depmixS4": [
         "nnet",
-        "MASS",
+
         "Rsolnp",
         "nlme",
         "lattice",
@@ -158063,7 +158063,7 @@
         "multcomp",
         "htmlTable",
         "htmltools",
-        "MASS",
+
         "cluster",
         "digest",
         "glue",
@@ -158182,7 +158182,7 @@
         "memoise",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "tibble",
@@ -158219,7 +158219,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -158250,7 +158250,7 @@
     "Rcapture": [],
     "distr": [
         "startupmsg",
-        "MASS"
+
     ],
     "startupmsg": [],
     "tcltk2": [],
@@ -158276,7 +158276,7 @@
         "nlme",
         "quadprog",
         "mvtnorm",
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -158489,7 +158489,7 @@
     "reldist": [
         "mgcv",
         "densEstBayes",
-        "MASS",
+
         "nlme",
 
         "rstan",
@@ -158540,7 +158540,7 @@
 
     ],
     "densEstBayes": [
-        "MASS",
+
         "nlme",
 
         "rstan",
@@ -158621,7 +158621,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -158676,7 +158676,7 @@
         "rpart",
         "class",
         "e1071",
-        "MASS",
+
         "nnet",
         "pcaPP",
         "robustbase",
@@ -158695,7 +158695,7 @@
         "nlme",
         "numDeriv",
         "RcppEigen",
-        "MASS",
+
         "lattice",
         "boot",
         "minqa",
@@ -158748,7 +158748,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -158806,7 +158806,7 @@
 
         "pkgconfig",
         "permute",
-        "MASS",
+
         "cluster",
         "mgcv",
         "Matrix",
@@ -158840,7 +158840,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ff",
@@ -158898,7 +158898,7 @@
 
     ],
     "plsgenomics": [
-        "MASS",
+
         "boot",
         "reshape2",
         "plyr",
@@ -158942,7 +158942,7 @@
     ],
     "agricolae": [
         "klaR",
-        "MASS",
+
         "nlme",
         "cluster",
         "AlgDesign",
@@ -159024,7 +159024,7 @@
         "prettyunits"
     ],
     "klaR": [
-        "MASS",
+
         "combinat",
         "questionr",
         "shiny",
@@ -159150,7 +159150,7 @@
         "sass",
         "jquerylib",
         "memoise",
-        "MASS",
+
         "generics",
         "tidyselect",
         "pillar",
@@ -159179,7 +159179,7 @@
     ],
     "clusterSim": [
         "cluster",
-        "MASS",
+
         "ade4",
         "e1071",
         "R2HTML",
@@ -159196,7 +159196,7 @@
     ],
     "admisc": [],
     "PairedData": [
-        "MASS",
+
         "gld",
         "mvtnorm",
         "lattice",
@@ -159275,7 +159275,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
 
         "scales",
         "tibble",
@@ -159470,7 +159470,7 @@
         "genefilter",
         "nlme",
         "reshape",
-        "MASS",
+
         "quadprog",
         "data.table",
         "GEOquery",
@@ -159765,7 +159765,7 @@
         "scales",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "ellipsis",
@@ -159838,7 +159838,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -159919,7 +159919,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "cli",
@@ -160115,7 +160115,7 @@
         "biclust",
         "irlba",
         "foreach",
-        "MASS",
+
         "colorspace",
         "lattice",
         "flexclust",
@@ -160165,7 +160165,7 @@
         "lattice",
         "randomcoloR",
         "biclust",
-        "MASS",
+
         "colorspace",
         "flexclust",
         "additivityTests",
@@ -160274,7 +160274,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -160349,7 +160349,7 @@
     ],
     "ppclust": [
         "inaparc",
-        "MASS",
+
         "kpeaks",
         "lhs",
 
@@ -160404,7 +160404,7 @@
         "maps",
         "operator.tools",
         "glue",
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -160494,7 +160494,7 @@
         "jquerylib",
         "memoise",
 
-        "MASS",
+
         "mgcv",
 
         "colorspace",
@@ -160523,7 +160523,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "tibble",
@@ -160593,7 +160593,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -160623,7 +160623,7 @@
         "Biobase",
         "BiocGenerics",
 
-        "MASS"
+
     ],
     "ddpcr": [
         "DT",
@@ -160653,7 +160653,7 @@
         "promises",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -160806,7 +160806,7 @@
     "blme": [
         "lme4",
         "Matrix",
-        "MASS",
+
         "lattice",
         "boot",
         "nlme",
@@ -161046,7 +161046,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -161118,7 +161118,7 @@
     "huge": [
         "Matrix",
         "igraph",
-        "MASS",
+
 
         "RcppEigen",
         "magrittr",
@@ -161167,7 +161167,7 @@
         "lattice",
         "hexbin",
         "ape",
-        "MASS",
+
         "readr",
         "tibble",
         "tidyr",
@@ -161211,7 +161211,7 @@
         "abind",
         "colorspace",
         "Hmisc",
-        "MASS",
+
         "e1071",
         "foreign",
         "haven",
@@ -161329,7 +161329,7 @@
 
     ],
     "qpcR": [
-        "MASS",
+
         "minpack.lm",
         "rgl",
         "robustbase",
@@ -161518,7 +161518,7 @@
     "clValid": [
         "cluster",
         "class",
-        "MASS"
+
     ],
 
     "qpdf": [
@@ -161538,12 +161538,12 @@
     "distrEx": [
         "distr",
         "startupmsg",
-        "MASS"
+
     ],
     "uniqtag": [],
     "AICcmodavg": [
         "lattice",
-        "MASS",
+
         "Matrix",
         "nlme",
         "survival",
@@ -161625,7 +161625,7 @@
         "lobstr",
         "plyr",
         "reshape2",
-        "MASS",
+
 
         "pkgconfig",
         "ellipsis",
@@ -161639,7 +161639,7 @@
     "unmarked": [
         "lattice",
         "lme4",
-        "MASS",
+
         "Matrix",
 
         "plyr",
@@ -161836,7 +161836,7 @@
     "cMAP": [],
     "EMT": [],
     "Matching": [
-        "MASS"
+
     ],
     "pcxnData": [],
     "clusterRepro": [],
@@ -161845,7 +161845,7 @@
         "vcd",
         "plyr",
 
-        "MASS",
+
         "colorspace",
         "lmtest",
         "zoo",
@@ -161855,7 +161855,7 @@
         "fields",
         "boot",
         "CircStats",
-        "MASS",
+
         "dtw",
         "proxy",
         "spam",
@@ -161892,7 +161892,7 @@
         "utf8"
     ],
     "CircStats": [
-        "MASS",
+
         "boot"
     ],
     "aroma.affymetrix": [
@@ -161904,7 +161904,7 @@
         "R.devices",
         "R.filesets",
         "aroma.apd",
-        "MASS",
+
         "matrixStats",
         "listenv",
         "future",
@@ -162048,7 +162048,7 @@
     ],
     "magicaxis": [
         "celestial",
-        "MASS",
+
         "plotrix",
         "sm",
         "mapproj",
@@ -162071,7 +162071,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -162189,7 +162189,7 @@
     ],
     "logspline": [],
     "evmix": [
-        "MASS",
+
         "gsl",
         "SparseM"
     ],
@@ -162220,7 +162220,7 @@
         "numDeriv",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "abind",
         "checkmate",
@@ -162264,7 +162264,7 @@
         "R6",
         "pillar",
 
-        "MASS",
+
         "mgcv",
         "labeling",
         "munsell",
@@ -162309,7 +162309,7 @@
         "magrittr",
         "pkgconfig",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "labeling",
@@ -162336,7 +162336,7 @@
         "lifecycle",
         "glue",
 
-        "MASS",
+
         "mgcv",
         "tibble",
         "withr",
@@ -162486,7 +162486,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163174,7 +163174,7 @@
     ],
 
     "elitism": [
-        "MASS"
+
     ],
     "ggfittext": [
         "stringi",
@@ -163183,7 +163183,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163234,7 +163234,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -163313,7 +163313,7 @@
         "withr",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163376,7 +163376,7 @@
         "scales",
         "tibble",
 
-        "MASS",
+
         "mgcv",
         "withr",
         "farver",
@@ -163556,7 +163556,7 @@
         "jpeg",
         "RColorBrewer",
         "interp",
-        "MASS",
+
         "rjson",
         "yaml",
         "bit64",
@@ -163643,7 +163643,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163775,7 +163775,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163967,7 +163967,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -163999,11 +163999,11 @@
         "utf8"
     ],
     "glmpca": [
-        "MASS"
+
     ],
     "dgof": [],
     "nnTensor": [
-        "MASS",
+
         "fields",
         "rTensor",
         "plot3D",
@@ -164045,7 +164045,7 @@
     ],
     "ccTensor": [
         "fields",
-        "MASS",
+
         "igraph",
         "rTensor",
         "spam",
@@ -164107,7 +164107,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -164144,7 +164144,7 @@
         "ade4",
         "adehabitatMA",
         "CircStats",
-        "MASS",
+
         "pixmap",
         "filehash",
         "boot",
@@ -164301,7 +164301,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -164348,7 +164348,7 @@
         "SuppDists",
         "kSamples",
         "BWStest",
-        "MASS",
+
         "memoise",
 
 
@@ -164711,7 +164711,7 @@
         "fs"
     ],
     "VAM": [
-        "MASS",
+
         "Matrix",
         "lattice"
     ],
@@ -164844,7 +164844,7 @@
     "BlandAltmanLeh": [],
     "FIs": [],
     "dml": [
-        "MASS",
+
         "lfda",
         "plyr",
         "rARPACK",
@@ -164949,7 +164949,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -165143,7 +165143,7 @@
         "digest",
         "glue",
 
-        "MASS",
+
         "mgcv",
 
         "scales",
@@ -165210,7 +165210,7 @@
         "pillar",
         "digest",
 
-        "MASS",
+
         "mgcv",
         "scales",
         "withr",
@@ -165296,7 +165296,7 @@
         "longitudinalData",
         "kml",
         "lattice",
-        "MASS",
+
         "clv",
         "rgl",
         "misc3d",
@@ -165325,7 +165325,7 @@
         "class",
         "rgl",
         "misc3d",
-        "MASS",
+
         "cluster",
         "htmlwidgets",
         "htmltools",
@@ -165353,7 +165353,7 @@
         "class",
         "rgl",
         "misc3d",
-        "MASS",
+
         "htmlwidgets",
         "htmltools",
         "knitr",
@@ -165376,7 +165376,7 @@
     "clv": [
         "cluster",
         "class",
-        "MASS"
+
     ],
     "mirbase.db": [
         "AnnotationDbi",
@@ -165566,7 +165566,7 @@
     "eva": [
         "Matrix",
         "EnvStats",
-        "MASS",
+
         "ggplot2",
         "nortest",
         "lattice",
