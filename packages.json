@@ -4046,7 +4046,6 @@
         "nloptr"
     ],
     "DEsubs": [
-        "EBSeq",
         "NBPSeq",
         "DESeq2",
         "GenomicRanges",
@@ -4544,10 +4543,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead",
         "Rsamtools",
@@ -10710,9 +10706,7 @@
         "lme4",
         "nloptr"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OTUbase": [
         "ShortRead",
         "Biostrings",
@@ -13517,7 +13511,6 @@
     ],
     "scDD": [
         "fields",
-        "EBSeq",
         "arm",
         "SingleCellExperiment",
         "SummarizedExperiment",
