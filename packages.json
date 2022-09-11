@@ -4145,7 +4145,6 @@
         "rms",
         "flowViz",
         "rrcov",
-        "feature",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -7691,11 +7690,9 @@
     ],
     "flowMeans": [
         "rrcov",
-        "feature",
         "flowCore"
     ],
     "flowMerge": [
-        "feature",
         "flowClust",
         "rrcov",
         "flowCore",
@@ -14922,7 +14919,6 @@
     "optimalFlow": [
         "flowMeans",
         "rrcov",
-        "feature",
         "flowCore"
     ],
     "OPWeight": [
@@ -24707,7 +24703,6 @@
         "viridis",
         "TH.data"
     ],
-    "feature": [],
     "airway": [
         "SummarizedExperiment",
         "GenomicRanges",
