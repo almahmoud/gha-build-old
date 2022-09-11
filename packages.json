@@ -11,7 +11,6 @@
         "pamr",
         "GO.db",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -26,7 +25,6 @@
         "glmnet",
         "GO.db",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -37,12 +35,10 @@
         "a4Core",
         "ROCR",
         "pamr",
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "a4Core": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "ABAEnrichment": [
         "ABAData",
@@ -56,8 +52,7 @@
         "Biostrings"
     ],
     "ABarray": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "abseqR": [
         "ggplot2",
@@ -88,7 +83,6 @@
         "futile.logger"
     ],
     "aCGH": [
-        "survival",
         "multtest"
     ],
     "ACME": [],
@@ -97,7 +91,6 @@
         "tilingArray",
         "aCGH",
         "snapCGH",
-        "survival",
         "multtest",
         "affy",
         "vsn",
@@ -151,8 +144,7 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "nloptr",
-        "survival"
+        "nloptr"
     ],
     "adductomicsR": [
         "adductData",
@@ -182,8 +174,7 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "XVector",
-        "survival"
+        "XVector"
     ],
     "adSplit": [
         "AnnotationDbi",
@@ -192,7 +183,6 @@
         "multtest",
         "IRanges",
         "Biostrings",
-        "survival",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -261,7 +251,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -360,7 +349,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -394,8 +382,7 @@
         "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
-        "XVector",
-        "survival"
+        "XVector"
     ],
     "ALDEx2": [
         "zCompositions",
@@ -408,7 +395,6 @@
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "RcppZiggurat",
         "DelayedArray",
         "NADA"
@@ -448,7 +434,6 @@
         "Hmisc",
         "AnnotationFilter",
         "restfulr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -531,7 +516,6 @@
         "HDF5Array",
         "SummarizedExperiment",
         "scales",
-        "survival",
         "GenomicRanges",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -573,7 +557,6 @@
         "scales",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
@@ -596,7 +579,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "callr"
     ],
     "AneuFinder": [
@@ -620,8 +602,7 @@
         "DelayedArray"
     ],
     "ANF": [
-        "igraph",
-        "survival"
+        "igraph"
     ],
     "animalcules": [
         "shinyjs",
@@ -639,14 +620,12 @@
         "biomformat",
         "umap",
         "GUniFrac",
-        "pROC",
         "recipes",
         "IRanges",
         "GenomicRanges",
         "BiocParallel",
         "genefilter",
         "geneplotter",
-        "survival",
         "ggrepel",
         "modeest",
         "GenomeInfoDb",
@@ -678,7 +657,6 @@
         "genefilter",
         "IRanges",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -780,7 +758,6 @@
     "anota": [
         "qvalue",
         "multtest",
-        "survival",
         "ggplot2",
         "scales"
     ],
@@ -795,7 +772,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
@@ -848,8 +824,7 @@
         "DelayedArray",
         "BSgenome",
         "KEGGREST",
-        "futile.logger",
-        "survival"
+        "futile.logger"
     ],
     "apComplex": [
         "RBGL",
@@ -937,7 +912,6 @@
         "AnnotationDbi",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -975,7 +949,6 @@
         "illuminaio",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
@@ -1002,7 +975,6 @@
         "IRanges",
         "illuminaio",
         "ggplot2",
-        "survival",
         "htmlTable",
         "viridis",
         "KEGGREST",
@@ -1028,7 +1000,6 @@
         "KEGGREST",
         "MSstatsConvert",
         "lme4",
-        "survival",
         "futile.logger",
         "Biostrings",
         "nloptr",
@@ -1046,7 +1017,6 @@
         "SummarizedExperiment",
         "futile.logger",
         "scales",
-        "survival",
         "ptw",
         "MultiDataSet",
         "GenomicRanges",
@@ -1093,7 +1063,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "nloptr",
-        "survival",
         "htmlTable",
         "viridis",
         "testthat",
@@ -1130,7 +1099,6 @@
         "AnnotationFilter",
         "restfulr",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -1144,7 +1112,6 @@
     ],
     "ASSET": [
         "msm",
-        "survival",
         "expm"
     ],
     "ASSIGN": [
@@ -1152,7 +1119,6 @@
         "sva",
         "ggplot2",
         "scales",
-        "survival",
         "expm",
         "genefilter",
         "BiocParallel",
@@ -1198,8 +1164,7 @@
         "interactiveDisplayBase",
         "futile.logger",
         "AnnotationFilter",
-        "scales",
-        "survival"
+        "scales"
     ],
     "atena": [
         "SummarizedExperiment",
@@ -1253,15 +1218,13 @@
         "XVector",
         "GenomeInfoDb",
         "GSEABase",
-        "genefilter",
-        "survival"
+        "genefilter"
     ],
     "AUCell": [
         "GSEABase",
         "mixtools",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "survival",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -1367,7 +1330,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "SummarizedExperiment",
         "KEGGREST",
         "DelayedArray"
@@ -1554,7 +1516,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "TSP",
         "callr",
         "IRanges",
@@ -1599,7 +1560,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -1676,8 +1636,7 @@
     ],
     "beadarraySNP": [
         "quantsmooth",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "BEARscc": [
         "ggplot2",
@@ -1768,7 +1727,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "survival",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -1842,7 +1800,6 @@
         "multtest",
         "GSEABase",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -1890,7 +1847,6 @@
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -1911,7 +1867,6 @@
         "SummarizedExperiment",
         "IRanges",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "GenomicRanges",
@@ -2006,7 +1961,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -2065,7 +2019,6 @@
         "interactiveDisplayBase",
         "nloptr",
         "broom",
-        "survival",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -2187,7 +2140,6 @@
         "xlsx",
         "futile.logger",
         "scales",
-        "survival",
         "igraph",
         "Hmisc",
         "quantreg",
@@ -2232,7 +2184,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -2270,7 +2221,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -2307,7 +2257,6 @@
         "Hmisc",
         "futile.logger",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "KEGGgraph",
@@ -2353,7 +2302,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -2379,8 +2327,7 @@
         "quantreg",
         "gam",
         "cvAUC",
-        "ROCR",
-        "survival"
+        "ROCR"
     ],
     "biovizBase": [
         "scales",
@@ -2403,7 +2350,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -2472,7 +2418,6 @@
         "rtracklayer",
         "globaltest",
         "XVector",
-        "survival",
         "AnnotationDbi",
         "Biostrings",
         "Rsamtools",
@@ -2572,7 +2517,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "KEGGREST",
         "Biostrings"
     ],
@@ -2594,7 +2538,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "scales",
         "vegan",
         "apcluster",
@@ -2662,7 +2605,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis",
         "restfulr",
@@ -2696,10 +2638,8 @@
         "AnnotationDbi",
         "XVector",
         "BSgenome",
-        "pROC",
         "recipes",
         "scales",
-        "survival",
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
@@ -2754,7 +2694,6 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "scales",
         "KEGGREST"
     ],
@@ -2820,7 +2759,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray",
@@ -2948,7 +2886,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -2988,7 +2925,6 @@
         "scales",
         "Hmisc",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -3043,7 +2979,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -3087,7 +3022,6 @@
         "RBGL",
         "Hmisc",
         "igraph",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -3111,7 +3045,6 @@
         "cgdsr",
         "GSEABase",
         "geNetClassifier",
-        "survival",
         "phenoTest",
         "AnnotationDbi",
         "BMA",
@@ -3139,7 +3072,6 @@
     "CancerSubtypes": [
         "NMF",
         "iCluster",
-        "survival",
         "pkgmaker",
         "ggplot2",
         "scales"
@@ -3169,7 +3101,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
-        "survival",
         "AnnotationDbi",
         "XVector",
         "Biostrings",
@@ -3236,7 +3167,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "survival",
         "TH.data",
         "nloptr",
         "flowViz",
@@ -3259,7 +3189,6 @@
         "genefilter",
         "IRanges",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -3277,8 +3206,6 @@
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
-        "base64url",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -3290,7 +3217,6 @@
         "cgdsr",
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -3310,7 +3236,6 @@
         "futile.logger",
         "XVector",
         "DelayedArray",
-        "survival",
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
@@ -3462,7 +3387,6 @@
         "Category",
         "AnnotationDbi",
         "RBGL",
-        "survival",
         "affy",
         "ggplot2",
         "IRanges",
@@ -3514,7 +3438,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "sparseMatrixStats",
-        "survival",
         "XVector",
         "spatstat.random",
         "spatstat.sparse",
@@ -3542,7 +3465,6 @@
         "car",
         "ggplot2",
         "ggrepel",
-        "survival",
         "htmlTable",
         "viridis",
         "spBayes",
@@ -3641,7 +3563,6 @@
         "ggpp",
         "quantreg",
         "Hmisc",
-        "survival",
         "IRanges",
         "KEGGREST",
         "futile.logger",
@@ -3677,7 +3598,6 @@
         "mice",
         "multcomp",
         "SummarizedExperiment",
-        "survival",
         "futile.logger",
         "broom",
         "flowCore",
@@ -3794,7 +3714,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "base64url",
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
@@ -3806,7 +3725,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "survival",
         "XVector",
         "broom",
         "car",
@@ -3865,9 +3783,7 @@
         "BiocParallel",
         "futile.logger"
     ],
-    "CGEN": [
-        "survival"
-    ],
+    "CGEN": [],
     "CGHbase": [],
     "CGHcall": [
         "CGHbase"
@@ -3876,7 +3792,6 @@
         "CNTools",
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -3924,7 +3839,6 @@
         "SummarizedExperiment",
         "XVector",
         "scales",
-        "survival",
         "geneLenDataBase",
         "GO.db",
         "htmlTable",
@@ -3975,7 +3889,6 @@
         "genomeIntervals",
         "Rsamtools",
         "ggplot2",
-        "pROC",
         "recipes",
         "GenomeInfoDb",
         "XVector",
@@ -3985,13 +3898,11 @@
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
     "Chicago": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -4028,7 +3939,6 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -4086,7 +3996,6 @@
         "KEGGREST",
         "XVector",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -4130,7 +4039,6 @@
         "rtracklayer",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "DelayedArray",
         "BSgenome",
@@ -4161,7 +4069,6 @@
         "BiocParallel",
         "BiocIO",
         "scales",
-        "survival",
         "BSgenome",
         "restfulr",
         "DelayedArray",
@@ -4205,8 +4112,7 @@
         "geneplotter",
         "BSgenome",
         "restfulr",
-        "DelayedArray",
-        "survival"
+        "DelayedArray"
     ],
     "ChIPseeker": [
         "AnnotationDbi",
@@ -4311,9 +4217,7 @@
         "GenomeInfoDb",
         "DelayedArray"
     ],
-    "chopsticks": [
-        "survival"
-    ],
+    "chopsticks": [],
     "chromDraw": [
         "GenomicRanges",
         "IRanges",
@@ -4518,7 +4422,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "htmlTable",
         "DelayedArray"
     ],
@@ -4536,7 +4439,6 @@
         "ggrepel",
         "viridis",
         "graphlayouts",
-        "survival",
         "tweenr"
     ],
     "CINdex": [
@@ -4576,7 +4478,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "biomaRt",
         "DelayedArray"
     ],
@@ -4599,7 +4500,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "survival",
         "scuttle",
         "BiocParallel",
         "DelayedArray",
@@ -4766,7 +4666,6 @@
         "benchmarkmeData",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -4926,7 +4825,6 @@
     "CNTools": [
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -4965,7 +4863,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -5014,7 +4911,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -5091,7 +4987,6 @@
         "ComplexHeatmap",
         "MIRA",
         "fitdistrplus",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -5210,8 +5105,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "survival"
+        "XVector"
     ],
     "coMET": [
         "biomaRt",
@@ -5240,7 +5134,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -5365,7 +5258,6 @@
         "broom",
         "tweenr",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -5386,7 +5278,6 @@
         "IRanges",
         "GenomeInfoDb",
         "ggplot2",
-        "pROC",
         "recipes",
         "XVector",
         "spatstat.random",
@@ -5396,7 +5287,6 @@
         "hardhat",
         "ipred",
         "spatstat.sparse",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -5415,7 +5305,6 @@
         "Rgraphviz",
         "scales",
         "Hmisc",
-        "survival",
         "quantreg",
         "multcomp",
         "htmlTable",
@@ -5458,7 +5347,6 @@
         "rtracklayer",
         "BiocIO",
         "DelayedArray",
-        "survival",
         "scales",
         "restfulr"
     ],
@@ -5485,7 +5373,6 @@
         "pamr",
         "GenomicRanges",
         "GenomeInfoDb",
-        "survival",
         "prodlim",
         "ipred",
         "KEGGREST",
@@ -5565,7 +5452,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "biomaRt"
@@ -5608,7 +5494,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -5691,7 +5576,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -5732,8 +5616,7 @@
         "Biostrings",
         "mixtools",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "countsimQC": [
         "DESeq2",
@@ -5745,7 +5628,6 @@
         "BiocParallel",
         "geneplotter",
         "AnnotationDbi",
-        "survival",
         "scales",
         "GenomeInfoDb",
         "DelayedArray",
@@ -5776,7 +5658,6 @@
     "covRNA": [
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -5807,12 +5688,10 @@
         "DelayedArray"
     ],
     "cqn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "CRImage": [
         "aCGH",
-        "survival",
         "multtest"
     ],
     "CRISPRseek": [
@@ -5880,7 +5759,6 @@
         "restfulr",
         "AnnotationFilter",
         "scales",
-        "survival",
         "tfautograph"
     ],
     "CrispRVariants": [
@@ -5937,7 +5815,6 @@
         "DelayedArray",
         "futile.logger",
         "XVector",
-        "survival",
         "scales"
     ],
     "CSAR": [
@@ -5961,7 +5838,6 @@
     "csdR": [
         "WGCNA",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -6084,7 +5960,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -6152,7 +6027,6 @@
         "fields",
         "nloptr",
         "broom",
-        "survival",
         "viridis",
         "testthat",
         "callr"
@@ -6181,8 +6055,7 @@
     "CytoDx": [
         "glmnet",
         "flowCore",
-        "cytolib",
-        "survival"
+        "cytolib"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -6210,7 +6083,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
-        "pROC",
         "recipes",
         "dendextend",
         "FactoMineR",
@@ -6225,7 +6097,6 @@
         "scattermore",
         "XVector",
         "nloptr",
-        "survival",
         "TH.data",
         "openCyto",
         "RBGL",
@@ -6267,7 +6138,6 @@
         "ggrepel",
         "caret",
         "futile.logger",
-        "pROC",
         "recipes",
         "scales",
         "dendextend",
@@ -6284,7 +6154,6 @@
         "ipred",
         "pbkrtest",
         "quantreg",
-        "survival",
         "prodlim",
         "testthat",
         "broom",
@@ -6384,7 +6253,6 @@
         "ncdfFlow",
         "DelayedArray",
         "AnnotationDbi",
-        "survival",
         "tweenr",
         "ggsci",
         "cowplot",
@@ -6487,7 +6355,6 @@
         "FSelector",
         "arm",
         "lme4",
-        "pROC",
         "recipes",
         "IRanges",
         "GenomicRanges",
@@ -6504,7 +6371,6 @@
         "ggrepel",
         "RWeka",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "igraph",
@@ -6573,7 +6439,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "affy",
-        "survival",
         "TH.data",
         "googlesheets4",
         "modelr",
@@ -6663,8 +6528,7 @@
         "lme4",
         "callr",
         "gert",
-        "nloptr",
-        "survival"
+        "nloptr"
     ],
     "dcanr": [
         "igraph"
@@ -6714,7 +6578,6 @@
         "selectr",
         "sn",
         "Biostrings",
-        "survival",
         "TH.data",
         "quantreg",
         "XVector",
@@ -6746,7 +6609,6 @@
         "fields",
         "nloptr",
         "broom",
-        "survival",
         "viridis",
         "testthat",
         "callr"
@@ -6755,8 +6617,7 @@
         "ggplot2",
         "patchwork",
         "survey",
-        "scales",
-        "survival"
+        "scales"
     ],
     "debCAM": [
         "BiocParallel",
@@ -6830,7 +6691,6 @@
         "ggplotify",
         "patchwork",
         "futile.logger",
-        "survival",
         "ggforce",
         "ggrepel",
         "tidygraph",
@@ -6880,7 +6740,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "scales",
         "KEGGREST",
@@ -7032,7 +6891,6 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "scales",
         "KEGGREST",
         "Biostrings"
@@ -7075,8 +6933,7 @@
         "rrcov",
         "NCIgraph",
         "RCy3",
-        "pcaPP",
-        "base64url"
+        "pcaPP"
     ],
     "DEGreport": [
         "broom",
@@ -7098,7 +6955,6 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -7152,7 +7008,6 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "KEGGREST",
         "Biostrings"
     ],
@@ -7237,7 +7092,6 @@
         "BiocIO",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -7282,7 +7136,6 @@
         "AnnotationFilter",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -7318,7 +7171,6 @@
         "restfulr",
         "AnnotationFilter",
         "scales",
-        "survival",
         "BSgenome"
     ],
     "DESeq2": [
@@ -7331,7 +7183,6 @@
         "ggplot2",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -7342,8 +7193,7 @@
     "DEsingle": [
         "gamlss",
         "BiocParallel",
-        "futile.logger",
-        "survival"
+        "futile.logger"
     ],
     "destiny": [
         "pcaMethods",
@@ -7368,7 +7218,6 @@
         "xts",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -7391,7 +7240,6 @@
         "qvalue",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
@@ -7413,7 +7261,6 @@
         "XVector",
         "DelayedArray",
         "AnnotationDbi",
-        "survival",
         "scales",
         "KEGGREST",
         "Biostrings"
@@ -7427,7 +7274,6 @@
         "swamp",
         "bnstruct",
         "igraph",
-        "survival",
         "genefilter",
         "BiocParallel",
         "futile.logger",
@@ -7452,7 +7298,6 @@
         "KEGGREST",
         "futile.logger",
         "ggplot2",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -7494,7 +7339,6 @@
         "DelayedArray",
         "ShortRead",
         "AnnotationDbi",
-        "survival",
         "BiocIO",
         "restfulr",
         "KEGGREST"
@@ -7511,7 +7355,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -7543,7 +7386,6 @@
         "pheatmap",
         "scattermore",
         "nloptr",
-        "survival",
         "TH.data",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -7654,13 +7496,11 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
-        "survival"
+        "futile.logger"
     ],
     "diggit": [
         "viper",
-        "mixtools",
-        "survival"
+        "mixtools"
     ],
     "Dino": [
         "BiocParallel",
@@ -7701,7 +7541,6 @@
         "GenomeInfoDb",
         "BiocNeighbors",
         "sparseMatrixStats",
-        "survival",
         "XVector",
         "RcppTOML",
         "spatstat.random",
@@ -7830,7 +7669,6 @@
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "TH.data",
         "Biostrings",
         "Rsamtools",
@@ -7893,7 +7731,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "sparseMatrixStats",
-        "survival",
         "BiocIO",
         "ggplot2",
         "FDb.InfiniumMethylation.hg19",
@@ -7929,7 +7766,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -8019,7 +7855,6 @@
         "DelayedArray",
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -8035,7 +7870,6 @@
         "car",
         "multcomp",
         "scales",
-        "survival",
         "lava",
         "pbkrtest",
         "quantreg",
@@ -8227,7 +8061,6 @@
         "ggrepel",
         "coin",
         "futile.logger",
-        "survival",
         "multcomp",
         "IRanges",
         "GenomicRanges",
@@ -8287,7 +8120,6 @@
         "ggplot2",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -8336,7 +8168,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "scales",
         "nloptr",
         "IRanges",
@@ -8379,7 +8210,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -8419,7 +8249,6 @@
         "KEGGREST",
         "GO.db",
         "scales",
-        "survival",
         "SummarizedExperiment",
         "GSEABase",
         "BiocParallel",
@@ -8507,7 +8336,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "htmlTable",
         "viridis",
         "nloptr",
@@ -8563,7 +8391,6 @@
         "ggplot2",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
-        "survival",
         "scales",
         "partykit",
         "GenomicRanges",
@@ -8610,7 +8437,6 @@
         "genefilter",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "survival",
         "GenomicRanges",
         "Biostrings",
         "bumphunter",
@@ -8758,7 +8584,6 @@
         "treeio",
         "tweenr",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -8856,7 +8681,6 @@
         "BiocParallel",
         "futile.logger",
         "nloptr",
-        "survival",
         "DelayedArray",
         "testthat",
         "callr"
@@ -8880,8 +8704,7 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "scales",
-        "survival"
+        "scales"
     ],
     "epigraHMM": [
         "SummarizedExperiment",
@@ -8917,7 +8740,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -8941,7 +8763,6 @@
         "reactome.db",
         "graphite",
         "Hmisc",
-        "survival",
         "GO.db",
         "KEGGREST",
         "BiocParallel",
@@ -9171,7 +8992,6 @@
         "geneplotter",
         "scales",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
@@ -9320,7 +9140,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "survival",
         "lava",
         "ggplot2",
         "GenomicAlignments",
@@ -9404,7 +9223,6 @@
         "quantreg",
         "geneplotter",
         "AnnotationDbi",
-        "survival",
         "BiocIO",
         "biomaRt",
         "scales",
@@ -9498,7 +9316,6 @@
         "survey",
         "ggplot2",
         "plotly",
-        "survival",
         "scales"
     ],
     "famat": [
@@ -9553,7 +9370,6 @@
         "LiquidAssociation",
         "Hmisc",
         "WGCNA",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -9651,7 +9467,6 @@
         "GOSemSim",
         "qvalue",
         "SummarizedExperiment",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -9727,8 +9542,7 @@
         "ggplot2",
         "ggthemes",
         "RCy3",
-        "scales",
-        "base64url"
+        "scales"
     ],
     "FELLA": [
         "igraph",
@@ -9760,7 +9574,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "BiocIO",
         "rtracklayer",
@@ -9824,7 +9637,6 @@
         "BiocIO",
         "biomaRt",
         "scales",
-        "survival",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -9856,7 +9668,6 @@
         "MsCoreUtils",
         "MsFeatures",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -9968,7 +9779,6 @@
         "fields",
         "nloptr",
         "broom",
-        "survival",
         "viridis",
         "testthat",
         "callr"
@@ -9997,7 +9807,6 @@
         "fields",
         "nloptr",
         "broom",
-        "survival",
         "viridis",
         "testthat",
         "callr"
@@ -10047,7 +9856,6 @@
         "cytolib",
         "nloptr",
         "broom",
-        "survival",
         "ggplot2",
         "testthat",
         "scales",
@@ -10093,7 +9901,6 @@
         "pcaPP",
         "fds",
         "nloptr",
-        "survival",
         "rainbow",
         "testthat",
         "hdrcde",
@@ -10180,9 +9987,7 @@
         "ggplot2",
         "scales"
     ],
-    "fmrs": [
-        "survival"
-    ],
+    "fmrs": [],
     "fobitools": [
         "fgsea",
         "ggplot2",
@@ -10199,7 +10004,6 @@
         "ipred",
         "futile.logger",
         "tweenr",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -10257,7 +10061,6 @@
         "webshot",
         "egg",
         "restfulr",
-        "survival",
         "TSP",
         "callr"
     ],
@@ -10268,7 +10071,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "survival",
         "nloptr",
         "broom",
         "ggplot2",
@@ -10342,7 +10144,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -10425,8 +10226,7 @@
         "GenomeInfoDb"
     ],
     "GAprediction": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "GARS": [
         "ggplot2",
@@ -10452,7 +10252,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "lme4",
-        "pROC",
         "recipes",
         "BiocParallel",
         "genefilter",
@@ -10467,7 +10266,6 @@
         "ggrepel",
         "RWeka",
         "XVector",
-        "survival",
         "htmlTable",
         "viridis",
         "igraph",
@@ -10549,7 +10347,6 @@
         "DOSE",
         "org.Hs.eg.db",
         "biomaRt",
-        "survival",
         "survminer",
         "pathview",
         "ggplot2",
@@ -10628,8 +10425,7 @@
     "gemini": [
         "ggplot2",
         "mixtools",
-        "scales",
-        "survival"
+        "scales"
     ],
     "genbankr": [
         "IRanges",
@@ -10675,7 +10471,6 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -10727,7 +10522,6 @@
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -10740,7 +10534,6 @@
         "iC10",
         "AnnotationDbi",
         "pamr",
-        "survival",
         "prodlim",
         "ipred",
         "IRanges",
@@ -10767,7 +10560,6 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "survival",
         "futile.logger",
         "pbkrtest",
         "quantreg",
@@ -10781,7 +10573,6 @@
     "GeneMeta": [
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -10828,7 +10619,6 @@
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "logistf",
         "quantsmooth",
         "Biostrings",
@@ -10865,7 +10655,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -10910,7 +10699,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "XVector",
         "Biostrings"
     ],
@@ -11040,7 +10828,6 @@
     "genomicInstability": [
         "mixtools",
         "SummarizedExperiment",
-        "survival",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -11077,7 +10864,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -11108,7 +10894,6 @@
         "KEGGREST",
         "BiocParallel",
         "BiocIO",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -11157,7 +10942,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -11290,7 +11074,6 @@
         "lme4",
         "broom",
         "nloptr",
-        "survival",
         "testthat"
     ],
     "GEOfastq": [
@@ -11340,7 +11123,6 @@
         "GSEABase",
         "Category",
         "scales",
-        "survival",
         "IRanges",
         "KEGGREST",
         "RBGL",
@@ -11365,7 +11147,6 @@
         "lme4",
         "nloptr",
         "broom",
-        "survival",
         "ggplot2",
         "testthat",
         "scales",
@@ -11397,7 +11178,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -11508,7 +11288,6 @@
         "GSEABase",
         "HH",
         "AnnotationDbi",
-        "survival",
         "multcomp",
         "Hmisc",
         "IRanges",
@@ -11540,7 +11319,6 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "scales",
         "KEGGREST",
@@ -11570,7 +11348,6 @@
         "loose.rock",
         "AnnotationDbi",
         "scales",
-        "survival",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -11606,14 +11383,12 @@
         "KEGGREST",
         "ggplot2",
         "viridis",
-        "survival",
         "scales",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
     ],
     "globaltest": [
-        "survival",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -11663,7 +11438,6 @@
         "Rgraphviz",
         "igraph",
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -11825,7 +11599,6 @@
         "KEGGREST",
         "GSEABase",
         "genefilter",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -11914,7 +11687,6 @@
         "ggplotify",
         "pheatmap",
         "scales",
-        "survival",
         "sf",
         "classInt"
     ],
@@ -11925,8 +11697,7 @@
     ],
     "GraphAT": [
         "MCMCpack",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "graphite": [
         "AnnotationDbi",
@@ -11944,8 +11715,7 @@
         "multtest",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "GRENITS": [
         "ggplot2",
@@ -11984,7 +11754,6 @@
         "quantreg",
         "lme4",
         "XVector",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -12009,7 +11778,6 @@
     ],
     "GRridge": [
         "penalized",
-        "survival",
         "glmnet"
     ],
     "GSALightning": [],
@@ -12094,9 +11862,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "GSgalgoR": [
-        "survival"
-    ],
+    "GSgalgoR": [],
     "GSReg": [
         "Homo.sapiens",
         "org.Hs.eg.db",
@@ -12127,7 +11893,6 @@
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -12197,7 +11962,6 @@
         "scales",
         "tensorflow",
         "tfruns",
-        "survival",
         "RcppTOML",
         "restfulr",
         "tfautograph"
@@ -12249,7 +12013,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -12258,12 +12021,10 @@
     "GWAS.BAYES": [
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -12283,7 +12044,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "survival",
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
@@ -12294,7 +12054,6 @@
         "futile.logger"
     ],
     "GWASTools": [
-        "survival",
         "logistf",
         "quantsmooth",
         "mice",
@@ -12305,7 +12064,6 @@
     ],
     "gwasurvivr": [
         "GWASTools",
-        "survival",
         "VariantAnnotation",
         "SummarizedExperiment",
         "logistf",
@@ -12348,7 +12106,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -12494,17 +12251,14 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis"
     ],
     "hierGWAS": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "hierinf": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "HilbertCurve": [
         "IRanges",
@@ -12549,7 +12303,6 @@
         "DelayedArray",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "survival",
         "multcomp",
         "IRanges",
         "GenomicRanges",
@@ -12595,7 +12348,6 @@
         "restfulr",
         "DelayedArray"
     ],
-    "HIREewas": [],
     "HiTC": [
         "IRanges",
         "GenomicRanges",
@@ -12623,13 +12375,11 @@
     "HPiP": [
         "caret",
         "ggplot2",
-        "pROC",
         "igraph",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -12673,7 +12423,6 @@
         "geneplotter",
         "ggplot2",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -12704,9 +12453,7 @@
         "XVector",
         "DelayedArray"
     ],
-    "HybridMTest": [
-        "survival"
-    ],
+    "HybridMTest": [],
     "hypeR": [
         "ggplot2",
         "ggforce",
@@ -12745,15 +12492,12 @@
     ],
     "iCARE": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
         "scales"
     ],
-    "Icens": [
-        "survival"
-    ],
+    "Icens": [],
     "icetea": [
         "ggplot2",
         "GenomicFeatures",
@@ -12782,8 +12526,7 @@
         "restfulr",
         "DelayedArray",
         "BSgenome",
-        "KEGGREST",
-        "survival"
+        "KEGGREST"
     ],
     "iCheck": [
         "lumi",
@@ -12810,7 +12553,6 @@
         "illuminaio",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
@@ -12899,7 +12641,6 @@
         "biomaRt",
         "DelayedArray",
         "GSEABase",
-        "survival",
         "rtracklayer",
         "GenomicFeatures",
         "Biostrings",
@@ -13025,7 +12766,6 @@
         "ggplot2",
         "AnnotationDbi",
         "RBGL",
-        "survival",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -13044,7 +12784,6 @@
         "GenomeInfoDb",
         "ggfortify",
         "Rsamtools",
-        "survival",
         "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
@@ -13163,7 +12902,6 @@
         "fitdistrplus",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "survival",
         "multcomp",
         "scales",
         "reticulate",
@@ -13212,7 +12950,6 @@
     ],
     "INSPEcT": [
         "BiocParallel",
-        "pROC",
         "GenomicFeatures",
         "GenomicRanges",
         "IRanges",
@@ -13235,7 +12972,6 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "survival",
         "scales"
     ],
     "InTAD": [
@@ -13269,7 +13005,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -13300,7 +13035,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -13338,7 +13072,6 @@
         "GSEABase",
         "genefilter",
         "scales",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -13388,7 +13121,6 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -13416,7 +13148,6 @@
         "rtracklayer",
         "DelayedArray",
         "KEGGREST",
-        "survival",
         "scales",
         "restfulr"
     ],
@@ -13438,7 +13169,6 @@
         "haplo.stats",
         "rms",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -13468,12 +13198,10 @@
         "multtest",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "iPath": [
         "BiocParallel",
-        "survival",
         "ggpubr",
         "ggplot2",
         "survminer",
@@ -13521,7 +13249,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -13574,7 +13301,6 @@
         "tidygraph",
         "graphlayouts",
         "expm",
-        "survival",
         "scuttle",
         "SummarizedExperiment",
         "DelayedArray",
@@ -13731,7 +13457,6 @@
         "KEGGREST",
         "interactiveDisplayBase",
         "AnnotationFilter",
-        "survival",
         "DelayedArray"
     ],
     "IsoGeneGUI": [
@@ -13742,7 +13467,6 @@
         "orQA",
         "AnnotationDbi",
         "affy",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -13774,7 +13498,6 @@
         "XVector",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "Biostrings"
     ],
     "ITALICS": [
@@ -13791,13 +13514,11 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "survival",
         "rrcov",
         "pcaPP"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "survival",
         "rrcov",
         "pcaPP"
     ],
@@ -13840,7 +13561,6 @@
     ],
     "ivygapSE": [
         "SummarizedExperiment",
-        "survival",
         "survminer",
         "plotly",
         "ggplot2",
@@ -13910,7 +13630,6 @@
         "BiocParallel",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -13918,8 +13637,7 @@
     ],
     "KCsmart": [
         "siggenes",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "kebabs": [
         "Biostrings",
@@ -13985,7 +13703,6 @@
         "HDF5Array",
         "beachmat",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "rtracklayer",
@@ -14001,11 +13718,9 @@
         "caret",
         "sva",
         "Hmisc",
-        "pROC",
         "recipes",
         "quantreg",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "genefilter",
@@ -14052,7 +13767,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "XVector",
-        "survival",
         "BSgenome",
         "KEGGREST",
         "futile.logger",
@@ -14072,7 +13786,6 @@
         "SummarizedExperiment",
         "coin",
         "ggplot2",
-        "survival",
         "multcomp",
         "scales",
         "GenomicRanges",
@@ -14130,7 +13843,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -14217,7 +13929,6 @@
         "MsCoreUtils",
         "MsFeatures",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -14241,8 +13952,7 @@
         "scales"
     ],
     "logicFS": [
-        "LogicReg",
-        "survival"
+        "LogicReg"
     ],
     "logitT": [
         "affy"
@@ -14323,7 +14033,6 @@
         "illuminaio",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
@@ -14369,7 +14078,6 @@
     "M3Drop": [
         "reldist",
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -14400,7 +14108,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "ggplot2",
-        "pROC",
         "recipes",
         "SummarizedExperiment",
         "BiocParallel",
@@ -14410,7 +14117,6 @@
         "hardhat",
         "ipred",
         "DelayedArray",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -14432,7 +14138,6 @@
         "nloptr",
         "glmnet",
         "Wrench",
-        "survival",
         "testthat",
         "broom",
         "callr"
@@ -14520,9 +14225,7 @@
         "futile.logger",
         "biomaRt"
     ],
-    "maftools": [
-        "survival"
-    ],
+    "maftools": [],
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
@@ -14542,7 +14245,6 @@
         "GenomicRanges",
         "fields",
         "methylumi",
-        "survival",
         "scales",
         "viridis",
         "GenomeInfoDb",
@@ -14615,7 +14317,6 @@
         "tidyverse",
         "SummarizedExperiment",
         "ggplot2",
-        "pROC",
         "recipes",
         "GenomicRanges",
         "IRanges",
@@ -14633,7 +14334,6 @@
         "ipred",
         "callr",
         "selectr",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -14649,7 +14349,6 @@
         "Hmisc",
         "igraph",
         "ggplot2",
-        "pROC",
         "recipes",
         "fields",
         "BiocParallel",
@@ -14661,7 +14360,6 @@
         "futile.logger",
         "viridis",
         "scales",
-        "survival",
         "htmlTable",
         "questionr",
         "vsn",
@@ -14691,7 +14389,6 @@
         "reactome.db",
         "IRanges",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -14706,7 +14403,6 @@
         "IRanges",
         "KEGGREST",
         "ggplot2",
-        "pROC",
         "recipes",
         "XVector",
         "Biostrings",
@@ -14715,7 +14411,6 @@
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -14731,8 +14426,7 @@
     ],
     "martini": [
         "igraph",
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "maser": [
         "ggplot2",
@@ -14761,7 +14455,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -14805,7 +14498,6 @@
         "vsn",
         "IRanges",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "GenomicRanges",
@@ -14875,7 +14567,6 @@
     "mBPCR": [
         "oligoClasses",
         "GWASTools",
-        "survival",
         "logistf",
         "quantsmooth",
         "IRanges",
@@ -14916,7 +14607,6 @@
         "KEGGREST",
         "futile.logger",
         "Hmisc",
-        "survival",
         "htmlTable",
         "viridis",
         "Biostrings",
@@ -14958,7 +14648,6 @@
         "AnnotationFilter",
         "RBGL",
         "restfulr",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -15029,7 +14718,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "sparseMatrixStats",
-        "survival",
         "BiocIO",
         "FDb.InfiniumMethylation.hg19",
         "restfulr",
@@ -15043,7 +14731,6 @@
         "minfi",
         "SummarizedExperiment",
         "wateRmelon",
-        "survival",
         "GenomicRanges",
         "Biostrings",
         "bumphunter",
@@ -15119,7 +14806,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -15159,8 +14845,7 @@
         "scales",
         "GenomeInfoDb",
         "XVector",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "memes": [
         "Biostrings",
@@ -15237,7 +14922,6 @@
         "genefilter",
         "IRanges",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -15260,7 +14944,6 @@
         "igraph"
     ],
     "messina": [
-        "survival",
         "ggplot2",
         "scales"
     ],
@@ -15286,12 +14969,10 @@
     "metabCombiner": [
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -15313,8 +14994,7 @@
         "BiocParallel",
         "ggplot2",
         "futile.logger",
-        "scales",
-        "survival"
+        "scales"
     ],
     "MetaboSignal": [
         "KEGGgraph",
@@ -15348,7 +15028,6 @@
         "Rsamtools",
         "BiocIO",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray",
@@ -15402,7 +15081,6 @@
         "pcaPP",
         "fds",
         "nloptr",
-        "survival",
         "rainbow",
         "testthat",
         "hdrcde",
@@ -15454,8 +15132,7 @@
     ],
     "metagenomeSeq": [
         "glmnet",
-        "Wrench",
-        "survival"
+        "Wrench"
     ],
     "metaMS": [
         "CAMERA",
@@ -15470,7 +15147,6 @@
         "MsCoreUtils",
         "MsFeatures",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -15538,7 +15214,6 @@
         "bsseq",
         "DelayedArray",
         "ShortRead",
-        "survival",
         "BiocIO",
         "plotly",
         "viridis",
@@ -15593,7 +15268,6 @@
         "Rsamtools",
         "BiocIO",
         "biomaRt",
-        "survival",
         "RBGL",
         "DelayedArray",
         "KEGGREST",
@@ -15614,7 +15288,6 @@
         "multtest",
         "multcomp",
         "sn",
-        "survival",
         "TH.data",
         "quantreg"
     ],
@@ -15650,7 +15323,6 @@
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "survival",
         "expm",
         "ggplot2",
         "Biostrings",
@@ -15692,7 +15364,6 @@
         "lme4",
         "Biostrings",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -15747,7 +15418,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -15780,7 +15450,6 @@
         "beachmat",
         "GenomicFeatures",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "siggenes",
         "illuminaio",
@@ -15848,7 +15517,6 @@
         "GenomicFeatures",
         "sparseMatrixStats",
         "AnnotationHubData",
-        "survival",
         "callr",
         "car",
         "selectr",
@@ -15921,7 +15589,6 @@
         "patchwork",
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "survival",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -16065,7 +15732,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "BiocIO",
         "rtracklayer",
@@ -16119,8 +15785,7 @@
         "GGally",
         "scales",
         "ape",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "Mfuzz": [
         "tkWidgets"
@@ -16244,8 +15909,7 @@
         "multtest",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "microbiomeDASim": [
         "ggplot2",
@@ -16262,8 +15926,7 @@
         "vegan",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "microbiomeExplorer": [
         "metagenomeSeq",
@@ -16298,7 +15961,6 @@
         "Wrench",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "nloptr",
@@ -16337,9 +15999,7 @@
         "microbiome",
         "XVector",
         "GenomeInfoDb",
-        "pROC",
         "recipes",
-        "survival",
         "multcomp",
         "genefilter",
         "geneplotter",
@@ -16428,7 +16088,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "multcomp",
         "scales",
         "aplot",
@@ -16486,8 +16145,7 @@
         "genefilter",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "miloR": [
         "BiocNeighbors",
@@ -16539,8 +16197,7 @@
         "testthat",
         "scales",
         "quantreg",
-        "callr",
-        "survival"
+        "callr"
     ],
     "mina": [
         "MCL",
@@ -16548,7 +16205,6 @@
         "ggplot2",
         "Hmisc",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "expm"
@@ -16570,7 +16226,6 @@
         "GO.db",
         "RBGL",
         "AnnotationForge",
-        "survival",
         "htmlTable",
         "viridis",
         "affy",
@@ -16622,7 +16277,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -16726,7 +16380,6 @@
         "RBGL",
         "GSEABase",
         "genefilter",
-        "survival",
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
@@ -16802,7 +16455,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "survival",
         "pkgmaker",
         "ggwordcloud",
         "metR",
@@ -16851,7 +16503,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "survival",
         "linkcomm",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -16928,7 +16579,6 @@
         "futile.logger",
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "survival",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -16951,12 +16601,10 @@
     "mistyR": [
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -17007,7 +16655,6 @@
         "gbm",
         "threejs",
         "AnnotationDbi",
-        "survival",
         "igraph",
         "IRanges",
         "KEGGREST",
@@ -17031,7 +16678,6 @@
         "pamr",
         "DESeq2",
         "SummarizedExperiment",
-        "pROC",
         "recipes",
         "IRanges",
         "GenomicRanges",
@@ -17039,7 +16685,6 @@
         "genefilter",
         "geneplotter",
         "scales",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "callr",
@@ -17118,7 +16763,6 @@
         "nloptr",
         "glmnet",
         "Wrench",
-        "survival",
         "testthat",
         "broom",
         "callr"
@@ -17154,7 +16798,6 @@
         "WGCNA",
         "igraph",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -17193,15 +16836,13 @@
         "RCy3",
         "BiocParallel",
         "igraph",
-        "futile.logger",
-        "base64url"
+        "futile.logger"
     ],
     "mogsa": [
         "graphite",
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -17237,7 +16878,6 @@
         "futile.logger",
         "rtracklayer",
         "Rsamtools",
-        "survival",
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
@@ -17361,7 +17001,6 @@
         "scales",
         "Hmisc",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -17470,7 +17109,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -17543,7 +17181,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -17661,7 +17298,6 @@
         "quantreg",
         "lme4",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "scales",
         "KEGGREST",
@@ -17700,7 +17336,6 @@
     "MSstats": [
         "MSstatsConvert",
         "lme4",
-        "survival",
         "ggplot2",
         "ggrepel",
         "scales",
@@ -17730,7 +17365,6 @@
         "ggsignif",
         "rstatix",
         "lme4",
-        "survival",
         "MSstatsTMT",
         "broom",
         "googlesheets4",
@@ -17764,7 +17398,6 @@
         "GenomeInfoDb",
         "scales",
         "lme4",
-        "survival",
         "lmerTest",
         "nloptr",
         "testthat",
@@ -17811,12 +17444,10 @@
         "caret",
         "MSstats",
         "futile.logger",
-        "pROC",
         "recipes",
         "scales",
         "MSstatsConvert",
         "lme4",
-        "survival",
         "ggrepel",
         "nloptr",
         "hardhat",
@@ -17834,7 +17465,6 @@
         "MSstatsConvert",
         "scales",
         "nloptr",
-        "survival",
         "ggrepel",
         "testthat",
         "callr"
@@ -17868,7 +17498,6 @@
         "DelayedArray"
     ],
     "multiClust": [
-        "survival",
         "dendextend",
         "ggplot2",
         "viridis",
@@ -17922,7 +17551,6 @@
         "tensorflow",
         "tfruns",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "tfautograph"
@@ -17957,7 +17585,6 @@
         "sn",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "TH.data",
         "quantreg"
     ],
@@ -18016,7 +17643,6 @@
         "ropls",
         "MultiDataSet",
         "ggplot2",
-        "pROC",
         "recipes",
         "AnnotationDbi",
         "DOSE",
@@ -18052,7 +17678,6 @@
         "testthat",
         "DO.db",
         "fgsea",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -18078,9 +17703,7 @@
         "quantreg",
         "lava"
     ],
-    "multtest": [
-        "survival"
-    ],
+    "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
         "igraph",
@@ -18163,7 +17786,6 @@
         "ScaledMatrix",
         "sparseMatrixStats",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "testthat",
         "broom",
@@ -18224,7 +17846,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "survival",
         "pkgmaker",
         "learnr",
         "DelayedArray",
@@ -18300,7 +17921,6 @@
         "XVector",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -18316,7 +17936,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -18335,7 +17954,6 @@
         "Hmisc",
         "GenomeInfoDb",
         "IRanges",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -18406,7 +18024,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "survival",
         "TH.data",
         "quantreg",
         "htmlTable",
@@ -18511,7 +18128,6 @@
         "geneplotter",
         "ggplot2",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
@@ -18531,7 +18147,6 @@
         "scales",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -18562,8 +18177,7 @@
         "KEGGgraph",
         "RBGL",
         "RCy3",
-        "Rgraphviz",
-        "base64url"
+        "Rgraphviz"
     ],
     "ncRNAtools": [
         "ggplot2",
@@ -18628,7 +18242,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "survival",
         "XVector",
         "RcppTOML",
         "spatstat.random",
@@ -18657,7 +18270,6 @@
     "netboost": [
         "WGCNA",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -18719,7 +18331,6 @@
         "IRanges",
         "XVector",
         "scales",
-        "survival",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -18734,7 +18345,6 @@
         "ggplot2",
         "igraph",
         "scales",
-        "survival",
         "ICS",
         "survey"
     ],
@@ -18762,7 +18372,6 @@
     ],
     "netprioR": [
         "ggplot2",
-        "pROC",
         "scales"
     ],
     "netresponse": [
@@ -18780,7 +18389,6 @@
         "WGCNA",
         "biomaRt",
         "AnnotationDbi",
-        "survival",
         "GO.db",
         "IRanges",
         "KEGGREST",
@@ -18831,13 +18439,11 @@
         "genefilter",
         "benchmarkmeData",
         "AnnotationDbi",
-        "survival",
         "KEGGREST",
         "Biostrings"
     ],
     "networkBMA": [
         "BMA",
-        "survival",
         "rrcov",
         "pcaPP"
     ],
@@ -18939,7 +18545,6 @@
         "DelayedArray",
         "affy",
         "XVector",
-        "survival",
         "htmlTable",
         "viridis",
         "nloptr",
@@ -19048,7 +18653,6 @@
         "XVector",
         "Rsamtools",
         "sparseMatrixStats",
-        "survival",
         "scales",
         "ExperimentHub",
         "GenomicAlignments",
@@ -19057,8 +18661,7 @@
         "KEGGREST"
     ],
     "OCplus": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "ODER": [
         "dasper",
@@ -19101,7 +18704,6 @@
         "usethis",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "htmlTable",
         "viridis",
         "RcppTOML",
@@ -19190,7 +18792,6 @@
         "futile.logger",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "RcppZiggurat",
         "DelayedArray"
     ],
@@ -19222,7 +18823,6 @@
         "futile.logger",
         "car",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "htmlTable",
         "viridis",
@@ -19297,7 +18897,6 @@
         "futile.logger",
         "nloptr",
         "broom",
-        "survival",
         "testthat"
     ],
     "omicsPrint": [
@@ -19350,7 +18949,6 @@
         "scales",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -19415,7 +19013,6 @@
         "fitdistrplus",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -19435,7 +19032,6 @@
         "fitdistrplus",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -19444,7 +19040,6 @@
         "AICcmodavg",
         "car",
         "summarytools",
-        "survival",
         "unmarked",
         "pbkrtest",
         "quantreg",
@@ -19569,8 +19164,7 @@
         "geneplotter",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "survival"
+        "DelayedArray"
     ],
     "Organism.dplyr": [
         "AnnotationFilter",
@@ -19638,7 +19232,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -19695,7 +19288,6 @@
         "egg",
         "DelayedArray",
         "KEGGREST",
-        "survival",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -19716,7 +19308,6 @@
         "mRMRe",
         "ROCR",
         "sva",
-        "survival",
         "igraph",
         "genefilter",
         "BiocParallel",
@@ -19756,7 +19347,6 @@
         "scales",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -19907,7 +19497,6 @@
         "pkgdown",
         "rcmdcheck",
         "testthat",
-        "survival",
         "biomformat",
         "Biostrings",
         "igraph",
@@ -19945,9 +19534,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "pathwayPCA": [
-        "survival"
-    ],
+    "pathwayPCA": [],
     "paxtoolsr": [
         "igraph"
     ],
@@ -19976,7 +19563,6 @@
         "KEGGREST",
         "BiocParallel",
         "geneplotter",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Category",
@@ -20030,7 +19616,6 @@
         "CoreGx",
         "caret",
         "survminer",
-        "survival",
         "BiocParallel",
         "piano",
         "scales",
@@ -20039,7 +19624,6 @@
         "ggplot2",
         "switchBox",
         "reportROC",
-        "pROC",
         "verification",
         "futile.logger",
         "recipes",
@@ -20130,7 +19714,6 @@
         "R.rsp",
         "PSCBS",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -20166,8 +19749,7 @@
     "pengls": [
         "glmnet",
         "BiocParallel",
-        "futile.logger",
-        "survival"
+        "futile.logger"
     ],
     "PepsNMR": [
         "ptw",
@@ -20189,7 +19771,6 @@
         "ggplot2",
         "phyloseq",
         "fitdistrplus",
-        "survival",
         "scales",
         "ape",
         "biomformat",
@@ -20279,7 +19860,6 @@
         "genefilter",
         "geneplotter",
         "futile.logger",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -20346,7 +19926,6 @@
         "IRanges",
         "GenomeInfoDb",
         "RBGL",
-        "survival",
         "XVector",
         "TTR",
         "spatstat.random",
@@ -20379,7 +19958,6 @@
         "BMA",
         "ggplot2",
         "Hmisc",
-        "survival",
         "Category",
         "AnnotationDbi",
         "hopach",
@@ -20414,7 +19992,6 @@
         "Rfast",
         "broom",
         "testthat",
-        "survival",
         "RcppZiggurat",
         "callr"
     ],
@@ -20471,7 +20048,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -20511,8 +20087,7 @@
         "vegan",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "Pi": [
         "igraph",
@@ -20529,13 +20104,11 @@
         "IRanges",
         "ggnetwork",
         "osfr",
-        "pROC",
         "recipes",
         "Rgraphviz",
         "XVector",
         "network",
         "sna",
-        "survival",
         "crul",
         "ape",
         "hardhat",
@@ -20584,7 +20157,6 @@
         "GOSemSim",
         "qvalue",
         "scales",
-        "survival",
         "ggraph",
         "reactome.db",
         "igraph",
@@ -20647,7 +20219,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -20699,7 +20270,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "sparseMatrixStats",
-        "survival",
         "XVector",
         "RcppTOML",
         "spatstat.random",
@@ -20747,7 +20317,6 @@
         "KEGGREST",
         "GSEABase",
         "genefilter",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -20788,7 +20357,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "htmlTable",
         "viridis",
         "broom",
@@ -20890,9 +20458,7 @@
         "mixOmics",
         "MSnbase",
         "patchwork",
-        "RankProd",
         "vegan",
-        "pROC",
         "recipes",
         "IRanges",
         "scales",
@@ -20901,7 +20467,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "survival",
         "BiocParallel",
         "MsCoreUtils",
         "vsn",
@@ -20981,7 +20546,6 @@
         "genefilter",
         "IRanges",
         "KEGGREST",
-        "survival",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -21031,13 +20595,11 @@
         "multtest",
         "scales",
         "vegan",
-        "DelayedArray",
-        "survival"
+        "DelayedArray"
     ],
     "preciseTAD": [
         "IRanges",
         "GenomicRanges",
-        "pROC",
         "caret",
         "rCGH",
         "ggplot2",
@@ -21052,7 +20614,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "aCGH",
-        "survival",
         "multtest",
         "KEGGREST",
         "Biostrings",
@@ -21092,7 +20653,6 @@
     "PREDA": [
         "multtest",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -21102,8 +20662,7 @@
     "predictionet": [
         "igraph",
         "penalized",
-        "RBGL",
-        "survival"
+        "RBGL"
     ],
     "primirTSS": [
         "GenomicRanges",
@@ -21143,7 +20702,6 @@
         "AnnotationFilter",
         "ggplot2",
         "GO.db",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -21153,7 +20711,6 @@
         "MSnbase",
         "ggplot2",
         "tseries",
-        "survival",
         "htmlTable",
         "viridis",
         "MsCoreUtils",
@@ -21191,7 +20748,6 @@
         "rtracklayer",
         "biomaRt",
         "DelayedArray",
-        "survival",
         "restfulr"
     ],
     "proBAMr": [
@@ -21228,7 +20784,6 @@
         "genefilter",
         "BiocParallel",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -21244,8 +20799,7 @@
         "callr"
     ],
     "PROcess": [
-        "Icens",
-        "survival"
+        "Icens"
     ],
     "procoil": [
         "kebabs",
@@ -21382,10 +20936,8 @@
         "biomaRt",
         "futile.logger",
         "AnnotationDbi",
-        "pROC",
         "recipes",
         "viridis",
-        "survival",
         "genefilter",
         "ggvis",
         "gbm",
@@ -21432,10 +20984,8 @@
         "waiter",
         "futile.logger",
         "AnnotationDbi",
-        "pROC",
         "recipes",
         "viridis",
-        "survival",
         "genefilter",
         "ggvis",
         "gbm",
@@ -21465,7 +21015,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -21531,7 +21080,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "affy",
-        "survival",
         "TH.data",
         "TTR",
         "googlesheets4",
@@ -21658,7 +21206,6 @@
         "Rfast",
         "shinyjs",
         "SummarizedExperiment",
-        "survival",
         "IRanges",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -21732,7 +21279,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survival",
         "htmlTable",
         "viridis",
         "MsCoreUtils",
@@ -21848,7 +21394,6 @@
         "KEGGREST",
         "BiocParallel",
         "BiocIO",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -21883,7 +21428,6 @@
         "genefilter",
         "pwrEWAS.data",
         "AnnotationDbi",
-        "survival",
         "scales",
         "ExperimentHub",
         "IRanges",
@@ -21990,7 +21534,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray",
@@ -22019,7 +21562,6 @@
         "SummarizedExperiment",
         "sva",
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -22081,7 +21623,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -22092,8 +21633,7 @@
         "restfulr"
     ],
     "quantsmooth": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "QuartPAC": [
         "iPAC",
@@ -22105,8 +21645,7 @@
         "multtest",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "QuasR": [
         "GenomicRanges",
@@ -22166,7 +21705,6 @@
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis",
         "KEGGREST",
@@ -22255,8 +21793,7 @@
         "DelayedArray"
     ],
     "rain": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "ramr": [
         "GenomicRanges",
@@ -22280,7 +21817,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
-        "survival",
         "KEGGREST",
         "futile.logger",
         "DelayedArray"
@@ -22293,7 +21829,6 @@
         "ape"
     ],
     "randPack": [],
-    "RankProd": [],
     "RareVariantVis": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -22353,9 +21888,7 @@
         "BiocParallel",
         "futile.logger"
     ],
-    "rbsurv": [
-        "survival"
-    ],
+    "rbsurv": [],
     "Rcade": [
         "GenomicRanges",
         "Rsamtools",
@@ -22418,7 +21951,6 @@
         "AnnotationDbi",
         "IRanges",
         "aCGH",
-        "survival",
         "multtest",
         "KEGGREST",
         "XVector",
@@ -22447,7 +21979,6 @@
         "AnnotationDbi",
         "DelayedArray",
         "KEGGREST",
-        "survival",
         "Biostrings"
     ],
     "RCM": [
@@ -22465,7 +21996,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "xts",
         "TTR"
     ],
@@ -22497,7 +22027,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "base64url",
         "futile.logger",
         "igraph",
         "influenceR",
@@ -22513,7 +22042,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "base64url",
         "futile.logger",
         "igraph",
         "influenceR",
@@ -22522,9 +22050,7 @@
         "RcppTOML",
         "ggplot2"
     ],
-    "RCy3": [
-        "base64url"
-    ],
+    "RCy3": [],
     "ReactomeGraph4R": [
         "neo4r",
         "igraph"
@@ -22575,7 +22101,6 @@
     "REBET": [
         "ASSET",
         "msm",
-        "survival",
         "expm"
     ],
     "rebook": [
@@ -22604,8 +22129,7 @@
         "vegan",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "recount": [
         "SummarizedExperiment",
@@ -22633,7 +22157,6 @@
         "KEGGREST",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -22677,7 +22200,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -22737,7 +22259,6 @@
         "ggplot2",
         "InteractionSet",
         "regioneR",
-        "survival",
         "AnnotationFilter",
         "BiocParallel",
         "BiocIO",
@@ -22779,7 +22300,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "Hmisc",
-        "survival",
         "GO.db",
         "XVector",
         "htmlTable",
@@ -22831,7 +22351,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "Biostrings",
         "BiocIO",
         "biomaRt",
@@ -22845,7 +22364,6 @@
     "regsplice": [
         "glmnet",
         "SummarizedExperiment",
-        "survival",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -22872,7 +22390,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "base64url",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -22882,7 +22399,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -22907,7 +22423,6 @@
         "XVector",
         "Rsamtools",
         "ggplot2",
-        "pROC",
         "recipes",
         "bumphunter",
         "siggenes",
@@ -22922,7 +22437,6 @@
         "KEGGREST",
         "GenomicFeatures",
         "sparseMatrixStats",
-        "survival",
         "scales",
         "hardhat",
         "ipred",
@@ -22950,7 +22464,6 @@
         "restfulr",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "DelayedArray",
         "affy",
         "ggplot2",
@@ -22994,7 +22507,6 @@
         "Rgraphviz",
         "futile.logger",
         "XVector",
-        "survival",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -23057,7 +22569,6 @@
         "ggrepel",
         "mice",
         "car",
-        "survival",
         "htmlTable",
         "viridis",
         "pcaMethods",
@@ -23167,7 +22678,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "rtracklayer",
         "GenomicFeatures",
         "XVector",
@@ -23233,8 +22743,7 @@
         "genefilter",
         "geneplotter",
         "restfulr",
-        "DelayedArray",
-        "survival"
+        "DelayedArray"
     ],
     "RiboDiPA": [
         "Rsamtools",
@@ -23263,7 +22772,6 @@
         "futile.logger",
         "rstan",
         "rstantools",
-        "survival",
         "restfulr",
         "DelayedArray",
         "loo",
@@ -23299,7 +22807,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -23355,7 +22862,6 @@
         "genefilter",
         "vsn",
         "AnnotationDbi",
-        "survival",
         "affy",
         "ggplot2",
         "IRanges",
@@ -23394,7 +22900,6 @@
         "AnnotationFilter",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -23440,10 +22945,8 @@
     ],
     "RIVER": [
         "glmnet",
-        "pROC",
         "ggplot2",
-        "scales",
-        "survival"
+        "scales"
     ],
     "RJMCMCNucleosomes": [
         "IRanges",
@@ -23464,8 +22967,7 @@
     ],
     "RLassoCox": [
         "glmnet",
-        "igraph",
-        "survival"
+        "igraph"
     ],
     "RLSeq": [
         "ggplot2",
@@ -23501,20 +23003,17 @@
         "broom",
         "futile.logger",
         "KEGGREST",
-        "pROC",
         "recipes",
         "SummarizedExperiment",
         "BiocParallel",
         "hardhat",
         "ipred",
         "DelayedArray",
-        "survival",
         "prodlim",
         "lava"
     ],
     "Rmagpie": [
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "RMassBank": [
         "MSnbase",
@@ -23556,7 +23055,6 @@
         "GenomicFeatures",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "Biostrings",
         "BiocIO",
         "rtracklayer",
@@ -23613,7 +23111,6 @@
         "restfulr",
         "biomaRt",
         "VariantAnnotation",
-        "survival",
         "htmlTable",
         "viridis",
         "BSgenome"
@@ -23630,7 +23127,6 @@
         "IRanges",
         "GenomeInfoDb",
         "bumphunter",
-        "survival",
         "logistf",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -23666,7 +23162,6 @@
         "IRanges",
         "KEGGREST",
         "RBGL",
-        "survival",
         "affy",
         "ggplot2",
         "scales",
@@ -23704,7 +23199,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -23738,7 +23232,6 @@
         "AnnotationFilter",
         "BiocIO",
         "restfulr",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -23774,7 +23267,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -23808,7 +23300,6 @@
         "AnnotationFilter",
         "BiocIO",
         "restfulr",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -23883,7 +23374,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "survival",
         "BiocIO",
         "biomaRt",
         "ggsci",
@@ -23938,7 +23428,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -24021,8 +23510,7 @@
         "vegan",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "RpsiXML": [
         "RBGL",
@@ -24062,7 +23550,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "restfulr",
@@ -24078,7 +23565,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TFisher",
         "mutoss",
         "MultiDataSet",
@@ -24168,7 +23654,6 @@
     ],
     "RTCGA": [
         "rvest",
-        "survival",
         "survminer",
         "ggplot2",
         "ggthemes",
@@ -24200,7 +23685,6 @@
         "GenomeInfoDb",
         "RaggedExperiment",
         "SummarizedExperiment",
-        "survival",
         "TCGAutils",
         "IRanges",
         "XVector",
@@ -24233,7 +23717,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -24258,7 +23741,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -24273,7 +23755,6 @@
     "RTNsurvival": [
         "RTN",
         "RTNduals",
-        "survival",
         "scales",
         "egg",
         "ggplot2",
@@ -24298,12 +23779,10 @@
         "callr"
     ],
     "RTopper": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "Rtpca": [
         "ggplot2",
-        "pROC",
         "scales"
     ],
     "rtracklayer": [
@@ -24323,7 +23802,6 @@
     ],
     "Rtreemix": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -24409,7 +23887,6 @@
         "gRbase",
         "Rgraphviz",
         "igraph",
-        "survival",
         "RBGL"
     ],
     "safe": [
@@ -24566,7 +24043,6 @@
         "tfruns",
         "tfautograph",
         "IRanges",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "RcppTOML",
@@ -24587,7 +24063,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomicRanges",
         "SummarizedExperiment",
         "KEGGREST",
@@ -24644,7 +24119,6 @@
         "ggplot2",
         "caret",
         "ROCR",
-        "pROC",
         "ape",
         "AnnotationHub",
         "AnnotationDbi",
@@ -24672,7 +24146,6 @@
         "IRanges",
         "GenomeInfoDb",
         "KEGGREST",
-        "survival",
         "XVector",
         "hardhat",
         "ipred",
@@ -24794,7 +24267,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "futile.logger",
-        "survival",
         "AnnotationDbi",
         "XVector",
         "RcppTOML",
@@ -24840,7 +24312,6 @@
         "GenomeInfoDb",
         "futile.logger",
         "sparseMatrixStats",
-        "survival",
         "XVector",
         "RcppTOML",
         "spatstat.random",
@@ -24853,7 +24324,6 @@
         "ggplot2",
         "caret",
         "ROCR",
-        "pROC",
         "ape",
         "recipes",
         "scales",
@@ -24877,7 +24347,6 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "survival",
         "XVector",
         "hardhat",
         "ipred",
@@ -24910,7 +24379,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "survival",
         "IRanges",
         "sparseMatrixStats",
         "tweenr",
@@ -24950,7 +24418,6 @@
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "RcppTOML",
@@ -25023,14 +24490,12 @@
         "quantreg",
         "pcaMethods",
         "BiocParallel",
-        "futile.logger",
-        "survival"
+        "futile.logger"
     ],
     "scds": [
         "SingleCellExperiment",
         "SummarizedExperiment",
         "xgboost",
-        "pROC",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -25043,7 +24508,6 @@
         "BiocParallel",
         "igraph",
         "glmnet",
-        "survival",
         "futile.logger",
         "reticulate",
         "tfruns",
@@ -25061,7 +24525,6 @@
         "caret",
         "ggplot2",
         "DESeq2",
-        "pROC",
         "recipes",
         "IRanges",
         "GenomicRanges",
@@ -25069,7 +24532,6 @@
         "genefilter",
         "geneplotter",
         "scales",
-        "survival",
         "DelayedArray",
         "GenomeInfoDb",
         "futile.logger",
@@ -25112,7 +24574,6 @@
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "RcppTOML",
@@ -25158,7 +24619,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "survival",
         "RcppTOML",
         "spatstat.random",
         "spatstat.sparse",
@@ -25197,7 +24657,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
-        "survival",
         "htmlTable",
         "viridis",
         "densEstBayes",
@@ -25247,7 +24706,6 @@
         "ggplot2",
         "futile.logger",
         "scales",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -25261,7 +24719,6 @@
         "RUVSeq",
         "SingleCellExperiment",
         "futile.logger",
-        "survival",
         "EDASeq",
         "GenomicRanges",
         "DelayedArray",
@@ -25319,7 +24776,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "DelayedArray",
         "Rsamtools",
         "AnnotationDbi",
@@ -25432,7 +24888,6 @@
         "Rmagic",
         "BiocParallel",
         "futile.logger",
-        "survival",
         "reticulate",
         "ggplot2",
         "glmnet",
@@ -25488,7 +24943,6 @@
         "AnnotationFilter",
         "restfulr",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL"
@@ -25568,7 +25022,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "survival",
         "XVector",
         "tweenr",
         "ggrepel",
@@ -25642,7 +25095,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "survival",
         "Biostrings",
         "RcppTOML",
         "classInt",
@@ -25713,7 +25165,6 @@
         "rtracklayer",
         "Rsamtools",
         "Biostrings",
-        "survival",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -25883,7 +25334,6 @@
         "GenomeInfoDb",
         "XVector",
         "Hmisc",
-        "survival",
         "GO.db",
         "KEGGREST",
         "ggplot2",
@@ -25962,7 +25412,6 @@
         "ggplot2",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -26068,7 +25517,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -26149,7 +25597,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "TSP",
         "multtest",
         "callr",
@@ -26177,7 +25624,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -26205,9 +25651,7 @@
         "phyloseq",
         "glmnet",
         "ParamHelpers",
-        "pROC",
         "scales",
-        "survival",
         "BBmisc",
         "ggplot2",
         "parallelMap",
@@ -26234,7 +25678,6 @@
     "SigCheck": [
         "MLInterfaces",
         "BiocParallel",
-        "survival",
         "futile.logger",
         "genefilter",
         "ggvis",
@@ -26271,8 +25714,7 @@
         "scales"
     ],
     "siggenes": [
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "sights": [
         "qvalue",
@@ -26377,14 +25819,11 @@
         "biomaRt",
         "futile.logger"
     ],
-    "sigsquared": [
-        "survival"
-    ],
+    "sigsquared": [],
     "SIM": [
         "quantreg",
         "globaltest",
         "quantsmooth",
-        "survival",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -26401,7 +25840,6 @@
         "genefilter",
         "vsn",
         "AnnotationDbi",
-        "survival",
         "affy",
         "ggplot2",
         "IRanges",
@@ -26455,7 +25893,6 @@
         "pheatmap",
         "multtest",
         "scran",
-        "survival",
         "scales",
         "SingleCellExperiment",
         "scuttle",
@@ -26553,12 +25990,10 @@
         "hgu95a.db",
         "TFisher",
         "mutoss",
-        "survival",
         "RcppTOML",
         "ggbeeswarm",
         "bluster",
         "xgboost",
-        "pROC",
         "M3Drop",
         "ruv",
         "ensembldb",
@@ -26666,7 +26101,6 @@
         "GSVA",
         "ggplot2",
         "AnnotationDbi",
-        "survival",
         "scales",
         "IRanges",
         "SummarizedExperiment",
@@ -26752,7 +26186,6 @@
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "survival",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -26826,7 +26259,6 @@
         "GenomeInfoDb",
         "XVector",
         "GO.db",
-        "survival",
         "htmlTable",
         "viridis",
         "Biostrings",
@@ -26843,7 +26275,6 @@
     "snapCGH": [
         "aCGH",
         "tilingArray",
-        "survival",
         "multtest",
         "affy",
         "vsn",
@@ -26876,7 +26307,6 @@
         "testthat",
         "callr"
     ],
-    "SNPediaR": [],
     "SNPhood": [
         "GenomicRanges",
         "Rsamtools",
@@ -26899,15 +26329,12 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "survival",
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
         "restfulr"
     ],
-    "snpStats": [
-        "survival"
-    ],
+    "snpStats": [],
     "soGGi": [
         "SummarizedExperiment",
         "ggplot2",
@@ -26936,8 +26363,7 @@
         "nls2",
         "sampSurf",
         "scales",
-        "shinyjs",
-        "survival"
+        "shinyjs"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -26969,7 +26395,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "survival",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -26983,8 +26408,7 @@
         "multtest",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "Spaniel": [
         "Seurat",
@@ -27030,7 +26454,6 @@
         "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
-        "survival",
         "XVector",
         "RcppTOML",
         "spatstat.random",
@@ -27059,14 +26482,12 @@
     ],
     "sparseDOSSA": [
         "MCMCpack",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "sparseMatrixStats": [],
     "sparsenetgls": [
         "glmnet",
         "huge",
-        "survival",
         "igraph"
     ],
     "SparseSignatures": [
@@ -27195,7 +26616,6 @@
         "SingleCellExperiment",
         "scater",
         "AnnotationDbi",
-        "survival",
         "scales",
         "DelayedArray",
         "GenomeInfoDb",
@@ -27253,7 +26673,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -27377,7 +26796,6 @@
         "GenomeInfoDb",
         "BSgenome",
         "ggplot2",
-        "survival",
         "XVector",
         "rtracklayer",
         "SummarizedExperiment",
@@ -27396,7 +26814,6 @@
         "scater",
         "SummarizedExperiment",
         "futile.logger",
-        "survival",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -27483,7 +26900,6 @@
         "AnnotationFilter",
         "restfulr",
         "DelayedArray",
-        "survival",
         "htmlTable",
         "viridis"
     ],
@@ -27492,7 +26908,6 @@
         "gRbase",
         "glmnet",
         "igraph",
-        "survival",
         "RBGL",
         "Rgraphviz"
     ],
@@ -27513,7 +26928,6 @@
         "Hmisc",
         "WGCNA",
         "phyloseq",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -27587,7 +27001,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "survival",
         "callr",
         "gert",
         "htmlTable",
@@ -27622,7 +27035,6 @@
         "scales",
         "ggridges",
         "ggforce",
-        "survival",
         "tweenr"
     ],
     "ssrch": [],
@@ -27672,7 +27084,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -27686,7 +27097,6 @@
         "Category",
         "AnnotationDbi",
         "RBGL",
-        "survival",
         "affy",
         "ggplot2",
         "IRanges",
@@ -27848,7 +27258,6 @@
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
-        "pROC",
         "recipes",
         "scales",
         "igraph",
@@ -27857,7 +27266,6 @@
         "ipred",
         "XVector",
         "GenomeInfoDb",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -27899,14 +27307,12 @@
         "XVector",
         "GenomeInfoDb",
         "ggplot2",
-        "pROC",
         "recipes",
         "GenomicRanges",
         "DelayedArray",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -27930,7 +27336,6 @@
         "KEGGREST"
     ],
     "survcomp": [
-        "survival",
         "prodlim",
         "ipred",
         "lava"
@@ -27938,7 +27343,6 @@
     "survtype": [
         "SummarizedExperiment",
         "pheatmap",
-        "survival",
         "survminer",
         "clustvarsel",
         "BMA",
@@ -27984,7 +27388,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -28052,9 +27455,7 @@
         "VennDiagram",
         "futile.logger"
     ],
-    "switchBox": [
-        "pROC"
-    ],
+    "switchBox": [],
     "switchde": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -28094,7 +27495,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "survival",
         "TH.data",
         "callr",
         "selectr",
@@ -28112,7 +27512,6 @@
     "synlet": [
         "ggplot2",
         "doBy",
-        "RankProd",
         "broom",
         "pbkrtest",
         "scales",
@@ -28188,7 +27587,6 @@
         "patchwork",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -28224,7 +27622,6 @@
         "Biostrings",
         "DelayedArray",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -28284,7 +27681,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -28303,7 +27699,6 @@
         "XVector",
         "scales",
         "SummarizedExperiment",
-        "survival",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -28338,7 +27733,6 @@
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "expm",
         "KEGGREST",
@@ -28356,7 +27750,6 @@
         "ggplot2",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -28397,7 +27790,6 @@
         "colourpicker",
         "sesame",
         "shinyBS",
-        "pROC",
         "recipes",
         "AnnotationDbi",
         "DOSE",
@@ -28420,7 +27812,6 @@
         "ggpubr",
         "rtracklayer",
         "DelayedArray",
-        "survival",
         "KEGGgraph",
         "Rgraphviz",
         "org.Hs.eg.db",
@@ -28690,7 +28081,6 @@
         "vsn",
         "genefilter",
         "AnnotationDbi",
-        "survival",
         "ggplot2",
         "IRanges",
         "KEGGREST",
@@ -28723,7 +28113,6 @@
         "genefilter",
         "geneplotter",
         "scales",
-        "survival",
         "htmlTable",
         "GenomeInfoDb",
         "DelayedArray",
@@ -28757,7 +28146,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
-        "base64url",
         "KEGGREST",
         "BiocParallel",
         "DO.db",
@@ -28790,7 +28178,6 @@
         "aroma.core",
         "R.filesets",
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -28878,7 +28265,6 @@
         "forestplot",
         "ggplot2",
         "ggpubr",
-        "survival",
         "scales",
         "ggrepel",
         "ggsci",
@@ -29050,7 +28436,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "DelayedArray",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -29110,7 +28495,6 @@
         "GenomeInfoDb",
         "ggplot2",
         "IRanges",
-        "pROC",
         "Rsamtools",
         "rtracklayer",
         "recipes",
@@ -29129,7 +28513,6 @@
         "hardhat",
         "ipred",
         "DelayedArray",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -29159,7 +28542,6 @@
     "tRanslatome": [
         "anota",
         "DESeq2",
-        "RankProd",
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
@@ -29176,7 +28558,6 @@
         "GO.db",
         "KEGGREST",
         "futile.logger",
-        "survival",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -29187,7 +28568,6 @@
         "RCy3",
         "KEGGREST",
         "Biostrings",
-        "base64url",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -29208,7 +28588,6 @@
         "BiocParallel",
         "futile.logger",
         "scales",
-        "survival",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -29278,7 +28657,6 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "survival",
         "TH.data",
         "GenomicRanges",
         "DelayedArray",
@@ -29360,7 +28738,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "survival",
         "Hmisc",
         "GO.db",
         "ggplot2",
@@ -29442,7 +28819,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -29451,7 +28827,6 @@
         "GenomeInfoDb"
     ],
     "trio": [
-        "survival",
         "siggenes",
         "LogicReg",
         "multtest"
@@ -29632,14 +29007,12 @@
         "Hmisc",
         "BiocIO",
         "restfulr",
-        "survival",
         "htmlTable",
         "viridis"
     ],
     "tweeDEseq": [
         "cqn",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "twilight": [],
     "twoddpcr": [
@@ -29756,7 +29129,6 @@
         "KEGGREST",
         "futile.logger",
         "rainbow",
-        "survival",
         "restfulr",
         "pcaPP",
         "hdrcde"
@@ -29803,7 +29175,6 @@
         "AnnotationFilter",
         "BiocIO",
         "restfulr",
-        "survival",
         "ggplot2",
         "viridis",
         "DelayedArray"
@@ -30039,7 +29410,6 @@
         "Hmisc",
         "AnnotationFilter",
         "restfulr",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis"
@@ -30087,8 +29457,7 @@
         "restfulr",
         "DelayedArray",
         "genefilter",
-        "KEGGREST",
-        "survival"
+        "KEGGREST"
     ],
     "VCFArray": [
         "DelayedArray",
@@ -30174,14 +29543,12 @@
         "DelayedArray",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "XVector",
         "KEGGREST",
         "Biostrings"
     ],
     "viper": [
-        "mixtools",
-        "survival"
+        "mixtools"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -30283,7 +29650,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "survival",
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
@@ -30330,7 +29696,6 @@
         "mixtools",
         "futile.logger",
         "AnnotationFilter",
-        "survival",
         "BiocIO",
         "scales",
         "BSgenome",
@@ -30379,7 +29744,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "Biostrings",
-        "survival",
         "XVector",
         "BiocIO",
         "rtracklayer",
@@ -30413,7 +29777,6 @@
         "BiocIO",
         "biomaRt",
         "scales",
-        "survival",
         "htmlTable",
         "viridis",
         "BiocParallel",
@@ -30435,7 +29798,6 @@
         "AnnotationDbi",
         "XVector",
         "Biostrings",
-        "survival",
         "ggplot2",
         "IRanges",
         "KEGGREST",
@@ -30521,7 +29883,6 @@
         "GeneMeta",
         "siggenes",
         "AnnotationDbi",
-        "survival",
         "multtest",
         "IRanges",
         "KEGGREST",
@@ -30627,7 +29988,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "survival",
         "htmlTable",
         "RBGL"
     ],
@@ -30656,7 +30016,6 @@
         "XVector",
         "GenomicFeatures",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "BiocIO",
         "rtracklayer",
@@ -30693,7 +30052,6 @@
         "genefilter",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -30702,13 +30060,9 @@
         "XVector",
         "Biostrings"
     ],
-    "glmnet": [
-        "survival"
-    ],
+    "glmnet": [],
     "ROCR": [],
-    "pamr": [
-        "survival"
-    ],
+    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "IRanges",
@@ -30717,7 +30071,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "survival": [],
     "ABAData": [],
     "ggplot2": [
         "scales"
@@ -30762,7 +30115,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -30791,7 +30143,6 @@
         "lme4",
         "scales",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -30806,7 +30157,6 @@
         "lme4",
         "nloptr",
         "broom",
-        "survival",
         "ggplot2",
         "testthat",
         "scales",
@@ -30821,9 +30171,7 @@
         "testthat",
         "callr"
     ],
-    "quantreg": [
-        "survival"
-    ],
+    "quantreg": [],
     "lme4": [
         "nloptr",
         "testthat",
@@ -30857,8 +30205,7 @@
     ],
     "xts": [],
     "SAVER": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "affydata": [
         "affy"
@@ -30872,7 +30219,6 @@
         "GenomeInfoDb"
     ],
     "Hmisc": [
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -30889,8 +30235,7 @@
     ],
     "restfulr": [],
     "smurf": [
-        "glmnet",
-        "survival"
+        "glmnet"
     ],
     "forestplot": [],
     "ggbeeswarm": [
@@ -30898,16 +30243,13 @@
         "scales"
     ],
     "zCompositions": [
-        "NADA",
-        "survival"
+        "NADA"
     ],
     "Rfast": [
         "RcppZiggurat"
     ],
     "RcppZiggurat": [],
-    "NADA": [
-        "survival"
-    ],
+    "NADA": [],
     "shinydashboard": [],
     "seqinr": [],
     "expm": [],
@@ -30951,12 +30293,10 @@
     "ReorderCluster": [],
     "caret": [
         "ggplot2",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -30976,11 +30316,9 @@
         "modeest",
         "scales"
     ],
-    "pROC": [],
     "recipes": [
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -30990,18 +30328,14 @@
     ],
     "hardhat": [],
     "ipred": [
-        "survival",
         "prodlim",
         "lava"
     ],
     "RcppTOML": [],
     "prodlim": [
-        "survival",
         "lava"
     ],
-    "lava": [
-        "survival"
-    ],
+    "lava": [],
     "shinytoastr": [],
     "repmis": [],
     "org.Sc.sgd.db": [
@@ -31293,7 +30627,6 @@
         "scales"
     ],
     "msm": [
-        "survival",
         "expm"
     ],
     "reactome.db": [
@@ -31304,9 +30637,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "mixtools": [
-        "survival"
-    ],
+    "mixtools": [],
     "assertive": [
         "assertive.types",
         "assertive.strings",
@@ -31400,8 +30731,7 @@
     "miniUI": [],
     "dqrng": [],
     "MCMCpack": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "ggvis": [],
     "heatmaply": [
@@ -31433,9 +30763,7 @@
     ],
     "TSP": [],
     "RcppDist": [],
-    "fitdistrplus": [
-        "survival"
-    ],
+    "fitdistrplus": [],
     "corncob": [
         "optimr",
         "ggplot2",
@@ -31452,8 +30780,7 @@
         "vegan",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "survival"
+        "GenomeInfoDb"
     ],
     "Seurat": [
         "cowplot",
@@ -31475,7 +30802,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "survival",
         "RcppTOML",
         "spatstat.random",
         "spatstat.sparse",
@@ -31544,7 +30870,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -31575,7 +30900,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -31662,7 +30986,6 @@
     "gert": [],
     "rms": [
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -31680,15 +31003,11 @@
     ],
     "xlsx": [],
     "multcomp": [
-        "survival",
         "TH.data"
     ],
-    "TH.data": [
-        "survival"
-    ],
+    "TH.data": [],
     "WGCNA": [
         "Hmisc",
-        "survival",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -31737,8 +31056,7 @@
         "quantreg",
         "gam",
         "cvAUC",
-        "ROCR",
-        "survival"
+        "ROCR"
     ],
     "SuperLearner": [
         "gam",
@@ -31746,8 +31064,7 @@
         "ROCR"
     ],
     "np": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "gam": [],
     "cvAUC": [
@@ -31878,7 +31195,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -31886,9 +31202,7 @@
         "DelayedArray",
         "BSgenome"
     ],
-    "gbm": [
-        "survival"
-    ],
+    "gbm": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "IRanges",
@@ -31928,7 +31242,6 @@
         "scales"
     ],
     "BMA": [
-        "survival",
         "rrcov",
         "pcaPP"
     ],
@@ -31956,7 +31269,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "TH.data",
         "nloptr",
         "broom",
@@ -31993,7 +31305,6 @@
         "ggplot2",
         "scales"
     ],
-    "base64url": [],
     "rapportools": [],
     "rintrojs": [],
     "enrichR": [
@@ -32020,7 +31331,6 @@
         "scales",
         "nloptr",
         "broom",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -32035,8 +31345,7 @@
         "ggplot2",
         "scales",
         "quantreg",
-        "xts",
-        "survival"
+        "xts"
     ],
     "ggpp": [
         "ggplot2",
@@ -32055,12 +31364,10 @@
     ],
     "GenomicTools": [
         "GenomicTools.fileHandler",
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "GenomicTools.fileHandler": [
-        "snpStats",
-        "survival"
+        "snpStats"
     ],
     "quantmod": [
         "xts",
@@ -32092,7 +31399,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -32122,7 +31428,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -32152,7 +31457,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -32205,7 +31509,6 @@
         "genomeIntervals",
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -32214,7 +31517,6 @@
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -32445,8 +31747,7 @@
     "biwt": [],
     "skmeans": [],
     "cobs": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "colortools": [],
     "rio": [
@@ -32470,7 +31771,6 @@
         "lme4",
         "broom",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -32479,7 +31779,6 @@
         "spatstat",
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "spatstat.random",
         "spatstat.core",
@@ -32488,7 +31787,6 @@
         "hardhat",
         "ipred",
         "spatstat.sparse",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -32508,7 +31806,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -32549,8 +31846,7 @@
         "DelayedArray"
     ],
     "iC10": [
-        "pamr",
-        "survival"
+        "pamr"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
@@ -32572,7 +31868,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -32604,8 +31899,7 @@
     ],
     "dorothea": [
         "viper",
-        "mixtools",
-        "survival"
+        "mixtools"
     ],
     "keras": [
         "reticulate",
@@ -32692,7 +31986,6 @@
         "lme4",
         "nloptr",
         "broom",
-        "survival",
         "ggplot2",
         "testthat",
         "scales",
@@ -32720,7 +32013,6 @@
         "ggformula",
         "glmnet",
         "kinship2",
-        "survival",
         "broom",
         "ggstance",
         "scales",
@@ -32741,7 +32033,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -32780,7 +32071,6 @@
         "scales",
         "ggridges",
         "ggforce",
-        "survival",
         "tweenr"
     ],
     "missMDA": [
@@ -32795,7 +32085,6 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "survival",
         "testthat",
         "callr"
     ],
@@ -32839,28 +32128,22 @@
         "multtest",
         "multcomp",
         "sn",
-        "survival",
         "TH.data",
         "quantreg"
     ],
     "TFisher": [
         "sn",
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
     "mutoss": [
         "multtest",
         "multcomp",
-        "survival",
         "TH.data"
     ],
     "sn": [
-        "quantreg",
-        "survival"
+        "quantreg"
     ],
-    "survey": [
-        "survival"
-    ],
+    "survey": [],
     "DMwR2": [
         "xts",
         "quantmod",
@@ -32909,9 +32192,7 @@
     "imputeLCMD": [
         "pcaMethods"
     ],
-    "gamlss": [
-        "survival"
-    ],
+    "gamlss": [],
     "NBPSeq": [
         "qvalue",
         "ggplot2",
@@ -32929,8 +32210,7 @@
     "DiffCorr": [
         "pcaMethods",
         "igraph",
-        "multtest",
-        "survival"
+        "multtest"
     ],
     "MetaCycle": [
         "gnm"
@@ -32965,7 +32245,6 @@
         "Biostrings"
     ],
     "coin": [
-        "survival",
         "multcomp",
         "TH.data"
     ],
@@ -32987,20 +32266,16 @@
         "scales"
     ],
     "mboost": [
-        "survival",
         "partykit"
     ],
     "survivalsvm": [
-        "survival",
         "Hmisc",
         "ggplot2",
         "htmlTable",
         "viridis",
         "scales"
     ],
-    "partykit": [
-        "survival"
-    ],
+    "partykit": [],
     "EntropyExplorer": [],
     "RNOmni": [],
     "ewceData": [
@@ -33033,7 +32308,6 @@
     ],
     "RecordLinkage": [
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -33045,7 +32319,6 @@
         "lme4",
         "nloptr",
         "broom",
-        "survival",
         "ggplot2",
         "testthat",
         "scales",
@@ -33057,7 +32330,6 @@
         "ggpubr",
         "maxstat",
         "scales",
-        "survival",
         "broom",
         "survMisc",
         "ggtext",
@@ -33077,14 +32349,11 @@
     ],
     "maxstat": [],
     "survMisc": [
-        "survival",
         "ggplot2",
         "km.ci",
         "scales"
     ],
-    "km.ci": [
-        "survival"
-    ],
+    "km.ci": [],
     "logistf": [
         "mice",
         "broom",
@@ -33161,7 +32430,6 @@
     "HH": [
         "multcomp",
         "Hmisc",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -33204,7 +32472,6 @@
     ],
     "gld": [],
     "epiR": [
-        "survival",
         "sf",
         "classInt"
     ],
@@ -33212,9 +32479,7 @@
         "classInt"
     ],
     "classInt": [],
-    "penalized": [
-        "survival"
-    ],
+    "penalized": [],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
@@ -33269,7 +32534,6 @@
     "haplo.stats": [
         "rms",
         "Hmisc",
-        "survival",
         "ggplot2",
         "quantreg",
         "multcomp",
@@ -33338,9 +32602,7 @@
         "DelayedArray"
     ],
     "scam": [],
-    "LogicReg": [
-        "survival"
-    ],
+    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "rstan",
@@ -33364,12 +32626,10 @@
     "adabag": [
         "caret",
         "ggplot2",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -33440,7 +32700,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "survival",
         "ggplot2",
         "IRanges",
         "KEGGREST",
@@ -33482,7 +32741,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "survival",
         "multtest",
         "KEGGREST",
         "BiocIO",
@@ -33576,7 +32834,6 @@
     "InvariantCausalPrediction": [
         "glmnet",
         "mboost",
-        "survival",
         "partykit"
     ],
     "miRBaseVersions.db": [
@@ -33641,8 +32898,7 @@
         "ggplot2",
         "mixtools",
         "shinyjs",
-        "scales",
-        "survival"
+        "scales"
     ],
     "anyLib": [
         "devtools",
@@ -33702,12 +32958,10 @@
     ],
     "ICSNP": [
         "ICS",
-        "survey",
-        "survival"
+        "survey"
     ],
     "ICS": [
-        "survey",
-        "survival"
+        "survey"
     ],
     "dnet": [
         "igraph",
@@ -33723,7 +32977,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "survival",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -33767,7 +33020,6 @@
         "Rgraphviz"
     ],
     "AICcmodavg": [
-        "survival",
         "unmarked",
         "lme4",
         "nloptr",
@@ -33794,7 +33046,6 @@
     ],
     "Matrix.utils": [],
     "mRMRe": [
-        "survival",
         "igraph"
     ],
     "kmer": [
@@ -33805,9 +33056,7 @@
         "ape"
     ],
     "FindMyFriends": [],
-    "reportROC": [
-        "pROC"
-    ],
+    "reportROC": [],
     "verification": [
         "fields",
         "viridis",
@@ -33846,8 +33095,7 @@
     ],
     "C50": [
         "partykit",
-        "Cubist",
-        "survival"
+        "Cubist"
     ],
     "Cubist": [],
     "tidybayes": [
@@ -33942,9 +33190,7 @@
         "futile.logger",
         "SummarizedExperiment"
     ],
-    "batchtools": [
-        "base64url"
-    ],
+    "batchtools": [],
     "neo4r": [
         "igraph"
     ],
@@ -34003,12 +33249,10 @@
     "caretEnsemble": [
         "ggplot2",
         "caret",
-        "pROC",
         "recipes",
         "scales",
         "hardhat",
         "ipred",
-        "survival",
         "prodlim",
         "lava"
     ],
@@ -34154,7 +33398,6 @@
         "BBmisc",
         "ggplot2",
         "parallelMap",
-        "survival",
         "scales"
     ],
     "ParamHelpers": [
@@ -34253,15 +33496,12 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "bamlss": [
-        "survival"
-    ],
+    "bamlss": [],
     "MLmetrics": [
         "ROCR"
     ],
     "clustvarsel": [
         "BMA",
-        "survival",
         "rrcov",
         "pcaPP"
     ],
