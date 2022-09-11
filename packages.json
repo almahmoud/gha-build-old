@@ -70,7 +70,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "ggsci",
-        "cowplot",
         "rstatix",
         "AnnotationDbi",
         "Biostrings",
@@ -225,8 +224,7 @@
         "SummarizedExperiment"
     ],
     "alevinQC": [
-        "GGally",
-        "cowplot"
+        "GGally"
     ],
     "AllelicImbalance": [
         "GenomicRanges",
@@ -314,7 +312,6 @@
     ],
     "AneuFinder": [
         "GenomicRanges",
-        "cowplot",
         "Rsamtools",
         "bamsignals",
         "Biostrings",
@@ -759,7 +756,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "cowplot",
         "ggdendro",
         "SummarizedExperiment",
         "viridis",
@@ -785,7 +781,6 @@
     ],
     "BASiCS": [
         "SingleCellExperiment",
-        "cowplot",
         "ggExtra",
         "scran",
         "scuttle",
@@ -911,7 +906,6 @@
         "metagenomeSeq",
         "ffpe",
         "ggdendro",
-        "cowplot",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -1078,7 +1072,6 @@
         "biomaRt",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "KEGGREST",
@@ -1169,7 +1162,6 @@
         "geneplotter",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Hmisc",
@@ -1345,8 +1337,7 @@
         "Biostrings"
     ],
     "BPRMeth": [
-        "GenomicRanges",
-        "cowplot"
+        "GenomicRanges"
     ],
     "BRAIN": [
         "Biostrings"
@@ -1355,7 +1346,6 @@
         "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
         "bumphunter",
-        "cowplot",
         "derfinder",
         "derfinderPlot",
         "GenomicRanges",
@@ -1393,7 +1383,6 @@
     ],
     "branchpointer": [
         "caret",
-        "cowplot",
         "biomaRt",
         "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -1410,7 +1399,6 @@
     ],
     "breakpointR": [
         "GenomicRanges",
-        "cowplot",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -1592,7 +1580,6 @@
         "biomaRt",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "viridis",
@@ -1657,7 +1644,6 @@
     ],
     "CATALYST": [
         "SingleCellExperiment",
-        "cowplot",
         "drc",
         "FlowSOM",
         "ggrepel",
@@ -1818,7 +1804,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "cowplot",
         "plotly",
         "scattermore",
         "sctransform",
@@ -1847,7 +1832,6 @@
         "BiocNeighbors",
         "scater",
         "viridis",
-        "cowplot",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "scuttle",
@@ -1921,7 +1905,6 @@
         "ggcyto",
         "ncdfFlow",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "flowViz",
@@ -1969,7 +1952,6 @@
         "genefilter",
         "geneplotter",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "KEGGREST",
@@ -2416,7 +2398,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "cowplot",
         "scran",
         "ggraph",
         "ggrepel",
@@ -2523,7 +2504,6 @@
         "GenomicRanges"
     ],
     "clustifyr": [
-        "cowplot",
         "fgsea",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -2784,7 +2764,6 @@
         "ggtree",
         "car",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -3138,7 +3117,6 @@
     "cTRAP": [
         "AnnotationDbi",
         "AnnotationHub",
-        "cowplot",
         "fgsea",
         "ggrepel",
         "highcharter",
@@ -3192,7 +3170,6 @@
         "flowClust",
         "cytometree",
         "GGally",
-        "cowplot",
         "flowViz",
         "car",
         "RFOC",
@@ -3219,7 +3196,6 @@
         "CytoGLMM",
         "diffcyt",
         "SummarizedExperiment",
-        "cowplot",
         "factoextra",
         "mbest",
         "ggrepel",
@@ -3255,7 +3231,6 @@
         "rainbow"
     ],
     "CytoGLMM": [
-        "cowplot",
         "factoextra",
         "mbest",
         "ggrepel",
@@ -3322,7 +3297,6 @@
         "ncdfFlow",
         "AnnotationDbi",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GenomicRanges",
@@ -3362,7 +3336,6 @@
         "Rsamtools",
         "bumphunter",
         "Biostrings",
-        "cowplot",
         "GenomicFeatures",
         "AnnotationDbi",
         "rtracklayer",
@@ -3438,7 +3411,6 @@
         "shadowtext",
         "ggtree",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -3463,7 +3435,6 @@
         "Biostrings",
         "biomaRt",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "cmdfun",
@@ -3670,7 +3641,6 @@
         "NCIgraph"
     ],
     "DEGreport": [
-        "cowplot",
         "DESeq2",
         "ggdendro",
         "ggrepel",
@@ -3898,7 +3868,6 @@
         "ggcyto",
         "ncdfFlow",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "flowViz",
@@ -3966,7 +3935,6 @@
         "scuttle",
         "DelayedMatrixStats",
         "bluster",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -4002,7 +3970,6 @@
         "GenomicRanges"
     ],
     "dittoSeq": [
-        "cowplot",
         "ggrepel",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -4385,7 +4352,6 @@
         "AnnotationDbi",
         "Biostrings",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "ensembldb",
@@ -4526,7 +4492,6 @@
         "qvalue",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "SummarizedExperiment",
@@ -4596,7 +4561,6 @@
         "ggpubr",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "car",
         "Biostrings",
@@ -4628,7 +4592,6 @@
         "GreyListChIP",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GenomicAlignments",
@@ -4880,7 +4843,6 @@
         "ewceData",
         "ExperimentHub",
         "biomaRt",
-        "cowplot",
         "ggdendro",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -4955,9 +4917,7 @@
         "DelayedMatrixStats",
         "scuttle"
     ],
-    "ExploreModelMatrix": [
-        "cowplot"
-    ],
+    "ExploreModelMatrix": [],
     "ExpressionAtlas": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -5239,7 +5199,6 @@
         "ggcyto",
         "ncdfFlow",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "flowViz",
@@ -5303,7 +5262,6 @@
         "AnnotationDbi",
         "biomaRt",
         "BSgenome",
-        "cowplot",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5502,7 +5460,6 @@
         "ggtree",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -5540,7 +5497,6 @@
         "AnnotationDbi",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "KEGGREST",
@@ -5790,7 +5746,6 @@
         "plotly",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GenomicRanges",
@@ -5858,7 +5813,6 @@
         "egg",
         "car",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "pbkrtest",
@@ -6010,7 +5964,6 @@
         "KEGGREST",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -6202,12 +6155,9 @@
     ],
     "gpuMagic": [],
     "granulator": [
-        "cowplot",
         "epiR"
     ],
-    "graper": [
-        "cowplot"
-    ],
+    "graper": [],
     "GraphAT": [
         "MCMCpack"
     ],
@@ -6511,7 +6461,6 @@
     ],
     "HiLDA": [
         "R2jags",
-        "cowplot",
         "GenomicRanges",
         "Biostrings",
         "GenomicFeatures",
@@ -6753,7 +6702,6 @@
         "biomaRt"
     ],
     "ILoReg": [
-        "cowplot",
         "dendextend",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -6869,7 +6817,6 @@
         "ggpubr",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -6930,7 +6877,6 @@
         "KEGGREST",
         "car",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "pbkrtest",
@@ -6982,7 +6928,6 @@
         "survminer",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "ggtext",
@@ -7029,7 +6974,6 @@
         "qvalue",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "viridis",
@@ -7119,7 +7063,6 @@
         "DiscriMiner",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "cowplot",
         "DEGreport",
         "DESeq2",
         "GenomicRanges",
@@ -7170,7 +7113,6 @@
         "ggtext",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -7299,7 +7241,6 @@
         "MultiAssayExperiment",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "SummarizedExperiment",
@@ -7489,7 +7430,6 @@
         "bigstatsr",
         "UpSetR",
         "RnBeads.hg19",
-        "cowplot",
         "oligoClasses",
         "GenomicRanges",
         "fields",
@@ -7802,8 +7742,7 @@
     "Melissa": [
         "BPRMeth",
         "GenomicRanges",
-        "MCMCpack",
-        "cowplot"
+        "MCMCpack"
     ],
     "memes": [
         "Biostrings",
@@ -7854,7 +7793,6 @@
         "Biostrings",
         "ggrepel",
         "AnnotationDbi",
-        "cowplot",
         "KEGGREST"
     ],
     "messina": [],
@@ -7914,7 +7852,6 @@
         "ggcyto",
         "ncdfFlow",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "flowViz",
@@ -8025,7 +7962,6 @@
     ],
     "MetaVolcanoR": [
         "plotly",
-        "cowplot",
         "metap",
         "TFisher",
         "mutoss",
@@ -8057,7 +7993,6 @@
         "sesameData",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "ExperimentHub",
@@ -8135,7 +8070,6 @@
         "ggpp",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "ExperimentHubData",
@@ -8471,7 +8405,6 @@
     "miloR": [
         "BiocNeighbors",
         "SingleCellExperiment",
-        "cowplot",
         "BiocSingular",
         "ggraph",
         "SummarizedExperiment",
@@ -8804,7 +8737,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "cowplot",
         "metagenomeSeq",
         "car",
         "lmerTest",
@@ -8840,7 +8772,6 @@
         "GenomicRanges"
     ],
     "MOFA2": [
-        "cowplot",
         "ggrepel"
     ],
     "MOGAMUN": [],
@@ -8984,7 +8915,6 @@
     ],
     "MQmetrics": [
         "ggpubr",
-        "cowplot",
         "ggrepel",
         "gghalves",
         "ggsci",
@@ -9107,7 +9037,6 @@
         "FactoMineR",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "lme4",
@@ -9339,7 +9268,6 @@
         "NMF",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "cowplot",
         "Biostrings",
         "BSgenome",
         "GenomicFeatures",
@@ -9381,7 +9309,6 @@
         "VariantAnnotation",
         "Biostrings",
         "ggdendro",
-        "cowplot",
         "ggalluvial",
         "rtracklayer",
         "Rsamtools",
@@ -9552,7 +9479,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -9770,7 +9696,6 @@
         "qvalue",
         "Rsamtools",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "cmdfun",
@@ -9853,7 +9778,6 @@
         "OMICsPCAdata",
         "HelloRanges",
         "MultiAssayExperiment",
-        "cowplot",
         "kableExtra",
         "rtracklayer",
         "factoextra",
@@ -9994,7 +9918,6 @@
         "Biostrings",
         "biomartr",
         "BSgenome",
-        "cowplot",
         "DESeq2",
         "GenomicFeatures",
         "GGally",
@@ -10037,7 +9960,6 @@
         "DelayedMatrixStats",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "plotly",
@@ -10206,7 +10128,6 @@
     "PCAN": [],
     "PCAtools": [
         "ggrepel",
-        "cowplot",
         "DelayedMatrixStats",
         "BiocSingular"
     ],
@@ -10234,7 +10155,6 @@
         "viridis",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "KEGGREST",
@@ -10295,7 +10215,6 @@
         "GenomicRanges",
         "BSgenome",
         "rtracklayer",
-        "cowplot",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -10347,7 +10266,6 @@
         "Seurat",
         "SingleCellExperiment",
         "destiny",
-        "cowplot",
         "SummarizedExperiment",
         "phateR",
         "ggthemes",
@@ -10410,7 +10328,6 @@
         "viridis",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GenomicRanges",
@@ -10508,7 +10425,6 @@
         "SummarizedExperiment",
         "Seurat",
         "scran",
-        "cowplot",
         "scater",
         "scuttle",
         "DelayedMatrixStats",
@@ -10564,7 +10480,6 @@
         "Hmisc",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "viridis",
@@ -10945,7 +10860,6 @@
         "shadowtext",
         "ggtree",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "Biostrings",
@@ -11045,7 +10959,6 @@
         "plotly",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "viridis",
@@ -11060,7 +10973,6 @@
         "taRifx",
         "SummarizedExperiment",
         "UpSetR",
-        "cowplot",
         "GenomicRanges"
     ],
     "puma": [
@@ -11377,7 +11289,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "genomation",
-        "cowplot",
         "ggseqlogo",
         "gprofiler2",
         "Rsamtools",
@@ -11818,7 +11729,6 @@
         "GenomicAlignments",
         "biomartr",
         "BSgenome",
-        "cowplot",
         "DESeq2",
         "GGally",
         "Rsamtools",
@@ -12188,7 +12098,6 @@
         "ggtree",
         "biomaRt",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GenomicAlignments",
@@ -12335,7 +12244,6 @@
         "ggtext",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -12498,7 +12406,6 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12548,7 +12455,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "recipes",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12605,7 +12511,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12622,7 +12527,6 @@
         "GenomicRanges",
         "DelayedMatrixStats",
         "scuttle",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12634,7 +12538,6 @@
         "SummarizedExperiment",
         "caret",
         "recipes",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12661,7 +12564,6 @@
         "SingleCellExperiment",
         "ggrepel",
         "Seurat",
-        "cowplot",
         "plotly",
         "scattermore",
         "sctransform",
@@ -12727,7 +12629,6 @@
         "SingleCellExperiment",
         "Seurat",
         "concaveman",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12742,7 +12643,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -12961,7 +12861,6 @@
         "ggrepel",
         "tidygraph",
         "Biostrings",
-        "cowplot",
         "scattermore",
         "sctransform",
         "ggfun",
@@ -12981,7 +12880,6 @@
         "GenomicRanges",
         "KEGGREST",
         "viridis",
-        "cowplot",
         "ggrepel",
         "scattermore",
         "sctransform",
@@ -13011,7 +12909,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "bluster",
-        "cowplot",
         "plotly",
         "scattermore",
         "sctransform",
@@ -13083,7 +12980,6 @@
     "selectKSigs": [
         "HiLDA",
         "R2jags",
-        "cowplot",
         "GenomicRanges",
         "Biostrings",
         "GenomicFeatures",
@@ -13141,8 +13037,7 @@
         "biomaRt"
     ],
     "seqcombo": [
-        "Biostrings",
-        "cowplot"
+        "Biostrings"
     ],
     "SeqGate": [
         "SummarizedExperiment",
@@ -13420,7 +13315,6 @@
         "batchelor",
         "celldex",
         "colourpicker",
-        "cowplot",
         "DelayedMatrixStats",
         "DESeq2",
         "ExperimentHub",
@@ -13711,7 +13605,6 @@
         "viridis",
         "ggrepel",
         "bluster",
-        "cowplot",
         "plotly",
         "scattermore",
         "sctransform"
@@ -14166,7 +14059,6 @@
         "ggtext",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -14291,7 +14183,6 @@
     "TADCompare": [
         "HiCcompare",
         "ggpubr",
-        "cowplot",
         "ggrepel",
         "ggsci",
         "ggsignif",
@@ -14332,7 +14223,6 @@
         "ggpubr",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -14343,7 +14233,6 @@
         "GenomicRanges",
         "Rsamtools",
         "Biostrings",
-        "cowplot",
         "GenomicAlignments",
         "Hmisc",
         "SummarizedExperiment",
@@ -14427,7 +14316,6 @@
         "ggtree",
         "Biostrings",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "ensembldb",
@@ -14664,7 +14552,6 @@
         "ggpubr",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "GSEABase",
@@ -14864,7 +14751,6 @@
         "ggcyto",
         "ncdfFlow",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "flowViz",
@@ -15091,7 +14977,6 @@
     ],
     "UMI4Cats": [
         "SummarizedExperiment",
-        "cowplot",
         "GenomicRanges",
         "ShortRead",
         "regioneR",
@@ -15378,7 +15263,6 @@
     ],
     "VplotR": [
         "GenomicRanges",
-        "cowplot",
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
@@ -15492,7 +15376,6 @@
     "wiggleplotr": [
         "GenomicRanges",
         "rtracklayer",
-        "cowplot",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -15621,7 +15504,6 @@
     "ggpubr": [
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -15630,7 +15512,6 @@
     ],
     "ggsignif": [],
     "ggsci": [],
-    "cowplot": [],
     "rstatix": [
         "car",
         "pbkrtest",
@@ -15897,7 +15778,6 @@
         "Biostrings"
     ],
     "Seurat": [
-        "cowplot",
         "ggrepel",
         "plotly",
         "scattermore",
@@ -16318,7 +16198,6 @@
         "viridis",
         "car",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "pbkrtest",
@@ -16398,9 +16277,7 @@
     "highcharter": [
         "quantmod"
     ],
-    "cytometree": [
-        "cowplot"
-    ],
+    "cytometree": [],
     "RFOC": [
         "GEOmap",
         "fields",
@@ -16553,7 +16430,6 @@
         "ggtext",
         "ggrepel",
         "ggsci",
-        "cowplot",
         "ggsignif",
         "rstatix",
         "car",
@@ -16683,9 +16559,7 @@
     "glmmTMB": [
         "lme4"
     ],
-    "bigstatsr": [
-        "cowplot"
-    ],
+    "bigstatsr": [],
     "RnBeads.hg19": [
         "GenomicRanges"
     ],
