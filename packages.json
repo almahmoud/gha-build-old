@@ -588,11 +588,8 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
-        "msm",
         "sva",
         "genefilter",
         "AnnotationDbi",
@@ -7608,7 +7605,6 @@
     "methInheritSim": [
         "methylKit",
         "GenomicRanges",
-        "msm",
         "qvalue",
         "Rsamtools",
         "fastseg",
@@ -10811,8 +10807,7 @@
         "Biostrings"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "receptLoss": [
         "SummarizedExperiment",
@@ -13539,7 +13534,6 @@
         "singscore",
         "DESeq2",
         "SummarizedExperiment",
-        "msm",
         "sva",
         "GenomicRanges",
         "genefilter",
@@ -14967,7 +14961,6 @@
     "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [],
-    "msm": [],
     "reactome.db": [
         "AnnotationDbi",
         "KEGGREST",
