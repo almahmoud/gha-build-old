@@ -118,8 +118,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "affyILM": [
         "gcrma",
@@ -177,8 +176,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "airpart": [
         "SingleCellExperiment",
@@ -187,8 +185,7 @@
         "apeglm",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "ALDEx2": [
         "SummarizedExperiment"
@@ -210,8 +207,7 @@
         "ensembldb",
         "biovizBase",
         "Hmisc",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "AlphaBeta": [],
     "alpine": [
@@ -430,7 +426,6 @@
         "ShortRead",
         "biomaRt",
         "AnnotationDbi",
-        "viridis",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment"
@@ -462,7 +457,6 @@
         "Hmisc",
         "gcrma",
         "AnnotationDbi",
-        "viridis",
         "KEGGREST",
         "Biostrings"
     ],
@@ -498,8 +492,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "ASpli": [
         "AnnotationDbi",
@@ -517,8 +510,7 @@
         "biovizBase",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "AssessORF": [
         "DECIPHER",
@@ -647,8 +639,7 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "basecallQC": [
         "ShortRead",
@@ -671,7 +662,6 @@
         "scran",
         "scuttle",
         "SummarizedExperiment",
-        "viridis",
         "BiocSingular",
         "bluster",
         "BiocNeighbors"
@@ -692,7 +682,6 @@
     "BatchQC": [
         "sva",
         "heatmaply",
-        "viridis",
         "dendextend",
         "genefilter",
         "AnnotationDbi",
@@ -707,7 +696,6 @@
         "BiocSingular",
         "scuttle",
         "BiocNeighbors",
-        "viridis",
         "bluster"
     ],
     "bayNorm": [
@@ -840,8 +828,7 @@
     ],
     "bigPint": [
         "Hmisc",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "BindingSiteFinder": [
         "rtracklayer",
@@ -868,7 +855,6 @@
         "KEGGREST",
         "enrichplot",
         "GOSemSim",
-        "viridis",
         "DO.db",
         "car",
         "ggraph",
@@ -953,7 +939,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "biomvRCNS": [
@@ -972,8 +957,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "BioNERO": [
         "WGCNA",
@@ -989,7 +973,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4",
@@ -1003,7 +986,6 @@
     "BioNetStat": [
         "pathview",
         "Hmisc",
-        "viridis",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -1019,8 +1001,7 @@
     ],
     "Biostrings": [],
     "BioTIP": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "biotmle": [
         "drtmle",
@@ -1040,7 +1021,6 @@
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "BSgenome"
     ],
     "biscuiteer": [
@@ -1088,7 +1068,6 @@
         "Biostrings"
     ],
     "blacksheepr": [
-        "viridis",
         "SummarizedExperiment"
     ],
     "blima": [
@@ -1165,8 +1144,7 @@
         "biovizBase",
         "OrganismDbi",
         "ensembldb",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "BrainSABER": [
         "biomaRt",
@@ -1239,7 +1217,6 @@
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "BSgenome"
     ],
     "BUMHMM": [
@@ -1301,8 +1278,7 @@
         "rtracklayer",
         "OrganismDbi",
         "KEGGREST",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "CAGEfightR": [
         "rtracklayer",
@@ -1323,8 +1299,7 @@
         "biovizBase",
         "KEGGREST",
         "Hmisc",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "cageminer": [
         "ggbio",
@@ -1353,7 +1328,6 @@
         "geneplotter",
         "biomaRt",
         "rstatix",
-        "viridis",
         "GO.db",
         "car",
         "pbkrtest",
@@ -1371,7 +1345,6 @@
     "CAMERA": [
         "xcms",
         "Hmisc",
-        "viridis",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -1388,7 +1361,6 @@
         "hgu133a.db",
         "KEGGREST",
         "org.Hs.eg.db",
-        "viridis",
         "Biostrings"
     ],
     "CancerSubtypes": [
@@ -1420,7 +1392,6 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "pbkrtest",
         "lme4",
         "openCyto",
@@ -1505,7 +1476,6 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "bluster"
     ],
     "CellaRepertorium": [
@@ -1540,8 +1510,7 @@
         "SummarizedExperiment",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -1556,14 +1525,12 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "viridis",
         "pbkrtest",
         "lme4"
     ],
     "CellMixS": [
         "BiocNeighbors",
         "scater",
-        "viridis",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "scuttle",
@@ -1572,8 +1539,7 @@
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "cellTree": [
         "topGO",
@@ -1598,7 +1564,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "censcyt": [
@@ -1631,8 +1596,7 @@
         "Biostrings"
     ],
     "ceRNAnetsim": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "CeTF": [
         "clusterProfiler",
@@ -1658,7 +1622,6 @@
         "car",
         "pbkrtest",
         "lme4",
-        "viridis",
         "Biostrings"
     ],
     "CexoR": [
@@ -1701,7 +1664,6 @@
         "dendextend",
         "GenomicFeatures",
         "AnnotationDbi",
-        "viridis",
         "ExperimentHub",
         "bsseq",
         "DSS",
@@ -1741,8 +1703,7 @@
         "ipred"
     ],
     "Chicago": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "chimeraviz": [
         "Biostrings",
@@ -1762,8 +1723,7 @@
         "BSgenome",
         "biovizBase",
         "Hmisc",
-        "VariantAnnotation",
-        "viridis"
+        "VariantAnnotation"
     ],
     "ChIPanalyser": [
         "Biostrings",
@@ -1798,14 +1758,12 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "ChIPexoQual": [
         "GenomicAlignments",
         "Rsamtools",
         "biovizBase",
-        "viridis",
         "Hmisc",
         "SummarizedExperiment",
         "Biostrings",
@@ -1882,7 +1840,6 @@
         "GenomicAlignments",
         "DO.db",
         "SummarizedExperiment",
-        "viridis",
         "GO.db"
     ],
     "chipseq": [
@@ -1933,7 +1890,6 @@
         "rtracklayer",
         "shinydashboardPlus",
         "kableExtra",
-        "viridis",
         "batchelor",
         "Rsamtools",
         "scran",
@@ -1998,7 +1954,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "densityClust",
-        "viridis",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -2006,8 +1961,7 @@
         "AnnotationFilter"
     ],
     "CIMICE": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "CINdex": [],
     "circRNAprofiler": [
@@ -2035,7 +1989,6 @@
         "SummarizedExperiment",
         "scran",
         "ggraph",
-        "viridis",
         "scuttle",
         "BiocSingular",
         "bluster",
@@ -2107,7 +2060,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "clusterSeq": [
@@ -2172,8 +2124,7 @@
         "ensembldb",
         "AnnotationFilter",
         "exomeCopy",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "cnvGSA": [],
     "CNViz": [
@@ -2197,8 +2148,7 @@
         "AnnotationFilter",
         "exomeCopy",
         "biomaRt",
-        "BSgenome",
-        "viridis"
+        "BSgenome"
     ],
     "CNVPanelizer": [
         "Rsamtools",
@@ -2297,8 +2247,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "compartmap": [
         "SummarizedExperiment",
@@ -2332,7 +2281,6 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "bluster",
         "DO.db",
         "aplot",
@@ -2363,8 +2311,7 @@
         "flowMerge",
         "rms",
         "flowViz",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "consensusDE": [
         "airway",
@@ -2383,7 +2330,6 @@
         "SummarizedExperiment",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "KEGGREST",
-        "viridis",
         "genefilter",
         "geneplotter",
         "ShortRead",
@@ -2467,8 +2413,7 @@
         "GenomicAlignments",
         "ensembldb",
         "AnnotationFilter",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "CopywriteR": [
         "chipseq",
@@ -2623,7 +2568,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "CSSQ": [
@@ -2643,7 +2587,6 @@
         "sincell",
         "TSCAN",
         "densityClust",
-        "viridis",
         "fields",
         "SingleCellExperiment",
         "TrajectoryUtils"
@@ -2672,8 +2615,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -2705,15 +2647,13 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "cycle": [
         "Mfuzz"
     ],
     "cydar": [
         "SingleCellExperiment",
-        "viridis",
         "SummarizedExperiment",
         "BiocNeighbors"
     ],
@@ -2735,7 +2675,6 @@
         "flowWorkspace",
         "openCyto",
         "ggcyto",
-        "viridis",
         "car",
         "rstatix",
         "ipred",
@@ -2756,7 +2695,6 @@
         "FactoMineR",
         "ggpubr",
         "lme4",
-        "viridis",
         "car",
         "rstatix",
         "ipred",
@@ -2767,7 +2705,6 @@
     ],
     "cytomapper": [
         "SingleCellExperiment",
-        "viridis",
         "SummarizedExperiment"
     ],
     "CytoML": [
@@ -2860,7 +2797,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
-        "viridis",
         "KEGGREST",
         "pbkrtest",
         "rtracklayer",
@@ -2887,7 +2823,6 @@
         "GO.db",
         "GOSemSim",
         "MESS",
-        "viridis",
         "ggpubr",
         "car",
         "missMDA",
@@ -2931,7 +2866,6 @@
         "mnem",
         "graphite",
         "org.Hs.eg.db",
-        "viridis",
         "AnnotationDbi",
         "TFisher",
         "Linnorm",
@@ -2948,8 +2882,7 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "dearseq": [],
     "debCAM": [
@@ -2979,7 +2912,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "dendextend",
         "Biostrings"
     ],
@@ -3041,8 +2973,7 @@
         "keras",
         "tensorflow",
         "ttgsea",
-        "DiagrammeR",
-        "viridis"
+        "DiagrammeR"
     ],
     "deepSNV": [
         "SummarizedExperiment",
@@ -3071,7 +3002,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "heatmaply",
-        "viridis",
         "SummarizedExperiment",
         "Biostrings",
         "AnnotationDbi",
@@ -3117,7 +3047,6 @@
         "SummarizedExperiment"
     ],
     "DepecheR": [
-        "viridis",
         "mixOmics"
     ],
     "derfinder": [
@@ -3134,7 +3063,6 @@
         "Biostrings",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "derfinderPlot": [
@@ -3157,8 +3085,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "KEGGREST",
-        "viridis"
+        "KEGGREST"
     ],
     "DEScan2": [
         "ChIPpeakAnno",
@@ -3256,7 +3183,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "diffcyt": [
@@ -3334,7 +3260,6 @@
     "DiscoRhythm": [
         "kableExtra",
         "heatmaply",
-        "viridis",
         "SummarizedExperiment",
         "dendextend"
     ],
@@ -3344,8 +3269,7 @@
         "scater",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "dittoSeq": [
         "SummarizedExperiment",
@@ -3405,8 +3329,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "FDb.InfiniumMethylation.hg19",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viridis"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -3424,8 +3347,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "DMRScan": [],
     "dmrseq": [
@@ -3447,8 +3369,7 @@
     ],
     "DNAshapeR": [
         "Biostrings",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "DominoEffect": [
         "biomaRt",
@@ -3625,8 +3546,7 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "Biostrings",
-        "viridis"
+        "Biostrings"
     ],
     "EGSEA": [
         "gage",
@@ -3679,8 +3599,7 @@
         "AnnotationFilter",
         "car",
         "pbkrtest",
-        "lme4",
-        "viridis"
+        "lme4"
     ],
     "EnhancedVolcano": [
         "ggrastr"
@@ -3712,7 +3631,6 @@
         "Hmisc",
         "GenomicFeatures",
         "AnnotationDbi",
-        "viridis",
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
@@ -3759,7 +3677,6 @@
         "ggtree",
         "AnnotationDbi",
         "DO.db",
-        "viridis",
         "GO.db",
         "KEGGREST",
         "Biostrings"
@@ -3791,8 +3708,7 @@
         "ggtree",
         "car",
         "pbkrtest",
-        "lme4",
-        "viridis"
+        "lme4"
     ],
     "ensembldb": [
         "GenomicFeatures",
@@ -3887,7 +3803,6 @@
         "aplot",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "epiNEM": [
@@ -4029,8 +3944,7 @@
         "aplot",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "viridis"
+        "ggtree"
     ],
     "escape": [
         "GSEABase",
@@ -4163,14 +4077,12 @@
         "aplot",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "viridis"
+        "ggtree"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
         "Hmisc",
         "WGCNA",
-        "viridis",
         "geepack",
         "org.Sc.sgd.db",
         "GO.db",
@@ -4219,7 +4131,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "fcScan": [
@@ -4292,8 +4203,7 @@
         "CAMERA",
         "Hmisc",
         "SummarizedExperiment",
-        "MsFeatures",
-        "viridis"
+        "MsFeatures"
     ],
     "FLAMES": [
         "SingleCellExperiment",
@@ -4303,8 +4213,7 @@
         "scuttle",
         "Biostrings",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "flowAI": [],
     "flowBeads": [],
@@ -4329,8 +4238,7 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "flowDensity": [
         "flowViz",
@@ -4340,8 +4248,7 @@
         "pbkrtest",
         "lme4",
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "flowFP": [
         "flowViz"
@@ -4403,7 +4310,6 @@
     "fobitools": [
         "ggraph",
         "RecordLinkage",
-        "viridis",
         "ipred"
     ],
     "FoldGO": [
@@ -4429,7 +4335,6 @@
         "heatmaply",
         "genefilter",
         "geneplotter",
-        "viridis",
         "dendextend"
     ],
     "frenchFISH": [
@@ -4539,7 +4444,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
-        "viridis",
         "KEGGREST",
         "pbkrtest",
         "rtracklayer",
@@ -4593,7 +4497,6 @@
         "ggtree",
         "rstatix",
         "Biostrings",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4"
@@ -4709,8 +4612,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "geNetClassifier": [],
     "GeneTonic": [
@@ -4720,7 +4622,6 @@
         "DESeq2",
         "GO.db",
         "SummarizedExperiment",
-        "viridis",
         "KEGGREST",
         "genefilter",
         "geneplotter",
@@ -4801,8 +4702,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "GenomicOZone": [
         "biomaRt",
@@ -4821,8 +4721,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "KEGGREST",
-        "viridis"
+        "KEGGREST"
     ],
     "GenomicScores": [
         "Biostrings",
@@ -4863,7 +4762,6 @@
         "FField",
         "GenomicFeatures",
         "Rsamtools",
-        "viridis",
         "BSgenome",
         "VariantAnnotation",
         "KEGGREST",
@@ -4885,7 +4783,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "viridis",
         "car",
         "rstatix",
         "pbkrtest",
@@ -4937,8 +4834,7 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "ggcyto": [
         "flowWorkspace"
@@ -4979,7 +4875,6 @@
         "AnnotationDbi",
         "Hmisc",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "GladiaTOX": [],
@@ -5017,7 +4912,6 @@
         "dendextend",
         "GSEABase",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "globaltest": [
@@ -5052,7 +4946,6 @@
         "GO.db",
         "AnnotationForge",
         "Hmisc",
-        "viridis",
         "Biostrings"
     ],
     "gmoviz": [
@@ -5069,8 +4962,7 @@
     "GMRP": [],
     "GNET2": [
         "DiagrammeR",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "GOexpress": [
         "biomaRt",
@@ -5090,7 +4982,6 @@
         "GO.db",
         "MultiAssayExperiment",
         "KEGGREST",
-        "viridis",
         "SummarizedExperiment",
         "Biostrings"
     ],
@@ -5240,8 +5131,7 @@
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "gsean": [
         "PPInfer",
@@ -5330,8 +5220,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "GWAS.BAYES": [
         "caret",
@@ -5380,7 +5269,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "h5vc": [
@@ -5409,8 +5297,7 @@
         "KEGGREST"
     ],
     "HGC": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "hiAnnotator": [
         "rtracklayer",
@@ -5445,8 +5332,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "HilbertCurve": [],
     "HiLDA": [
@@ -5541,8 +5427,7 @@
     ],
     "iBBiG": [],
     "iCARE": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "icetea": [
         "GenomicFeatures",
@@ -5589,7 +5474,6 @@
         "Rsamtools",
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
-        "viridis",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments",
@@ -5612,7 +5496,6 @@
         "geneLenDataBase",
         "Category",
         "AnnotationForge",
-        "viridis",
         "dendextend",
         "biomaRt",
         "GSEABase",
@@ -5659,8 +5542,7 @@
     "ILoReg": [
         "dendextend",
         "SingleCellExperiment",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "imageHTS": [
         "cellHTS2",
@@ -5689,7 +5571,6 @@
         "SummarizedExperiment",
         "scuttle",
         "cytomapper",
-        "viridis",
         "SingleCellExperiment",
         "BiocNeighbors",
         "ggraph",
@@ -5703,7 +5584,6 @@
     "ImmuneSpaceR": [
         "heatmaply",
         "flowWorkspace",
-        "viridis",
         "dendextend"
     ],
     "immunoClust": [],
@@ -5778,8 +5658,7 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "InteractionSet": [
         "SummarizedExperiment"
@@ -5800,7 +5679,6 @@
         "factoextra",
         "biomaRt",
         "AnnotationDbi",
-        "viridis",
         "FactoMineR",
         "ggpubr",
         "KEGGREST",
@@ -5833,8 +5711,7 @@
     "inveRsion": [
         "haplo.stats",
         "rms",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "IONiseR": [
         "ShortRead",
@@ -5865,8 +5742,7 @@
         "CAMERA",
         "Hmisc",
         "SummarizedExperiment",
-        "MsFeatures",
-        "viridis"
+        "MsFeatures"
     ],
     "IRISFGM": [
         "AnnotationDbi",
@@ -5885,7 +5761,6 @@
         "GO.db",
         "GOSemSim",
         "rstatix",
-        "viridis",
         "scuttle",
         "SummarizedExperiment",
         "BiocNeighbors",
@@ -6012,8 +5887,7 @@
         "ensembldb",
         "AnnotationFilter",
         "biomaRt",
-        "BSgenome",
-        "viridis"
+        "BSgenome"
     ],
     "KCsmart": [
         "siggenes"
@@ -6059,7 +5933,6 @@
         "sva",
         "Hmisc",
         "recipes",
-        "viridis",
         "genefilter",
         "AnnotationDbi",
         "ipred",
@@ -6131,8 +6004,7 @@
         "CAMERA",
         "Hmisc",
         "SummarizedExperiment",
-        "MsFeatures",
-        "viridis"
+        "MsFeatures"
     ],
     "loci2path": [],
     "LOLA": [],
@@ -6186,7 +6058,6 @@
     "M3Drop": [
         "reldist",
         "Hmisc",
-        "viridis",
         "densEstBayes",
         "rstan"
     ],
@@ -6260,7 +6131,6 @@
         "oligoClasses",
         "fields",
         "methylumi",
-        "viridis",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -6291,7 +6161,6 @@
         "ggtree",
         "KEGGREST",
         "DO.db",
-        "viridis",
         "Biostrings"
     ],
     "MAI": [
@@ -6314,7 +6183,6 @@
         "fields",
         "SummarizedExperiment",
         "MsFeatures",
-        "viridis",
         "ipred"
     ],
     "mAPKL": [
@@ -6353,8 +6221,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "maskBAD": [
         "gcrma",
@@ -6367,8 +6234,7 @@
     "MatrixQCvis": [
         "SummarizedExperiment",
         "Hmisc",
-        "proDA",
-        "viridis"
+        "proDA"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -6408,7 +6274,6 @@
         "WGCNA",
         "KEGGREST",
         "Hmisc",
-        "viridis",
         "Biostrings"
     ],
     "mCSEA": [
@@ -6432,8 +6297,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "MDTS": [
         "GenomicAlignments",
@@ -6475,8 +6339,7 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "FDb.InfiniumMethylation.hg19",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viridis"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "MEAT": [
         "minfi",
@@ -6551,7 +6414,6 @@
         "scatterpie",
         "ggtree",
         "GO.db",
-        "viridis",
         "Biostrings"
     ],
     "meshr": [
@@ -6602,7 +6464,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
-        "viridis",
         "GenomicAlignments"
     ],
     "MetaCyto": [
@@ -6650,16 +6511,14 @@
         "xcms",
         "Hmisc",
         "SummarizedExperiment",
-        "MsFeatures",
-        "viridis"
+        "MsFeatures"
     ],
     "MetaNeighbor": [
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
     "metapone": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "metaseqR2": [
         "DESeq2",
@@ -6681,7 +6540,6 @@
         "geneplotter",
         "bsseq",
         "ShortRead",
-        "viridis",
         "dendextend",
         "ipred",
         "KEGGREST",
@@ -6849,7 +6707,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -6945,8 +6802,7 @@
         "scuttle",
         "scater",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "miaSim": [
         "SummarizedExperiment"
@@ -6958,7 +6814,6 @@
         "ggraph",
         "scater",
         "ggtree",
-        "viridis",
         "aplot",
         "SingleCellExperiment",
         "MultiAssayExperiment",
@@ -6985,7 +6840,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "viridis",
         "dendextend",
         "AnnotationDbi",
         "KEGGREST",
@@ -7023,7 +6877,6 @@
         "ggtree",
         "KEGGREST",
         "DO.db",
-        "viridis",
         "Biostrings"
     ],
     "MicrobiotaProcess": [
@@ -7061,8 +6914,7 @@
         "SingleCellExperiment",
         "BiocSingular",
         "ggraph",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "mimager": [
         "affyPLM",
@@ -7074,8 +6926,7 @@
     ],
     "MIMOSA": [],
     "mina": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "MineICA": [
         "biomaRt",
@@ -7088,7 +6939,6 @@
         "Category",
         "GO.db",
         "AnnotationForge",
-        "viridis",
         "methylumi",
         "GenomicFeatures",
         "org.Hs.eg.db",
@@ -7170,7 +7020,6 @@
         "genefilter",
         "GO.db",
         "AnnotationForge",
-        "viridis",
         "biomaRt",
         "KEGGREST",
         "Biostrings"
@@ -7199,7 +7048,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "org.Hs.eg.db",
-        "viridis",
         "dendextend",
         "AnnotationDbi",
         "clusterProfiler",
@@ -7238,7 +7086,6 @@
         "aplot",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "missMethyl": [
@@ -7353,7 +7200,6 @@
     "moanin": [
         "SummarizedExperiment",
         "topGO",
-        "viridis",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -7365,7 +7211,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "Modstrings": [
@@ -7397,8 +7242,7 @@
         "AnnotationDbi"
     ],
     "monocle": [
-        "densityClust",
-        "viridis"
+        "densityClust"
     ],
     "MoonlightR": [
         "SummarizedExperiment",
@@ -7416,7 +7260,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "mosaics": [
@@ -7446,8 +7289,7 @@
         "GenomicAlignments",
         "KEGGREST",
         "Hmisc",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "motifcounter": [
         "Biostrings"
@@ -7522,8 +7364,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "KEGGREST",
-        "viridis"
+        "KEGGREST"
     ],
     "MSGFgui": [
         "MSGFplus"
@@ -7585,7 +7426,6 @@
         "lme4",
         "MSstatsTMT",
         "modelr",
-        "viridis",
         "car",
         "lmerTest",
         "pbkrtest"
@@ -7614,8 +7454,7 @@
         "MSstats"
     ],
     "Mulcom": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "MultiAssayExperiment": [
         "SummarizedExperiment"
@@ -7627,8 +7466,7 @@
         "MultiDataSet"
     ],
     "multiClust": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "multicrispr": [
         "Biostrings",
@@ -7652,8 +7490,7 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "tensorflow",
-        "viridis"
+        "tensorflow"
     ],
     "MultiDataSet": [
         "SummarizedExperiment"
@@ -7713,7 +7550,6 @@
         "KEGGREST",
         "rcmdcheck",
         "DO.db",
-        "viridis",
         "ipred",
         "Biostrings"
     ],
@@ -7751,7 +7587,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "variancePartition",
-        "viridis",
         "genefilter",
         "geneplotter",
         "BiocNeighbors",
@@ -7788,7 +7623,6 @@
         "AnnotationDbi",
         "biomaRt",
         "KEGGREST",
-        "viridis",
         "car",
         "rstatix",
         "GenomicAlignments",
@@ -7823,7 +7657,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "KEGGREST",
         "Rsamtools",
         "GenomicAlignments",
@@ -7832,7 +7665,6 @@
     "myvariant": [
         "VariantAnnotation",
         "Hmisc",
-        "viridis",
         "SummarizedExperiment",
         "Rsamtools",
         "Biostrings",
@@ -7871,8 +7703,7 @@
         "biovizBase",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "NanoMethViz": [
         "SummarizedExperiment",
@@ -7955,7 +7786,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "netboxr": [
@@ -7971,7 +7801,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "netDx": [
@@ -7999,7 +7828,6 @@
         "GO.db",
         "KEGGREST",
         "Hmisc",
-        "viridis",
         "Biostrings"
     ],
     "netSmooth": [
@@ -8012,7 +7840,6 @@
         "mbkmeans",
         "scuttle",
         "BiocNeighbors",
-        "viridis",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST",
@@ -8056,8 +7883,7 @@
         "SummarizedExperiment",
         "pbkrtest",
         "lme4",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "NormqPCR": [],
     "normr": [
@@ -8126,7 +7952,6 @@
         "KEGGREST",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4",
@@ -8178,7 +8003,6 @@
         "genefilter",
         "car",
         "AnnotationDbi",
-        "viridis",
         "KEGGREST",
         "pbkrtest",
         "Biostrings"
@@ -8206,7 +8030,6 @@
         "SummarizedExperiment",
         "pbkrtest",
         "lme4",
-        "viridis",
         "AnnotationDbi",
         "biomaRt",
         "rstatix",
@@ -8251,15 +8074,13 @@
     "openPrimeR": [
         "Biostrings",
         "DECIPHER",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "openPrimeRui": [
         "openPrimeR",
         "Biostrings",
         "DECIPHER",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "OpenStats": [
         "Hmisc",
@@ -8267,8 +8088,7 @@
         "car",
         "unmarked",
         "pbkrtest",
-        "lme4",
-        "viridis"
+        "lme4"
     ],
     "oposSOM": [
         "biomaRt",
@@ -8368,7 +8188,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "dendextend",
         "KEGGREST",
         "Rsamtools",
@@ -8479,7 +8298,6 @@
         "geneplotter",
         "Category",
         "AnnotationForge",
-        "viridis",
         "dendextend",
         "GSEABase",
         "Biostrings"
@@ -8503,7 +8321,6 @@
         "ggpubr",
         "fields",
         "AnnotationDbi",
-        "viridis",
         "rstatix",
         "KEGGREST",
         "car",
@@ -8534,12 +8351,10 @@
         "SummarizedExperiment",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "pepStat": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "PERFect": [
         "phyloseq",
@@ -8566,7 +8381,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "phantasus": [
@@ -8591,7 +8405,6 @@
         "SummarizedExperiment",
         "VIM",
         "densityClust",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4"
@@ -8609,7 +8422,6 @@
         "hgu133a.db",
         "KEGGREST",
         "org.Hs.eg.db",
-        "viridis",
         "Biostrings"
     ],
     "PhenStat": [
@@ -8630,7 +8442,6 @@
         "dendextend",
         "SummarizedExperiment",
         "ggpubr",
-        "viridis",
         "rstatix",
         "car",
         "pbkrtest",
@@ -8680,7 +8491,6 @@
         "aplot",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "PING": [
@@ -8703,8 +8513,7 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "rainbow",
-        "viridis"
+        "rainbow"
     ],
     "pipeComp": [
         "SingleCellExperiment",
@@ -8714,7 +8523,6 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "bluster"
     ],
     "pipeFrame": [
@@ -8749,7 +8557,6 @@
         "ggpubr",
         "Hmisc",
         "rstatix",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4"
@@ -8790,7 +8597,6 @@
         "ggraph",
         "mixOmics",
         "recipes",
-        "viridis",
         "ipred"
     ],
     "PoTRA": [
@@ -8900,14 +8706,12 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "GO.db",
-        "viridis"
+        "GO.db"
     ],
     "PrInCE": [
         "forecast",
         "Hmisc",
-        "tseries",
-        "viridis"
+        "tseries"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -8937,7 +8741,6 @@
     "proBatch": [
         "pvca",
         "sva",
-        "viridis",
         "WGCNA",
         "lme4",
         "genefilter",
@@ -8991,13 +8794,11 @@
         "GOSemSim",
         "ggtree",
         "DO.db",
-        "viridis",
         "GO.db"
     ],
     "progeny": [],
     "projectR": [
         "CoGAPS",
-        "viridis",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -9008,7 +8809,6 @@
         "biomaRt",
         "AnnotationDbi",
         "recipes",
-        "viridis",
         "genefilter",
         "KEGGREST",
         "ipred",
@@ -9023,7 +8823,6 @@
         "biomaRt",
         "AnnotationDbi",
         "recipes",
-        "viridis",
         "genefilter",
         "KEGGREST",
         "ipred",
@@ -9063,7 +8862,6 @@
         "GO.db",
         "GOSemSim",
         "MESS",
-        "viridis",
         "ggpubr",
         "car",
         "missMDA",
@@ -9134,7 +8932,6 @@
         "Biostrings",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "PSICQUIC": [
@@ -9156,7 +8953,6 @@
         "ggpubr",
         "Hmisc",
         "rstatix",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4"
@@ -9204,8 +9000,7 @@
         "rtracklayer",
         "biomaRt",
         "BSgenome",
-        "KEGGREST",
-        "viridis"
+        "KEGGREST"
     ],
     "PWMEnrich": [
         "Biostrings"
@@ -9265,7 +9060,6 @@
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
-        "viridis",
         "BSgenome"
     ],
     "qsea": [
@@ -9280,7 +9074,6 @@
         "SummarizedExperiment",
         "sva",
         "Hmisc",
-        "viridis",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST",
@@ -9346,7 +9139,6 @@
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
-        "viridis",
         "KEGGREST",
         "biomaRt"
     ],
@@ -9486,13 +9278,11 @@
         "KEGGREST"
     ],
     "Rcwl": [
-        "DiagrammeR",
-        "viridis"
+        "DiagrammeR"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "DiagrammeR",
-        "viridis"
+        "DiagrammeR"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -9507,7 +9297,6 @@
         "aplot",
         "scatterpie",
         "ggtree",
-        "viridis",
         "GO.db",
         "Biostrings"
     ],
@@ -9536,7 +9325,6 @@
         "KEGGREST",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "recount3": [
@@ -9610,7 +9398,6 @@
         "GOSemSim",
         "Hmisc",
         "GO.db",
-        "viridis",
         "Biostrings"
     ],
     "regioneR": [
@@ -9640,7 +9427,6 @@
         "Biostrings",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "regsplice": [
@@ -9663,8 +9449,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "REMP": [
         "SummarizedExperiment",
@@ -9725,8 +9510,7 @@
         "AnnotationFilter",
         "GO.db",
         "AnnotationForge",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "RepViz": [
         "Rsamtools",
@@ -9755,7 +9539,6 @@
         "lme4",
         "mice",
         "car",
-        "viridis",
         "pbkrtest"
     ],
     "rfaRm": [
@@ -9871,8 +9654,7 @@
         "OrganismDbi",
         "ensembldb",
         "AnnotationFilter",
-        "KEGGREST",
-        "viridis"
+        "KEGGREST"
     ],
     "riboSeqR": [
         "Rsamtools",
@@ -9920,8 +9702,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "ensembldb",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "Risa": [
         "xcms",
@@ -10011,7 +9792,6 @@
         "Biostrings",
         "biomaRt",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "RNAdecay": [],
@@ -10057,8 +9837,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
@@ -10078,8 +9857,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
@@ -10099,8 +9877,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
@@ -10120,8 +9897,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "RNAsense": [
         "NBPSeq",
@@ -10159,7 +9935,6 @@
         "GenomicFeatures",
         "pbkrtest",
         "lme4",
-        "viridis",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -10177,7 +9952,6 @@
     "RnBeads": [
         "fields",
         "methylumi",
-        "viridis",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -10242,7 +10016,6 @@
         "rtracklayer",
         "KEGGREST",
         "biomaRt",
-        "viridis",
         "BSgenome"
     ],
     "rqt": [
@@ -10281,7 +10054,6 @@
     ],
     "RTCGA": [
         "survminer",
-        "viridis",
         "ggpubr",
         "rstatix",
         "car",
@@ -10335,8 +10107,7 @@
         "SummarizedExperiment"
     ],
     "Rtreemix": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "rTRM": [
         "AnnotationDbi",
@@ -10493,8 +10264,7 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "scBFA": [
         "SingleCellExperiment",
@@ -10526,7 +10296,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "viridis",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -10543,8 +10312,7 @@
         "scran",
         "scater",
         "scuttle",
-        "bluster",
-        "viridis"
+        "bluster"
     ],
     "scDD": [
         "fields",
@@ -10553,7 +10321,6 @@
         "SummarizedExperiment",
         "scran",
         "lme4",
-        "viridis",
         "scuttle",
         "BiocSingular",
         "bluster",
@@ -10602,7 +10369,6 @@
         "SummarizedExperiment",
         "reldist",
         "Hmisc",
-        "viridis",
         "densEstBayes",
         "rstan"
     ],
@@ -10687,8 +10453,7 @@
         "GenomicAlignments",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -10727,8 +10492,7 @@
         "VariantAnnotation",
         "OrganismDbi",
         "ensembldb",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "scry": [
         "SingleCellExperiment",
@@ -10759,7 +10523,6 @@
         "GOSemSim",
         "GO.db",
         "AnnotationForge",
-        "viridis",
         "dendextend",
         "enrichplot",
         "ggraph",
@@ -10780,7 +10543,6 @@
         "fields",
         "concaveman",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "scTreeViz": [
@@ -10792,7 +10554,6 @@
         "ggraph",
         "scater",
         "SingleCellExperiment",
-        "viridis",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -10841,7 +10602,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "DO.db",
-        "viridis",
         "GO.db"
     ],
     "segmentSeq": [
@@ -10883,7 +10643,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "SeqArray": [
@@ -10987,7 +10746,6 @@
         "heatmaply",
         "minfi",
         "rtracklayer",
-        "viridis",
         "dendextend",
         "SummarizedExperiment",
         "Biostrings",
@@ -11063,8 +10821,7 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "Biostrings",
-        "viridis"
+        "Biostrings"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -11118,8 +10875,7 @@
         "Biostrings"
     ],
     "sincell": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "SingleCellExperiment": [
         "SummarizedExperiment"
@@ -11168,7 +10924,6 @@
         "AnnotationHub",
         "genefilter",
         "geneplotter",
-        "viridis",
         "aplot",
         "hgu95a.db",
         "TFisher",
@@ -11300,7 +11055,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "GO.db",
-        "viridis",
         "Biostrings",
         "biomaRt",
         "Rsamtools",
@@ -11367,8 +11121,7 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "biomaRt",
-        "viridis"
+        "biomaRt"
     ],
     "SpacePAC": [
         "iPAC",
@@ -11383,13 +11136,11 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "bluster"
     ],
     "sparrow": [
         "BiocSet",
         "GSEABase",
-        "viridis",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -11439,7 +11190,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "viridis",
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
@@ -11467,13 +11217,11 @@
         "biovizBase",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "specL": [],
     "SpeCond": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "SpectralTAD": [
         "HiCcompare",
@@ -11508,8 +11256,7 @@
         "scatterpie",
         "ggtree",
         "Biostrings",
-        "DO.db",
-        "viridis"
+        "DO.db"
     ],
     "spiky": [
         "Rsamtools",
@@ -11525,8 +11272,7 @@
         "SummarizedExperiment",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "viridis"
+        "BiocSingular"
     ],
     "SplicingFactory": [
         "SummarizedExperiment"
@@ -11565,8 +11311,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "SPONGE": [],
     "spqn": [
@@ -11577,7 +11322,6 @@
         "Hmisc",
         "WGCNA",
         "phyloseq",
-        "viridis",
         "Biostrings",
         "SummarizedExperiment",
         "GO.db",
@@ -11609,8 +11353,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "sscu": [
         "Biostrings"
@@ -11644,8 +11387,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "staRank": [
         "cellHTS2",
@@ -11678,8 +11420,7 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "DO.db",
-        "viridis"
+        "DO.db"
     ],
     "strandCheckR": [
         "GenomicAlignments",
@@ -11818,8 +11559,7 @@
         "fields",
         "modelr",
         "pbkrtest",
-        "lme4",
-        "viridis"
+        "lme4"
     ],
     "SynExtend": [
         "DECIPHER",
@@ -11896,8 +11636,7 @@
         "Biostrings",
         "GenomicAlignments",
         "Hmisc",
-        "SummarizedExperiment",
-        "viridis"
+        "SummarizedExperiment"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -11974,7 +11713,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "viridis",
         "car",
         "pbkrtest",
         "lme4"
@@ -12019,8 +11757,7 @@
         "Biostrings"
     ],
     "TFARM": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "TFBSTools": [
         "Biostrings",
@@ -12084,7 +11821,6 @@
         "SummarizedExperiment",
         "DESeq2",
         "Hmisc",
-        "viridis",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -12109,7 +11845,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "viridis",
         "Biostrings"
     ],
     "TIN": [
@@ -12119,7 +11854,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "TissueEnrich": [
@@ -12220,15 +11954,13 @@
         "biovizBase",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "tradeSeq": [
         "SingleCellExperiment",
         "SummarizedExperiment",
         "slingshot",
-        "TrajectoryUtils",
-        "viridis"
+        "TrajectoryUtils"
     ],
     "TrajectoryUtils": [
         "SingleCellExperiment",
@@ -12298,7 +12030,6 @@
         "SummarizedExperiment"
     ],
     "traviz": [
-        "viridis",
         "SingleCellExperiment",
         "slingshot",
         "SummarizedExperiment",
@@ -12350,7 +12081,6 @@
         "Rsamtools",
         "Hmisc",
         "GO.db",
-        "viridis",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -12377,7 +12107,6 @@
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
-        "viridis",
         "Biostrings"
     ],
     "trigger": [
@@ -12439,7 +12168,6 @@
     "ttgsea": [
         "keras",
         "DiagrammeR",
-        "viridis",
         "tensorflow"
     ],
     "TTMap": [
@@ -12462,8 +12190,7 @@
         "biovizBase",
         "GenomicAlignments",
         "KEGGREST",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "txcutr": [
         "AnnotationDbi",
@@ -12555,8 +12282,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "UniProt.ws": [
         "AnnotationDbi",
@@ -12581,8 +12307,7 @@
     ],
     "uSORT": [
         "monocle",
-        "densityClust",
-        "viridis"
+        "densityClust"
     ],
     "VAExprs": [
         "keras",
@@ -12594,7 +12319,6 @@
         "DeepPINCS",
         "DiagrammeR",
         "ttgsea",
-        "viridis",
         "scuttle",
         "BiocNeighbors",
         "BiocSingular"
@@ -12662,8 +12386,7 @@
         "biovizBase",
         "GenomicAlignments",
         "Hmisc",
-        "AnnotationFilter",
-        "viridis"
+        "AnnotationFilter"
     ],
     "VariantTools": [
         "VariantAnnotation",
@@ -12741,14 +12464,12 @@
         "heatmaply",
         "topGO",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "vissE": [
         "GSEABase",
         "msigdb",
         "ggraph",
-        "viridis",
         "AnnotationDbi",
         "ExperimentHub",
         "org.Mm.eg.db",
@@ -12842,7 +12563,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "biomaRt",
-        "viridis",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment"
@@ -12913,7 +12633,6 @@
         "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
-        "viridis",
         "ggbio",
         "SummarizedExperiment",
         "Rsamtools",
@@ -12998,10 +12717,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "Hmisc": [
-        "viridis"
-    ],
-    "viridis": [],
+    "Hmisc": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -13187,12 +12903,9 @@
         "SummarizedExperiment"
     ],
     "heatmaply": [
-        "viridis",
         "dendextend"
     ],
-    "dendextend": [
-        "viridis"
-    ],
+    "dendextend": [],
     "corncob": [
         "phyloseq",
         "Biostrings"
@@ -13223,29 +12936,23 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "DiagrammeR": [
-        "viridis"
-    ],
+    "DiagrammeR": [],
     "DO.db": [
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
     ],
-    "ggraph": [
-        "viridis"
-    ],
+    "ggraph": [],
     "aplot": [],
     "scatterpie": [],
     "rms": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "WGCNA": [
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "viridis",
         "Biostrings"
     ],
     "ggnetwork": [],
@@ -13317,7 +13024,6 @@
         "biomaRt",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "viridis",
         "BSgenome"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -13525,7 +13231,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "viridis",
         "car",
         "rstatix",
         "pbkrtest",
@@ -13540,8 +13245,7 @@
     "spatstat": [],
     "contrast": [
         "rms",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "airway": [
         "SummarizedExperiment"
@@ -13586,19 +13290,15 @@
         "tensorflow"
     ],
     "tensorflow": [],
-    "fields": [
-        "viridis"
-    ],
+    "fields": [],
     "highcharter": [],
     "cytometree": [],
     "RFOC": [
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "GEOmap": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "mbest": [
         "lme4"
@@ -13674,8 +13374,7 @@
     "ELMER.data": [],
     "ggrastr": [],
     "survivalsvm": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "EntropyExplorer": [],
     "ewceData": [
@@ -13722,15 +13421,13 @@
     ],
     "shinyHeatmaply": [
         "heatmaply",
-        "viridis",
         "dendextend"
     ],
     "seqmagick": [
         "Biostrings"
     ],
     "HH": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "sparsebn": [],
     "loose.rock": [],
@@ -13762,8 +13459,7 @@
     "concaveman": [],
     "haplo.stats": [
         "rms",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "AdaptGauss": [],
     "orQA": [],
@@ -13811,8 +13507,7 @@
     "bigstatsr": [],
     "RnBeads.hg19": [],
     "plsgenomics": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "agricolae": [
         "klaR"
@@ -13892,17 +13587,14 @@
         "Biostrings"
     ],
     "BiBitR": [
-        "viridis",
         "dendextend"
     ],
     "SOMbrero": [
         "metR",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "metR": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "echarts4r": [],
     "anyLib": [
@@ -13928,8 +13620,7 @@
         "car",
         "Hmisc",
         "pbkrtest",
-        "lme4",
-        "viridis"
+        "lme4"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -13961,8 +13652,7 @@
     ],
     "FindMyFriends": [],
     "verification": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "aroma.affymetrix": [],
     "tidybayes": [
@@ -14073,16 +13763,13 @@
         "KEGGREST"
     ],
     "nnTensor": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "ccTensor": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "clustree": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "rbokeh": [],
     "mlr": [],
@@ -14142,8 +13829,7 @@
         "Biostrings"
     ],
     "SpatialExtremes": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "GenKern": [],
     "gghighlight": [],
