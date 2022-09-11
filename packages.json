@@ -2743,7 +2743,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "snpStats",
         "ggsci",
         "cowplot",
         "ggsignif",
@@ -3327,7 +3326,6 @@
         "genefilter",
         "geneplotter",
         "GenomicFeatures",
-        "snpStats",
         "VariantAnnotation",
         "GenomicAlignments",
         "BiocIO",
@@ -5338,7 +5336,6 @@
     ],
     "DExMA": [
         "pheatmap",
-        "snpStats",
         "sva",
         "genefilter",
         "AnnotationDbi",
@@ -7780,7 +7777,6 @@
     ],
     "GeneGA": [],
     "GeneGeneInteR": [
-        "snpStats",
         "Rsamtools",
         "FactoMineR",
         "GenomicRanges",
@@ -8901,7 +8897,6 @@
         "GenomicFeatures",
         "Biostrings",
         "AnnotationDbi",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "KEGGREST",
@@ -10155,7 +10150,6 @@
         "XVector"
     ],
     "ldblock": [
-        "snpStats",
         "VariantAnnotation",
         "GenomeInfoDb",
         "ensembldb",
@@ -10492,7 +10486,6 @@
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
-        "snpStats",
         "crlmm",
         "bigstatsr",
         "UpSetR",
@@ -10628,9 +10621,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "GenomicRanges",
         "rtracklayer",
@@ -17472,7 +17463,6 @@
     "RVS": [
         "GENLIB",
         "gRain",
-        "snpStats",
         "gRbase"
     ],
     "safe": [
@@ -18085,7 +18075,6 @@
     ],
     "scoreInvHap": [
         "Biostrings",
-        "snpStats",
         "VariantAnnotation",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -19272,7 +19261,6 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "snpStats": [],
     "soGGi": [
         "SummarizedExperiment",
         "GenomeInfoDb",
@@ -21696,7 +21684,6 @@
         "GenomicFeatures",
         "Biostrings",
         "AnnotationDbi",
-        "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
         "KEGGREST",
@@ -22778,12 +22765,9 @@
         "broom"
     ],
     "GenomicTools": [
-        "GenomicTools.fileHandler",
-        "snpStats"
+        "GenomicTools.fileHandler"
     ],
-    "GenomicTools.fileHandler": [
-        "snpStats"
-    ],
+    "GenomicTools.fileHandler": [],
     "quantmod": [
         "TTR"
     ],
