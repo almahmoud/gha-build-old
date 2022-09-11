@@ -116,7 +116,6 @@
         "adductData",
         "ExperimentHub",
         "AnnotationHub",
-        "rvest",
         "smoother",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -363,7 +362,6 @@
         "speaq",
         "ggrepel",
         "SummarizedExperiment",
-        "rvest",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -1517,8 +1515,7 @@
         "GenomeInfoDb"
     ],
     "BiocPkgTools": [
-        "biocViews",
-        "rvest"
+        "biocViews"
     ],
     "BiocSet": [
         "BiocIO",
@@ -2407,7 +2404,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicDataCommons",
-        "rvest",
         "KEGGREST",
         "Biostrings",
         "BiocIO",
@@ -3208,7 +3204,6 @@
         "miniUI",
         "GenomeInfoDb",
         "XVector",
-        "rvest",
         "webshot",
         "Biostrings",
         "GenomicAlignments",
@@ -4772,7 +4767,6 @@
         "nloptr",
         "modelr",
         "reprex",
-        "rvest",
         "pbkrtest",
         "quantreg",
         "DO.db",
@@ -4866,7 +4860,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "KEGGREST",
         "ggdendro",
         "multtest",
@@ -5062,7 +5055,6 @@
         "text2vec",
         "textstem",
         "DiagrammeR",
-        "rvest",
         "influenceR",
         "viridis",
         "rsparse",
@@ -5580,7 +5572,6 @@
         "dendextend",
         "webshot",
         "egg",
-        "rvest",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -6135,7 +6126,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "ggrepel",
-        "rvest",
         "plotly",
         "ggpubr",
         "rtracklayer",
@@ -6760,7 +6750,6 @@
         "MultiAssayExperiment",
         "ggdendro",
         "kableExtra",
-        "rvest",
         "webshot",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -8204,9 +8193,7 @@
         "nloptr",
         "testthat"
     ],
-    "GEOfastq": [
-        "rvest"
-    ],
+    "GEOfastq": [],
     "GeomxTools": [
         "NanoStringNCTools",
         "readxl",
@@ -9239,7 +9226,6 @@
     "hypeR": [
         "ggforce",
         "kableExtra",
-        "rvest",
         "webshot"
     ],
     "hyperdraw": [],
@@ -9531,9 +9517,7 @@
     "immunoClust": [
         "flowCore"
     ],
-    "immunotation": [
-        "rvest"
-    ],
+    "immunotation": [],
     "INDEED": [
         "devtools",
         "usethis",
@@ -9663,7 +9647,6 @@
     "InteractiveComplexHeatmap": [
         "ComplexHeatmap",
         "kableExtra",
-        "rvest",
         "webshot"
     ],
     "interactiveDisplay": [
@@ -10482,8 +10465,7 @@
     ],
     "MACSQuantifyR": [
         "readxl",
-        "ggrepel",
-        "rvest"
+        "ggrepel"
     ],
     "MACSr": [
         "reticulate",
@@ -10602,7 +10584,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "XVector",
         "ipred",
         "prodlim"
@@ -11454,7 +11435,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "XVector",
@@ -11891,7 +11871,6 @@
         "kableExtra",
         "SummarizedExperiment",
         "mice",
-        "rvest",
         "webshot",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -12096,7 +12075,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "biomaRt",
-        "rvest",
         "KEGGREST",
         "XVector",
         "Biostrings"
@@ -12493,7 +12471,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "biomaRt",
-        "rvest",
         "KEGGREST",
         "aplot",
         "ggraph",
@@ -12799,7 +12776,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "viridis",
         "car",
         "nloptr",
@@ -13157,7 +13133,6 @@
         "BiocIO",
         "biomaRt",
         "DelayedArray",
-        "rvest",
         "KEGGREST",
         "viridis",
         "car",
@@ -13349,7 +13324,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "Biostrings"
     ],
     "NanoTube": [
@@ -13891,7 +13865,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "rvest",
         "webshot",
         "XVector",
         "BiocIO",
@@ -15448,7 +15421,6 @@
         "TTR",
         "modelr",
         "reprex",
-        "rvest",
         "pbkrtest",
         "quantreg",
         "DO.db",
@@ -16552,7 +16524,6 @@
     ],
     "rfaRm": [
         "Biostrings",
-        "rvest",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -17351,7 +17322,6 @@
         "DelayedArray"
     ],
     "RTCGA": [
-        "rvest",
         "survminer",
         "ggthemes",
         "viridis",
@@ -17384,7 +17354,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "rvest",
         "KEGGREST",
         "Biostrings",
         "BiocIO",
@@ -19632,7 +19601,6 @@
         "ggrepel",
         "biomaRt",
         "GenomicRanges",
-        "rvest",
         "SummarizedExperiment",
         "DOSE",
         "GO.db",
@@ -19908,7 +19876,6 @@
         "ggrepel",
         "biomaRt",
         "GenomicRanges",
-        "rvest",
         "SummarizedExperiment",
         "XVector",
         "GenomeInfoDb",
@@ -20174,7 +20141,6 @@
         "modelr",
         "readxl",
         "reprex",
-        "rvest",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -20379,7 +20345,6 @@
     "TCGAbiolinks": [
         "biomaRt",
         "GenomicRanges",
-        "rvest",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomeInfoDb",
@@ -20417,7 +20382,6 @@
         "ComplexHeatmap",
         "MultiAssayExperiment",
         "biomaRt",
-        "rvest",
         "ggpubr",
         "rtracklayer",
         "DelayedArray",
@@ -20477,7 +20441,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "rvest",
         "SummarizedExperiment",
         "KEGGREST",
         "XVector",
@@ -21499,7 +21462,6 @@
         "XVector",
         "text2vec",
         "textstem",
-        "rvest",
         "rsparse",
         "quanteda"
     ],
@@ -22154,7 +22116,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "rvest": [],
     "smoother": [
         "TTR"
     ],
@@ -22179,9 +22140,7 @@
     "zCompositions": [],
     "shinydashboard": [],
     "readxl": [],
-    "speaq": [
-        "rvest"
-    ],
+    "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -23119,7 +23078,6 @@
         "waiter"
     ],
     "kableExtra": [
-        "rvest",
         "webshot"
     ],
     "fresh": [],
@@ -23359,8 +23317,7 @@
         "broom",
         "modelr",
         "readxl",
-        "reprex",
-        "rvest"
+        "reprex"
     ],
     "MESS": [
         "geepack",
@@ -23429,9 +23386,7 @@
         "nloptr",
         "testthat"
     ],
-    "webchem": [
-        "rvest"
-    ],
+    "webchem": [],
     "text2vec": [
         "rsparse"
     ],
