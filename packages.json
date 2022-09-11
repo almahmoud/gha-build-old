@@ -3215,7 +3215,6 @@
         "rtracklayer",
         "Rsamtools",
         "tensorflow",
-        "tfruns",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -3240,7 +3239,6 @@
         "multtest",
         "regioneR",
         "tensorflow",
-        "tfruns",
         "AnnotationFilter"
     ],
     "CrispRVariants": [
@@ -3847,7 +3845,6 @@
         "tensorflow",
         "webchem",
         "ttgsea",
-        "tfruns",
         "text2vec",
         "textstem",
         "DiagrammeR",
@@ -6750,8 +6747,7 @@
         "regioneR",
         "keras",
         "AnnotationFilter",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -9786,7 +9782,6 @@
         "ensembldb",
         "AnnotationFilter",
         "tensorflow",
-        "tfruns",
         "viridis"
     ],
     "MultiDataSet": [
@@ -10287,7 +10282,6 @@
         "keras",
         "SingleCellExperiment",
         "tensorflow",
-        "tfruns",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13308,8 +13302,7 @@
         "scattermore",
         "sctransform",
         "SummarizedExperiment",
-        "GenomicRanges",
-        "tfruns"
+        "GenomicRanges"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -13534,8 +13527,7 @@
     ],
     "SCFA": [
         "keras",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "scFeatureFilter": [],
     "scGPS": [
@@ -15999,8 +15991,7 @@
         "textstem",
         "DiagrammeR",
         "viridis",
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
     "TTMap": [
         "SummarizedExperiment",
@@ -16176,7 +16167,6 @@
         "webchem",
         "ttgsea",
         "viridis",
-        "tfruns",
         "scuttle",
         "DelayedMatrixStats",
         "beachmat",
@@ -17464,13 +17454,9 @@
         "viper"
     ],
     "keras": [
-        "tensorflow",
-        "tfruns"
+        "tensorflow"
     ],
-    "tensorflow": [
-        "tfruns"
-    ],
-    "tfruns": [],
+    "tensorflow": [],
     "shinypanel": [],
     "fields": [
         "viridis"
