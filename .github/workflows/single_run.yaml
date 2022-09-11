@@ -23,12 +23,18 @@ jobs:
 
       - name: Initialize if necessary then claim package
         id: claim
-        run: |
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          for i in {1..20}; do bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} && break || sleep 1; done || exit 1
-          echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})"
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 3
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            if bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} 2>&1 | grep -i 'error'"; then exit 1; else exit 0; fi
+            echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})"
 
       - name: Build claimed package
         id: pkgbuild
