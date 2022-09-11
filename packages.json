@@ -6,7 +6,6 @@
         "annaffy",
         "genefilter",
         "multtest",
-        "pamr",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -27,8 +26,7 @@
         "GenomeInfoDb"
     ],
     "a4Classif": [
-        "a4Core",
-        "pamr"
+        "a4Core"
     ],
     "a4Core": [],
     "ABAEnrichment": [
@@ -3981,7 +3979,6 @@
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
-        "pamr",
         "GenomicRanges",
         "GenomeInfoDb",
         "prodlim",
@@ -7575,7 +7572,6 @@
         "arm",
         "testthat",
         "VennDiagram",
-        "pamr",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -7799,7 +7795,6 @@
         "biomaRt",
         "iC10",
         "AnnotationDbi",
-        "pamr",
         "prodlim",
         "ipred",
         "KEGGREST",
@@ -12323,7 +12318,6 @@
         "caret",
         "testthat",
         "VennDiagram",
-        "pamr",
         "DESeq2",
         "SummarizedExperiment",
         "recipes",
@@ -14441,7 +14435,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "pamr",
         "km.ci",
         "KEGGREST",
         "car",
@@ -16877,9 +16870,7 @@
         "DelayedArray",
         "prodlim"
     ],
-    "Rmagpie": [
-        "pamr"
-    ],
+    "Rmagpie": [],
     "RMassBank": [
         "MSnbase",
         "vsn"
@@ -22091,7 +22082,6 @@
         "XVector",
         "Biostrings"
     ],
-    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "KEGGREST",
@@ -23234,9 +23224,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "iC10": [
-        "pamr"
-    ],
+    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "GenomicRanges",
