@@ -1367,7 +1367,6 @@
         "Biostrings"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "mnem",
         "sva",
@@ -1911,7 +1910,6 @@
         "ggrepel",
         "GenomicRanges"
     ],
-    "CellNOptR": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
@@ -2628,19 +2626,12 @@
         "SummarizedExperiment",
         "Rsamtools"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
     "CNORfuzzy": [
-        "CellNOptR",
         "nloptr"
     ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORode": [],
     "CNTools": [
         "genefilter",
         "AnnotationDbi",
@@ -8016,8 +8007,7 @@
         "cmdfun"
     ],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Melissa": [
         "BPRMeth",
