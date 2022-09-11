@@ -1717,8 +1717,7 @@
     ],
     "CNVRanger": [
         "RaggedExperiment",
-        "GDSArray",
-        "SeqArray"
+        "GDSArray"
     ],
     "CNVrd2": [
         "VariantAnnotation",
@@ -3548,9 +3547,7 @@
         "car",
         "pbkrtest"
     ],
-    "GDSArray": [
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "genbankr": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -3618,7 +3615,6 @@
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
-        "SeqArray",
         "SeqVarTools",
         "logistf"
     ],
@@ -3669,7 +3665,6 @@
         "Rsamtools"
     ],
     "GenomicDataCommons": [],
-    "GenomicDistributions": [],
     "GenomicFeatures": [
         "AnnotationDbi",
         "rtracklayer",
@@ -7058,7 +7053,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "qPLEXanalyzer": [],
     "qrqc": [
         "biovizBase",
         "Hmisc",
@@ -7944,9 +7938,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -8307,7 +8299,6 @@
         "GO.db",
         "KEGGREST"
     ],
-    "SeqArray": [],
     "seqbias": [],
     "seqCAT": [
         "VariantAnnotation",
@@ -8343,7 +8334,6 @@
         "KEGGREST"
     ],
     "SeqVarTools": [
-        "SeqArray",
         "logistf"
     ],
     "sesame": [
@@ -9625,7 +9615,6 @@
     ],
     "VariantExperiment": [
         "GDSArray",
-        "SeqArray",
         "SeqVarTools",
         "logistf"
     ],
