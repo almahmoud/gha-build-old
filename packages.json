@@ -923,7 +923,6 @@
         "KEGGREST",
         "interactiveDisplayBase",
         "futile.logger",
-        "urltools",
         "RBGL",
         "GenomicAlignments",
         "restfulr"
@@ -20867,7 +20866,6 @@
         "survival",
         "crul",
         "ape",
-        "urltools",
         "hardhat",
         "ipred",
         "prodlim",
@@ -26429,7 +26427,6 @@
         "interactiveDisplayBase",
         "crul",
         "KEGGREST",
-        "urltools",
         "Biostrings"
     ],
     "SeqVarTools": [
@@ -31614,8 +31611,7 @@
         "DelayedArray"
     ],
     "rsnps": [
-        "crul",
-        "urltools"
+        "crul"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
@@ -31763,10 +31759,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "crul": [
-        "urltools"
-    ],
-    "urltools": [],
+    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -34438,8 +34431,7 @@
         "RcppZiggurat"
     ],
     "osfr": [
-        "crul",
-        "urltools"
+        "crul"
     ],
     "C50": [
         "partykit",
@@ -34750,12 +34742,10 @@
         "pryr",
         "scales",
         "gistr",
-        "crul",
-        "urltools"
+        "crul"
     ],
     "gistr": [
-        "crul",
-        "urltools"
+        "crul"
     ],
     "wheatmap": [],
     "mlr": [
