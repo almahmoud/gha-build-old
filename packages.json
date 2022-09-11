@@ -15329,7 +15329,6 @@
         "aroma.affymetrix",
         "aroma.core",
         "R.rsp",
-        "PSCBS",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -21928,7 +21927,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "R.rsp",
-        "PSCBS",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -25578,15 +25576,12 @@
     ],
     "aroma.affymetrix": [
         "aroma.core",
-        "R.rsp",
-        "PSCBS"
+        "R.rsp"
     ],
     "aroma.core": [
-        "R.rsp",
-        "PSCBS"
+        "R.rsp"
     ],
     "R.rsp": [],
-    "PSCBS": [],
     "genlasso": [],
     "phateR": [
         "reticulate",
