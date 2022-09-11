@@ -33,8 +33,8 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            if bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} 2>&1 | grep -i 'error'"; then exit 1; else exit 0; fi
-            echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})"
+            if bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} 2>&1 | grep -i 'error'"; then exit 1; else 
+            echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})" && exit 0; fi
 
 
       - name: Build claimed package
@@ -61,7 +61,7 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with:
-          name: "${{steps.claim.outputs.pkg}}"
+          name: "artifact-${{steps.claim.outputs.pkg}}"
           path: /tmp/tars/${{steps.tar.outputs.name}}
 
 
@@ -82,7 +82,7 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
-          name: ${{needs.build.outputs.pkg}}
+          name: "artifact-${{needs.build.outputs.pkg}}"
           path: /tmp/${{needs.build.outputs.tar}}
 
       - name: Rclone push package and mark as pushed
