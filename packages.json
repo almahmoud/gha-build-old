@@ -2832,7 +2832,6 @@
         "graphite",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "TFisher",
         "Linnorm",
         "modelr",
         "KEGGREST",
@@ -3521,7 +3520,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "TFisher",
         "hgu133plus2.db",
         "hgu133a.db",
         "Biostrings"
@@ -6450,8 +6448,7 @@
         "GenomicAlignments"
     ],
     "MetaVolcanoR": [
-        "metap",
-        "TFisher"
+        "metap"
     ],
     "MetCirc": [],
     "methimpute": [
@@ -7361,7 +7358,6 @@
         "AnnotationDbi",
         "metap",
         "KEGGREST",
-        "TFisher",
         "Biostrings"
     ],
     "multiHiCcompare": [
@@ -7403,7 +7399,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "TFisher",
         "reactome.db",
         "graphite",
         "KEGGREST",
@@ -7548,7 +7543,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "TFisher",
         "GenomicFeatures",
         "Gviz",
         "AnnotationDbi",
@@ -9846,7 +9840,6 @@
         "metap",
         "pbkrtest",
         "lme4",
-        "TFisher",
         "MultiDataSet"
     ],
     "rRDP": [
@@ -10735,7 +10728,6 @@
         "genefilter",
         "geneplotter",
         "hgu95a.db",
-        "TFisher",
         "bluster",
         "M3Drop",
         "ensembldb",
@@ -13110,10 +13102,7 @@
     "geepack": [],
     "ggformula": [],
     "CombinePValue": [],
-    "metap": [
-        "TFisher"
-    ],
-    "TFisher": [],
+    "metap": [],
     "rsq": [
         "lme4"
     ],
