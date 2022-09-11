@@ -69,7 +69,6 @@
     "AffyCompatible": [],
     "affycoretools": [
         "GOstats",
-        "gcrma",
         "AnnotationDbi",
         "oligoClasses",
         "ReportingTools",
@@ -96,18 +95,13 @@
         "ensembldb",
         "biomaRt"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "affyPLM",
-        "gcrma",
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "AnnotationDbi",
@@ -119,7 +113,6 @@
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
-        "gcrma",
         "AnnotationDbi",
         "oligoClasses",
         "ReportingTools",
@@ -365,7 +358,6 @@
         "beadarray",
         "genefilter",
         "Hmisc",
-        "gcrma",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -624,9 +616,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase",
         "AnnotationDbi",
@@ -3515,7 +3505,6 @@
         "rtracklayer"
     ],
     "gCrisprTools": [],
-    "gcrma": [],
     "GCSscore": [
         "devtools"
     ],
@@ -4854,7 +4843,6 @@
         "KEGGREST"
     ],
     "maPredictDSC": [
-        "gcrma",
         "caret",
         "hgu133plus2.db",
         "AnnotationDbi",
@@ -4877,9 +4865,7 @@
         "Hmisc",
         "VariantAnnotation"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -5412,8 +5398,7 @@
     "mimager": [
         "affyPLM",
         "oligo",
-        "oligoClasses",
-        "gcrma"
+        "oligoClasses"
     ],
     "mina": [
         "Hmisc"
@@ -7294,8 +7279,7 @@
         "regioneR"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "BiocSet",
@@ -9758,7 +9742,6 @@
     ],
     "webbioc": [
         "annaffy",
-        "gcrma",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST"
