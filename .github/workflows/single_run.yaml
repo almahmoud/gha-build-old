@@ -56,7 +56,8 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-            bash .github/scripts/push_built.sh $PKG
+            if bash -c "bash .github/scripts/push_built.sh $PKG 2>&1 | grep -i 'error'"; then exit 1; else 
+            echo "Marked built" && exit 0; fi
         if: steps.pkgbuild.outcome=='success'
 
       - name: Get tar name
@@ -113,8 +114,5 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}}
-
-
-
-
+            if bash -c "bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} 2>&1 | grep -i 'error'"; then exit 1; else 
+            echo "Marked pushed" && exit 0; fi
