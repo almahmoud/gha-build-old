@@ -83,7 +83,6 @@
         "rstatix",
         "AnnotationDbi",
         "Biostrings",
-        "broom",
         "car",
         "GenomicRanges",
         "pbkrtest",
@@ -739,7 +738,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "doBy",
-        "broom",
         "pbkrtest",
         "SummarizedExperiment",
         "Biostrings",
@@ -1075,9 +1073,7 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [
-        "broom"
-    ],
+    "biobroom": [],
     "bioCancer": [
         "radiant.data",
         "cgdsr",
@@ -1099,7 +1095,6 @@
         "viridis",
         "DO.db",
         "fgsea",
-        "broom",
         "car",
         "plotly",
         "patchwork",
@@ -1154,7 +1149,6 @@
         "rstatix",
         "KEGGREST",
         "nloptr",
-        "broom",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -1258,7 +1252,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "viridis",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -1689,7 +1682,6 @@
         "rstatix",
         "viridis",
         "GO.db",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -1796,7 +1788,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "fda",
         "fds",
         "rainbow",
@@ -1964,8 +1955,7 @@
         "viridis",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "CellMixS": [
         "BiocNeighbors",
@@ -2040,7 +2030,6 @@
         "mice",
         "multcomp",
         "SummarizedExperiment",
-        "broom",
         "flowCore",
         "FlowSOM",
         "nloptr",
@@ -2120,7 +2109,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "broom",
         "car",
         "ggfun",
         "ggplotify",
@@ -2299,7 +2287,6 @@
         "GenomicRanges",
         "Rsamtools",
         "biovizBase",
-        "broom",
         "viridis",
         "Hmisc",
         "SummarizedExperiment",
@@ -2997,7 +2984,6 @@
         "ggforce",
         "tidygraph",
         "treeio",
-        "broom",
         "nloptr"
     ],
     "condiments": [
@@ -3368,7 +3354,6 @@
         "ggrepel",
         "highcharter",
         "KEGGREST",
-        "broom",
         "quantmod",
         "Biostrings"
     ],
@@ -3432,7 +3417,6 @@
         "GEOmap",
         "fields",
         "nloptr",
-        "broom",
         "viridis"
     ],
     "cycle": [
@@ -3488,7 +3472,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "fda",
         "fds",
         "rainbow",
@@ -3513,8 +3496,7 @@
         "nloptr",
         "ipred",
         "pbkrtest",
-        "prodlim",
-        "broom"
+        "prodlim"
     ],
     "cytoKernel": [
         "SummarizedExperiment",
@@ -3583,7 +3565,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "fda",
         "Biostrings",
         "nloptr",
@@ -3652,8 +3633,7 @@
         "nloptr",
         "ipred",
         "GenomicAlignments",
-        "prodlim",
-        "broom"
+        "prodlim"
     ],
     "DAPAR": [
         "MSnbase",
@@ -3684,7 +3664,6 @@
         "ggpubr",
         "ggrepel",
         "car",
-        "broom",
         "quantmod",
         "missMDA",
         "nloptr",
@@ -3735,7 +3714,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "KEGGREST",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -3759,7 +3737,6 @@
         "TFisher",
         "mutoss",
         "Linnorm",
-        "broom",
         "modelr",
         "KEGGREST",
         "ggdendro",
@@ -3782,7 +3759,6 @@
         "GEOmap",
         "fields",
         "nloptr",
-        "broom",
         "viridis"
     ],
     "dearseq": [
@@ -3890,9 +3866,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "decoupleR": [
-        "broom"
-    ],
+    "decoupleR": [],
     "DeepBlueR": [
         "GenomicRanges",
         "rtracklayer",
@@ -3958,7 +3932,6 @@
         "NCIgraph"
     ],
     "DEGreport": [
-        "broom",
         "cowplot",
         "DESeq2",
         "ggdendro",
@@ -4104,8 +4077,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "DEsubs": [
         "EBSeq",
@@ -4208,7 +4180,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "car",
         "pbkrtest",
         "fda",
@@ -4290,7 +4261,6 @@
     "discordant": [],
     "DiscoRhythm": [
         "ggExtra",
-        "broom",
         "kableExtra",
         "UpSetR",
         "heatmaply",
@@ -4477,8 +4447,7 @@
         "multcomp",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "DOSE": [
         "AnnotationDbi",
@@ -4585,7 +4554,6 @@
         "viper",
         "ExperimentHub",
         "AnnotationHub",
-        "broom",
         "car",
         "AnnotationDbi",
         "pbkrtest",
@@ -4747,7 +4715,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -4899,7 +4866,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "broom",
         "car",
         "ggfun",
         "ggplotify",
@@ -4963,7 +4929,6 @@
         "ggsci",
         "cowplot",
         "ggsignif",
-        "broom",
         "car",
         "Biostrings",
         "Rsamtools",
@@ -5001,7 +4966,6 @@
         "GenomicAlignments",
         "BSgenome",
         "Biostrings",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -5391,7 +5355,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "broom",
         "Biostrings"
     ],
     "FastqCleaner": [
@@ -5609,7 +5572,6 @@
         "GEOmap",
         "fields",
         "nloptr",
-        "broom",
         "viridis"
     ],
     "flowDensity": [
@@ -5624,7 +5586,6 @@
         "GEOmap",
         "fields",
         "nloptr",
-        "broom",
         "viridis"
     ],
     "flowFP": [
@@ -5651,8 +5612,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "FlowSOM": [
         "CytoML",
@@ -5674,7 +5634,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -5779,8 +5738,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "FRGEpistasis": [
         "fda",
@@ -5904,8 +5862,7 @@
         "nloptr",
         "ipred",
         "GenomicAlignments",
-        "prodlim",
-        "broom"
+        "prodlim"
     ],
     "GateFinder": [
         "flowCore",
@@ -5956,7 +5913,6 @@
         "fgsea",
         "KEGGREST",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "aplot",
@@ -6013,7 +5969,6 @@
         "ggsignif",
         "rstatix",
         "KEGGREST",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6068,8 +6023,7 @@
         "Biostrings",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "GeneMeta": [
         "genefilter",
@@ -6096,8 +6050,7 @@
         "logistf",
         "quantsmooth",
         "Biostrings",
-        "mice",
-        "broom"
+        "mice"
     ],
     "GeneStructureTools": [
         "Biostrings",
@@ -6271,7 +6224,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -6347,7 +6299,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr"
     ],
     "GEOfastq": [],
@@ -6387,8 +6338,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "ggbio": [
         "Hmisc",
@@ -6509,7 +6459,6 @@
         "AnnotationDbi",
         "GenomicRanges",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "KEGGREST",
@@ -6750,8 +6699,7 @@
         "GenomicRanges",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "groHMM": [
         "GenomicRanges",
@@ -6924,8 +6872,7 @@
     "GWASTools": [
         "logistf",
         "quantsmooth",
-        "mice",
-        "broom"
+        "mice"
     ],
     "gwasurvivr": [
         "GWASTools",
@@ -6943,8 +6890,7 @@
         "KEGGREST",
         "biomaRt",
         "mice",
-        "GenomicAlignments",
-        "broom"
+        "GenomicAlignments"
     ],
     "GWENA": [
         "WGCNA",
@@ -7423,7 +7369,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -7488,7 +7433,6 @@
         "pbkrtest",
         "lme4",
         "Biostrings",
-        "broom",
         "nloptr"
     ],
     "IntEREst": [
@@ -7540,7 +7484,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "broom",
         "survMisc",
         "ggtext",
         "car",
@@ -7618,7 +7561,6 @@
         "shadowtext",
         "ggtree",
         "Biostrings",
-        "broom",
         "car",
         "ggfun",
         "ggplotify",
@@ -7689,7 +7631,6 @@
         "DiscriMiner",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "broom",
         "cowplot",
         "DEGreport",
         "DESeq2",
@@ -7743,7 +7684,6 @@
         "UpSetR",
         "GenomicRanges",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "ggrepel",
@@ -7888,7 +7828,6 @@
         "rstatix",
         "SummarizedExperiment",
         "GenomicRanges",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -7912,7 +7851,6 @@
     "LiquidAssociation": [
         "geepack",
         "org.Sc.sgd.db",
-        "broom",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -8037,8 +7975,7 @@
         "glmmTMB",
         "lme4",
         "pbkrtest",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "macat": [
         "AnnotationDbi",
@@ -8149,7 +8086,6 @@
         "SummarizedExperiment",
         "recipes",
         "GenomicRanges",
-        "broom",
         "modelr",
         "ipred",
         "prodlim"
@@ -8273,8 +8209,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "Biostrings",
-        "mice",
-        "broom"
+        "mice"
     ],
     "MBQN": [
         "SummarizedExperiment",
@@ -8419,8 +8354,7 @@
         "multcomp",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "megadepth": [
         "GenomicRanges",
@@ -8540,7 +8474,6 @@
         "Rsamtools",
         "viridis",
         "nloptr",
-        "broom",
         "GenomicAlignments"
     ],
     "MetaCyto": [
@@ -8564,7 +8497,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -8721,7 +8653,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "broom",
         "car",
         "KEGGREST",
         "pbkrtest",
@@ -8814,7 +8745,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "HDF5Array",
-        "broom",
         "modelr",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -9059,7 +8989,6 @@
         "DESeq2",
         "heatmaply",
         "car",
-        "broom",
         "plotly",
         "pbkrtest",
         "lme4",
@@ -9157,7 +9086,6 @@
     ],
     "midasHLA": [
         "MultiAssayExperiment",
-        "broom",
         "HardyWeinberg",
         "kableExtra",
         "SummarizedExperiment",
@@ -9466,8 +9394,7 @@
     ],
     "mitch": [
         "GGally",
-        "echarts4r",
-        "broom"
+        "echarts4r"
     ],
     "mitoClone2": [
         "GenomicRanges",
@@ -9547,8 +9474,7 @@
         "glmmTMB",
         "lme4",
         "pbkrtest",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "mnem": [
         "Linnorm",
@@ -9737,7 +9663,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -9838,7 +9763,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "nloptr",
-        "broom",
         "Biostrings"
     ],
     "msPurity": [],
@@ -9873,7 +9797,6 @@
         "rstatix",
         "lme4",
         "MSstatsTMT",
-        "broom",
         "modelr",
         "viridis",
         "car",
@@ -10120,7 +10043,6 @@
         "pbkrtest",
         "ScaledMatrix",
         "AnnotationDbi",
-        "broom",
         "KEGGREST",
         "Biostrings"
     ],
@@ -10166,7 +10088,6 @@
         "GenomicAlignments",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr"
     ],
     "MutationalPatterns": [
@@ -10196,8 +10117,7 @@
         "lme4",
         "Biostrings",
         "GenomicRanges",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "mygene": [
         "GenomicFeatures",
@@ -10303,7 +10223,6 @@
         "tidyverse",
         "org.Hs.eg.db",
         "KEGGREST",
-        "broom",
         "modelr",
         "Biostrings"
     ],
@@ -10325,8 +10244,7 @@
         "mppa",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "ncdfFlow": [
         "flowCore"
@@ -10531,8 +10449,7 @@
         "Hmisc",
         "GenomicRanges",
         "viridis",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "NormqPCR": [],
     "normr": [
@@ -10545,9 +10462,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "NPARC": [
-        "broom"
-    ],
+    "NPARC": [],
     "npGSEA": [
         "GSEABase",
         "AnnotationDbi",
@@ -10623,7 +10538,6 @@
         "biomaRt",
         "VariantAnnotation",
         "viridis",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -10690,7 +10604,6 @@
         "AnnotationDbi",
         "viridis",
         "nloptr",
-        "broom",
         "KEGGREST",
         "pbkrtest",
         "Biostrings"
@@ -10729,8 +10642,7 @@
         "ggsignif",
         "rstatix",
         "KEGGREST",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "omicsPrint": [
         "SummarizedExperiment",
@@ -10756,8 +10668,7 @@
         "ggrepel",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "oneSENSE": [
         "plotly",
@@ -10806,8 +10717,7 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "oposSOM": [
         "biomaRt",
@@ -10907,7 +10817,6 @@
         "ggsignif",
         "rstatix",
         "plotly",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -10969,8 +10878,7 @@
         "GenomicRanges",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "PADOG": [
         "AnnotationDbi",
@@ -11111,7 +11019,6 @@
         "prodlim",
         "ipred",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "fields",
@@ -11264,8 +11171,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "phenopath": [
         "SummarizedExperiment",
@@ -11292,8 +11198,7 @@
         "lme4",
         "pbkrtest",
         "nloptr",
-        "mice",
-        "broom"
+        "mice"
     ],
     "philr": [
         "ggtree",
@@ -11322,7 +11227,6 @@
         "ggsignif",
         "rstatix",
         "GenomicRanges",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -11493,7 +11397,6 @@
         "ggsignif",
         "rstatix",
         "viridis",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -11536,7 +11439,6 @@
         "Biostrings"
     ],
     "POMA": [
-        "broom",
         "caret",
         "ggcorrplot",
         "ggraph",
@@ -11878,7 +11780,6 @@
         "multcomp",
         "dendextend",
         "Mfuzz",
-        "broom",
         "quantmod",
         "KEGGREST",
         "DOSE",
@@ -11971,7 +11872,6 @@
         "recount",
         "SummarizedExperiment",
         "KEGGREST",
-        "broom",
         "quantmod",
         "derfinder",
         "GenomicRanges",
@@ -12016,7 +11916,6 @@
         "rstatix",
         "viridis",
         "vsn",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -12740,7 +12639,6 @@
         "car",
         "viridis",
         "nloptr",
-        "broom",
         "pbkrtest"
     ],
     "rfaRm": [
@@ -12982,7 +12880,6 @@
         "ExperimentHub",
         "Rsamtools",
         "GenomicAlignments",
-        "broom",
         "KEGGREST",
         "recipes",
         "SummarizedExperiment",
@@ -13059,7 +12956,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "broom",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -13224,8 +13120,7 @@
         "ggforce",
         "tidygraph",
         "treeio",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "RnaSeqSampleSize": [
         "biomaRt",
@@ -13331,7 +13226,6 @@
         "ggrepel",
         "multtest",
         "multcomp",
-        "broom",
         "sn"
     ],
     "rqubic": [
@@ -13371,7 +13265,6 @@
         "ggthemes",
         "viridis",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "ggrepel",
@@ -13407,8 +13300,7 @@
         "pbkrtest",
         "lme4",
         "GenomicRanges",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "RTNduals": [
         "RTN",
@@ -13418,8 +13310,7 @@
         "pbkrtest",
         "lme4",
         "GenomicRanges",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "RTNsurvival": [
         "RTN",
@@ -13431,8 +13322,7 @@
         "pbkrtest",
         "lme4",
         "GenomicRanges",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "RTopper": [
         "multtest"
@@ -14330,8 +14220,7 @@
         "GenomicRanges",
         "logistf",
         "mice",
-        "Biostrings",
-        "broom"
+        "Biostrings"
     ],
     "sesame": [
         "sesameData",
@@ -15222,7 +15111,6 @@
         "geepack",
         "ggformula",
         "GenomicRanges",
-        "broom",
         "ggstance",
         "ggridges",
         "ggforce"
@@ -15400,7 +15288,6 @@
         "BMA",
         "GenomicRanges",
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "ggrepel",
@@ -15480,7 +15367,6 @@
         "car",
         "multcomp",
         "fields",
-        "broom",
         "modelr",
         "pbkrtest",
         "lme4",
@@ -15493,7 +15379,6 @@
     ],
     "synlet": [
         "doBy",
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -15549,7 +15434,6 @@
         "QDNAseq",
         "SummarizedExperiment",
         "Rsamtools",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -15587,7 +15471,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -15706,7 +15589,6 @@
         "tidygraph",
         "treeio",
         "prodlim",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -15946,7 +15828,6 @@
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
-        "broom",
         "car",
         "KEGGREST",
         "pbkrtest",
@@ -15993,8 +15874,7 @@
         "fgsea"
     ],
     "TPP": [
-        "biobroom",
-        "broom"
+        "biobroom"
     ],
     "TPP2D": [],
     "tracktables": [
@@ -16160,7 +16040,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "broom",
         "car",
         "pbkrtest",
         "fda",
@@ -16525,8 +16404,7 @@
         "pbkrtest",
         "lmerTest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "VariantAnnotation": [
         "GenomicRanges",
@@ -16550,8 +16428,7 @@
         "SeqVarTools",
         "Biostrings",
         "logistf",
-        "mice",
-        "broom"
+        "mice"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -16956,7 +16833,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
@@ -16966,22 +16842,18 @@
     "ggsci": [],
     "cowplot": [],
     "rstatix": [
-        "broom",
         "car",
         "pbkrtest",
         "lme4",
         "nloptr"
     ],
-    "broom": [],
     "car": [
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "pbkrtest": [
         "lme4",
-        "broom",
         "nloptr"
     ],
     "lme4": [
@@ -17225,7 +17097,6 @@
     "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -17299,7 +17170,6 @@
     ],
     "ggforce": [],
     "radiant.data": [
-        "broom",
         "car",
         "plotly",
         "patchwork",
@@ -17474,8 +17344,7 @@
         "multcomp",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "ggpointdensity": [],
     "fda": [
@@ -17499,20 +17368,15 @@
         "ggrepel",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "EnvStats": [],
     "ggpmisc": [
         "ggpp"
     ],
     "ggpp": [],
-    "broom.mixed": [
-        "broom"
-    ],
-    "mice": [
-        "broom"
-    ],
+    "broom.mixed": [],
+    "mice": [],
     "GenomicTools": [
         "GenomicTools.fileHandler"
     ],
@@ -17741,7 +17605,6 @@
         "rstatix",
         "pbkrtest",
         "lme4",
-        "broom",
         "nloptr"
     ],
     "Ecume": [
@@ -17832,7 +17695,6 @@
         "viridis"
     ],
     "highcharter": [
-        "broom",
         "quantmod"
     ],
     "cytometree": [
@@ -17857,8 +17719,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "arm": [
         "lme4",
@@ -17870,7 +17731,6 @@
         "qvalue",
         "geepack",
         "ggformula",
-        "broom",
         "ggstance",
         "ggridges",
         "ggforce"
@@ -17881,7 +17741,6 @@
         "mice",
         "car",
         "ggrepel",
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr"
@@ -17891,13 +17750,11 @@
         "vsn"
     ],
     "tidyverse": [
-        "broom",
         "modelr"
     ],
     "MESS": [
         "geepack",
         "ggformula",
-        "broom",
         "ggstance",
         "ggridges",
         "ggforce"
@@ -17907,17 +17764,12 @@
         "mice",
         "car",
         "ggrepel",
-        "broom",
         "pbkrtest",
         "lme4",
         "nloptr"
     ],
-    "modelr": [
-        "broom"
-    ],
-    "geepack": [
-        "broom"
-    ],
+    "modelr": [],
+    "geepack": [],
     "ggformula": [
         "ggstance",
         "ggridges",
@@ -18021,12 +17873,10 @@
         "car",
         "pbkrtest",
         "lme4",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "survminer": [
         "ggpubr",
-        "broom",
         "survMisc",
         "ggtext",
         "ggrepel",
@@ -18041,8 +17891,7 @@
     ],
     "survMisc": [],
     "logistf": [
-        "mice",
-        "broom"
+        "mice"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -18256,8 +18105,7 @@
     ],
     "ggstar": [],
     "HardyWeinberg": [
-        "mice",
-        "broom"
+        "mice"
     ],
     "lumiHumanAll.db": [
         "AnnotationDbi",
@@ -18301,9 +18149,7 @@
         "fields",
         "viridis"
     ],
-    "echarts4r": [
-        "broom"
-    ],
+    "echarts4r": [],
     "MKmisc": [],
     "gghalves": [],
     "ddpcr": [],
@@ -18341,8 +18187,7 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "nloptr",
-        "broom"
+        "nloptr"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -18461,7 +18306,6 @@
     ],
     "ggfittext": [],
     "valr": [
-        "broom",
         "rtracklayer",
         "GenomicRanges",
         "Biostrings",
