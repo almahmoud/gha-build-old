@@ -63,7 +63,6 @@
         "KEGGREST"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -402,7 +401,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -696,7 +694,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -736,7 +733,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "bumphunter",
-        "siggenes",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
@@ -1524,7 +1520,6 @@
         "SummarizedExperiment",
         "geneLenDataBase",
         "GO.db",
-        "siggenes",
         "genefilter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
@@ -2173,7 +2168,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "Rsamtools",
         "GenomicAlignments",
@@ -2560,7 +2554,6 @@
         "cp4p",
         "imp4p",
         "DAPARdata",
-        "siggenes",
         "lme4",
         "highcharter",
         "clusterProfiler",
@@ -3023,7 +3016,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -3309,7 +3301,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "Hmisc",
         "GenomicFeatures",
@@ -3329,7 +3320,6 @@
         "genefilter",
         "AnnotationDbi",
         "bumphunter",
-        "siggenes",
         "KEGGREST",
         "GenomicFeatures",
         "rtracklayer",
@@ -3708,7 +3698,6 @@
     "famat": [
         "KEGGREST",
         "MPINet",
-        "gprofiler2",
         "reactome.db",
         "GO.db",
         "clusterProfiler",
@@ -3808,7 +3797,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -3976,7 +3964,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -4773,7 +4760,6 @@
     ],
     "GWENA": [
         "WGCNA",
-        "gprofiler2",
         "SummarizedExperiment",
         "Hmisc",
         "GO.db",
@@ -4954,7 +4940,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -5343,9 +5328,7 @@
         "biomaRt",
         "BSgenome"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "kebabs": [],
     "KEGGlincs": [
         "hgu133a.db",
@@ -5483,7 +5466,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -5572,7 +5554,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -5736,7 +5717,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -5758,7 +5738,6 @@
         "SummarizedExperiment",
         "wateRmelon",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "methylumi",
         "lumi",
@@ -5997,7 +5976,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -6020,7 +5998,6 @@
         "BSgenome",
         "GenomicFeatures",
         "AnnotationDbi",
-        "siggenes",
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
@@ -6041,7 +6018,6 @@
         "ExperimentHubData",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "modelr",
         "AnnotationDbi",
@@ -6085,7 +6061,6 @@
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
-        "siggenes",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
@@ -6142,7 +6117,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -6305,14 +6279,12 @@
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "minfi": [
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -6445,7 +6417,6 @@
         "genefilter",
         "GenomicFeatures",
         "bumphunter",
-        "siggenes",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
@@ -7079,7 +7050,6 @@
         "AnnotationDbi",
         "GO.db",
         "RandomWalkRestartMH",
-        "gprofiler2",
         "KEGGREST"
     ],
     "netresponse": [
@@ -7395,7 +7365,6 @@
         "SummarizedExperiment"
     ],
     "orthogene": [
-        "gprofiler2",
         "ggpubr",
         "rstatix",
         "car",
@@ -8007,7 +7976,6 @@
         "highcharter",
         "cp4p",
         "imp4p",
-        "siggenes",
         "lme4",
         "clusterProfiler",
         "AnnotationDbi",
@@ -8224,7 +8192,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -8350,7 +8317,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "genomation",
-        "gprofiler2",
         "Rsamtools",
         "GenomicAlignments",
         "seqPattern",
@@ -8447,7 +8413,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -8563,7 +8528,6 @@
         "Rsamtools",
         "recipes",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicAlignments",
         "KEGGREST",
@@ -9022,7 +8986,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -9476,9 +9439,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
-    "scRecover": [
-        "SAVER"
-    ],
+    "scRecover": [],
     "scRepertoire": [
         "SummarizedExperiment"
     ],
@@ -9726,7 +9687,6 @@
         "dendextend",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "Rsamtools",
         "GenomicAlignments",
@@ -9740,7 +9700,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -9771,7 +9730,6 @@
         "SummarizedExperiment"
     ],
     "SigFuge": [],
-    "siggenes": [],
     "sights": [],
     "signatureSearch": [
         "SummarizedExperiment",
@@ -9961,7 +9919,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "bumphunter",
-        "siggenes",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
@@ -10963,9 +10920,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "triplex": [],
     "tRNA": [
         "Structstrings",
@@ -11363,7 +11318,6 @@
         "rtracklayer",
         "biomaRt",
         "bumphunter",
-        "siggenes",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -11405,7 +11359,6 @@
     "XDE": [
         "genefilter",
         "GeneMeta",
-        "siggenes",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -11459,7 +11412,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "rtracklayer",
@@ -11511,7 +11463,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -11690,7 +11641,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -11827,7 +11777,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -11841,7 +11790,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -11855,7 +11803,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -12007,7 +11954,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -12112,7 +12058,6 @@
         "KEGGREST"
     ],
     "MPINet": [],
-    "gprofiler2": [],
     "SPARQL": [],
     "RecordLinkage": [],
     "NHPoisson": [
@@ -12238,7 +12183,6 @@
         "minfi",
         "SummarizedExperiment",
         "bumphunter",
-        "siggenes",
         "genefilter",
         "GenomicFeatures",
         "AnnotationDbi",
