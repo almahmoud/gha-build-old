@@ -47,11 +47,16 @@ jobs:
 
       - name: Push built package
         id: push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-          for i in {1..20}; do bash .github/scripts/push_built.sh $PKG && break || sleep 1; done
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 20
+          shell: bash
+          command: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+            bash .github/scripts/push_built.sh $PKG
         if: steps.pkgbuild.outcome=='success'
 
       - name: Get tar name
@@ -98,12 +103,17 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Rclone push package and mark as pushed
-        run: |
-          set -x
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          for i in {1..20}; do bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} && break || sleep 1; done
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 20
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}}
 
 
 
