@@ -16,4 +16,5 @@ python -c 'import json; f = open("packages.json", "r"); pkgs = json.load(f); f.c
 git add lists
 git add packages.json
 git commit -m "Mark pushed $PKGTOMARK"
+git remote set-url origin https://almahmoud:$GITHUB_PAT@github.com/almahmoud/gha-build.git
 git push

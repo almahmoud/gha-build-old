@@ -1,6 +1,7 @@
 name: Build x1 package
 on:
   workflow_dispatch: {}
+  push: {}
   schedule:
     - cron: '*/5 * * * *'
 
@@ -116,3 +117,5 @@ jobs:
             git config user.email github-actions@github.com
             if bash -c "bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked pushed" && exit 0; fi
+        env:
+          GITHUB_PAT: ${{ secrets.GIT_PAT }}
