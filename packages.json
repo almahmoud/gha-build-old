@@ -569,7 +569,6 @@
         "MultiAssayExperiment",
         "curatedTCGAData",
         "glmnet",
-        "readr",
         "reshape2",
         "ggplot2",
         "dbplyr",
@@ -829,7 +828,6 @@
         "GenomeInfoDb",
         "ggplot2",
         "IRanges",
-        "readr",
         "regioneR",
         "reshape2",
         "rtracklayer",
@@ -897,7 +895,6 @@
     ],
     "AnVILPublish": [
         "AnVIL",
-        "readr",
         "futile.logger",
         "rapiclient",
         "tidyr"
@@ -1090,7 +1087,6 @@
         "dbplyr",
         "futile.logger",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest"
@@ -1960,7 +1956,6 @@
         "HDF5Array",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -2040,7 +2035,6 @@
         "methylumi",
         "GEOquery",
         "illuminaio",
-        "readr",
         "tidyr",
         "scales",
         "reshape2",
@@ -2159,7 +2153,6 @@
         "tidyr",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "viridis",
         "BiocParallel",
@@ -2210,9 +2203,7 @@
         "biocViews",
         "RBGL"
     ],
-    "BiocDockerManager": [
-        "readr"
-    ],
+    "BiocDockerManager": [],
     "BiocFileCache": [
         "dbplyr"
     ],
@@ -2299,7 +2290,6 @@
         "BiocFileCache",
         "biocViews",
         "rvest",
-        "readr",
         "igraph",
         "tidyr",
         "RBGL",
@@ -2567,7 +2557,6 @@
         "BiocFileCache",
         "GEOquery",
         "dbplyr",
-        "readr",
         "tidyr",
         "GenomicRanges",
         "IRanges",
@@ -2672,7 +2661,6 @@
     "biscuiteer": [
         "biscuiteerData",
         "bsseq",
-        "readr",
         "HDF5Array",
         "Rsamtools",
         "GenomicRanges",
@@ -3493,7 +3481,6 @@
         "futile.logger"
     ],
     "CARNIVAL": [
-        "readr",
         "igraph"
     ],
     "casper": [
@@ -3647,7 +3634,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "readr",
         "RaggedExperiment",
         "RTCGAToolbox",
         "SummarizedExperiment",
@@ -3719,7 +3705,6 @@
         "SummarizedExperiment",
         "MAST",
         "ggplot2",
-        "readr",
         "DelayedArray",
         "IRanges",
         "scales",
@@ -4225,7 +4210,6 @@
         "BSgenome",
         "GenomicAlignments",
         "ggplot2",
-        "readr",
         "reshape2",
         "seqPattern",
         "XVector",
@@ -4344,7 +4328,6 @@
         "rtracklayer",
         "BiocIO",
         "biomaRt",
-        "readr",
         "ensembldb",
         "biovizBase",
         "Rsamtools",
@@ -4491,7 +4474,6 @@
         "rms",
         "rtracklayer",
         "KEGGREST",
-        "readr",
         "XVector",
         "Hmisc",
         "survival",
@@ -4729,7 +4711,6 @@
         "biganalytics",
         "oligo",
         "oligoClasses",
-        "readr",
         "tidyr",
         "Biostrings",
         "IRanges",
@@ -4907,7 +4888,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "GO.db",
         "KEGGREST",
@@ -4999,7 +4979,6 @@
         "XVector"
     ],
     "circRNAprofiler": [
-        "readr",
         "rtracklayer",
         "DESeq2",
         "GenomicRanges",
@@ -5295,7 +5274,6 @@
         "cowplot",
         "fgsea",
         "ggplot2",
-        "readr",
         "scales",
         "tidyr",
         "SingleCellExperiment",
@@ -5351,7 +5329,6 @@
         "XVector",
         "GenomicAlignments",
         "IRanges",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -5812,7 +5789,6 @@
         "haven",
         "readxl",
         "futile.logger",
-        "readr",
         "cellranger"
     ],
     "conclus": [
@@ -5845,7 +5821,6 @@
         "ggpubr",
         "reshape2",
         "ggrepel",
-        "readr",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -6110,7 +6085,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -6285,7 +6259,6 @@
         "GSEABase",
         "igraph",
         "org.Hs.eg.db",
-        "readr",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -6506,7 +6479,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "readr",
         "tidyr",
         "oligoClasses",
         "Biostrings",
@@ -7078,7 +7050,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "readr",
         "SummarizedExperiment",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -7222,7 +7193,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "reprex",
         "rvest",
         "futile.logger",
@@ -7283,7 +7253,6 @@
         "IRanges",
         "megadepth",
         "plyranges",
-        "readr",
         "reticulate",
         "rtracklayer",
         "SummarizedExperiment",
@@ -7360,7 +7329,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -7436,7 +7404,6 @@
         "futile.logger",
         "xts",
         "quantmod",
-        "readr",
         "pkgmaker",
         "ggplot2",
         "reshape2",
@@ -7669,7 +7636,6 @@
         "rvest",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -7883,7 +7849,6 @@
     ],
     "DEP": [
         "ggplot2",
-        "readr",
         "tidyr",
         "SummarizedExperiment",
         "MSnbase",
@@ -8152,7 +8117,6 @@
         "swamp",
         "bnstruct",
         "igraph",
-        "readr",
         "tidyr",
         "survival",
         "genefilter",
@@ -8342,7 +8306,6 @@
         "biomaRt",
         "GenomeInfoDb",
         "IRanges",
-        "readr",
         "rtracklayer",
         "AnnotationDbi",
         "BiocFileCache",
@@ -8655,7 +8618,6 @@
         "sparseMatrixStats",
         "survival",
         "BiocIO",
-        "readr",
         "tidyr",
         "reshape2",
         "ggplot2",
@@ -8725,7 +8687,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicFeatures",
-        "readr",
         "regioneR",
         "reshape2",
         "futile.logger",
@@ -8880,7 +8841,6 @@
     ],
     "drawProteins": [
         "ggplot2",
-        "readr",
         "tidyr",
         "scales"
     ],
@@ -8950,7 +8910,6 @@
         "AnnotationDbi",
         "oligo",
         "BiocFileCache",
-        "readr",
         "tidyr",
         "org.Hs.eg.db",
         "ggplot2",
@@ -9220,7 +9179,6 @@
     "EGAD": [
         "GEOquery",
         "igraph",
-        "readr",
         "tidyr"
     ],
     "EGSEA": [
@@ -9303,7 +9261,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "ggrepel",
-        "readr",
         "scales",
         "rvest",
         "plotly",
@@ -9387,7 +9344,6 @@
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -9430,7 +9386,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "viridis",
@@ -9478,7 +9433,6 @@
         "XVector",
         "GenomicFeatures",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "shiny",
@@ -9595,7 +9549,6 @@
         "DirichletMultinomial",
         "KEGGREST",
         "futile.logger",
-        "readr",
         "reshape2",
         "DO.db",
         "fgsea",
@@ -10111,7 +10064,6 @@
         "DirichletMultinomial",
         "futile.logger",
         "BiocFileCache",
-        "readr",
         "reshape2",
         "DO.db",
         "fgsea",
@@ -10550,7 +10502,6 @@
         "BSgenome",
         "GenomeInfoDb",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "Rsamtools",
         "seqPattern",
@@ -10723,7 +10674,6 @@
         "futile.logger",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "Rsamtools",
@@ -11344,7 +11294,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -11437,7 +11386,6 @@
         "IRanges",
         "KEGGREST",
         "dbplyr",
-        "readr",
         "tidyr",
         "Biostrings",
         "XVector",
@@ -11603,7 +11551,6 @@
         "DO.db",
         "fgsea",
         "reshape2",
-        "readr",
         "scales",
         "KEGGgraph",
         "Rgraphviz",
@@ -12011,7 +11958,6 @@
         "GenomicAlignments",
         "ggplot2",
         "IRanges",
-        "readr",
         "reshape2",
         "Rsamtools",
         "seqPattern",
@@ -12034,9 +11980,7 @@
         "IRanges",
         "XVector"
     ],
-    "genomes": [
-        "readr"
-    ],
+    "genomes": [],
     "GenomicAlignments": [
         "IRanges",
         "GenomeInfoDb",
@@ -12050,7 +11994,6 @@
         "DelayedArray"
     ],
     "GenomicDataCommons": [
-        "readr",
         "GenomicRanges",
         "IRanges",
         "SummarizedExperiment",
@@ -12376,7 +12319,6 @@
         "reshape2",
         "ggrepel",
         "tidyr",
-        "readr",
         "viridis",
         "seriation",
         "webshot",
@@ -12406,7 +12348,6 @@
     ],
     "GEOmetadb": [
         "GEOquery",
-        "readr",
         "tidyr"
     ],
     "GeomxTools": [
@@ -12432,7 +12373,6 @@
         "callr"
     ],
     "GEOquery": [
-        "readr",
         "tidyr"
     ],
     "GEOsubmission": [
@@ -12708,7 +12648,6 @@
         "biomaRt",
         "futile.logger",
         "sparsebn",
-        "readr",
         "ggplot2",
         "survminer",
         "reshape2",
@@ -12863,7 +12802,6 @@
         "SummarizedExperiment",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -13476,7 +13414,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "GenomicFeatures",
-        "readr",
         "Biostrings",
         "AnnotationDbi",
         "BiocFileCache",
@@ -13604,7 +13541,6 @@
     ],
     "hca": [
         "tidyr",
-        "readr",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -13868,7 +13804,6 @@
         "shiny"
     ],
     "HPiP": [
-        "readr",
         "tidyr",
         "caret",
         "ggplot2",
@@ -14092,7 +14027,6 @@
         "dbplyr",
         "futile.logger",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest"
@@ -14360,7 +14294,6 @@
         "SummarizedExperiment",
         "pheatmap",
         "scuttle",
-        "readr",
         "cytomapper",
         "BiocParallel",
         "viridis",
@@ -14438,7 +14371,6 @@
     ],
     "immunotation": [
         "ggplot2",
-        "readr",
         "rvest",
         "tidyr",
         "scales",
@@ -14502,7 +14434,6 @@
         "BiocParallel",
         "Biostrings",
         "plyranges",
-        "readr",
         "GenomicFeatures",
         "ggplot2",
         "reshape2",
@@ -14984,7 +14915,6 @@
         "callr"
     ],
     "ISAnalytics": [
-        "readr",
         "tidyr",
         "BiocParallel",
         "ggplot2",
@@ -15054,14 +14984,12 @@
         "GenomeInfoDb"
     ],
     "IsoCorrectoR": [
-        "readr",
         "readxl",
         "cellranger"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
         "readxl",
-        "readr",
         "cellranger"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -15078,7 +15006,6 @@
         "GenomeInfoDb",
         "tximeta",
         "futile.logger",
-        "readr",
         "XVector",
         "Rsamtools",
         "BiocParallel",
@@ -15131,7 +15058,6 @@
         "GenomicRanges",
         "ggplot2",
         "GGally",
-        "readr",
         "reshape",
         "tidyr",
         "KEGGREST",
@@ -15522,7 +15448,6 @@
         "readxl",
         "GenomeInfoDb",
         "XVector",
-        "readr",
         "cellranger",
         "broom",
         "car",
@@ -15757,7 +15682,6 @@
         "dbplyr",
         "futile.logger",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest"
@@ -15898,7 +15822,6 @@
         "futile.logger",
         "XVector",
         "SummarizedExperiment",
-        "readr",
         "tidyr",
         "BiocIO",
         "restfulr",
@@ -16018,7 +15941,6 @@
         "futile.logger",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "Rsamtools",
         "GenomicAlignments",
@@ -16086,7 +16008,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -16154,7 +16075,6 @@
         "haven",
         "lava",
         "R.cache",
-        "readr",
         "future.apply"
     ],
     "makecdfenv": [
@@ -16324,7 +16244,6 @@
         "futile.logger",
         "Rsamtools",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -16541,7 +16460,6 @@
         "sparseMatrixStats",
         "survival",
         "BiocIO",
-        "readr",
         "tidyr",
         "rhdf5",
         "reshape2",
@@ -16582,7 +16500,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "affy",
@@ -16656,7 +16573,6 @@
     ],
     "megadepth": [
         "GenomicRanges",
-        "readr",
         "cmdfun",
         "testthat",
         "usethis",
@@ -16698,7 +16614,6 @@
         "ggplot2",
         "ggseqlogo",
         "patchwork",
-        "readr",
         "tidyr",
         "usethis",
         "universalmotif",
@@ -17247,7 +17162,6 @@
         "ggpubr",
         "tidyr",
         "sesameData",
-        "readr",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -17332,7 +17246,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -17384,7 +17297,6 @@
         "sparseMatrixStats",
         "BiocIO",
         "biomaRt",
-        "readr",
         "tidyr",
         "restfulr",
         "multtest",
@@ -17441,7 +17353,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -17540,7 +17451,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "readr",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -17707,7 +17617,6 @@
         "futile.logger",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "Rsamtools",
@@ -17928,7 +17837,6 @@
         "shinyWidgets",
         "DESeq2",
         "tidyr",
-        "readr",
         "biomformat",
         "vegan",
         "heatmaply",
@@ -18286,7 +18194,6 @@
         "restfulr",
         "futile.logger",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest"
@@ -18313,7 +18220,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -18439,7 +18345,6 @@
         "DelayedArray",
         "biomaRt",
         "rvest",
-        "readr",
         "tidyr",
         "KEGGREST",
         "BiocFileCache",
@@ -18648,7 +18553,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -18673,7 +18577,6 @@
     "mistyR": [
         "caret",
         "ggplot2",
-        "readr",
         "tidyr",
         "pROC",
         "recipes",
@@ -18969,7 +18872,6 @@
         "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
-        "readr",
         "reshape2",
         "tidyr",
         "IRanges",
@@ -19000,7 +18902,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -19040,7 +18941,6 @@
         "fgsea",
         "ggplot2",
         "reshape2",
-        "readr",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -19178,7 +19078,6 @@
         "DirichletMultinomial",
         "futile.logger",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -19233,7 +19132,6 @@
     ],
     "MQmetrics": [
         "ggplot2",
-        "readr",
         "reshape2",
         "ggpubr",
         "cowplot",
@@ -19452,7 +19350,6 @@
         "ddpcr",
         "ggplot2",
         "mixtools",
-        "readr",
         "shiny",
         "shinyjs",
         "GenomicRanges",
@@ -19554,7 +19451,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -20096,7 +19992,6 @@
         "learnr",
         "DelayedArray",
         "rvest",
-        "readr",
         "dqrng",
         "KEGGREST",
         "BiocFileCache",
@@ -20305,7 +20200,6 @@
     ],
     "NanoMethViz": [
         "ggplot2",
-        "readr",
         "SummarizedExperiment",
         "BiocSingular",
         "bsseq",
@@ -20385,7 +20279,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -20680,8 +20573,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "ape",
-        "readr"
+        "ape"
     ],
     "NetPathMiner": [
         "igraph"
@@ -20810,7 +20702,6 @@
         "checkmate",
         "ggdendro",
         "plotly",
-        "readr",
         "reshape2",
         "scales",
         "tidyr",
@@ -20839,7 +20730,6 @@
         "ggplot2",
         "igraph",
         "reshape2",
-        "readr",
         "GO.db",
         "biomaRt",
         "rtracklayer",
@@ -20885,7 +20775,6 @@
         "DelayedArray",
         "affy",
         "XVector",
-        "readr",
         "survival",
         "htmlTable",
         "viridis",
@@ -21038,7 +20927,6 @@
         "BiocParallel",
         "GenomicFeatures",
         "plyranges",
-        "readr",
         "reticulate",
         "SummarizedExperiment",
         "tidyr",
@@ -21292,13 +21180,11 @@
     ],
     "Omixer": [
         "ggplot2",
-        "readr",
         "scales"
     ],
     "OmnipathR": [
         "checkmate",
         "igraph",
-        "readr",
         "readxl",
         "tidyr",
         "cellranger"
@@ -21580,7 +21466,6 @@
         "KEGGREST",
         "futile.logger",
         "biomaRt",
-        "readr",
         "XVector",
         "scales",
         "genefilter",
@@ -21661,7 +21546,6 @@
         "ggsignif",
         "rstatix",
         "plotly",
-        "readr",
         "R.cache",
         "broom",
         "car",
@@ -21828,7 +21712,6 @@
         "DirichletMultinomial",
         "futile.logger",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -22002,8 +21885,7 @@
         "survival"
     ],
     "paxtoolsr": [
-        "igraph",
-        "readr"
+        "igraph"
     ],
     "pcaExplorer": [
         "DESeq2",
@@ -22359,7 +22241,6 @@
         "BiocParallel",
         "genefilter",
         "geneplotter",
-        "readr",
         "tidyr",
         "futile.logger",
         "survival",
@@ -22641,7 +22522,6 @@
         "tidyr",
         "ggnetwork",
         "osfr",
-        "readr",
         "pROC",
         "recipes",
         "reshape2",
@@ -22908,7 +22788,6 @@
     "plotGrouper": [
         "ggplot2",
         "tidyr",
-        "readr",
         "readxl",
         "scales",
         "egg",
@@ -22977,7 +22856,6 @@
         "ggplot2",
         "shiny",
         "shinyjs",
-        "readr",
         "scales"
     ],
     "podkat": [
@@ -23313,7 +23191,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -23757,7 +23634,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "reprex",
         "rvest",
         "futile.logger",
@@ -23928,7 +23804,6 @@
         "qvalue",
         "Rsamtools",
         "XVector",
-        "readr",
         "Biostrings",
         "TTR",
         "BiocIO",
@@ -24229,7 +24104,6 @@
         "ggdendro",
         "ggplot2",
         "IRanges",
-        "readr",
         "scales",
         "tidyr",
         "XVector",
@@ -24368,7 +24242,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -24604,7 +24477,6 @@
         "supraHex",
         "Rgraphviz",
         "ape",
-        "readr",
         "tidyr"
     ],
     "randPack": [],
@@ -24646,7 +24518,6 @@
     "Rbec": [
         "dada2",
         "ggplot2",
-        "readr",
         "Biostrings",
         "reshape2",
         "ShortRead",
@@ -24711,7 +24582,6 @@
         "Rsamtools",
         "scales",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "seqPattern",
         "AnnotationDbi",
@@ -24839,7 +24709,6 @@
         "futile.logger",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -24861,7 +24730,6 @@
         "futile.logger",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -24984,7 +24852,6 @@
         "qvalue",
         "Rsamtools",
         "XVector",
-        "readr",
         "tidyr",
         "Biostrings",
         "BiocIO",
@@ -25049,7 +24916,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "multtest",
         "KEGGREST",
@@ -25280,7 +25146,6 @@
     "REMP": [
         "SummarizedExperiment",
         "minfi",
-        "readr",
         "rtracklayer",
         "Biostrings",
         "GenomicRanges",
@@ -25659,7 +25524,6 @@
         "tidyr",
         "KEGGREST",
         "BiocFileCache",
-        "readr",
         "genefilter",
         "geneplotter",
         "reshape",
@@ -25954,7 +25818,6 @@
         "GenomicAlignments",
         "restfulr",
         "broom",
-        "readr",
         "futile.logger",
         "KEGGREST",
         "dbplyr",
@@ -26080,7 +25943,6 @@
         "qvalue",
         "Rsamtools",
         "XVector",
-        "readr",
         "tidyr",
         "Biostrings",
         "BiocIO",
@@ -26459,7 +26321,6 @@
         "futile.logger",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "Rsamtools",
@@ -26748,7 +26609,6 @@
         "MultiAssayExperiment",
         "rvest",
         "KEGGREST",
-        "readr",
         "Biostrings",
         "BiocIO",
         "rtracklayer",
@@ -27158,7 +27018,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "readr",
         "tidyr",
         "oligoClasses",
         "genefilter",
@@ -27853,7 +27712,6 @@
         "GenomicFeatures",
         "ggplot2",
         "IRanges",
-        "readr",
         "regioneR",
         "rtracklayer",
         "XVector",
@@ -27920,7 +27778,6 @@
     "Sconify": [
         "flowCore",
         "ggplot2",
-        "readr",
         "cytolib",
         "scales"
     ],
@@ -28789,7 +28646,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "readr",
         "XVector",
         "SummarizedExperiment",
         "Biostrings",
@@ -28868,7 +28724,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "rhdf5",
         "TSP",
         "multtest",
@@ -28903,7 +28758,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -29028,7 +28882,6 @@
         "BiocParallel",
         "reactome.db",
         "clusterProfiler",
-        "readr",
         "DOSE",
         "rhdf5",
         "GSEABase",
@@ -29532,7 +29385,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "readr",
         "tidyr",
         "rhdf5",
         "affy",
@@ -29581,7 +29433,6 @@
     ],
     "slinky": [
         "SummarizedExperiment",
-        "readr",
         "rhdf5",
         "tidyr",
         "GenomicRanges",
@@ -29911,7 +29762,6 @@
         "ggplot2",
         "ggrepel",
         "igraph",
-        "readr",
         "shiny",
         "shinycssloaders",
         "shinyjs",
@@ -30083,7 +29933,6 @@
         "futile.logger",
         "BiocFileCache",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "GO.db",
         "ensembldb",
@@ -30182,7 +30031,6 @@
         "GenomicRanges",
         "rvest",
         "SummarizedExperiment",
-        "readr",
         "tidyr",
         "BiocFileCache",
         "DOSE",
@@ -30413,7 +30261,6 @@
     ],
     "SRAdb": [
         "GEOquery",
-        "readr",
         "tidyr"
     ],
     "srnadiff": [
@@ -30507,8 +30354,7 @@
         "survival",
         "tidyr",
         "tweenr",
-        "haven",
-        "readr"
+        "haven"
     ],
     "ssrch": [
         "shiny"
@@ -30613,7 +30459,6 @@
         "GenomicRanges",
         "rvest",
         "SummarizedExperiment",
-        "readr",
         "tidyr",
         "BiocFileCache",
         "XVector",
@@ -30824,7 +30669,6 @@
     ],
     "supraHex": [
         "ape",
-        "readr",
         "tidyr",
         "igraph"
     ],
@@ -30833,7 +30677,6 @@
         "seqinr",
         "ggplot2",
         "Biostrings",
-        "readr",
         "testthat",
         "msa",
         "AnnotationDbi",
@@ -31022,7 +30865,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -31334,7 +31176,6 @@
         "IRanges",
         "rvest",
         "SummarizedExperiment",
-        "readr",
         "tidyr",
         "AnnotationDbi",
         "BiocFileCache",
@@ -31351,7 +31192,6 @@
         "shinydashboard",
         "shiny",
         "plotly",
-        "readr",
         "maftools",
         "SummarizedExperiment",
         "ggrepel",
@@ -31470,7 +31310,6 @@
         "rvest",
         "SummarizedExperiment",
         "KEGGREST",
-        "readr",
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -31572,7 +31411,6 @@
         "futile.logger",
         "Rsamtools",
         "GenomicAlignments",
-        "readr",
         "reshape2",
         "ggplot2",
         "GO.db",
@@ -31634,7 +31472,6 @@
         "futile.logger"
     ],
     "tidybulk": [
-        "readr",
         "tidyr",
         "scales",
         "SummarizedExperiment",
@@ -32648,7 +32485,6 @@
         "DiagrammeR",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -32985,7 +32821,6 @@
         "reticulate",
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -33338,7 +33173,6 @@
         "BiocFileCache",
         "viridis",
         "influenceR",
-        "readr",
         "tidyr",
         "BiocParallel",
         "reshape2",
@@ -33421,7 +33255,6 @@
         "GenomeInfoDb",
         "XVector",
         "GenomicFeatures",
-        "readr",
         "Biostrings",
         "AnnotationDbi",
         "BiocFileCache",
@@ -33553,7 +33386,6 @@
         "futile.logger",
         "BiocFileCache",
         "sparseMatrixStats",
-        "readr",
         "tidyr",
         "rhdf5",
         "Rsamtools",
@@ -33668,7 +33500,6 @@
         "OmnipathR",
         "tidyr",
         "checkmate",
-        "readr",
         "readxl",
         "cellranger"
     ],
@@ -33822,7 +33653,6 @@
     ],
     "yarn": [
         "biomaRt",
-        "readr",
         "quantro",
         "AnnotationDbi",
         "BiocFileCache",
@@ -34183,7 +34013,6 @@
         "shiny",
         "Biostrings"
     ],
-    "readr": [],
     "ggthemes": [
         "ggplot2",
         "scales"
@@ -34879,7 +34708,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -34910,7 +34738,6 @@
         "shiny",
         "shinyAce",
         "psych",
-        "readr",
         "readxl",
         "scales",
         "plotly",
@@ -34940,7 +34767,6 @@
     "DiagrammeR": [
         "igraph",
         "influenceR",
-        "readr",
         "scales",
         "tidyr",
         "viridis",
@@ -35503,7 +35329,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -35540,7 +35365,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -35577,7 +35401,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -35677,7 +35500,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "IRanges",
-        "readr",
         "rtracklayer",
         "KEGGREST",
         "XVector",
@@ -35924,12 +35746,9 @@
     "rio": [
         "haven",
         "readxl",
-        "readr",
         "cellranger"
     ],
-    "haven": [
-        "readr"
-    ],
+    "haven": [],
     "factoextra": [
         "ggplot2",
         "dendextend",
@@ -36063,7 +35882,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -36244,8 +36062,7 @@
         "labelled",
         "tidyr",
         "tweenr",
-        "haven",
-        "readr"
+        "haven"
     ],
     "imp4p": [
         "missMDA",
@@ -36286,7 +36103,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "rvest",
@@ -36313,8 +36129,7 @@
         "survival",
         "tidyr",
         "tweenr",
-        "haven",
-        "readr"
+        "haven"
     ],
     "missMDA": [
         "FactoMineR",
@@ -36364,8 +36179,7 @@
         "labelled",
         "tweenr",
         "haven",
-        "tidyr",
-        "readr"
+        "tidyr"
     ],
     "kinship2": [],
     "ggstance": [
@@ -36377,8 +36191,7 @@
     ],
     "labelled": [
         "haven",
-        "tidyr",
-        "readr"
+        "tidyr"
     ],
     "cmdfun": [
         "testthat",
@@ -36422,7 +36235,6 @@
     "DMwR2": [
         "xts",
         "quantmod",
-        "readr",
         "TTR"
     ],
     "ggseqlogo": [
@@ -37067,8 +36879,7 @@
         "labelled",
         "haven",
         "tidyr",
-        "R.cache",
-        "readr"
+        "R.cache"
     ],
     "klaR": [
         "questionr",
@@ -37079,8 +36890,7 @@
         "labelled",
         "haven",
         "tidyr",
-        "R.cache",
-        "readr"
+        "R.cache"
     ],
     "questionr": [
         "shiny",
@@ -37090,8 +36900,7 @@
         "labelled",
         "haven",
         "tidyr",
-        "R.cache",
-        "readr"
+        "R.cache"
     ],
     "venn": [],
     "PairedData": [
@@ -37159,7 +36968,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "survival",
-        "readr",
         "tidyr",
         "rhdf5",
         "multtest",
@@ -37339,7 +37147,6 @@
     "ddpcr": [
         "ggplot2",
         "mixtools",
-        "readr",
         "shiny",
         "shinyjs",
         "scales",
@@ -37427,7 +37234,6 @@
         "supraHex",
         "Rgraphviz",
         "ape",
-        "readr",
         "tidyr"
     ],
     "dmt": [],
@@ -37439,7 +37245,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "readr",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -37519,7 +37324,6 @@
     "biomartr": [
         "biomaRt",
         "Biostrings",
-        "readr",
         "AnnotationDbi",
         "BiocFileCache",
         "IRanges",
@@ -37528,9 +37332,7 @@
         "KEGGREST",
         "dbplyr"
     ],
-    "homologene": [
-        "readr"
-    ],
+    "homologene": [],
     "Matrix.utils": [],
     "mRMRe": [
         "survival",
@@ -37768,7 +37570,6 @@
     "valr": [
         "broom",
         "ggplot2",
-        "readr",
         "rtracklayer",
         "tidyr",
         "scales",
