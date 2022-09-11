@@ -28,7 +28,6 @@
     ],
     "ABarray": [],
     "abseqR": [
-        "ggdendro",
         "plotly"
     ],
     "ACE": [
@@ -300,7 +299,6 @@
         "bamsignals",
         "Biostrings",
         "GenomicAlignments",
-        "ggdendro",
         "SummarizedExperiment"
     ],
     "animalcules": [
@@ -522,7 +520,6 @@
     ],
     "artMS": [
         "AnnotationDbi",
-        "ggdendro",
         "MSstats",
         "org.Hs.eg.db",
         "plotly",
@@ -722,7 +719,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggdendro",
         "SummarizedExperiment",
         "viridis",
         "GenomicRanges"
@@ -862,7 +858,6 @@
         "MAST",
         "Seurat",
         "ffpe",
-        "ggdendro",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -1146,8 +1141,7 @@
         "drtmle",
         "SummarizedExperiment",
         "SuperLearner",
-        "GenomicRanges",
-        "ggdendro"
+        "GenomicRanges"
     ],
     "biovizBase": [
         "Hmisc",
@@ -1264,7 +1258,6 @@
         "Linnorm",
         "genefilter",
         "AnnotationDbi",
-        "ggdendro",
         "KEGGREST",
         "Biostrings"
     ],
@@ -1761,7 +1754,6 @@
         "ggpmisc",
         "ggthemes",
         "clusterProfiler",
-        "ggdendro",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -3254,7 +3246,6 @@
         "Linnorm",
         "modelr",
         "KEGGREST",
-        "ggdendro",
         "Biostrings"
     ],
     "ddPCRclust": [
@@ -3419,7 +3410,6 @@
     ],
     "DEGreport": [
         "DESeq2",
-        "ggdendro",
         "lasso2",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -4332,8 +4322,7 @@
     ],
     "epiNEM": [
         "mnem",
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "epistack": [
         "GenomicRanges"
@@ -4511,7 +4500,6 @@
     "evaluomeR": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "ggdendro",
         "kableExtra",
         "GenomicRanges"
     ],
@@ -4535,7 +4523,6 @@
         "ewceData",
         "ExperimentHub",
         "biomaRt",
-        "ggdendro",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicRanges",
@@ -6620,7 +6607,6 @@
         "DESeq2",
         "GenomicRanges",
         "KEGGREST",
-        "ggdendro",
         "lasso2",
         "genefilter",
         "geneplotter",
@@ -6790,9 +6776,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "Linnorm": [
-        "ggdendro"
-    ],
+    "Linnorm": [],
     "lionessR": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -7831,7 +7815,6 @@
     ],
     "MIGSA": [
         "AnnotationDbi",
-        "ggdendro",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -8157,8 +8140,7 @@
         "pbkrtest"
     ],
     "mnem": [
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "moanin": [
         "SummarizedExperiment",
@@ -8668,7 +8650,6 @@
         "BSgenome",
         "VariantAnnotation",
         "Biostrings",
-        "ggdendro",
         "ggalluvial",
         "rtracklayer",
         "Rsamtools",
@@ -8839,8 +8820,7 @@
     "nempi": [
         "mnem",
         "epiNEM",
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "netboost": [
         "WGCNA",
@@ -8932,7 +8912,6 @@
     ],
     "ngsReports": [
         "Biostrings",
-        "ggdendro",
         "plotly"
     ],
     "nondetects": [
@@ -9608,7 +9587,6 @@
     "PhosR": [
         "dendextend",
         "SummarizedExperiment",
-        "ggdendro",
         "ggpubr",
         "viridis",
         "ggsignif",
@@ -10291,8 +10269,7 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "Biostrings",
-        "ggdendro"
+        "Biostrings"
     ],
     "qrqc": [
         "Biostrings",
@@ -11555,8 +11532,7 @@
         "Biostrings",
         "DECIPHER",
         "sangerseqR",
-        "plotly",
-        "ggdendro"
+        "plotly"
     ],
     "sangerseqR": [
         "Biostrings"
@@ -12744,7 +12720,6 @@
         "distinct",
         "WGCNA",
         "genefilter",
-        "ggdendro",
         "plotly",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -13491,7 +13466,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "clusterProfiler",
-        "ggdendro",
         "gghighlight",
         "AnnotationDbi",
         "DOSE",
@@ -14453,7 +14427,6 @@
         "Biostrings"
     ],
     "ABAData": [],
-    "ggdendro": [],
     "plotly": [],
     "ffbase": [],
     "ggpubr": [
@@ -14770,9 +14743,7 @@
         "Biostrings"
     ],
     "ggnetwork": [],
-    "superheat": [
-        "ggdendro"
-    ],
+    "superheat": [],
     "drtmle": [
         "SuperLearner"
     ],
