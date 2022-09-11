@@ -1094,7 +1094,6 @@
         "rms",
         "topGO",
         "Hmisc",
-        "multcomp",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -1611,7 +1610,6 @@
         "SummarizedExperiment",
         "scater",
         "car",
-        "multcomp",
         "CytoML",
         "flowWorkspace",
         "ggpointdensity",
@@ -1842,7 +1840,6 @@
         "broom.mixed",
         "lme4",
         "mice",
-        "multcomp",
         "SummarizedExperiment",
         "FlowSOM",
         "GenomicRanges",
@@ -2063,7 +2060,6 @@
         "rtracklayer",
         "KEGGREST",
         "Hmisc",
-        "multcomp",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -2721,7 +2717,6 @@
         "rms",
         "flowViz",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "consensusDE": [
@@ -3125,7 +3120,6 @@
         "caret",
         "FlowSOM",
         "lme4",
-        "multcomp",
         "GenomicRanges",
         "recipes",
         "dendextend",
@@ -3303,7 +3297,6 @@
         "tidyverse",
         "FactoMineR",
         "factoextra",
-        "multcomp",
         "dendextend",
         "Mfuzz",
         "KEGGREST",
@@ -3377,7 +3370,6 @@
         "modelr",
         "KEGGREST",
         "ggdendro",
-        "multcomp",
         "Biostrings"
     ],
     "ddPCRclust": [
@@ -3760,7 +3752,6 @@
         "FlowSOM",
         "SummarizedExperiment",
         "lme4",
-        "multcomp",
         "CytoML",
         "flowWorkspace",
         "ggpointdensity",
@@ -3892,7 +3883,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "rtracklayer",
-        "multcomp",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
@@ -4013,7 +4003,6 @@
     "Doscheda": [
         "drc",
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -4107,7 +4096,6 @@
         "DESeq2",
         "rstatix",
         "coin",
-        "multcomp",
         "GenomicRanges",
         "SummarizedExperiment",
         "genefilter",
@@ -4223,7 +4211,6 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "Biostrings",
-        "multcomp",
         "GenomicRanges"
     ],
     "eiR": [],
@@ -4298,7 +4285,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "Hmisc",
-        "multcomp",
         "GenomicFeatures",
         "AnnotationDbi",
         "viridis",
@@ -5782,7 +5768,6 @@
         "GSEABase",
         "HH",
         "AnnotationDbi",
-        "multcomp",
         "Hmisc",
         "KEGGREST",
         "viridis",
@@ -6035,7 +6020,6 @@
         "drc",
         "plotly",
         "car",
-        "multcomp",
         "GenomicRanges",
         "pbkrtest",
         "lme4"
@@ -6331,7 +6315,6 @@
         "SummarizedExperiment",
         "coin",
         "AnnotationDbi",
-        "multcomp",
         "GenomicRanges",
         "KEGGREST",
         "Biostrings"
@@ -6616,7 +6599,6 @@
         "coin",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "multcomp",
         "GenomicRanges"
     ],
     "infinityFlow": [],
@@ -6750,7 +6732,6 @@
         "haplo.stats",
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "IONiseR": [
@@ -7057,7 +7038,6 @@
     "lefser": [
         "SummarizedExperiment",
         "coin",
-        "multcomp",
         "GenomicRanges"
     ],
     "levi": [],
@@ -7548,7 +7528,6 @@
         "Biostrings",
         "drc",
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -7779,8 +7758,7 @@
         "plotly",
         "metap",
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "MetCirc": [
         "MSnbase"
@@ -8134,7 +8112,6 @@
         "SummarizedExperiment",
         "microbiome",
         "recipes",
-        "multcomp",
         "genefilter",
         "geneplotter",
         "aplot",
@@ -8174,7 +8151,6 @@
         "SummarizedExperiment",
         "treeio",
         "ggtreeExtra",
-        "multcomp",
         "aplot",
         "ggfun",
         "GenomicRanges"
@@ -8910,8 +8886,7 @@
         "KEGGREST",
         "TFisher",
         "mutoss",
-        "Biostrings",
-        "multcomp"
+        "Biostrings"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -8970,7 +8945,6 @@
         "fgsea",
         "viridis",
         "treeio",
-        "multcomp",
         "ipred",
         "Biostrings"
     ],
@@ -9147,7 +9121,6 @@
         "regioneR",
         "AnnotationHub",
         "biovizBase",
-        "multcomp",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -10551,7 +10524,6 @@
         "tidyverse",
         "FactoMineR",
         "factoextra",
-        "multcomp",
         "dendextend",
         "Mfuzz",
         "quantmod",
@@ -11900,8 +11872,7 @@
         "TFisher",
         "mutoss",
         "MultiDataSet",
-        "GenomicRanges",
-        "multcomp"
+        "GenomicRanges"
     ],
     "rqubic": [
         "biclust"
@@ -13038,7 +13009,6 @@
         "org.Hs.eg.db",
         "reldist",
         "Hmisc",
-        "multcomp",
         "densEstBayes",
         "GenomicAlignments",
         "rstan"
@@ -13775,7 +13745,6 @@
         "mice",
         "metR",
         "car",
-        "multcomp",
         "fields",
         "modelr",
         "pbkrtest",
@@ -14363,7 +14332,6 @@
         "SingleCellExperiment",
         "diffcyt",
         "lme4",
-        "multcomp",
         "FlowSOM",
         "SummarizedExperiment",
         "aplot",
@@ -15443,10 +15411,8 @@
     "ggfun": [],
     "rms": [
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
-    "multcomp": [],
     "WGCNA": [
         "Hmisc",
         "GO.db",
@@ -15558,7 +15524,6 @@
     "iCluster": [],
     "drc": [
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -15807,7 +15772,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "airway": [
@@ -15931,13 +15895,10 @@
     "CombinePValue": [],
     "metap": [
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "TFisher": [],
-    "mutoss": [
-        "multcomp"
-    ],
+    "mutoss": [],
     "DMwR2": [
         "quantmod"
     ],
@@ -15970,9 +15931,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "coin": [
-        "multcomp"
-    ],
+    "coin": [],
     "jackstraw": [],
     "ELMER.data": [
         "GenomicRanges"
@@ -16054,7 +16013,6 @@
     ],
     "ggside": [],
     "HH": [
-        "multcomp",
         "Hmisc",
         "viridis"
     ],
@@ -16093,7 +16051,6 @@
     "haplo.stats": [
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "AdaptGauss": [
