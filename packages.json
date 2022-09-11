@@ -1949,7 +1949,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "densityClust",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -2580,7 +2579,6 @@
         "SummarizedExperiment",
         "sincell",
         "TSCAN",
-        "densityClust",
         "fields",
         "SingleCellExperiment",
         "TrajectoryUtils"
@@ -7207,9 +7205,7 @@
         "KEGGREST",
         "AnnotationDbi"
     ],
-    "monocle": [
-        "densityClust"
-    ],
+    "monocle": [],
     "MoonlightR": [
         "SummarizedExperiment",
         "clusterProfiler",
@@ -8366,7 +8362,6 @@
         "destiny",
         "SummarizedExperiment",
         "VIM",
-        "densityClust",
         "car",
         "pbkrtest",
         "lme4"
@@ -12250,8 +12245,7 @@
         "Biostrings"
     ],
     "uSORT": [
-        "monocle",
-        "densityClust"
+        "monocle"
     ],
     "VAExprs": [
         "keras",
@@ -13160,7 +13154,6 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "densityClust": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "Biostrings",
