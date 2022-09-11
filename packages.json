@@ -12607,7 +12607,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.rsp",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -18002,7 +18001,6 @@
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
-        "R.rsp",
         "viridis",
         "Biostrings",
         "XVector"
@@ -20821,13 +20819,9 @@
         "viridis"
     ],
     "aroma.affymetrix": [
-        "aroma.core",
-        "R.rsp"
+        "aroma.core"
     ],
-    "aroma.core": [
-        "R.rsp"
-    ],
-    "R.rsp": [],
+    "aroma.core": [],
     "genlasso": [],
     "phateR": [],
     "SmoothWin": [],
