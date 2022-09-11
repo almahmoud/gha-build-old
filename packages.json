@@ -192,7 +192,6 @@
         "SummarizedExperiment",
         "Category",
         "GO.db",
-        "RBGL",
         "AnnotationForge",
         "GenomicRanges",
         "PFAM.db",
@@ -274,7 +273,6 @@
         "SummarizedExperiment",
         "Category",
         "GO.db",
-        "RBGL",
         "AnnotationForge",
         "GenomicRanges",
         "PFAM.db",
@@ -385,7 +383,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "GenomicFeatures",
-        "RBGL",
         "GenomeInfoDb",
         "XVector",
         "BiocParallel",
@@ -599,7 +596,6 @@
         "AnnotationForge",
         "KEGGREST",
         "interactiveDisplayBase",
-        "RBGL",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -689,7 +685,6 @@
         "KEGGREST"
     ],
     "apComplex": [
-        "RBGL",
         "org.Sc.sgd.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -742,7 +737,6 @@
         "crul",
         "KEGGREST",
         "interactiveDisplayBase",
-        "RBGL",
         "GenomicAlignments"
     ],
     "ArrayExpress": [
@@ -961,7 +955,6 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "RBGL",
         "SummarizedExperiment",
         "VennDiagram",
         "biomaRt",
@@ -1014,7 +1007,6 @@
         "org.Hs.eg.db",
         "Category",
         "GO.db",
-        "RBGL",
         "AnnotationForge",
         "Biostrings",
         "XVector",
@@ -1628,8 +1620,7 @@
         "testthat"
     ],
     "BiocCheck": [
-        "biocViews",
-        "RBGL"
+        "biocViews"
     ],
     "biocGraph": [
         "geneplotter",
@@ -1693,8 +1684,7 @@
     "BiocParallel": [],
     "BiocPkgTools": [
         "biocViews",
-        "rvest",
-        "RBGL"
+        "rvest"
     ],
     "BiocSet": [
         "BiocIO",
@@ -1724,9 +1714,7 @@
         "styler",
         "usethis"
     ],
-    "biocViews": [
-        "RBGL"
-    ],
+    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "usethis"
@@ -1854,7 +1842,6 @@
         "testthat"
     ],
     "BioNet": [
-        "RBGL",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -1992,8 +1979,7 @@
         "KEGGREST",
         "interactiveDisplayBase",
         "regioneR",
-        "biomaRt",
-        "RBGL"
+        "biomaRt"
     ],
     "BiSeq": [
         "GenomicRanges",
@@ -2092,7 +2078,6 @@
         "mnem",
         "sva",
         "vsn",
-        "RBGL",
         "ggplot2",
         "BoolNet",
         "pcalg",
@@ -2159,7 +2144,6 @@
         "AnnotationFilter",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "BrainSABER": [
@@ -2395,7 +2379,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "CAGEfightR": [
@@ -2475,7 +2458,6 @@
         "rstatix",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray",
         "GO.db",
         "broom",
@@ -2505,7 +2487,6 @@
     ],
     "CAMERA": [
         "xcms",
-        "RBGL",
         "Hmisc",
         "ggplot2",
         "htmlTable",
@@ -2536,7 +2517,6 @@
         "hgu133a.db",
         "KEGGREST",
         "rrcov",
-        "RBGL",
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
@@ -2619,7 +2599,6 @@
         "quantreg",
         "lme4",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "XVector",
@@ -2641,7 +2620,6 @@
     ],
     "Category": [
         "AnnotationDbi",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "KEGGREST",
@@ -2656,7 +2634,6 @@
         "GOstats",
         "RCy3",
         "KEGGREST",
-        "RBGL",
         "genefilter",
         "GO.db",
         "AnnotationForge",
@@ -2809,7 +2786,6 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "RBGL",
         "ggplot2",
         "KEGGREST",
         "Biostrings",
@@ -2905,7 +2881,6 @@
         "XVector"
     ],
     "CellNOptR": [
-        "RBGL",
         "ggplot2"
     ],
     "cellscape": [],
@@ -3005,7 +2980,6 @@
         "XVector",
         "testthat",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "ggsci",
@@ -3365,7 +3339,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RBGL",
         "Rsamtools",
         "SummarizedExperiment",
         "VennDiagram",
@@ -3640,7 +3613,6 @@
         "AnnotationDbi"
     ],
     "CHRONOS": [
-        "RBGL",
         "biomaRt",
         "AnnotationDbi",
         "KEGGREST",
@@ -3670,7 +3642,6 @@
         "viridis",
         "biocViews",
         "KEGGREST",
-        "RBGL",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -3791,7 +3762,6 @@
         "gRbase",
         "qpgraph",
         "KEGGgraph",
-        "RBGL",
         "BiocParallel",
         "AnnotationDbi",
         "GenomeInfoDb",
@@ -3970,24 +3940,20 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "RBGL",
         "ggplot2"
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "RBGL",
         "ggplot2"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
-        "RBGL",
         "ggplot2",
         "testthat"
     ],
     "CNORode": [
         "CellNOptR",
-        "RBGL",
         "ggplot2"
     ],
     "CNTools": [
@@ -4751,7 +4717,6 @@
         "ChIPpeakAnno",
         "GenomicAlignments",
         "ensembldb",
-        "RBGL",
         "SummarizedExperiment",
         "VennDiagram",
         "ggplot2",
@@ -4875,7 +4840,6 @@
         "DelayedArray",
         "SingleCellExperiment",
         "TrajectoryUtils",
-        "RBGL",
         "ggrepel",
         "XVector"
     ],
@@ -4977,7 +4941,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
@@ -5047,7 +5010,6 @@
         "nloptr",
         "TH.data",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "viridis",
         "car",
@@ -5128,7 +5090,6 @@
         "flowCore",
         "flowWorkspace",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ggplot2",
         "ncdfFlow",
@@ -5173,7 +5134,6 @@
         "genefilter",
         "reticulate",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "DelayedArray",
@@ -5431,7 +5391,6 @@
         "TFisher",
         "mutoss",
         "Linnorm",
-        "RBGL",
         "ggm",
         "broom",
         "googlesheets4",
@@ -5465,7 +5424,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
@@ -5733,7 +5691,6 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "RBGL",
         "rrcov",
         "NCIgraph",
         "RCy3"
@@ -5900,7 +5857,6 @@
         "KEGGREST",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "DEScan2": [
@@ -5916,7 +5872,6 @@
         "Biostrings",
         "ensembldb",
         "GenomicFeatures",
-        "RBGL",
         "Rsamtools",
         "VennDiagram",
         "biomaRt",
@@ -5970,7 +5925,6 @@
         "testthat"
     ],
     "DEsubs": [
-        "RBGL",
         "EBSeq",
         "NBPSeq",
         "pheatmap",
@@ -6108,7 +6062,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "XVector",
@@ -7290,7 +7243,6 @@
         "mnem",
         "Linnorm",
         "ggplot2",
-        "RBGL",
         "ggm",
         "ggdendro"
     ],
@@ -7339,7 +7291,6 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "DelayedArray",
         "BiocParallel",
         "GenomicAlignments"
@@ -7360,7 +7311,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "DelayedArray",
         "KEGGREST",
         "BiocParallel",
@@ -7381,7 +7331,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "DelayedArray",
         "KEGGREST",
         "BiocParallel",
@@ -7408,7 +7357,6 @@
         "GenomicAlignments",
         "AnnotationFilter",
         "BiocParallel",
-        "RBGL",
         "DelayedArray"
     ],
     "erccdashboard": [
@@ -7439,7 +7387,6 @@
         "BiocIO",
         "DelayedArray",
         "biomaRt",
-        "RBGL",
         "BSgenome"
     ],
     "ERSSA": [
@@ -7564,7 +7511,6 @@
         "SummarizedExperiment",
         "GenomicFeatures",
         "GenomeInfoDb",
-        "RBGL",
         "prodlim",
         "GenomicRanges",
         "qvalue",
@@ -7677,7 +7623,6 @@
         "AnnotationForge",
         "KEGGREST",
         "interactiveDisplayBase",
-        "RBGL",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -7951,7 +7896,6 @@
         "multtest"
     ],
     "fgga": [
-        "RBGL",
         "gRbase"
     ],
     "FGNet": [],
@@ -8003,7 +7947,6 @@
     "flagme": [
         "xcms",
         "CAMERA",
-        "RBGL",
         "Hmisc",
         "BiocParallel",
         "MSnbase",
@@ -8095,7 +8038,6 @@
         "quantreg",
         "lme4",
         "ggplot2",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
@@ -8117,7 +8059,6 @@
         "lme4",
         "cytolib",
         "ggplot2",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray",
         "GEOmap",
@@ -8182,7 +8123,6 @@
         "scattermore",
         "cytolib",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "DelayedArray",
@@ -8222,7 +8162,6 @@
         "fds",
         "cytolib",
         "ggplot2",
-        "RBGL",
         "DelayedArray",
         "rainbow",
         "hdrcde"
@@ -8256,7 +8195,6 @@
         "rrcov",
         "fds",
         "ggplot2",
-        "RBGL",
         "DelayedArray",
         "rainbow",
         "hdrcde"
@@ -8264,7 +8202,6 @@
     "flowWorkspace": [
         "cytolib",
         "ggplot2",
-        "RBGL",
         "flowCore",
         "ncdfFlow",
         "DelayedArray"
@@ -8458,7 +8395,6 @@
         "GenomeInfoDb"
     ],
     "GAPGOM": [
-        "RBGL",
         "GO.db",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -8685,7 +8621,6 @@
     ],
     "GeneAnswers": [
         "KEGGREST",
-        "RBGL",
         "AnnotationDbi",
         "Biostrings",
         "XVector",
@@ -9032,7 +8967,6 @@
         "BiocIO",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "GenomicRanges": [
@@ -9223,7 +9157,6 @@
         "GSEABase",
         "Category",
         "KEGGREST",
-        "RBGL",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -9271,7 +9204,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "ggcyto": [
@@ -9280,7 +9212,6 @@
         "ncdfFlow",
         "flowWorkspace",
         "cytolib",
-        "RBGL",
         "DelayedArray"
     ],
     "ggmsa": [
@@ -9480,7 +9411,6 @@
         "org.Mm.eg.db",
         "WGCNA",
         "KEGGREST",
-        "RBGL",
         "genefilter",
         "GO.db",
         "AnnotationForge",
@@ -9599,7 +9529,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "topGO",
-        "RBGL",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -9618,7 +9547,6 @@
         "Category",
         "AnnotationDbi",
         "GO.db",
-        "RBGL",
         "AnnotationForge",
         "KEGGREST",
         "GSEABase",
@@ -9673,7 +9601,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "RBGL",
         "Biostrings",
         "BiocIO",
         "rtracklayer",
@@ -9855,7 +9782,6 @@
         "OrganismDbi",
         "GO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "RBGL",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -9909,7 +9835,6 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "RBGL",
         "SummarizedExperiment",
         "VennDiagram",
         "biomaRt",
@@ -10475,7 +10400,6 @@
         "XVector",
         "geneLenDataBase",
         "Category",
-        "RBGL",
         "AnnotationForge",
         "viridis",
         "dendextend",
@@ -10585,7 +10509,6 @@
         "Category",
         "ggplot2",
         "AnnotationDbi",
-        "RBGL",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -10657,7 +10580,6 @@
         "flowCore",
         "flowWorkspace",
         "cytolib",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray",
         "viridis",
@@ -10805,7 +10727,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "InteractionSet": [
@@ -10827,7 +10748,6 @@
         "Category",
         "AnnotationDbi",
         "KEGGREST",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "Biostrings",
@@ -10974,7 +10894,6 @@
         "xcms",
         "CAMERA",
         "BiocParallel",
-        "RBGL",
         "Hmisc",
         "MSnbase",
         "SummarizedExperiment",
@@ -11533,7 +11452,6 @@
     "LOBSTAHS": [
         "xcms",
         "CAMERA",
-        "RBGL",
         "Hmisc",
         "BiocParallel",
         "MSnbase",
@@ -11877,7 +11795,6 @@
         "xcms",
         "caret",
         "klaR",
-        "RBGL",
         "Hmisc",
         "ggplot2",
         "recipes",
@@ -12119,7 +12036,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "RBGL",
         "htmlTable",
         "viridis"
     ],
@@ -12272,7 +12188,6 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "RBGL",
         "ggplot2"
     ],
     "Melissa": [
@@ -12345,7 +12260,6 @@
         "MeSHDbi",
         "Category",
         "AnnotationDbi",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "KEGGREST",
@@ -12457,7 +12371,6 @@
         "pheatmap",
         "scattermore",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "DelayedArray",
@@ -12523,7 +12436,6 @@
     "metaMS": [
         "CAMERA",
         "xcms",
-        "RBGL",
         "Hmisc",
         "BiocParallel",
         "MSnbase",
@@ -12625,7 +12537,6 @@
         "Rsamtools",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "DelayedArray",
         "KEGGREST",
         "BiocParallel",
@@ -12843,7 +12754,6 @@
         "lme4",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "nloptr",
         "GenomicAlignments"
     ],
@@ -13329,7 +13239,6 @@
         "GOstats",
         "GSEABase",
         "org.Hs.eg.db",
-        "RBGL",
         "KEGGREST",
         "Category",
         "AnnotationForge",
@@ -13399,7 +13308,6 @@
         "KEGGREST",
         "Category",
         "GO.db",
-        "RBGL",
         "AnnotationForge",
         "htmlTable",
         "viridis",
@@ -13527,7 +13435,6 @@
         "GOstats",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "GO.db",
@@ -13962,7 +13869,6 @@
         "pheatmap",
         "viridis",
         "biocViews",
-        "RBGL",
         "ggrepel"
     ],
     "MoonlightR": [
@@ -14194,8 +14100,7 @@
         "DelayedArray",
         "KEGGREST",
         "htmlTable",
-        "viridis",
-        "RBGL"
+        "viridis"
     ],
     "MSGFgui": [
         "xlsx",
@@ -14871,7 +14776,6 @@
         "InteractionSet",
         "KEGGREST",
         "ensembldb",
-        "RBGL",
         "VennDiagram",
         "biomaRt",
         "ggplot2",
@@ -15008,7 +14912,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RBGL",
         "RCy3"
     ],
     "ncRNAtools": [
@@ -15072,7 +14975,6 @@
         "Linnorm",
         "ggplot2",
         "ggdendro",
-        "RBGL",
         "ggm"
     ],
     "netbiov": [],
@@ -15660,7 +15562,6 @@
         "flowWorkspace",
         "flowStats",
         "flowClust",
-        "RBGL",
         "rrcov",
         "cytolib",
         "fda",
@@ -15827,7 +15728,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
         "KEGGREST",
         "GenomeInfoDb",
         "XVector",
@@ -16125,7 +16025,6 @@
         "GenomeInfoDb",
         "XVector",
         "Category",
-        "RBGL",
         "AnnotationForge",
         "viridis",
         "dendextend",
@@ -16222,7 +16121,6 @@
         "flowWorkspace",
         "ggplot2",
         "cytolib",
-        "RBGL",
         "ncdfFlow",
         "DelayedArray"
     ],
@@ -16412,7 +16310,6 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "RBGL",
         "XVector",
         "TTR",
         "spatstat.random",
@@ -16446,7 +16343,6 @@
         "hgu133a.db",
         "KEGGREST",
         "rrcov",
-        "RBGL",
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
@@ -16708,13 +16604,10 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "pkgDepTools": [
-        "RBGL"
-    ],
+    "pkgDepTools": [],
     "plethy": [
         "Streamer",
-        "ggplot2",
-        "RBGL"
+        "ggplot2"
     ],
     "plier": [],
     "PloGO2": [
@@ -16722,7 +16615,6 @@
         "GOstats",
         "AnnotationDbi",
         "Category",
-        "RBGL",
         "AnnotationForge",
         "KEGGREST",
         "GSEABase",
@@ -16904,7 +16796,6 @@
     "ppiStats": [
         "Category",
         "AnnotationDbi",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "KEGGREST",
@@ -17001,8 +16892,7 @@
         "GenomeInfoDb"
     ],
     "predictionet": [
-        "penalized",
-        "RBGL"
+        "penalized"
     ],
     "primirTSS": [
         "GenomicRanges",
@@ -17426,7 +17316,6 @@
         "vsn",
         "ggplot2",
         "KEGGREST",
-        "RBGL",
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
@@ -17865,7 +17754,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "DelayedArray"
     ],
     "r3Cseq": [
@@ -18001,7 +17889,6 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "RBGL": [],
     "Rbowtie2": [
         "Rsamtools",
         "GenomeInfoDb",
@@ -18307,7 +18194,6 @@
         "ensembldb",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RBGL",
         "SummarizedExperiment",
         "VennDiagram",
         "biomaRt",
@@ -18502,7 +18388,6 @@
         "ggplot2",
         "ggbio",
         "KEGGREST",
-        "RBGL",
         "genefilter",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -18777,7 +18662,6 @@
         "KEGGREST",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "ribor": [
@@ -18860,7 +18744,6 @@
     "Risa": [
         "biocViews",
         "xcms",
-        "RBGL",
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
@@ -19068,7 +18951,6 @@
         "AnnotationDbi",
         "survey",
         "KEGGREST",
-        "RBGL",
         "ggplot2",
         "Biostrings",
         "XVector",
@@ -19362,7 +19244,6 @@
         "GenomeInfoDb"
     ],
     "RpsiXML": [
-        "RBGL",
         "hypergraph",
         "AnnotationDbi",
         "KEGGREST",
@@ -19671,8 +19552,7 @@
         "GENLIB",
         "gRain",
         "snpStats",
-        "gRbase",
-        "RBGL"
+        "gRbase"
     ],
     "safe": [
         "AnnotationDbi",
@@ -20511,8 +20391,7 @@
         "AnnotationFilter",
         "DelayedArray",
         "htmlTable",
-        "viridis",
-        "RBGL"
+        "viridis"
     ],
     "scry": [
         "DelayedArray",
@@ -20551,7 +20430,6 @@
         "ggplot2",
         "KEGGREST",
         "interactiveDisplayBase",
-        "RBGL",
         "GSEABase",
         "genefilter",
         "fields",
@@ -20697,7 +20575,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "RBGL",
         "spatstat.random",
         "KEGGREST",
         "GenomicAlignments"
@@ -21134,7 +21011,6 @@
         "pheatmap",
         "SummarizedExperiment",
         "BiocParallel",
-        "RBGL",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -21601,7 +21477,6 @@
         "BioNet",
         "goseq",
         "geneLenDataBase",
-        "RBGL",
         "rtracklayer",
         "GenomicFeatures",
         "GenomeInfoDb",
@@ -21723,7 +21598,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "RBGL",
         "DelayedArray"
     ],
     "SpacePAC": [
@@ -22135,8 +22009,7 @@
     "SPONGE": [
         "expm",
         "gRbase",
-        "glmnet",
-        "RBGL"
+        "glmnet"
     ],
     "spqn": [
         "ggplot2",
@@ -22290,7 +22163,6 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "RBGL",
         "ggplot2",
         "KEGGREST",
         "Biostrings",
@@ -22367,9 +22239,7 @@
         "biomaRt",
         "DelayedArray"
     ],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "STRINGdb": [],
     "STROMA4": [
         "BiocParallel"
@@ -23603,7 +23473,6 @@
         "XVector",
         "testthat",
         "openCyto",
-        "RBGL",
         "ggcyto",
         "ncdfFlow",
         "ggsci",
@@ -24014,7 +23883,6 @@
         "biovizBase",
         "GenomicAlignments",
         "GO.db",
-        "RBGL",
         "BiocParallel",
         "KEGGREST",
         "Hmisc",
@@ -24068,7 +23936,6 @@
         "pheatmap",
         "viridis",
         "biocViews",
-        "RBGL",
         "ggrepel"
     ],
     "VAExprs": [
@@ -24189,7 +24056,6 @@
     ],
     "VariantFiltering": [
         "VariantAnnotation",
-        "RBGL",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -24439,7 +24305,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RBGL",
         "Rsamtools",
         "SummarizedExperiment",
         "VennDiagram",
@@ -24693,8 +24558,7 @@
         "pkgmaker",
         "BiocParallel",
         "DelayedArray",
-        "htmlTable",
-        "RBGL"
+        "htmlTable"
     ],
     "yarn": [
         "biomaRt",
@@ -25010,7 +24874,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "RBGL",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -25535,7 +25398,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "RBGL",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -25585,7 +25447,6 @@
     "randomcoloR": [],
     "BoolNet": [],
     "pcalg": [
-        "RBGL",
         "ggm"
     ],
     "ggm": [],
@@ -26039,9 +25900,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "gRbase": [
-        "RBGL"
-    ],
+    "gRbase": [],
     "phylobase": [
         "RNeXML"
     ],
@@ -26601,8 +26460,7 @@
     "sparsebn": [],
     "loose.rock": [],
     "gRain": [
-        "gRbase",
-        "RBGL"
+        "gRbase"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures",
@@ -26860,7 +26718,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "KEGGREST",
-        "RBGL",
         "XVector",
         "BiocIO",
         "biomaRt",
