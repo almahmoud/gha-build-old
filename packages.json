@@ -2497,7 +2497,6 @@
         "pbkrtest"
     ],
     "DEsubs": [
-        "NBPSeq",
         "DESeq2",
         "genefilter",
         "geneplotter",
@@ -5201,7 +5200,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "heatmaply",
-        "NBPSeq",
         "Rsamtools",
         "rtracklayer",
         "survcomp",
@@ -7841,9 +7839,7 @@
         "VariantAnnotation",
         "AnnotationFilter"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "pathview",
         "Rsamtools",
@@ -10505,7 +10501,6 @@
     "CombinePValue": [],
     "metap": [],
     "lasso2": [],
-    "NBPSeq": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
