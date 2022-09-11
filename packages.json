@@ -6457,7 +6457,6 @@
         "ggplot2",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
-        "partykit",
         "GenomicRanges",
         "SummarizedExperiment",
         "Biostrings",
@@ -12623,7 +12622,6 @@
         "rvest",
         "KEGGREST",
         "XVector",
-        "partykit",
         "Biostrings"
     ],
     "miRmine": [
@@ -15437,7 +15435,6 @@
     "Pigengene": [
         "BiocStyle",
         "C50",
-        "partykit",
         "WGCNA",
         "GO.db",
         "pheatmap",
@@ -24639,15 +24636,12 @@
         "ggplot2",
         "ggbeeswarm"
     ],
-    "mboost": [
-        "partykit"
-    ],
+    "mboost": [],
     "survivalsvm": [
         "Hmisc",
         "ggplot2",
         "viridis"
     ],
-    "partykit": [],
     "EntropyExplorer": [],
     "ewceData": [
         "ExperimentHub",
@@ -25055,8 +25049,7 @@
         "DelayedArray"
     ],
     "InvariantCausalPrediction": [
-        "mboost",
-        "partykit"
+        "mboost"
     ],
     "miRBaseVersions.db": [
         "AnnotationDbi",
@@ -25233,7 +25226,6 @@
     "SmoothWin": [],
     "osfr": [],
     "C50": [
-        "partykit",
         "Cubist"
     ],
     "Cubist": [],
