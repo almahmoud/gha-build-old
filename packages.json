@@ -71,7 +71,6 @@
         "plotly",
         "BiocStyle",
         "futile.logger",
-        "bookdown",
         "shiny",
         "scales"
     ],
@@ -1175,7 +1174,6 @@
         "igraph",
         "UpSetR",
         "KEGGREST",
-        "bookdown",
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
@@ -2225,9 +2223,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "BiocStyle": [
-        "bookdown"
-    ],
+    "BiocStyle": [],
     "biocthis": [
         "styler",
         "usethis",
@@ -2239,7 +2235,6 @@
     ],
     "BiocWorkflowTools": [
         "BiocStyle",
-        "bookdown",
         "usethis",
         "gert"
     ],
@@ -2743,7 +2738,6 @@
         "ggplot2",
         "cowplot",
         "BiocStyle",
-        "bookdown",
         "scales",
         "GenomeInfoDb",
         "XVector"
@@ -2942,7 +2936,6 @@
         "BiocStyle",
         "ggplot2",
         "biovizBase",
-        "bookdown",
         "scales",
         "Hmisc",
         "GenomeInfoDb",
@@ -4215,7 +4208,6 @@
         "BiocStyle",
         "checkmate",
         "KEGGREST",
-        "bookdown",
         "XVector",
         "GenomicFeatures",
         "rtracklayer",
@@ -5526,8 +5518,7 @@
     "COMPASS": [
         "scales",
         "reshape2",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "compcodeR": [
         "ROCR",
@@ -7194,7 +7185,6 @@
         "IRanges",
         "KEGGREST",
         "futile.logger",
-        "bookdown",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -8104,7 +8094,6 @@
         "plotly",
         "SummarizedExperiment",
         "reshape2",
-        "bookdown",
         "colourpicker",
         "miniUI",
         "scales",
@@ -11435,7 +11424,6 @@
         "org.Rn.eg.db",
         "IRanges",
         "KEGGREST",
-        "bookdown",
         "igraph",
         "GenomicRanges",
         "XVector",
@@ -15884,7 +15872,6 @@
         "MCMCpack",
         "cowplot",
         "BiocStyle",
-        "bookdown",
         "IRanges",
         "scales",
         "GenomeInfoDb",
@@ -15963,7 +15950,6 @@
         "BiocStyle",
         "MeSHDbi",
         "Category",
-        "bookdown",
         "AnnotationDbi",
         "RBGL",
         "GSEABase",
@@ -16291,7 +16277,6 @@
         "seriation",
         "webshot",
         "egg",
-        "bookdown",
         "restfulr",
         "prodlim",
         "ipred",
@@ -18503,7 +18488,6 @@
         "IRanges",
         "KEGGREST",
         "interactiveDisplayBase",
-        "bookdown",
         "XVector",
         "GenomeInfoDb",
         "scales",
@@ -19719,7 +19703,6 @@
         "ggplot2",
         "igraph",
         "qvalue",
-        "bookdown",
         "scales"
     ],
     "NetSAM": [
@@ -20906,7 +20889,6 @@
         "ROCR",
         "devtools",
         "ape",
-        "bookdown",
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -21536,7 +21518,6 @@
         "shinyFiles",
         "shinyjs",
         "OmaDB",
-        "bookdown",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -21633,7 +21614,6 @@
         "clusterProfiler",
         "ReactomePA",
         "ggplot2",
-        "bookdown",
         "Cubist",
         "AnnotationDbi",
         "DOSE",
@@ -22102,7 +22082,6 @@
         "BiocStyle",
         "phyloseq",
         "futile.logger",
-        "bookdown",
         "ape",
         "biomformat",
         "ggplot2",
@@ -23750,8 +23729,7 @@
     ],
     "rebook": [
         "CodeDepends",
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "receptLoss": [
         "ggplot2",
@@ -23991,7 +23969,6 @@
         "GenomicRanges",
         "RefManageR",
         "SummarizedExperiment",
-        "bookdown",
         "checkmate",
         "AnnotationDbi",
         "BiocParallel",
@@ -24758,7 +24735,6 @@
         "org.Mm.eg.db",
         "DESeq2",
         "BiocStyle",
-        "bookdown",
         "IRanges",
         "BiocParallel",
         "genefilter",
@@ -25255,7 +25231,6 @@
         "affy",
         "BiocStyle",
         "phyloseq",
-        "bookdown",
         "ape",
         "biomformat",
         "Biostrings",
@@ -25296,7 +25271,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "futile.logger",
-        "bookdown",
         "XVector",
         "GenomeInfoDb",
         "scales",
@@ -25722,7 +25696,6 @@
         "shinyWidgets",
         "seqinr",
         "BiocStyle",
-        "bookdown",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -25770,7 +25743,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "KEGGREST",
-        "bookdown",
         "IRanges",
         "Biostrings",
         "KEGGgraph",
@@ -26858,7 +26830,6 @@
         "IRanges",
         "KEGGREST",
         "interactiveDisplayBase",
-        "bookdown",
         "RBGL",
         "GSEABase",
         "genefilter",
@@ -26940,7 +26911,6 @@
         "schex",
         "ggplot2",
         "igraph",
-        "bookdown",
         "AnnotationDbi",
         "fields",
         "Seurat",
@@ -28988,7 +28958,6 @@
         "BiocParallel",
         "BiocStyle",
         "futile.logger",
-        "bookdown",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -32310,7 +32279,6 @@
         "scales"
     ],
     "futile.logger": [],
-    "bookdown": [],
     "shiny": [],
     "scales": [],
     "munsell": [],
@@ -35282,9 +35250,7 @@
         "GenomeInfoDb"
     ],
     "muStat": [],
-    "rmdformats": [
-        "bookdown"
-    ],
+    "rmdformats": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -35986,9 +35952,7 @@
     "GENLIB": [
         "kinship2"
     ],
-    "SBGNview.data": [
-        "bookdown"
-    ],
+    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR",
         "Biostrings",
