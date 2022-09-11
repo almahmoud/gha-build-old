@@ -1069,7 +1069,6 @@
         "tidygraph",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "treeio",
         "nloptr"
     ],
@@ -1951,7 +1950,6 @@
         "ggtree",
         "viridis",
         "ggfun",
-        "ggplotify",
         "tidygraph",
         "treeio",
         "Biostrings"
@@ -2038,7 +2036,6 @@
         "ggtree",
         "car",
         "ggfun",
-        "ggplotify",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -2289,7 +2286,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -2580,7 +2576,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -2866,7 +2861,6 @@
         "rstatix",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "pbkrtest",
         "lme4",
         "tidygraph",
@@ -3535,7 +3529,6 @@
         "ggformula",
         "mice",
         "ggfun",
-        "ggplotify",
         "ggstance",
         "ggridges",
         "tidygraph",
@@ -3646,7 +3639,6 @@
         "dendextend",
         "egg",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "tidygraph",
         "treeio",
@@ -4450,7 +4442,6 @@
         "ggtree",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -4618,7 +4609,6 @@
         "GOSemSim",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "AnnotationDbi",
         "DO.db",
         "fgsea",
@@ -4666,7 +4656,6 @@
         "ggtree",
         "car",
         "ggfun",
-        "ggplotify",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -4793,7 +4782,6 @@
         "viridis",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "treeio",
         "Biostrings"
     ],
@@ -4955,7 +4943,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -5125,7 +5112,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -5195,7 +5181,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "viridis",
         "tidygraph",
         "treeio",
@@ -5656,7 +5641,6 @@
         "rstatix",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "viridis",
         "tidygraph",
         "treeio",
@@ -6094,7 +6078,6 @@
         "R4RNA",
         "seqmagick",
         "ggfun",
-        "ggplotify",
         "plotly"
     ],
     "GGPA": [
@@ -6114,16 +6097,14 @@
     "ggtree": [
         "aplot",
         "ggfun",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "ggtreeExtra": [
         "ggnewscale",
         "ggtree",
         "aplot",
         "ggfun",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "girafe": [
         "Rsamtools",
@@ -6375,8 +6356,7 @@
     ],
     "granulator": [
         "cowplot",
-        "epiR",
-        "ggplotify"
+        "epiR"
     ],
     "graper": [
         "cowplot"
@@ -7242,7 +7222,6 @@
         "Biostrings",
         "car",
         "ggfun",
-        "ggplotify",
         "pbkrtest",
         "lme4",
         "treeio",
@@ -7603,8 +7582,7 @@
         "UpSetR",
         "aplot",
         "ggfun",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "M3C": [],
     "M3Drop": [
@@ -7732,7 +7710,6 @@
         "ggtree",
         "KEGGREST",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "viridis",
@@ -8045,7 +8022,6 @@
         "ggtree",
         "GO.db",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -8419,7 +8395,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "ggfun",
-        "ggplotify",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
@@ -8577,8 +8552,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "GenomicRanges",
-        "ggplotify"
+        "GenomicRanges"
     ],
     "microbiome": [
         "phyloseq",
@@ -8632,7 +8606,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "ggplotify",
         "AnnotationDbi",
         "ipred",
         "KEGGREST"
@@ -8653,7 +8626,6 @@
         "ggtree",
         "KEGGREST",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "ggrepel",
@@ -8676,8 +8648,7 @@
         "aplot",
         "ggfun",
         "ggnewscale",
-        "GenomicRanges",
-        "ggplotify"
+        "GenomicRanges"
     ],
     "microRNA": [
         "Biostrings"
@@ -8901,7 +8872,6 @@
         "tidygraph",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "treeio"
     ],
     "miRspongeR": [
@@ -8928,7 +8898,6 @@
         "viridis",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "treeio",
         "Biostrings"
     ],
@@ -9142,7 +9111,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -9527,7 +9495,6 @@
         "graphite",
         "KEGGREST",
         "ggfun",
-        "ggplotify",
         "pkgbuild",
         "rcmdcheck",
         "DO.db",
@@ -9859,7 +9826,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -10508,7 +10474,6 @@
     "PDATK": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "ggplotify",
         "CoreGx",
         "caret",
         "survminer",
@@ -10615,7 +10580,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -10697,8 +10661,7 @@
         "ggtree",
         "aplot",
         "ggfun",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "PhIPData": [
         "SummarizedExperiment",
@@ -10784,7 +10747,6 @@
         "viridis",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "treeio",
         "Biostrings"
     ],
@@ -10859,7 +10821,6 @@
         "Biostrings"
     ],
     "plotgardener": [
-        "ggplotify",
         "plyranges",
         "GenomicRanges",
         "rtracklayer",
@@ -11155,7 +11116,6 @@
         "GOSemSim",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -11274,7 +11234,6 @@
         "ggformula",
         "mice",
         "ggfun",
-        "ggplotify",
         "ggstance",
         "ggridges",
         "tidygraph",
@@ -11792,7 +11751,6 @@
         "viridis",
         "tidygraph",
         "ggfun",
-        "ggplotify",
         "treeio",
         "GO.db",
         "Biostrings"
@@ -12295,7 +12253,6 @@
         "rtracklayer",
         "GenomicRanges",
         "AnnotationHub",
-        "ggplotify",
         "RLHub",
         "AnnotationDbi",
         "caret",
@@ -12537,7 +12494,6 @@
         "rstatix",
         "GenomicAlignments",
         "ggfun",
-        "ggplotify",
         "tidygraph",
         "treeio",
         "nloptr"
@@ -13341,7 +13297,6 @@
         "scattermore",
         "sctransform",
         "ggfun",
-        "ggplotify",
         "treeio"
     ],
     "scTGIF": [
@@ -13443,7 +13398,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -13548,7 +13502,6 @@
     "seqsetvis": [
         "GenomicAlignments",
         "GenomicRanges",
-        "ggplotify",
         "Rsamtools",
         "rtracklayer",
         "UpSetR",
@@ -13718,7 +13671,6 @@
         "ggtree",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "ggrepel",
         "viridis",
         "tidygraph",
@@ -13813,7 +13765,6 @@
         "DESeq2",
         "ExperimentHub",
         "fields",
-        "ggplotify",
         "ggrepel",
         "ggtree",
         "GSVA",
@@ -13945,7 +13896,6 @@
         "ggrepel",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "treeio"
     ],
     "skewr": [
@@ -14187,7 +14137,6 @@
         "WGCNA",
         "genefilter",
         "ggdendro",
-        "ggplotify",
         "plotly",
         "SummarizedExperiment",
         "UpSetR",
@@ -14282,7 +14231,6 @@
         "ggtree",
         "Biostrings",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "viridis",
@@ -14485,7 +14433,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "DO.db",
         "fgsea",
         "viridis",
@@ -14710,7 +14657,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "ggplotify",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -14738,8 +14684,7 @@
         "ggtree",
         "aplot",
         "ggfun",
-        "treeio",
-        "ggplotify"
+        "treeio"
     ],
     "TAPseq": [
         "GenomicAlignments",
@@ -14870,7 +14815,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "ggfun",
-        "ggplotify",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -15040,7 +14984,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggplotify",
         "viridis",
         "tidygraph",
         "treeio",
@@ -15293,7 +15236,6 @@
         "treeio",
         "nloptr",
         "GenomicRanges",
-        "ggplotify",
         "CytoML",
         "flowWorkspace",
         "ggnewscale",
@@ -16421,8 +16363,7 @@
         "tidygraph"
     ],
     "aplot": [
-        "ggfun",
-        "ggplotify"
+        "ggfun"
     ],
     "scatterpie": [
         "ggfun"
@@ -16430,7 +16371,6 @@
     "shadowtext": [],
     "tidygraph": [],
     "ggfun": [],
-    "ggplotify": [],
     "rms": [
         "Hmisc",
         "multcomp",
