@@ -1564,7 +1564,6 @@
     "BioMM": [
         "rms",
         "precrec",
-        "imager",
         "topGO",
         "Hmisc",
         "quantreg",
@@ -5003,8 +5002,7 @@
         "textstem",
         "DiagrammeR",
         "influenceR",
-        "viridis",
-        "quanteda"
+        "viridis"
     ],
     "deepSNV": [
         "GenomicRanges",
@@ -9440,7 +9438,6 @@
         "testthat"
     ],
     "infercnv": [
-        "phyclust",
         "coin",
         "leiden",
         "SummarizedExperiment",
@@ -16385,7 +16382,6 @@
     ],
     "RGalaxy": [],
     "rGenomeTracks": [
-        "imager",
         "reticulate",
         "rGenomeTracksData",
         "AnnotationHub",
@@ -21011,7 +21007,6 @@
         "reticulate",
         "tensorflow",
         "tfruns",
-        "quanteda",
         "tfautograph"
     ],
     "TTMap": [
@@ -21246,8 +21241,7 @@
         "ScaledMatrix",
         "XVector",
         "text2vec",
-        "textstem",
-        "quanteda"
+        "textstem"
     ],
     "VanillaICE": [
         "GenomicRanges",
@@ -21489,7 +21483,6 @@
         "org.Mm.eg.db",
         "org.Hs.eg.db",
         "AnnotationHub",
-        "quanteda",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -22364,7 +22357,6 @@
         "viridis"
     ],
     "precrec": [],
-    "imager": [],
     "multcomp": [],
     "WGCNA": [
         "Hmisc",
@@ -23131,10 +23123,7 @@
     ],
     "webchem": [],
     "text2vec": [],
-    "textstem": [
-        "quanteda"
-    ],
-    "quanteda": [],
+    "textstem": [],
     "lasso2": [],
     "tseries": [
         "quantmod",
@@ -23341,7 +23330,6 @@
     "concaveman": [
         "sf"
     ],
-    "phyclust": [],
     "golem": [
         "usethis"
     ],
