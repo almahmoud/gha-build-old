@@ -2031,7 +2031,6 @@
         "BiocParallel",
         "ScaledMatrix",
         "beachmat",
-        "maxLik",
         "tibble",
         "scuttle",
         "DelayedMatrixStats",
@@ -9569,7 +9568,6 @@
     ],
     "DEsingle": [
         "gamlss",
-        "maxLik",
         "BiocParallel",
         "futile.logger",
         "survival"
@@ -13878,7 +13876,6 @@
         "dplyr",
         "ggplot2",
         "ggpubr",
-        "maxLik",
         "reshape2",
         "tibble",
         "AnnotationDbi",
@@ -17754,7 +17751,6 @@
         "qvalue",
         "tidyr",
         "gamlss",
-        "maxLik",
         "BiocParallel",
         "scales",
         "tibble",
@@ -41302,11 +41298,8 @@
         "tibble"
     ],
     "TSP": [],
-    "DirichletReg": [
-        "maxLik"
-    ],
+    "DirichletReg": [],
     "RcppDist": [],
-    "maxLik": [],
     "fitdistrplus": [
         "survival"
     ],
