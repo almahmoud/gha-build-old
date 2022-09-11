@@ -844,7 +844,6 @@
         "BiocIO",
         "biomaRt",
         "scales",
-        "R.cache",
         "restfulr",
         "DelayedArray",
         "BSgenome",
@@ -2128,7 +2127,6 @@
     "biocthis": [
         "styler",
         "usethis",
-        "R.cache",
         "gert"
     ],
     "biocViews": [
@@ -12688,8 +12686,7 @@
         "usethis",
         "biocthis",
         "styler",
-        "gert",
-        "R.cache"
+        "gert"
     ],
     "HumanTranscriptomeCompendium": [
         "ssrch",
@@ -14681,8 +14678,7 @@
         "miniUI",
         "styler",
         "classInt",
-        "lava",
-        "R.cache"
+        "lava"
     ],
     "makecdfenv": [
         "affy"
@@ -17623,7 +17619,6 @@
     ],
     "MSnID": [
         "MSnbase",
-        "R.cache",
         "BiocStyle",
         "msmsTests",
         "ggplot2",
@@ -19638,7 +19633,6 @@
         "ggsignif",
         "rstatix",
         "plotly",
-        "R.cache",
         "broom",
         "car",
         "pbkrtest",
@@ -20133,7 +20127,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "PSCBS",
@@ -27149,7 +27142,6 @@
         "readxl",
         "EnvStats",
         "lmerTest",
-        "R.cache",
         "ggplot2",
         "lme4",
         "Biostrings",
@@ -28169,8 +28161,7 @@
         "styler",
         "scales",
         "fresh",
-        "waiter",
-        "R.cache"
+        "waiter"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -28798,7 +28789,6 @@
         "aroma.affymetrix",
         "WGCNA",
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "Hmisc",
         "survival",
@@ -31014,10 +31004,7 @@
         "survival"
     ],
     "shinytoastr": [],
-    "repmis": [
-        "R.cache"
-    ],
-    "R.cache": [],
+    "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "IRanges",
@@ -31670,9 +31657,7 @@
     "tidytree": [
         "ape"
     ],
-    "styler": [
-        "R.cache"
-    ],
+    "styler": [],
     "usethis": [
         "gert"
     ],
@@ -33431,21 +33416,18 @@
         "questionr",
         "miniUI",
         "styler",
-        "classInt",
-        "R.cache"
+        "classInt"
     ],
     "klaR": [
         "questionr",
         "miniUI",
         "styler",
-        "classInt",
-        "R.cache"
+        "classInt"
     ],
     "questionr": [
         "miniUI",
         "styler",
-        "classInt",
-        "R.cache"
+        "classInt"
     ],
     "PairedData": [
         "gld",
@@ -33836,26 +33818,18 @@
     ],
     "aroma.affymetrix": [
         "aroma.core",
-        "R.cache",
         "R.filesets",
         "R.rsp",
         "PSCBS"
     ],
     "aroma.core": [
         "R.filesets",
-        "R.cache",
         "R.rsp",
         "PSCBS"
     ],
-    "R.filesets": [
-        "R.cache"
-    ],
-    "R.rsp": [
-        "R.cache"
-    ],
-    "PSCBS": [
-        "R.cache"
-    ],
+    "R.filesets": [],
+    "R.rsp": [],
+    "PSCBS": [],
     "genlasso": [
         "igraph"
     ],
