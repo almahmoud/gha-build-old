@@ -773,7 +773,6 @@
         "corncob",
         "SummarizedExperiment",
         "MAST",
-        "Seurat",
         "ffpe",
         "genefilter",
         "geneplotter",
@@ -1549,7 +1548,6 @@
         "Biostrings"
     ],
     "CelliD": [
-        "Seurat",
         "SingleCellExperiment",
         "scater",
         "SummarizedExperiment",
@@ -3367,7 +3365,6 @@
         "BiocSingular",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "Seurat",
         "scran",
         "scuttle",
         "bluster",
@@ -5946,7 +5943,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "AdaptGauss",
-        "Seurat",
         "SingleCellExperiment",
         "clusterProfiler",
         "ggpubr",
@@ -8052,7 +8048,6 @@
         "biomaRt"
     ],
     "Nebulosa": [
-        "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -8711,7 +8706,6 @@
     ],
     "phemd": [
         "monocle",
-        "Seurat",
         "SingleCellExperiment",
         "destiny",
         "SummarizedExperiment",
@@ -8836,7 +8830,6 @@
     "pipeComp": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "Seurat",
         "scran",
         "scater",
         "scuttle",
@@ -10578,7 +10571,6 @@
     ],
     "scAlign": [
         "SingleCellExperiment",
-        "Seurat",
         "tensorflow",
         "SummarizedExperiment"
     ],
@@ -10612,7 +10604,6 @@
         "SummarizedExperiment"
     ],
     "scAnnotatR": [
-        "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "caret",
@@ -10656,7 +10647,6 @@
     "scBFA": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "Seurat",
         "zinbwave",
         "DESeq2",
         "genefilter",
@@ -10669,11 +10659,9 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DropletUtils",
-        "Seurat",
         "scuttle"
     ],
     "scClassifR": [
-        "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "caret",
@@ -10693,7 +10681,6 @@
     ],
     "scDataviz": [
         "SingleCellExperiment",
-        "Seurat",
         "SummarizedExperiment"
     ],
     "scDblFinder": [
@@ -10744,7 +10731,6 @@
     ],
     "schex": [
         "SingleCellExperiment",
-        "Seurat",
         "concaveman",
         "SummarizedExperiment"
     ],
@@ -10752,9 +10738,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scMAGeCK": [
-        "Seurat"
-    ],
+    "scMAGeCK": [],
     "scmap": [
         "SingleCellExperiment",
         "SummarizedExperiment"
@@ -10929,7 +10913,6 @@
         "enrichplot",
         "ggraph",
         "graphite",
-        "Seurat",
         "concaveman",
         "aplot",
         "scatterpie",
@@ -10944,7 +10927,6 @@
         "schex",
         "AnnotationDbi",
         "fields",
-        "Seurat",
         "concaveman",
         "KEGGREST",
         "viridis",
@@ -10958,7 +10940,6 @@
         "epivizrData",
         "ggraph",
         "scater",
-        "Seurat",
         "SingleCellExperiment",
         "viridis",
         "bumphunter",
@@ -11321,7 +11302,6 @@
         "scater",
         "scMerge",
         "scran",
-        "Seurat",
         "SingleR",
         "sva",
         "AnnotationDbi",
@@ -11550,7 +11530,6 @@
         "Biostrings"
     ],
     "Spaniel": [
-        "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "scater",
@@ -13388,7 +13367,6 @@
         "phyloseq",
         "Biostrings"
     ],
-    "Seurat": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "SummarizedExperiment",
