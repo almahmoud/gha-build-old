@@ -342,7 +342,6 @@
         "multtest",
         "GenomeInfoDb",
         "XVector",
-        "RcppZiggurat",
         "DelayedArray",
         "NADA"
     ],
@@ -419,7 +418,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "RcppZiggurat",
         "selectr"
     ],
     "alsace": [
@@ -1468,7 +1466,6 @@
         "minfi",
         "illuminaio",
         "RcppTOML",
-        "RcppZiggurat",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -11674,7 +11671,6 @@
     "LACE": [
         "Rfast",
         "SummarizedExperiment",
-        "RcppZiggurat",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -13285,7 +13281,6 @@
         "SummarizedExperiment",
         "XVector",
         "GenomeInfoDb",
-        "RcppZiggurat",
         "GenomicRanges",
         "DelayedArray"
     ],
@@ -13576,7 +13571,6 @@
         "TH.data",
         "testthat",
         "ipred",
-        "RcppZiggurat",
         "DelayedArray",
         "NADA",
         "KEGGREST",
@@ -15917,7 +15911,6 @@
         "NADA",
         "GenomeInfoDb",
         "XVector",
-        "RcppZiggurat",
         "DelayedArray"
     ],
     "omicRexposome": [
@@ -16183,7 +16176,6 @@
         "rrcov",
         "feature",
         "flowCore",
-        "RcppZiggurat",
         "cytolib",
         "pcaPP"
     ],
@@ -16917,8 +16909,7 @@
         "mice",
         "Rfast",
         "broom",
-        "testthat",
-        "RcppZiggurat"
+        "testthat"
     ],
     "philr": [
         "phangorn",
@@ -17954,7 +17945,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "rtracklayer",
-        "RcppZiggurat",
         "DelayedArray",
         "bumphunter",
         "derfinderHelper",
@@ -24980,8 +24970,7 @@
         "VennDiagram"
     ],
     "VERSO": [
-        "Rfast",
-        "RcppZiggurat"
+        "Rfast"
     ],
     "vidger": [
         "DESeq2",
@@ -25569,10 +25558,7 @@
     "zCompositions": [
         "NADA"
     ],
-    "Rfast": [
-        "RcppZiggurat"
-    ],
-    "RcppZiggurat": [],
+    "Rfast": [],
     "NADA": [],
     "shinydashboard": [],
     "expm": [],
@@ -25581,7 +25567,6 @@
         "Rfast",
         "ggplot2",
         "rvest",
-        "RcppZiggurat",
         "selectr"
     ],
     "pcaPP": [],
@@ -27905,8 +27890,7 @@
         "RcppTOML"
     ],
     "SmoothWin": [
-        "Rfast",
-        "RcppZiggurat"
+        "Rfast"
     ],
     "osfr": [
         "crul"
