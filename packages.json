@@ -934,7 +934,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "fda",
         "fds"
     ],
@@ -1060,7 +1059,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "car",
         "pbkrtest",
         "fda",
@@ -1556,7 +1554,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowClust",
         "flowMerge",
         "rms"
     ],
@@ -1780,7 +1777,6 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "flowClust",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -1810,7 +1806,6 @@
         "rstatix",
         "pbkrtest",
         "flowStats",
-        "flowClust",
         "fda",
         "fds"
     ],
@@ -1833,7 +1828,6 @@
         "openCyto",
         "ggcyto",
         "flowStats",
-        "flowClust",
         "fda",
         "fds"
     ],
@@ -1855,7 +1849,6 @@
         "car",
         "pbkrtest",
         "flowStats",
-        "flowClust",
         "fda",
         "fds"
     ],
@@ -2155,7 +2148,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "car",
         "pbkrtest",
         "fda",
@@ -2858,7 +2850,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "car",
@@ -2876,9 +2867,7 @@
     ],
     "flowFP": [],
     "flowGraph": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [
         "car",
         "pbkrtest"
@@ -2891,7 +2880,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "car",
         "pbkrtest",
         "fda",
@@ -2902,9 +2890,7 @@
         "fda",
         "fds"
     ],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
@@ -4356,7 +4342,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "car",
         "pbkrtest",
         "fda",
@@ -5386,7 +5371,6 @@
     "openCyto": [
         "flowWorkspace",
         "flowStats",
-        "flowClust",
         "fda",
         "fds"
     ],
@@ -6685,7 +6669,6 @@
         "pbkrtest",
         "MultiDataSet"
     ],
-    "rRDP": [],
     "RRHO": [],
     "rrvgo": [
         "GOSemSim",
@@ -8000,7 +7983,6 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "flowClust",
         "car",
         "pbkrtest",
         "fda",
