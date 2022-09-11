@@ -726,7 +726,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "BiocParallel",
-        "crul",
         "KEGGREST",
         "interactiveDisplayBase",
         "GenomicAlignments"
@@ -16213,7 +16212,6 @@
         "recipes",
         "XVector",
         "sna",
-        "crul",
         "ipred",
         "prodlim",
         "lava"
@@ -20533,7 +20531,6 @@
         "gistr",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "crul",
         "KEGGREST",
         "Biostrings"
     ],
@@ -24561,9 +24558,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "rsnps": [
-        "crul"
-    ],
+    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "GenomicRanges",
@@ -24688,7 +24683,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -26550,9 +26544,7 @@
         "ggplot2"
     ],
     "SmoothWin": [],
-    "osfr": [
-        "crul"
-    ],
+    "osfr": [],
     "C50": [
         "partykit",
         "Cubist"
@@ -26788,12 +26780,9 @@
         "graphlayouts"
     ],
     "rbokeh": [
-        "gistr",
-        "crul"
+        "gistr"
     ],
-    "gistr": [
-        "crul"
-    ],
+    "gistr": [],
     "mlr": [
         "ParamHelpers",
         "BBmisc",
