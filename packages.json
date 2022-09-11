@@ -216,7 +216,6 @@
         "DESeq2",
         "caret",
         "MultiAssayExperiment",
-        "recipes",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -939,7 +938,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "BSgenome",
-        "recipes",
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST"
@@ -1373,8 +1371,7 @@
         "ChIC.data",
         "caret",
         "genomeIntervals",
-        "Rsamtools",
-        "recipes"
+        "Rsamtools"
     ],
     "Chicago": [
         "Hmisc"
@@ -1859,8 +1856,7 @@
         "Ecume",
         "TrajectoryUtils",
         "spatstat",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "CONFESS": [
         "contrast",
@@ -2152,7 +2148,6 @@
         "mbest",
         "caret",
         "FlowSOM",
-        "recipes",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -2172,7 +2167,6 @@
         "factoextra",
         "mbest",
         "caret",
-        "recipes",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -2248,7 +2242,6 @@
         "FactoMineR",
         "caret",
         "arm",
-        "recipes",
         "genefilter",
         "geneplotter",
         "ShortRead",
@@ -3550,7 +3543,6 @@
         "FactoMineR",
         "caret",
         "arm",
-        "recipes",
         "genefilter",
         "geneplotter",
         "ShortRead",
@@ -4183,8 +4175,7 @@
         "AnnotationFilter"
     ],
     "GWAS.BAYES": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "gwascat": [
         "GenomicFeatures",
@@ -4306,8 +4297,7 @@
         "GenomicAlignments"
     ],
     "HPiP": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -4740,7 +4730,6 @@
         "caret",
         "sva",
         "Hmisc",
-        "recipes",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST"
@@ -4847,7 +4836,6 @@
         "AnnotationHub",
         "GenomicAlignments",
         "AnnotationDbi",
-        "recipes",
         "KEGGREST"
     ],
     "Maaslin2": [
@@ -4920,8 +4908,7 @@
     ],
     "MAI": [
         "caret",
-        "tidyverse",
-        "recipes"
+        "tidyverse"
     ],
     "MAIT": [
         "CAMERA",
@@ -4930,7 +4917,6 @@
         "xcms",
         "caret",
         "Hmisc",
-        "recipes",
         "MsFeatures"
     ],
     "mAPKL": [
@@ -4944,7 +4930,6 @@
         "hgu133plus2.db",
         "AnnotationDbi",
         "KEGGREST",
-        "recipes",
         "org.Hs.eg.db"
     ],
     "marr": [],
@@ -5139,8 +5124,7 @@
         "MsFeatures"
     ],
     "metabCombiner": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
@@ -5467,7 +5451,6 @@
         "caret",
         "ALDEx2",
         "microbiome",
-        "recipes",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -5672,8 +5655,7 @@
         "MultiAssayExperiment"
     ],
     "mistyR": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "mitch": [],
     "mitoClone2": [
@@ -5700,7 +5682,6 @@
     "MLSeq": [
         "caret",
         "DESeq2",
-        "recipes",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -5917,8 +5898,7 @@
         "MSstatsQC"
     ],
     "MSstatsSampleSize": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "MSstatsTMT": [
         "lmerTest"
@@ -5984,7 +5964,6 @@
         "devtools",
         "ropls",
         "MultiDataSet",
-        "recipes",
         "AnnotationDbi",
         "DOSE",
         "GO.db",
@@ -6594,7 +6573,6 @@
         "survcomp",
         "genefu",
         "verification",
-        "recipes",
         "biomaRt",
         "ggpubr",
         "AnnotationDbi",
@@ -6702,8 +6680,7 @@
     ],
     "phyloseq": [],
     "Pi": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "piano": [],
     "PICS": [
@@ -6804,8 +6781,7 @@
     ],
     "polyester": [],
     "POMA": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -6848,7 +6824,6 @@
     "preciseTAD": [
         "caret",
         "rCGH",
-        "recipes",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -6977,7 +6952,6 @@
         "dendextend",
         "biomaRt",
         "AnnotationDbi",
-        "recipes",
         "genefilter",
         "KEGGREST"
     ],
@@ -6988,7 +6962,6 @@
         "dendextend",
         "biomaRt",
         "AnnotationDbi",
-        "recipes",
         "genefilter",
         "KEGGREST"
     ],
@@ -7498,7 +7471,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "Rsamtools",
-        "recipes",
         "bumphunter",
         "genefilter",
         "GenomicAlignments",
@@ -7736,8 +7708,7 @@
         "ExperimentHub",
         "Rsamtools",
         "GenomicAlignments",
-        "KEGGREST",
-        "recipes"
+        "KEGGREST"
     ],
     "Rmagpie": [],
     "RMassBank": [],
@@ -8126,7 +8097,6 @@
         "caret",
         "AnnotationHub",
         "AnnotationDbi",
-        "recipes",
         "KEGGREST"
     ],
     "SCANVIS": [
@@ -8166,8 +8136,7 @@
     ],
     "scClassifR": [
         "SingleCellExperiment",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "scClassify": [
         "Cepo",
@@ -8203,7 +8172,6 @@
         "SingleCellExperiment",
         "caret",
         "DESeq2",
-        "recipes",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -9072,14 +9040,12 @@
         "caret",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "recipes"
+        "KEGGREST"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [],
     "supersigs": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "surfaltr": [
         "biomaRt",
@@ -9234,7 +9200,6 @@
         "clusterProfiler",
         "TCGAbiolinks",
         "sesame",
-        "recipes",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -9475,7 +9440,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
-        "recipes",
         "ShortRead",
         "AnnotationDbi",
         "biomaRt",
@@ -10068,10 +10032,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "caret": [
-        "recipes"
-    ],
-    "recipes": [],
+    "caret": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -10382,8 +10343,7 @@
     ],
     "ChIC.data": [
         "genomeIntervals",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -10472,8 +10432,7 @@
     ],
     "Ecume": [
         "spatstat",
-        "caret",
-        "recipes"
+        "caret"
     ],
     "spatstat": [],
     "contrast": [
@@ -10652,8 +10611,7 @@
     ],
     "densEstBayes": [],
     "adabag": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "glmmTMB": [],
     "RnBeads.hg19": [],
@@ -10812,8 +10770,7 @@
         "GenomicAlignments"
     ],
     "caretEnsemble": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "RLHub": [
         "AnnotationHub",
