@@ -1456,7 +1456,6 @@
         "pathview",
         "Hmisc",
         "viridis",
-        "KEGGgraph",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -1598,7 +1597,6 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGREST",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "Biostrings",
         "XVector"
@@ -2978,7 +2976,6 @@
     "clipper": [
         "gRbase",
         "qpgraph",
-        "KEGGgraph",
         "AnnotationDbi",
         "GenomicRanges",
         "GenomicFeatures",
@@ -4340,7 +4337,6 @@
         "dendextend",
         "webshot",
         "egg",
-        "KEGGgraph",
         "DelayedArray",
         "ggfun",
         "ggplotify",
@@ -4490,7 +4486,6 @@
         "DelayedArray"
     ],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph",
         "RCy3"
     ],
@@ -5350,7 +5345,6 @@
         "mutoss",
         "hgu133plus2.db",
         "hgu133a.db",
-        "KEGGgraph",
         "ScaledMatrix",
         "beachmat",
         "Biostrings",
@@ -5493,7 +5487,6 @@
         "GSEABase",
         "GO.db",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
@@ -6735,7 +6728,6 @@
         "geneplotter",
         "DO.db",
         "fgsea",
-        "KEGGgraph",
         "KEGGREST",
         "ggpubr",
         "broom",
@@ -7686,7 +7678,6 @@
         "KEGGREST",
         "GSEABase",
         "GO.db",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
@@ -8850,12 +8841,10 @@
         "Biostrings",
         "XVector"
     ],
-    "KEGGgraph": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGgraph",
         "KEGGREST",
         "Biostrings",
         "XVector"
@@ -9681,7 +9670,6 @@
         "multtest"
     ],
     "MetaboSignal": [
-        "KEGGgraph",
         "KEGGREST",
         "EnsDb.Hsapiens.v75",
         "org.Hs.eg.db",
@@ -10555,7 +10543,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "KEGGREST",
-        "KEGGgraph",
         "Biostrings",
         "XVector"
     ],
@@ -11548,7 +11535,6 @@
         "qvalue",
         "car",
         "SummarizedExperiment",
-        "KEGGgraph",
         "KEGGREST",
         "pbkrtest",
         "lme4",
@@ -11716,7 +11702,6 @@
         "XVector"
     ],
     "NCIgraph": [
-        "KEGGgraph",
         "RCy3"
     ],
     "ncRNAtools": [
@@ -12545,7 +12530,6 @@
     ],
     "pathVar": [],
     "pathview": [
-        "KEGGgraph",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -12705,7 +12689,6 @@
         "DelayedArray"
     ],
     "PFP": [
-        "KEGGgraph",
         "clusterProfiler",
         "AnnotationDbi",
         "DOSE",
@@ -14975,7 +14958,6 @@
         "ggpubr",
         "ggrepel",
         "car",
-        "KEGGgraph",
         "KEGGREST",
         "ShortRead",
         "GenomicFeatures",
@@ -15059,7 +15041,6 @@
     ],
     "ROntoTools": [
         "KEGGREST",
-        "KEGGgraph",
         "Biostrings",
         "XVector"
     ],
@@ -15359,7 +15340,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "GenomicRanges",
         "DelayedArray",
@@ -17122,9 +17102,7 @@
         "Biostrings",
         "DelayedArray"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "spicyR": [
         "concaveman",
         "spatstat.core",
@@ -17832,7 +17810,6 @@
         "ggpubr",
         "rtracklayer",
         "DelayedArray",
-        "KEGGgraph",
         "org.Hs.eg.db",
         "KEGGREST",
         "sesameData",
