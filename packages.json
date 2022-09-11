@@ -63,7 +63,6 @@
         "KEGGREST"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -9476,9 +9475,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
-    "scRecover": [
-        "SAVER"
-    ],
+    "scRecover": [],
     "scRepertoire": [
         "SummarizedExperiment"
     ],
@@ -11511,7 +11508,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST"
