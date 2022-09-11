@@ -1395,7 +1395,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "fda",
@@ -1575,7 +1574,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "car",
@@ -2302,7 +2300,6 @@
         "flowMeans",
         "flowMerge",
         "rms",
-        "flowViz",
         "Hmisc"
     ],
     "consensusDE": [
@@ -2630,7 +2627,6 @@
     "cyanoFilter": [
         "flowDensity",
         "flowClust",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -2669,7 +2665,6 @@
         "rstatix",
         "ipred",
         "pbkrtest",
-        "flowViz",
         "flowStats",
         "flowClust",
         "fda",
@@ -2701,7 +2696,6 @@
         "flowWorkspace",
         "openCyto",
         "ggcyto",
-        "flowViz",
         "flowStats",
         "flowClust",
         "fda",
@@ -2729,7 +2723,6 @@
         "KEGGREST",
         "pbkrtest",
         "lme4",
-        "flowViz",
         "flowStats",
         "flowClust",
         "fda",
@@ -2863,7 +2856,6 @@
     ],
     "ddPCRclust": [
         "flowDensity",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -3182,7 +3174,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "car",
@@ -4198,20 +4189,16 @@
     "flowAI": [],
     "flowBeads": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowcatchR": [],
     "flowCL": [
         "SPARQL"
     ],
     "flowClean": [],
-    "flowClust": [
-        "flowViz"
-    ],
+    "flowClust": [],
     "flowCut": [
         "flowDensity",
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -4221,7 +4208,6 @@
         "fields"
     ],
     "flowDensity": [
-        "flowViz",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -4230,15 +4216,12 @@
         "GEOmap",
         "fields"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowGraph": [],
     "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
     "flowPloidy": [
         "car",
@@ -4252,7 +4235,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "car",
@@ -4264,19 +4246,15 @@
     ],
     "flowStats": [
         "flowWorkspace",
-        "flowViz",
         "fda",
         "fds",
         "rainbow"
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowViz",
         "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
-        "flowViz",
         "flowStats",
         "flowWorkspace",
         "fda",
@@ -4429,8 +4407,7 @@
         "GenomicAlignments"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "gcapc": [
         "Biostrings",
@@ -6441,7 +6418,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "car",
@@ -8017,7 +7993,6 @@
         "Biostrings"
     ],
     "openCyto": [
-        "flowViz",
         "flowWorkspace",
         "flowStats",
         "flowClust",
@@ -11983,7 +11958,6 @@
         "openCyto",
         "ggcyto",
         "rstatix",
-        "flowViz",
         "flowStats",
         "flowClust",
         "car",
