@@ -958,7 +958,6 @@
         "dplyr",
         "plotly",
         "ggplot2",
-        "gargle",
         "tidyselect",
         "scales",
         "tidyr"
@@ -2280,7 +2279,6 @@
         "tidyselect",
         "scales"
     ],
-    "biobtreeR": [],
     "bioCancer": [
         "radiant.data",
         "cgdsr",
@@ -2401,7 +2399,6 @@
         "ggpubr",
         "car",
         "Rgraphviz",
-        "gargle",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -2781,7 +2778,6 @@
         "XVector",
         "vroom"
     ],
-    "BioQC": [],
     "biosigner": [
         "ropls",
         "MultiDataSet",
@@ -3910,7 +3906,6 @@
         "Rgraphviz",
         "base64url",
         "IRkernel",
-        "IRdisplay",
         "survival",
         "Biostrings",
         "XVector",
@@ -4522,7 +4517,6 @@
         "rstatix",
         "base64url",
         "IRkernel",
-        "IRdisplay",
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
@@ -7832,7 +7826,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "gargle",
         "ids",
         "rematch2",
         "Biostrings",
@@ -7975,7 +7968,6 @@
         "IRanges",
         "KEGGREST",
         "tweenr",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -8416,8 +8408,7 @@
         "RCy3",
         "pcaPP",
         "base64url",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "DEGreport": [
         "broom",
@@ -11542,8 +11533,7 @@
         "tidyselect",
         "scales",
         "base64url",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "FELLA": [
         "igraph",
@@ -12523,8 +12513,7 @@
     ],
     "GCSConnection": [
         "googleAuthR",
-        "googleCloudStorageR",
-        "gargle"
+        "googleCloudStorageR"
     ],
     "GCSscore": [
         "devtools",
@@ -17461,7 +17450,6 @@
         "tidyselect",
         "XVector",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -18936,7 +18924,6 @@
         "sparseMatrixStats",
         "AnnotationHubData",
         "survival",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -20547,8 +20534,7 @@
         "igraph",
         "futile.logger",
         "base64url",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "mogsa": [
         "graphite",
@@ -21214,7 +21200,6 @@
         "rvest",
         "viridis",
         "car",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -21667,7 +21652,6 @@
         "XVector",
         "Rsamtools",
         "tidyselect",
-        "gargle",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -22119,7 +22103,6 @@
         "rvest",
         "tidyr",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -22207,8 +22190,7 @@
         "RCy3",
         "Rgraphviz",
         "base64url",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "ncRNAtools": [
         "ggplot2",
@@ -25799,7 +25781,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "gargle",
         "ids",
         "rematch2",
         "Biostrings",
@@ -26994,8 +26975,7 @@
     ],
     "RCy3": [
         "base64url",
-        "IRkernel",
-        "IRdisplay"
+        "IRkernel"
     ],
     "RCyjs": [
         "BrowserViz"
@@ -27421,7 +27401,6 @@
         "GenomicAlignments",
         "base64url",
         "IRkernel",
-        "IRdisplay",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -27624,7 +27603,6 @@
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
-        "gargle",
         "tidyselect",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -33622,7 +33600,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -34167,7 +34144,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "interactiveDisplayBase",
-        "gargle",
         "dbplyr",
         "tidyselect",
         "XVector",
@@ -34432,7 +34408,6 @@
         "IRanges",
         "base64url",
         "IRkernel",
-        "IRdisplay",
         "cellranger",
         "KEGGREST",
         "dbplyr",
@@ -34942,7 +34917,6 @@
         "Biostrings",
         "base64url",
         "IRkernel",
-        "IRdisplay",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -37172,13 +37146,10 @@
     ],
     "optparse": [],
     "rapiclient": [],
-    "bigrquery": [
-        "gargle"
-    ],
+    "bigrquery": [],
     "shinytoastr": [
         "shiny"
     ],
-    "gargle": [],
     "repmis": [
         "R.cache"
     ],
@@ -38395,10 +38366,7 @@
         "scales"
     ],
     "base64url": [],
-    "IRkernel": [
-        "IRdisplay"
-    ],
-    "IRdisplay": [],
+    "IRkernel": [],
     "rapportools": [
         "reshape2"
     ],
@@ -39409,7 +39377,6 @@
         "tidyr",
         "tidyselect",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -39465,12 +39432,9 @@
         "dplyr",
         "tidyselect"
     ],
-    "googledrive": [
-        "gargle"
-    ],
+    "googledrive": [],
     "googlesheets4": [
         "cellranger",
-        "gargle",
         "googledrive",
         "ids",
         "rematch2"
@@ -39834,12 +39798,9 @@
         "waldo",
         "rematch2"
     ],
-    "googleAuthR": [
-        "gargle"
-    ],
+    "googleAuthR": [],
     "googleCloudStorageR": [
-        "googleAuthR",
-        "gargle"
+        "googleAuthR"
     ],
     "dplR": [],
     "survminer": [
