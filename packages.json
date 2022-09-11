@@ -6,30 +6,26 @@
         "genefilter",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "a4Base": [
         "annaffy",
         "genefilter",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "a4Classif": [],
     "ABAEnrichment": [
         "ABAData",
         "GOfuncR",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "abseqR": [],
     "ACE": [
         "QDNAseq",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "aCGH": [],
     "ADaCGH2": [
@@ -39,15 +35,13 @@
         "snapCGH",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ADAM": [
         "GO.db",
         "KEGGREST",
         "SummarizedExperiment",
-        "AnnotationDbi",
-        "Biostrings"
+        "AnnotationDbi"
     ],
     "ADAMgui": [
         "ADAM",
@@ -57,7 +51,6 @@
         "SummarizedExperiment",
         "rstatix",
         "AnnotationDbi",
-        "Biostrings",
         "car",
         "pbkrtest",
         "lme4"
@@ -67,8 +60,7 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ADImpute": [
         "SAVER",
@@ -78,16 +70,13 @@
     "adSplit": [
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AffiXcan": [
         "SummarizedExperiment",
         "MultiAssayExperiment"
     ],
-    "AffyCompatible": [
-        "Biostrings"
-    ],
+    "AffyCompatible": [],
     "affycoretools": [
         "GOstats",
         "gcrma",
@@ -96,7 +85,6 @@
         "ReportingTools",
         "Glimma",
         "KEGGREST",
-        "Biostrings",
         "DESeq2",
         "SummarizedExperiment",
         "Category",
@@ -121,25 +109,21 @@
         "biomaRt"
     ],
     "affyILM": [
-        "gcrma",
-        "Biostrings"
+        "gcrma"
     ],
     "affylmGUI": [
         "affyPLM",
         "gcrma",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "affyPLM": [
-        "gcrma",
-        "Biostrings"
+        "gcrma"
     ],
     "AGDEX": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "aggregateBioVar": [
         "SummarizedExperiment",
@@ -154,7 +138,6 @@
         "ReportingTools",
         "Glimma",
         "KEGGREST",
-        "Biostrings",
         "DESeq2",
         "SummarizedExperiment",
         "Category",
@@ -197,7 +180,6 @@
         "AnnotationDbi",
         "BSgenome",
         "VariantAnnotation",
-        "Biostrings",
         "Rsamtools",
         "GenomicFeatures",
         "Gviz",
@@ -211,7 +193,6 @@
     ],
     "AlphaBeta": [],
     "alpine": [
-        "Biostrings",
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
@@ -225,9 +206,7 @@
         "SummarizedExperiment"
     ],
     "alsace": [],
-    "altcdfenvs": [
-        "Biostrings"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [
         "MultiAssayExperiment",
         "curatedTCGAData",
@@ -235,11 +214,9 @@
         "ExperimentHub",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "amplican": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
@@ -251,18 +228,15 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ANCOMBC": [
         "phyloseq",
-        "microbiome",
-        "Biostrings"
+        "microbiome"
     ],
     "AneuFinder": [
         "Rsamtools",
         "bamsignals",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -275,41 +249,34 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "annaffy": [
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "annmap": [
         "Rsamtools",
         "genefilter",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST"
     ],
     "annotate": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AnnotationDbi": [
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AnnotationFilter": [],
     "AnnotationForge": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AnnotationHub": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AnnotationHubData": [
         "AnnotationHub",
@@ -318,7 +285,6 @@
         "rtracklayer",
         "BiocCheck",
         "AnnotationDbi",
-        "Biostrings",
         "OrganismDbi",
         "AnnotationForge",
         "KEGGREST",
@@ -333,7 +299,6 @@
         "regioneR",
         "rtracklayer",
         "KEGGREST",
-        "Biostrings",
         "biomaRt",
         "BSgenome",
         "Rsamtools",
@@ -347,8 +312,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "AnVIL": [],
     "AnVILBilling": [],
@@ -368,7 +332,6 @@
         "geneplotter",
         "AnnotationFilter",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "BSgenome",
         "KEGGREST"
@@ -376,8 +339,7 @@
     "apComplex": [
         "org.Sc.sgd.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "apeglm": [
         "SummarizedExperiment"
@@ -390,7 +352,6 @@
         "Homo.sapiens",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
-        "Biostrings",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
@@ -414,12 +375,10 @@
     "ArrayExpress": [
         "oligo",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "ArrayExpressHTS": [
         "Rsamtools",
-        "Biostrings",
         "Hmisc",
         "ShortRead",
         "biomaRt",
@@ -434,7 +393,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -455,16 +413,14 @@
         "Hmisc",
         "gcrma",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "artMS": [
         "AnnotationDbi",
         "MSstats",
         "org.Hs.eg.db",
         "KEGGREST",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "ASICS": [
         "ropls",
@@ -482,7 +438,6 @@
         "rtracklayer",
         "mGSZ",
         "AnnotationDbi",
-        "Biostrings",
         "ensembldb",
         "BSgenome",
         "biovizBase",
@@ -500,7 +455,6 @@
         "Rsamtools",
         "KEGGREST",
         "SummarizedExperiment",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "ensembldb",
@@ -511,19 +465,16 @@
         "AnnotationFilter"
     ],
     "AssessORF": [
-        "DECIPHER",
-        "Biostrings"
+        "DECIPHER"
     ],
     "ASSIGN": [
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ATACseqQC": [
         "BSgenome",
-        "Biostrings",
         "ChIPpeakAnno",
         "GenomicAlignments",
         "GenomicScores",
@@ -544,13 +495,11 @@
     "atena": [
         "SummarizedExperiment",
         "GenomicAlignments",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "atSNP": [
         "BSgenome",
         "motifStack",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -565,7 +514,6 @@
         "Category",
         "GO.db",
         "AnnotationForge",
-        "Biostrings",
         "GSEABase",
         "genefilter"
     ],
@@ -573,8 +521,7 @@
         "GSEABase",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "autonomics": [
         "MultiAssayExperiment",
@@ -589,7 +536,6 @@
         "doBy",
         "pbkrtest",
         "SummarizedExperiment",
-        "Biostrings",
         "lme4"
     ],
     "BadRegionFinder": [
@@ -597,7 +543,6 @@
         "Rsamtools",
         "biomaRt",
         "AnnotationDbi",
-        "Biostrings",
         "SummarizedExperiment",
         "rtracklayer",
         "BSgenome",
@@ -608,7 +553,6 @@
     "ballgown": [
         "sva",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "genefilter",
@@ -622,7 +566,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "Biostrings",
         "rtracklayer",
         "AnnotationDbi",
         "biomaRt",
@@ -638,13 +581,11 @@
     ],
     "basecallQC": [
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "Basic4Cseq": [
-        "Biostrings",
         "GenomicAlignments",
         "BSgenome.Ecoli.NCBI.20080805",
         "BSgenome",
@@ -664,7 +605,6 @@
     "BasicSTARRseq": [
         "GenomicAlignments",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools"
     ],
     "batchelor": [
@@ -680,8 +620,7 @@
         "dendextend",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BayesSpace": [
         "SingleCellExperiment",
@@ -702,7 +641,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -711,19 +649,14 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "BCRANK": [
-        "Biostrings"
-    ],
-    "bcSeq": [
-        "Biostrings"
-    ],
+    "BCRANK": [],
+    "bcSeq": [],
     "BDMMAcorrect": [
         "SummarizedExperiment"
     ],
     "beadarray": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "beadarraySNP": [],
     "BEARscc": [
@@ -732,7 +665,6 @@
     ],
     "BEAT": [
         "ShortRead",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -754,7 +686,6 @@
         "lumi",
         "methylumi",
         "SingleCellExperiment",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -771,7 +702,6 @@
     ],
     "BgeeCall": [
         "GenomicFeatures",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "AnnotationDbi",
@@ -784,18 +714,15 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "bgx": [
-        "gcrma",
-        "Biostrings"
+        "gcrma"
     ],
     "BicARE": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BiFET": [],
     "BiGGR": [],
@@ -808,7 +735,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "lumi",
@@ -827,7 +753,6 @@
     ],
     "BindingSiteFinder": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -857,15 +782,13 @@
         "pbkrtest",
         "lme4",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "BiocCheck": [],
     "biocGraph": [
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BiocNeighbors": [],
     "BiocOncoTK": [
@@ -880,7 +803,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "rstatix",
@@ -891,14 +813,12 @@
     "BioCor": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BiocPkgTools": [],
     "BiocSet": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BiocSingular": [],
     "BiocSklearn": [
@@ -923,8 +843,7 @@
     ],
     "biomaRt": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BioMM": [
         "rms",
@@ -932,8 +851,7 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "biomvRCNS": [
         "Gviz",
@@ -943,7 +861,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -969,21 +886,18 @@
         "KEGGREST",
         "car",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "BioNet": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BioNetStat": [
         "pathview",
         "Hmisc",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BioPlex": [
         "SummarizedExperiment"
@@ -993,7 +907,6 @@
         "MultiDataSet",
         "SummarizedExperiment"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "Hmisc"
     ],
@@ -1004,7 +917,6 @@
     "biovizBase": [
         "Hmisc",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1031,7 +943,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "BSgenome",
-        "Biostrings",
         "bumphunter",
         "annotatr",
         "AnnotationDbi",
@@ -1052,14 +963,12 @@
         "rtracklayer",
         "globaltest",
         "AnnotationDbi",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST"
     ],
     "BitSeq": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "blacksheepr": [
         "SummarizedExperiment"
@@ -1067,8 +976,7 @@
     "blima": [
         "beadarray",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BLMA": [
         "ROntoTools",
@@ -1077,16 +985,14 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "Biostrings"
+        "org.Hs.eg.db"
     ],
     "BloodGen3Module": [
         "SummarizedExperiment",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "bluster": [
         "BiocNeighbors"
@@ -1096,8 +1002,7 @@
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "bnem": [
         "epiNEM",
@@ -1106,15 +1011,11 @@
         "Linnorm",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BPRMeth": [],
-    "BRAIN": [
-        "Biostrings"
-    ],
+    "BRAIN": [],
     "brainflowprobes": [
-        "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
         "bumphunter",
         "derfinder",
@@ -1144,13 +1045,11 @@
         "biomaRt",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "branchpointer": [
         "caret",
         "biomaRt",
-        "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg38",
         "rtracklayer",
         "AnnotationDbi",
@@ -1164,8 +1063,7 @@
     "breakpointR": [
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "brendaDb": [],
     "BRGenomics": [
@@ -1176,12 +1074,10 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "Biostrings",
         "AnnotationDbi",
         "KEGGREST"
     ],
     "BSgenome": [
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -1190,7 +1086,6 @@
     "bsseq": [
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -1199,7 +1094,6 @@
         "biovizBase",
         "Hmisc",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1215,14 +1109,12 @@
     "BUMHMM": [
         "devtools",
         "SummarizedExperiment",
-        "Biostrings",
         "rcmdcheck"
     ],
     "bumphunter": [
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -1236,7 +1128,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "biomaRt",
-        "Biostrings",
         "BSgenome",
         "ensembldb",
         "GenomicFeatures",
@@ -1260,7 +1151,6 @@
         "AnnotationDbi",
         "Hmisc",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1282,7 +1172,6 @@
         "Gviz",
         "InteractionSet",
         "GenomicInteractions",
-        "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
         "biomaRt",
@@ -1305,7 +1194,6 @@
         "SummarizedExperiment",
         "Hmisc",
         "biovizBase",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -1332,8 +1220,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "CAMERA": [
         "xcms",
@@ -1353,8 +1240,7 @@
         "genefilter",
         "hgu133a.db",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "Biostrings"
+        "org.Hs.eg.db"
     ],
     "CancerSubtypes": [
         "iCluster"
@@ -1365,7 +1251,6 @@
         "Rsamtools",
         "rtracklayer",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments",
         "KEGGREST",
@@ -1399,8 +1284,7 @@
         "AnnotationDbi",
         "GSEABase",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "categoryCompare": [
         "AnnotationDbi",
@@ -1410,15 +1294,13 @@
         "KEGGREST",
         "genefilter",
         "GO.db",
-        "AnnotationForge",
-        "Biostrings"
+        "AnnotationForge"
     ],
     "cbaf": [
         "cgdsr",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "cBioPortalData": [
         "AnVIL",
@@ -1431,7 +1313,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -1444,15 +1325,13 @@
     ],
     "ccmap": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CCPROMISE": [
         "PROMISE",
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "celaref": [
         "SummarizedExperiment",
@@ -1469,19 +1348,15 @@
         "BiocSingular",
         "bluster"
     ],
-    "CellaRepertorium": [
-        "Biostrings"
-    ],
+    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "cellbaseR": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "CellBench": [
         "SingleCellExperiment",
@@ -1492,8 +1367,7 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CelliD": [
         "SingleCellExperiment",
@@ -1509,8 +1383,7 @@
         "org.Mm.eg.db",
         "topGO",
         "KEGGREST",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "cellmigRation": [
         "FactoMineR",
@@ -1536,8 +1409,7 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CEMiTool": [
         "WGCNA",
@@ -1553,8 +1425,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "censcyt": [
         "diffcyt",
@@ -1580,8 +1451,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ceRNAnetsim": [
         "ggraph"
@@ -1608,29 +1478,25 @@
         "ggtree",
         "car",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "CexoR": [
         "Rsamtools",
         "rtracklayer",
         "genomation",
-        "Biostrings",
         "BSgenome",
         "GenomicAlignments",
         "seqPattern",
         "SummarizedExperiment"
     ],
     "cfDNAPro": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "cghMCR": [
         "CNTools",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CGHnormaliter": [],
     "ChAMP": [
@@ -1658,7 +1524,6 @@
         "SummarizedExperiment",
         "geneLenDataBase",
         "GO.db",
-        "Biostrings",
         "siggenes",
         "genefilter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -1685,14 +1550,12 @@
         "caret",
         "genomeIntervals",
         "Rsamtools",
-        "recipes",
-        "Biostrings"
+        "recipes"
     ],
     "Chicago": [
         "Hmisc"
     ],
     "chimeraviz": [
-        "Biostrings",
         "Gviz",
         "ensembldb",
         "AnnotationFilter",
@@ -1712,7 +1575,6 @@
         "VariantAnnotation"
     ],
     "ChIPanalyser": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -1725,7 +1587,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm9",
         "BSgenome",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -1741,7 +1602,6 @@
         "rtracklayer",
         "KEGGREST",
         "Hmisc",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -1752,7 +1612,6 @@
         "biovizBase",
         "Hmisc",
         "SummarizedExperiment",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "VariantAnnotation",
@@ -1765,7 +1624,6 @@
     ],
     "ChIPpeakAnno": [
         "AnnotationDbi",
-        "Biostrings",
         "ensembldb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1798,7 +1656,6 @@
         "DESeq2",
         "apeglm",
         "GreyListChIP",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -1819,7 +1676,6 @@
         "scatterpie",
         "GOSemSim",
         "ggtree",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -1829,20 +1685,17 @@
     ],
     "chipseq": [
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "ChIPseqR": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "ChIPsim": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
@@ -1852,7 +1705,6 @@
         "frma",
         "oligo",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "chromDraw": [],
@@ -1860,7 +1712,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "KEGGREST",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -1868,8 +1719,7 @@
     "chromPlot": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ChromSCape": [
         "rtracklayer",
@@ -1883,7 +1733,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "scuttle",
-        "Biostrings",
         "GenomicAlignments",
         "bluster",
         "biomaRt",
@@ -1894,18 +1743,15 @@
         "Rsamtools",
         "GenomicAlignments",
         "bamsignals",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "chromswitch": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "chromVAR": [
-        "Biostrings",
         "TFBSTools",
         "Rsamtools",
         "SummarizedExperiment",
@@ -1920,8 +1766,7 @@
     "CHRONOS": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "cicero": [
         "monocle",
@@ -1932,7 +1777,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -1952,7 +1796,6 @@
         "universalmotif",
         "AnnotationHub",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "Biostrings",
         "gwascat",
         "BSgenome",
         "AnnotationDbi",
@@ -1983,21 +1826,17 @@
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "cleaver": [
-        "Biostrings"
-    ],
+    "cleaver": [],
     "clipper": [
         "qpgraph",
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -2007,7 +1846,6 @@
     "cliProfiler": [
         "rtracklayer",
         "BSgenome",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -2027,8 +1865,7 @@
         "mbkmeans",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "clusterProfiler": [
         "AnnotationDbi",
@@ -2040,8 +1877,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "clusterSeq": [
         "baySeq"
@@ -2056,16 +1892,13 @@
     "cn.farms": [
         "oligoClasses",
         "oligo",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "cn.mops": [
         "Rsamtools",
-        "exomeCopy",
-        "Biostrings"
+        "exomeCopy"
     ],
     "CNEr": [
-        "Biostrings",
         "rtracklayer",
         "GenomicAlignments",
         "GO.db",
@@ -2081,8 +1914,7 @@
     "CNTools": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CNVfilteR": [
         "SummarizedExperiment",
@@ -2091,7 +1923,6 @@
         "CopyNumberPlots",
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "cn.mops",
         "rtracklayer",
         "biovizBase",
@@ -2123,7 +1954,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "Hmisc",
-        "Biostrings",
         "GenomicAlignments",
         "ensembldb",
         "AnnotationFilter",
@@ -2133,20 +1963,17 @@
     ],
     "CNVPanelizer": [
         "Rsamtools",
-        "exomeCopy",
-        "Biostrings"
+        "exomeCopy"
     ],
     "CNVRanger": [
         "RaggedExperiment",
         "GDSArray",
         "SummarizedExperiment",
-        "SeqArray",
-        "Biostrings"
+        "SeqArray"
     ],
     "CNVrd2": [
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "SummarizedExperiment",
         "AnnotationDbi",
         "rtracklayer",
@@ -2159,28 +1986,24 @@
     "CoCiteStats": [
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "COCOA": [
         "MIRA",
         "bsseq",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "codelink": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CODEX": [
         "Rsamtools",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments",
@@ -2199,7 +2022,6 @@
         "AnnotationDbi",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -2208,8 +2030,7 @@
     ],
     "combi": [
         "phyloseq",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "coMET": [
         "biomaRt",
@@ -2220,7 +2041,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -2235,7 +2055,6 @@
         "RaggedExperiment",
         "BiocSingular",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -2269,7 +2088,6 @@
         "ggtree",
         "car",
         "rstatix",
-        "Biostrings",
         "pbkrtest",
         "lme4"
     ],
@@ -2294,7 +2112,6 @@
     "consensusDE": [
         "airway",
         "AnnotationDbi",
-        "Biostrings",
         "dendextend",
         "DESeq2",
         "EDASeq",
@@ -2325,12 +2142,10 @@
         "SingleCellExperiment",
         "BiocSingular",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "consensusSeekeR": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -2342,7 +2157,6 @@
         "exomeCopy",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "Biostrings",
         "VariantAnnotation",
         "AnnotationDbi",
         "BSgenome",
@@ -2358,7 +2172,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "rtracklayer",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -2384,7 +2197,6 @@
         "bamsignals",
         "AnnotationDbi",
         "BSgenome",
-        "Biostrings",
         "KEGGREST",
         "Hmisc",
         "GenomicAlignments",
@@ -2397,12 +2209,9 @@
         "Rsamtools",
         "GenomicAlignments",
         "ShortRead",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
-    "coRdon": [
-        "Biostrings"
-    ],
+    "coRdon": [],
     "CoreGx": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
@@ -2421,8 +2230,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "cosmiq": [
         "xcms",
@@ -2437,8 +2245,7 @@
         "GSEABase",
         "org.Hs.eg.db",
         "KEGGREST",
-        "viper",
-        "Biostrings"
+        "viper"
     ],
     "countsimQC": [
         "DESeq2",
@@ -2446,27 +2253,23 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CoverageView": [
         "Rsamtools",
         "rtracklayer",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "covRNA": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
@@ -2478,7 +2281,6 @@
         "aCGH"
     ],
     "CRISPRseek": [
-        "Biostrings",
         "BSgenome",
         "keras",
         "rtracklayer",
@@ -2494,7 +2296,6 @@
         "BSgenome",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "keras",
@@ -2510,7 +2311,6 @@
     ],
     "CrispRVariants": [
         "AnnotationDbi",
-        "Biostrings",
         "GenomicAlignments",
         "Rsamtools",
         "KEGGREST",
@@ -2518,8 +2318,7 @@
     ],
     "crlmm": [
         "oligoClasses",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "crossmeta": [
         "AnnotationDbi",
@@ -2530,22 +2329,19 @@
         "KEGGREST",
         "genefilter",
         "geneplotter",
-        "oligoClasses",
-        "Biostrings"
+        "oligoClasses"
     ],
     "CSAR": [],
     "csaw": [
         "SummarizedExperiment",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "csdR": [
         "WGCNA",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "CSSQ": [
         "SummarizedExperiment",
@@ -2553,7 +2349,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "biomaRt",
         "KEGGREST"
@@ -2571,8 +2366,7 @@
         "AnnotationDbi",
         "AnnotationHub",
         "highcharter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ctsGE": [],
     "cummeRbund": [
@@ -2583,7 +2377,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -2596,15 +2389,13 @@
     "customCMPdb": [
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "customProDB": [
         "AnnotationDbi",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
-        "Biostrings",
         "GenomicFeatures",
         "VariantAnnotation",
         "rtracklayer",
@@ -2712,19 +2503,16 @@
         "flowStats",
         "flowClust",
         "fda",
-        "Biostrings",
         "fds",
         "rainbow"
     ],
     "dada2": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "dagLogo": [
-        "Biostrings",
         "UniProt.ws",
         "biomaRt",
         "motifStack",
@@ -2737,7 +2525,6 @@
         "VariantAnnotation",
         "Rsamtools",
         "bumphunter",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "rtracklayer",
@@ -2761,7 +2548,6 @@
         "ShortRead",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
@@ -2800,7 +2586,6 @@
         "scatterpie",
         "ggtree",
         "rstatix",
-        "Biostrings",
         "geepack",
         "ggformula"
     ],
@@ -2812,7 +2597,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "rstatix",
         "GenomicAlignments",
@@ -2834,8 +2618,7 @@
         "AnnotationDbi",
         "Linnorm",
         "modelr",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -2873,18 +2656,14 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "dendextend",
-        "Biostrings"
+        "dendextend"
     ],
-    "DECIPHER": [
-        "Biostrings"
-    ],
+    "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
         "SummarizedExperiment",
         "made4",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DEComplexDisease": [
         "DESeq2",
@@ -2892,12 +2671,10 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "decompTumor2Sig": [
         "GenomicFeatures",
-        "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
@@ -2918,13 +2695,11 @@
         "fastseg",
         "rtracklayer",
         "lme4",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "DeepBlueR": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -2937,7 +2712,6 @@
     ],
     "deepSNV": [
         "SummarizedExperiment",
-        "Biostrings",
         "VariantAnnotation",
         "Rsamtools",
         "AnnotationDbi",
@@ -2954,8 +2728,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DegNorm": [
         "GenomicFeatures",
@@ -2963,7 +2736,6 @@
         "GenomicAlignments",
         "heatmaply",
         "SummarizedExperiment",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -2980,8 +2752,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DEGseq": [],
     "DelayedTensor": [
@@ -2993,8 +2764,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "deltaGseg": [
         "tseries"
@@ -3017,7 +2787,6 @@
         "rtracklayer",
         "KEGGREST",
         "SummarizedExperiment",
-        "Biostrings",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -3033,7 +2802,6 @@
         "Hmisc",
         "Rsamtools",
         "rtracklayer",
-        "Biostrings",
         "biomaRt",
         "biovizBase",
         "SummarizedExperiment",
@@ -3050,7 +2818,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "ensembldb",
         "GenomicFeatures",
         "Rsamtools",
@@ -3066,8 +2833,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "destiny": [
         "SummarizedExperiment",
@@ -3084,8 +2850,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -3093,15 +2858,13 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DExMA": [
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DEXSeq": [
         "SummarizedExperiment",
@@ -3111,8 +2874,7 @@
         "Rsamtools",
         "geneplotter",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DIAlignR": [],
     "DiffBind": [
@@ -3125,7 +2887,6 @@
         "GreyListChIP",
         "genefilter",
         "geneplotter",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "ShortRead",
@@ -3138,8 +2899,7 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -3163,7 +2923,6 @@
         "InteractionSet",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "BSgenome",
         "csaw",
         "rtracklayer",
@@ -3175,7 +2934,6 @@
         "biomaRt",
         "rtracklayer",
         "AnnotationDbi",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
@@ -3195,7 +2953,6 @@
         "genefilter",
         "GenomicFeatures",
         "AnnotationFilter",
-        "Biostrings",
         "GenomicAlignments",
         "KEGGREST"
     ],
@@ -3237,14 +2994,12 @@
         "arm",
         "rtracklayer",
         "lme4",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "DMCHMM": [
         "SummarizedExperiment",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -3258,7 +3013,6 @@
         "Gviz",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "AnnotationHub",
         "rtracklayer",
         "biomaRt",
@@ -3293,7 +3047,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -3315,19 +3068,16 @@
         "regioneR",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
         "biomaRt"
     ],
     "DNAshapeR": [
-        "Biostrings",
         "fields"
     ],
     "DominoEffect": [
         "biomaRt",
-        "Biostrings",
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationDbi",
@@ -3343,8 +3093,7 @@
         "SummarizedExperiment",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Doscheda": [
         "drc",
@@ -3357,8 +3106,7 @@
         "DO.db",
         "GOSemSim",
         "KEGGREST",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "doseR": [
         "lme4",
@@ -3366,7 +3114,6 @@
     ],
     "dpeak": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -3387,7 +3134,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "KEGGREST",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -3403,14 +3149,12 @@
         "org.Hs.eg.db",
         "KEGGREST",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "DSS": [
         "bsseq",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -3436,12 +3180,10 @@
         "AnnotationDbi",
         "pbkrtest",
         "lme4",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "easyRNASeq": [
         "biomaRt",
-        "Biostrings",
         "genomeIntervals",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -3456,14 +3198,12 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "EDASeq": [
         "ShortRead",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
@@ -3478,8 +3218,7 @@
         "lme4",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "eegc": [
         "DESeq2",
@@ -3498,8 +3237,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "EGSEA": [
         "gage",
@@ -3521,8 +3259,7 @@
         "SingleCellExperiment",
         "BiocSingular",
         "hgu133plus2.db",
-        "hgu133a.db",
-        "Biostrings"
+        "hgu133a.db"
     ],
     "eisaR": [
         "SummarizedExperiment"
@@ -3538,7 +3275,6 @@
         "ggpubr",
         "rtracklayer",
         "AnnotationDbi",
-        "Biostrings",
         "rstatix",
         "ensembldb",
         "BSgenome",
@@ -3555,7 +3291,6 @@
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "Biostrings",
         "BSgenome",
         "motifmatchr",
         "rtracklayer",
@@ -3574,7 +3309,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -3595,7 +3329,6 @@
         "AnnotationHub",
         "genefilter",
         "AnnotationDbi",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "KEGGREST",
@@ -3615,7 +3348,6 @@
         "graphite",
         "pathview",
         "safe",
-        "Biostrings",
         "org.Hs.eg.db"
     ],
     "enrichplot": [
@@ -3627,8 +3359,7 @@
         "AnnotationDbi",
         "DO.db",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "enrichTF": [
         "pipeFrame",
@@ -3638,7 +3369,6 @@
         "TFBSTools",
         "ggpubr",
         "clusterProfiler",
-        "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
         "DOSE",
@@ -3664,7 +3394,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
@@ -3672,7 +3401,6 @@
     ],
     "ensemblVEP": [
         "VariantAnnotation",
-        "Biostrings",
         "SummarizedExperiment",
         "Rsamtools",
         "AnnotationDbi",
@@ -3687,7 +3415,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -3701,7 +3428,6 @@
         "rstatix",
         "ggpubr",
         "car",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "pbkrtest",
@@ -3714,7 +3440,6 @@
         "Rsamtools",
         "beadarray",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST"
     ],
     "epigraHMM": [
@@ -3728,7 +3453,6 @@
         "rstatix",
         "GenomicAlignments",
         "BSgenome",
-        "Biostrings",
         "car",
         "pbkrtest",
         "lme4"
@@ -3749,8 +3473,7 @@
         "DO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "epiNEM": [
         "mnem",
@@ -3761,7 +3484,6 @@
         "AnnotationDbi",
         "Modstrings",
         "GenomicFeatures",
-        "Biostrings",
         "tRNAdbImport",
         "KEGGREST",
         "rtracklayer",
@@ -3784,7 +3506,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments"
     ],
@@ -3798,7 +3519,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "KEGGREST",
         "GenomicAlignments"
@@ -3812,7 +3532,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "KEGGREST",
         "GenomicAlignments"
@@ -3823,7 +3542,6 @@
         "epivizrData",
         "bumphunter",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
@@ -3850,7 +3568,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "Biostrings",
         "biomaRt",
         "BSgenome"
     ],
@@ -3860,8 +3577,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "esATAC": [
         "Rsamtools",
@@ -3869,7 +3585,6 @@
         "pipeFrame",
         "Rbowtie2",
         "rtracklayer",
-        "Biostrings",
         "ChIPseeker",
         "clusterProfiler",
         "BSgenome",
@@ -3899,18 +3614,15 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "BiocSingular",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "esetVis": [
         "MLP",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "eudysbiome": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "evaluomeR": [
         "SummarizedExperiment",
@@ -3921,7 +3633,6 @@
         "SummarizedExperiment",
         "GenomicFeatures",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
@@ -3936,19 +3647,16 @@
         "biomaRt",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ExCluster": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "exomeCopy": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "exomePeak2": [
         "SummarizedExperiment",
@@ -3957,7 +3665,6 @@
         "GenomicFeatures",
         "DESeq2",
         "genefilter",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "apeglm",
@@ -3969,8 +3676,7 @@
     "ExperimentHub": [
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -3981,7 +3687,6 @@
         "rtracklayer",
         "BiocCheck",
         "AnnotationDbi",
-        "Biostrings",
         "OrganismDbi",
         "AnnotationForge",
         "KEGGREST",
@@ -3995,7 +3700,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "DropletUtils",
-        "Biostrings",
         "scuttle"
     ],
     "ExpressionAtlas": [
@@ -4014,7 +3718,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "Biostrings",
         "DO.db",
         "ggraph",
         "scatterpie",
@@ -4028,11 +3731,9 @@
         "org.Sc.sgd.db",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "FastqCleaner": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
@@ -4046,7 +3747,6 @@
         "fda",
         "genomation",
         "fds",
-        "Biostrings",
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
@@ -4070,14 +3770,12 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "fcScan": [
         "VariantAnnotation",
         "SummarizedExperiment",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "AnnotationDbi",
@@ -4094,8 +3792,7 @@
         "TrajectoryUtils"
     ],
     "FELLA": [
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ffpe": [
         "lumi",
@@ -4109,7 +3806,6 @@
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "bumphunter",
@@ -4119,8 +3815,7 @@
     ],
     "fgga": [],
     "FilterFFPE": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "FindIT2": [
         "rtracklayer",
@@ -4128,7 +3823,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -4151,7 +3845,6 @@
         "Rsamtools",
         "scater",
         "scuttle",
-        "Biostrings",
         "BiocNeighbors",
         "BiocSingular"
     ],
@@ -4235,8 +3928,7 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "FRASER": [
         "Rsamtools",
@@ -4248,7 +3940,6 @@
         "GenomicFeatures",
         "OUTRIDER",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "DESeq2",
         "heatmaply",
@@ -4270,7 +3961,6 @@
     "frma": [
         "oligo",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "FunChIP": [
@@ -4279,7 +3969,6 @@
         "Rsamtools",
         "fds",
         "SummarizedExperiment",
-        "Biostrings",
         "rainbow"
     ],
     "funtooNorm": [
@@ -4287,7 +3976,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -4300,7 +3988,6 @@
         "GenomicAlignments"
     ],
     "GA4GHclient": [
-        "Biostrings",
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
@@ -4317,7 +4004,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "Biostrings",
         "VariantAnnotation",
         "rtracklayer",
         "biomaRt",
@@ -4329,8 +4015,7 @@
     "gage": [
         "KEGGREST",
         "AnnotationDbi",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "GAPGOM": [
         "GO.db",
@@ -4338,8 +4023,7 @@
         "org.Mm.eg.db",
         "GOSemSim",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GARS": [
         "DaMiRseq",
@@ -4359,7 +4043,6 @@
         "ShortRead",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
@@ -4372,7 +4055,6 @@
         "flowFP"
     ],
     "gcapc": [
-        "Biostrings",
         "BSgenome",
         "Rsamtools",
         "GenomicAlignments",
@@ -4382,9 +4064,7 @@
     "gCrisprTools": [
         "SummarizedExperiment"
     ],
-    "gcrma": [
-        "Biostrings"
-    ],
+    "gcrma": [],
     "GCSscore": [
         "devtools",
         "rcmdcheck"
@@ -4412,18 +4092,15 @@
         "scatterpie",
         "ggtree",
         "rstatix",
-        "Biostrings",
         "car",
         "pbkrtest",
         "lme4"
     ],
     "GDSArray": [
-        "SeqArray",
-        "Biostrings"
+        "SeqArray"
     ],
     "genbankr": [
         "GenomicFeatures",
-        "Biostrings",
         "VariantAnnotation",
         "rtracklayer",
         "AnnotationDbi",
@@ -4442,20 +4119,17 @@
         "KEGGREST",
         "car",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "GeneAnswers": [
         "KEGGREST",
-        "AnnotationDbi",
-        "Biostrings"
+        "AnnotationDbi"
     ],
     "geneAttribution": [
         "org.Hs.eg.db",
         "GenomicFeatures",
         "rtracklayer",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -4464,53 +4138,43 @@
     ],
     "GeneBreak": [
         "QDNAseq",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "genefilter": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "genefu": [
         "survcomp",
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GeneGeneInteR": [
         "Rsamtools",
         "FactoMineR",
         "car",
-        "Biostrings",
         "pbkrtest",
         "lme4"
     ],
     "GeneMeta": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "geneplotter": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "GeneRegionScan": [
-        "Biostrings"
-    ],
+    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
         "SeqVarTools",
-        "logistf",
-        "Biostrings"
+        "logistf"
     ],
     "GeneStructureTools": [
-        "Biostrings",
         "BSgenome.Mmusculus.UCSC.mm10",
         "Gviz",
         "rtracklayer",
@@ -4537,8 +4201,7 @@
         "SummarizedExperiment",
         "KEGGREST",
         "genefilter",
-        "geneplotter",
-        "Biostrings"
+        "geneplotter"
     ],
     "geneXtendeR": [
         "rtracklayer",
@@ -4546,13 +4209,11 @@
         "AnnotationDbi",
         "org.Rn.eg.db",
         "KEGGREST",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "genomation": [
-        "Biostrings",
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
@@ -4563,18 +4224,14 @@
     "genomeIntervals": [],
     "GenomicAlignments": [
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools"
     ],
     "GenomicDataCommons": [
         "SummarizedExperiment"
     ],
-    "GenomicDistributions": [
-        "Biostrings"
-    ],
+    "GenomicDistributions": [],
     "GenomicFeatures": [
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
@@ -4588,7 +4245,6 @@
         "rtracklayer",
         "GenomicAlignments",
         "VariantAnnotation",
-        "Biostrings",
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -4608,7 +4264,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -4624,7 +4279,6 @@
         "Hmisc",
         "biovizBase",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -4637,7 +4291,6 @@
         "KEGGREST"
     ],
     "GenomicScores": [
-        "Biostrings",
         "AnnotationHub",
         "AnnotationDbi",
         "KEGGREST"
@@ -4654,7 +4307,6 @@
     "genotypeeval": [
         "VariantAnnotation",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -4664,13 +4316,10 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "genphen": [
-        "Biostrings"
-    ],
+    "genphen": [],
     "GenVisR": [
         "AnnotationDbi",
         "biomaRt",
-        "Biostrings",
         "FField",
         "GenomicFeatures",
         "Rsamtools",
@@ -4685,8 +4334,7 @@
         "lme4",
         "GeomxTools",
         "NanoStringNCTools",
-        "lmerTest",
-        "Biostrings"
+        "lmerTest"
     ],
     "GEOexplorer": [
         "factoextra",
@@ -4703,14 +4351,12 @@
     "GeomxTools": [
         "NanoStringNCTools",
         "lmerTest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "gep2pep": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "gespeR": [
         "cellHTS2",
@@ -4719,8 +4365,7 @@
         "genefilter",
         "GSEABase",
         "Category",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "getDEE2": [
         "SummarizedExperiment"
@@ -4734,7 +4379,6 @@
         "Hmisc",
         "biovizBase",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -4752,7 +4396,6 @@
         "flowWorkspace"
     ],
     "ggmsa": [
-        "Biostrings",
         "R4RNA",
         "seqmagick"
     ],
@@ -4772,7 +4415,6 @@
         "Rsamtools",
         "ShortRead",
         "genomeIntervals",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -4782,8 +4424,7 @@
         "HH",
         "AnnotationDbi",
         "Hmisc",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GladiaTOX": [],
     "Glimma": [
@@ -4792,8 +4433,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "glmGamPoi": [
         "SummarizedExperiment"
@@ -4809,7 +4449,6 @@
         "ggpubr",
         "KEGGREST",
         "rstatix",
-        "Biostrings",
         "car",
         "pbkrtest",
         "lme4"
@@ -4819,19 +4458,16 @@
         "AnnotationDbi",
         "dendextend",
         "GSEABase",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "globaltest": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "gmapR": [
         "Rsamtools",
         "rtracklayer",
         "GenomicFeatures",
-        "Biostrings",
         "VariantAnnotation",
         "BSgenome",
         "GenomicAlignments",
@@ -4852,12 +4488,10 @@
         "genefilter",
         "GO.db",
         "AnnotationForge",
-        "Hmisc",
-        "Biostrings"
+        "Hmisc"
     ],
     "gmoviz": [
         "Rsamtools",
-        "Biostrings",
         "GenomicAlignments",
         "GenomicFeatures",
         "rtracklayer",
@@ -4874,13 +4508,11 @@
     "GOexpress": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GOfuncR": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -4889,20 +4521,17 @@
         "GO.db",
         "MultiAssayExperiment",
         "KEGGREST",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "goProfiles": [
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GOSemSim": [
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "goseq": [
         "geneLenDataBase",
@@ -4911,7 +4540,6 @@
         "KEGGREST",
         "rtracklayer",
         "GenomicFeatures",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -4922,15 +4550,13 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "topGO",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "goSTAG": [
         "AnnotationDbi",
         "biomaRt",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GOstats": [
         "Category",
@@ -4939,11 +4565,9 @@
         "AnnotationForge",
         "KEGGREST",
         "GSEABase",
-        "genefilter",
-        "Biostrings"
+        "genefilter"
     ],
     "GOTHiC": [
-        "Biostrings",
         "BSgenome",
         "Rsamtools",
         "ShortRead",
@@ -4954,8 +4578,7 @@
     "goTools": [
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GPA": [],
     "gpart": [
@@ -4969,7 +4592,6 @@
         "GO.db",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -4985,20 +4607,17 @@
     "graper": [],
     "graphite": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GraphPAC": [
-        "iPAC",
-        "Biostrings"
+        "iPAC"
     ],
     "GreyListChIP": [
         "GenomicAlignments",
         "BSgenome",
         "Rsamtools",
         "rtracklayer",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "GRmetrics": [
         "SummarizedExperiment",
@@ -5011,7 +4630,6 @@
         "GenomicAlignments",
         "rtracklayer",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools"
     ],
     "gscreend": [
@@ -5019,8 +4637,7 @@
     ],
     "GSEABase": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GSEABenchmarkeR": [
         "SummarizedExperiment",
@@ -5034,7 +4651,6 @@
         "graphite",
         "pathview",
         "safe",
-        "Biostrings",
         "org.Hs.eg.db"
     ],
     "GSEAmining": [
@@ -5045,8 +4661,7 @@
         "biomaRt",
         "STRINGdb",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GSReg": [
         "Homo.sapiens",
@@ -5054,7 +4669,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "OrganismDbi",
@@ -5068,8 +4682,7 @@
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GSVA": [
         "SummarizedExperiment",
@@ -5077,12 +4690,10 @@
         "SingleCellExperiment",
         "BiocSingular",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "gtrellis": [],
     "GUIDEseq": [
-        "Biostrings",
         "CRISPRseek",
         "ChIPpeakAnno",
         "BSgenome",
@@ -5106,7 +4717,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -5119,7 +4729,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -5135,7 +4744,6 @@
     ],
     "gwascat": [
         "GenomicFeatures",
-        "Biostrings",
         "AnnotationDbi",
         "VariantAnnotation",
         "AnnotationHub",
@@ -5156,7 +4764,6 @@
         "SummarizedExperiment",
         "logistf",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -5172,23 +4779,17 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "h5vc": [
-        "Biostrings",
         "Rsamtools"
     ],
     "Harshlight": [
-        "altcdfenvs",
-        "Biostrings"
+        "altcdfenvs"
     ],
     "hca": [],
-    "heatmaps": [
-        "Biostrings"
-    ],
+    "heatmaps": [],
     "HelloRanges": [
-        "Biostrings",
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -5206,7 +4807,6 @@
     "hiAnnotator": [
         "rtracklayer",
         "BSgenome",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -5215,14 +4815,12 @@
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "HiCDCPlus": [
         "InteractionSet",
         "GenomicInteractions",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "Gviz",
@@ -5240,7 +4838,6 @@
     ],
     "HilbertCurve": [],
     "HiLDA": [
-        "Biostrings",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5259,15 +4856,13 @@
         "SummarizedExperiment",
         "coin",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "HIPPO": [
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
     "hiReadsProcessor": [
-        "Biostrings",
         "GenomicAlignments",
         "hiAnnotator",
         "SummarizedExperiment",
@@ -5276,7 +4871,6 @@
         "BSgenome"
     ],
     "HiTC": [
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -5292,7 +4886,6 @@
         "ShortRead",
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "chipseq",
         "GenomicFeatures",
         "rtracklayer",
@@ -5310,8 +4903,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "HubPub": [
         "biocthis"
@@ -5333,7 +4925,6 @@
     "icetea": [
         "GenomicFeatures",
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "rtracklayer",
@@ -5355,7 +4946,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -5374,7 +4964,6 @@
         "fields",
         "Rsamtools",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments",
@@ -5401,25 +4990,20 @@
         "GSEABase",
         "rtracklayer",
         "GenomicFeatures",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "IdeoViz": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "idiogram": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "idpr": [
-        "Biostrings"
-    ],
+    "idpr": [],
     "idr2d": [],
     "IgGeneUsage": [
         "SummarizedExperiment"
@@ -5430,7 +5014,6 @@
         "rtracklayer",
         "VariantAnnotation",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
         "BSgenome",
@@ -5449,8 +5032,7 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "IMAS": [
         "GenomicFeatures",
@@ -5461,7 +5043,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
-        "Biostrings",
         "rtracklayer",
         "biomaRt"
     ],
@@ -5477,8 +5058,7 @@
         "DropletUtils"
     ],
     "IMMAN": [
-        "STRINGdb",
-        "Biostrings"
+        "STRINGdb"
     ],
     "ImmuneSpaceR": [
         "heatmaply",
@@ -5500,7 +5080,6 @@
         "AnnotationDbi",
         "BSgenome",
         "cleanUpdTSeq",
-        "Biostrings",
         "plyranges",
         "GenomicFeatures",
         "KEGGREST",
@@ -5521,7 +5100,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "genefilter",
         "geneplotter",
-        "Biostrings",
         "AnnotationDbi",
         "biomaRt",
         "KEGGREST"
@@ -5532,7 +5110,6 @@
         "rtracklayer",
         "ggpubr",
         "rstatix",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "car",
@@ -5544,7 +5121,6 @@
         "Hmisc",
         "biovizBase",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -5567,8 +5143,7 @@
         "AnnotationDbi",
         "KEGGREST",
         "GSEABase",
-        "genefilter",
-        "Biostrings"
+        "genefilter"
     ],
     "InterCellar": [
         "dendextend",
@@ -5581,13 +5156,11 @@
         "car",
         "rstatix",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "IntEREst": [
         "Rsamtools",
         "SummarizedExperiment",
-        "Biostrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "DEXSeq",
@@ -5600,7 +5173,6 @@
         "KEGGREST"
     ],
     "InterMineR": [
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "IntramiRExploreR": [],
@@ -5611,14 +5183,11 @@
     ],
     "IONiseR": [
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "iPAC": [
-        "Biostrings"
-    ],
+    "iPAC": [],
     "iPath": [
         "ggpubr",
         "survminer",
@@ -5630,7 +5199,6 @@
     "ipdDb": [
         "AnnotationDbi",
         "AnnotationHub",
-        "Biostrings",
         "KEGGREST"
     ],
     "IPO": [
@@ -5665,7 +5233,6 @@
         "DO.db",
         "scatterpie",
         "ggtree",
-        "Biostrings",
         "car",
         "pbkrtest",
         "lme4"
@@ -5683,14 +5250,12 @@
     "isobar": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "BSgenome",
-        "Biostrings",
         "DRIMSeq",
         "rtracklayer",
         "tximeta",
@@ -5712,8 +5277,7 @@
         "geneplotter",
         "orQA",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "isomiRs": [
         "DiscriMiner",
@@ -5724,14 +5288,12 @@
         "KEGGREST",
         "lasso2",
         "genefilter",
-        "geneplotter",
-        "Biostrings"
+        "geneplotter"
     ],
     "ITALICS": [
         "oligo",
         "pd.mapping50k.xba240",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "iterativeBMA": [],
@@ -5744,7 +5306,6 @@
         "lme4",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -5777,7 +5338,6 @@
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
-        "Biostrings",
         "GenomicAlignments",
         "ensembldb",
         "AnnotationFilter",
@@ -5787,26 +5347,20 @@
     "KCsmart": [
         "siggenes"
     ],
-    "kebabs": [
-        "Biostrings"
-    ],
+    "kebabs": [],
     "KEGGlincs": [
         "hgu133a.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "keggorthology": [
         "hgu95av2.db",
         "AnnotationDbi",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "Biostrings"
+        "org.Hs.eg.db"
     ],
-    "KEGGREST": [
-        "Biostrings"
-    ],
+    "KEGGREST": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -5816,7 +5370,6 @@
         "geneplotter",
         "bsseq",
         "BSgenome",
-        "Biostrings",
         "AnnotationDbi",
         "KEGGREST",
         "rtracklayer",
@@ -5830,8 +5383,7 @@
         "recipes",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "LACE": [
         "SummarizedExperiment"
@@ -5846,7 +5398,6 @@
         "AnnotationFilter",
         "AnnotationDbi",
         "rtracklayer",
-        "Biostrings",
         "SummarizedExperiment",
         "GenomicAlignments",
         "BSgenome",
@@ -5884,8 +5435,7 @@
         "geepack",
         "org.Sc.sgd.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "lisaClust": [
         "concaveman",
@@ -5908,27 +5458,23 @@
     ],
     "LowMACA": [
         "cgdsr",
-        "motifStack",
-        "Biostrings"
+        "motifStack"
     ],
     "LRBaseDbi": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "lumi": [
         "methylumi",
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "FDb.InfiniumMethylation.hg19",
@@ -5944,8 +5490,7 @@
     ],
     "LymphoSeq": [
         "ggtree",
-        "msa",
-        "Biostrings"
+        "msa"
     ],
     "M3C": [],
     "M3Drop": [
@@ -5957,7 +5502,6 @@
         "adabag",
         "rtracklayer",
         "BSgenome",
-        "Biostrings",
         "ExperimentHub",
         "caret",
         "Rsamtools",
@@ -5977,15 +5521,13 @@
     ],
     "macat": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MACPET": [
         "InteractionSet",
         "Rsamtools",
         "GenomicAlignments",
         "rtracklayer",
-        "Biostrings",
         "ShortRead",
         "SummarizedExperiment"
     ],
@@ -5994,8 +5536,7 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "made4": [
         "SummarizedExperiment"
@@ -6005,7 +5546,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicAlignments",
         "Rsamtools",
-        "Biostrings",
         "VariantAnnotation",
         "SummarizedExperiment",
         "rtracklayer",
@@ -6027,7 +5567,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "Biostrings",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -6049,8 +5588,7 @@
         "scatterpie",
         "ggtree",
         "KEGGREST",
-        "DO.db",
-        "Biostrings"
+        "DO.db"
     ],
     "MAI": [
         "caret",
@@ -6075,8 +5613,7 @@
     "mAPKL": [
         "AnnotationDbi",
         "reactome.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "maPredictDSC": [
         "gcrma",
@@ -6085,7 +5622,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "recipes",
-        "Biostrings",
         "org.Hs.eg.db"
     ],
     "marr": [
@@ -6099,7 +5635,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -6110,8 +5645,7 @@
         "AnnotationFilter"
     ],
     "maskBAD": [
-        "gcrma",
-        "Biostrings"
+        "gcrma"
     ],
     "MAST": [
         "SingleCellExperiment",
@@ -6124,7 +5658,6 @@
     ],
     "MatrixRider": [
         "TFBSTools",
-        "Biostrings",
         "BSgenome",
         "CNEr",
         "rtracklayer",
@@ -6146,8 +5679,7 @@
         "oligoClasses",
         "GWASTools",
         "logistf",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "MBQN": [
         "SummarizedExperiment"
@@ -6158,8 +5690,7 @@
         "org.Hs.eg.db",
         "WGCNA",
         "KEGGREST",
-        "Hmisc",
-        "Biostrings"
+        "Hmisc"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -6168,7 +5699,6 @@
         "Gviz",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "ensembldb",
         "BSgenome",
@@ -6186,7 +5716,6 @@
     ],
     "MDTS": [
         "GenomicAlignments",
-        "Biostrings",
         "Rsamtools",
         "SummarizedExperiment"
     ],
@@ -6204,7 +5733,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -6230,7 +5758,6 @@
         "minfi",
         "SummarizedExperiment",
         "wateRmelon",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -6254,7 +5781,6 @@
     "MEDIPS": [
         "BSgenome",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "rtracklayer",
         "AnnotationDbi",
@@ -6263,7 +5789,6 @@
         "SummarizedExperiment"
     ],
     "MEDME": [
-        "Biostrings",
         "drc",
         "car",
         "pbkrtest",
@@ -6277,13 +5802,11 @@
         "BPRMeth"
     ],
     "memes": [
-        "Biostrings",
         "universalmotif"
     ],
     "MeSHDbi": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "meshes": [
         "AnnotationDbi",
@@ -6297,8 +5820,7 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "meshr": [
         "MeSHDbi",
@@ -6306,11 +5828,9 @@
         "AnnotationDbi",
         "GSEABase",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MesKit": [
-        "Biostrings",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -6337,7 +5857,6 @@
         "MWASTools",
         "mygene",
         "ensembldb",
-        "Biostrings",
         "car",
         "SummarizedExperiment",
         "GenomicFeatures",
@@ -6376,7 +5895,6 @@
         "EnsDb.Hsapiens.v86",
         "AnnotationFilter",
         "AnnotationDbi",
-        "Biostrings",
         "SummarizedExperiment",
         "biomaRt",
         "KEGGREST"
@@ -6385,8 +5903,7 @@
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "metaMS": [
         "CAMERA",
@@ -6406,7 +5923,6 @@
         "DESeq2",
         "baySeq",
         "biomaRt",
-        "Biostrings",
         "DSS",
         "EDASeq",
         "genefilter",
@@ -6436,7 +5952,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "Biostrings",
         "AnnotationDbi",
         "AnnotationFilter",
         "rtracklayer",
@@ -6449,15 +5964,12 @@
         "metap"
     ],
     "MetCirc": [],
-    "methimpute": [
-        "Biostrings"
-    ],
+    "methimpute": [],
     "methInheritSim": [
         "methylKit",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -6472,24 +5984,19 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "methrix": [
         "SummarizedExperiment",
         "rtracklayer",
         "BSgenome",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "MethTargetedNGS": [
-        "Biostrings"
-    ],
+    "MethTargetedNGS": [],
     "MethylAid": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -6512,7 +6019,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "siggenes",
@@ -6535,7 +6041,6 @@
         "rstatix",
         "ExperimentHubData",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -6577,7 +6082,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "Biostrings",
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "GenomicFeatures",
@@ -6594,7 +6098,6 @@
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -6602,19 +6105,16 @@
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "methylscaper": [
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "MethylSeekR": [
         "rtracklayer",
         "BSgenome",
         "geneplotter",
-        "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
         "GenomicAlignments",
@@ -6626,7 +6126,6 @@
         "DSS",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -6641,7 +6140,6 @@
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "bumphunter",
@@ -6662,21 +6160,18 @@
     "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MGFR": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "mia": [
         "SummarizedExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
-        "Biostrings",
         "DECIPHER",
         "scuttle",
         "scater",
@@ -6695,19 +6190,16 @@
         "ggtree",
         "SingleCellExperiment",
         "MultiAssayExperiment",
-        "Biostrings",
         "DECIPHER",
         "scuttle",
         "BiocNeighbors",
         "BiocSingular"
     ],
     "microbiome": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "microbiomeDASim": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "microbiomeExplorer": [
         "DESeq2",
@@ -6720,15 +6212,13 @@
         "geneplotter",
         "dendextend",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "microbiomeMarker": [
         "phyloseq",
         "coin",
         "ggtree",
         "DESeq2",
-        "Biostrings",
         "ANCOMBC",
         "caret",
         "ALDEx2",
@@ -6751,19 +6241,15 @@
         "scatterpie",
         "ggtree",
         "KEGGREST",
-        "DO.db",
-        "Biostrings"
+        "DO.db"
     ],
     "MicrobiotaProcess": [
-        "Biostrings",
         "ggtree",
         "coin",
         "SummarizedExperiment",
         "ggtreeExtra"
     ],
-    "microRNA": [
-        "Biostrings"
-    ],
+    "microRNA": [],
     "midasHLA": [
         "MultiAssayExperiment",
         "HardyWeinberg",
@@ -6778,8 +6264,7 @@
         "KEGGREST",
         "Category",
         "AnnotationForge",
-        "genefilter",
-        "Biostrings"
+        "genefilter"
     ],
     "miloR": [
         "BiocNeighbors",
@@ -6793,7 +6278,6 @@
         "oligo",
         "oligoClasses",
         "gcrma",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "MIMOSA": [],
@@ -6816,7 +6300,6 @@
         "org.Hs.eg.db",
         "GSEABase",
         "genefilter",
-        "Biostrings",
         "rtracklayer",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -6829,7 +6312,6 @@
     ],
     "minfi": [
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -6845,7 +6327,6 @@
         "VanillaICE",
         "SummarizedExperiment",
         "oligoClasses",
-        "Biostrings",
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
@@ -6862,22 +6343,19 @@
         "bsseq",
         "SummarizedExperiment",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "MiRaGE": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "mirIntegrator": [
         "ROntoTools",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "miRLAB": [
         "Hmisc",
@@ -6892,8 +6370,7 @@
         "GO.db",
         "AnnotationForge",
         "biomaRt",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "miRmine": [
         "SummarizedExperiment"
@@ -6901,13 +6378,11 @@
     "miRNAmeConverter": [
         "miRBaseVersions.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "miRNAtap": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "miRSM": [
         "WGCNA",
@@ -6936,8 +6411,7 @@
         "reactome.db",
         "graphite",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "miRspongeR": [
         "clusterProfiler",
@@ -6954,8 +6428,7 @@
         "graphite",
         "KEGGREST",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -6972,7 +6445,6 @@
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "GenomicFeatures",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -6993,7 +6465,6 @@
     "mitoClone2": [
         "deepSNV",
         "SummarizedExperiment",
-        "Biostrings",
         "VariantAnnotation",
         "Rsamtools",
         "AnnotationDbi",
@@ -7007,13 +6478,11 @@
     "MLInterfaces": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MLP": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MLSeq": [
         "caret",
@@ -7023,8 +6492,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MMAPPR2": [
         "ensemblVEP",
@@ -7032,7 +6500,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "VariantTools",
-        "Biostrings",
         "SummarizedExperiment",
         "rtracklayer",
         "GenomicFeatures",
@@ -7045,7 +6512,6 @@
     "MMDiff2": [
         "Rsamtools",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -7066,27 +6532,22 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MODA": [
         "WGCNA",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "Modstrings": [
-        "Biostrings"
-    ],
+    "Modstrings": [],
     "mogsa": [
         "graphite",
         "genefilter",
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MOMA": [
         "MultiAssayExperiment",
@@ -7094,7 +6555,6 @@
     ],
     "monaLisa": [
         "TFBSTools",
-        "Biostrings",
         "BSgenome",
         "SummarizedExperiment",
         "rtracklayer",
@@ -7120,19 +6580,16 @@
         "KEGGREST",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "mosaics": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "mosbi": [],
     "motifbreakR": [
         "MotifDb",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "VariantAnnotation",
@@ -7150,11 +6607,8 @@
         "Hmisc",
         "AnnotationFilter"
     ],
-    "motifcounter": [
-        "Biostrings"
-    ],
+    "motifcounter": [],
     "MotifDb": [
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -7162,7 +6616,6 @@
     ],
     "motifmatchr": [
         "TFBSTools",
-        "Biostrings",
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
@@ -7173,14 +6626,11 @@
         "KEGGREST",
         "AnnotationDbi"
     ],
-    "motifStack": [
-        "Biostrings"
-    ],
+    "motifStack": [],
     "MouseFM": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "mpra": [
         "SummarizedExperiment"
@@ -7195,9 +6645,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "msa": [
-        "Biostrings"
-    ],
+    "msa": [],
     "MsFeatures": [
         "SummarizedExperiment"
     ],
@@ -7209,7 +6657,6 @@
         "ggbio",
         "Rsamtools",
         "SummarizedExperiment",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "genomeIntervals",
@@ -7242,7 +6689,6 @@
     ],
     "MSnID": [
         "msmsTests",
-        "Biostrings",
         "AnnotationHub",
         "AnnotationDbi",
         "KEGGREST",
@@ -7257,8 +6703,7 @@
         "pbkrtest",
         "lme4",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "msqrob2": [
         "QFeatures",
@@ -7272,7 +6717,6 @@
     ],
     "MSstatsLiP": [
         "MSstats",
-        "Biostrings",
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
@@ -7290,7 +6734,6 @@
     "MSstatsPTM": [
         "MSstatsTMT",
         "MSstats",
-        "Biostrings",
         "lme4",
         "lmerTest"
     ],
@@ -7325,7 +6768,6 @@
         "dendextend"
     ],
     "multicrispr": [
-        "Biostrings",
         "BSgenome",
         "CRISPRseek",
         "GenomicFeatures",
@@ -7355,21 +6797,18 @@
         "graphite",
         "AnnotationDbi",
         "metap",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "multiHiCcompare": [
         "HiCcompare",
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "multiMiR": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "multiOmicsViz": [
         "SummarizedExperiment"
@@ -7401,8 +6840,7 @@
         "graphite",
         "KEGGREST",
         "rcmdcheck",
-        "DO.db",
-        "Biostrings"
+        "DO.db"
     ],
     "mumosa": [
         "SingleCellExperiment",
@@ -7416,7 +6854,6 @@
     ],
     "MungeSumstats": [
         "BSgenome",
-        "Biostrings",
         "VariantAnnotation",
         "rtracklayer",
         "Rsamtools",
@@ -7444,16 +6881,12 @@
         "BiocSingular",
         "pbkrtest",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "muscle": [
-        "Biostrings"
-    ],
+    "muscle": [],
     "musicatk": [
         "SummarizedExperiment",
         "VariantAnnotation",
-        "Biostrings",
         "BSgenome",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -7483,7 +6916,6 @@
     "MutationalPatterns": [
         "BSgenome",
         "VariantAnnotation",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "SummarizedExperiment",
@@ -7498,14 +6930,12 @@
         "SummarizedExperiment",
         "KEGGREST",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "mygene": [
         "GenomicFeatures",
         "Hmisc",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
@@ -7518,7 +6948,6 @@
         "Hmisc",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -7537,7 +6966,6 @@
         "ATACseqQC",
         "csaw",
         "BSgenome",
-        "Biostrings",
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
@@ -7563,26 +6991,21 @@
         "Rsamtools",
         "KEGGREST",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "NanoStringNCTools": [
-        "Biostrings"
-    ],
+    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "nanotatoR": [
         "AnnotationDbi",
         "tidyverse",
         "org.Hs.eg.db",
         "KEGGREST",
-        "modelr",
-        "Biostrings"
+        "modelr"
     ],
     "NanoTube": [],
     "NBAMSeq": [
@@ -7591,8 +7014,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "NBSplice": [
         "car",
@@ -7614,7 +7036,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicAlignments",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
@@ -7635,8 +7056,7 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "netboxr": [
         "clusterProfiler",
@@ -7649,8 +7069,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "netDx": [
         "MultiAssayExperiment",
@@ -7662,8 +7081,7 @@
         "GO.db",
         "RandomWalkRestartMH",
         "gprofiler2",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "netresponse": [
         "dmt"
@@ -7674,8 +7092,7 @@
         "AnnotationDbi",
         "GO.db",
         "KEGGREST",
-        "Hmisc",
-        "Biostrings"
+        "Hmisc"
     ],
     "netSmooth": [
         "scater",
@@ -7689,8 +7106,7 @@
         "BiocNeighbors",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "networkBMA": [],
     "NeuCA": [
@@ -7704,9 +7120,7 @@
         "SingleCellExperiment",
         "BiocSingular"
     ],
-    "ngsReports": [
-        "Biostrings"
-    ],
+    "ngsReports": [],
     "nondetects": [
         "arm",
         "lme4"
@@ -7720,7 +7134,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "AnnotationDbi",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -7736,7 +7149,6 @@
     "normr": [
         "bamsignals",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -7745,11 +7157,9 @@
     "npGSEA": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "nucleR": [
-        "Biostrings",
         "Rsamtools",
         "ShortRead",
         "GenomicAlignments",
@@ -7761,13 +7171,11 @@
         "SummarizedExperiment",
         "rtracklayer",
         "GenomicAlignments",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
         "AnnotationHub",
-        "Biostrings",
         "BSgenome",
         "genefilter",
         "rtracklayer",
@@ -7794,7 +7202,6 @@
         "Hmisc",
         "Rsamtools",
         "rstatix",
-        "Biostrings",
         "KEGGREST",
         "biomaRt",
         "VariantAnnotation",
@@ -7805,20 +7212,16 @@
     ],
     "odseq": [
         "msa",
-        "kebabs",
-        "Biostrings"
+        "kebabs"
     ],
     "oligo": [
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "oligoClasses": [
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "OmaDB": [
-        "Biostrings",
         "topGO",
         "GO.db",
         "AnnotationDbi",
@@ -7849,8 +7252,7 @@
         "car",
         "AnnotationDbi",
         "KEGGREST",
-        "pbkrtest",
-        "Biostrings"
+        "pbkrtest"
     ],
     "OmicsLonDA": [
         "SummarizedExperiment"
@@ -7865,7 +7267,6 @@
         "dendextend",
         "ggpubr",
         "car",
-        "Biostrings",
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -7890,8 +7291,7 @@
     "OncoScore": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "OncoSimulR": [
         "car",
@@ -7902,8 +7302,7 @@
     "ontoProc": [
         "AnnotationDbi",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "openCyto": [
         "flowWorkspace",
@@ -7914,13 +7313,11 @@
         "rainbow"
     ],
     "openPrimeR": [
-        "Biostrings",
         "DECIPHER",
         "Hmisc"
     ],
     "openPrimeRui": [
         "openPrimeR",
-        "Biostrings",
         "DECIPHER",
         "Hmisc"
     ],
@@ -7935,8 +7332,7 @@
     "oposSOM": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "oppar": [
         "GSEABase",
@@ -7945,8 +7341,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "BiocSingular",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "oppti": [
         "devtools",
@@ -7957,7 +7352,6 @@
     ],
     "OPWeight": [],
     "ORFhunteR": [
-        "Biostrings",
         "rtracklayer",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome",
@@ -7968,7 +7362,6 @@
     "ORFik": [
         "GenomicAlignments",
         "AnnotationDbi",
-        "Biostrings",
         "biomartr",
         "BSgenome",
         "DESeq2",
@@ -7986,7 +7379,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -7997,7 +7389,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -8014,7 +7405,6 @@
     ],
     "OTUbase": [
         "ShortRead",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -8027,7 +7417,6 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "dendextend",
@@ -8042,12 +7431,9 @@
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "packFinder": [
-        "Biostrings"
-    ],
+    "packFinder": [],
     "padma": [
         "SummarizedExperiment",
         "FactoMineR",
@@ -8061,13 +7447,11 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "Biostrings"
+        "org.Hs.eg.db"
     ],
     "pageRank": [
         "motifmatchr",
         "TFBSTools",
-        "Biostrings",
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
@@ -8083,14 +7467,12 @@
     ],
     "pairkat": [
         "KEGGREST",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "panelcn.mops": [
         "cn.mops",
         "Rsamtools",
-        "exomeCopy",
-        "Biostrings"
+        "exomeCopy"
     ],
     "PanVizGenerator": [
         "FindMyFriends"
@@ -8098,7 +7480,6 @@
     "parglms": [],
     "PAST": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -8111,20 +7492,17 @@
         "genefilter",
         "geneplotter",
         "rcmdcheck",
-        "Biostrings",
         "AnnotationDbi",
         "KEGGREST"
     ],
     "pathRender": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "pathview": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "pcaExplorer": [
         "DESeq2",
@@ -8141,8 +7519,7 @@
         "Category",
         "AnnotationForge",
         "dendextend",
-        "GSEABase",
-        "Biostrings"
+        "GSEABase"
     ],
     "PCAtools": [
         "BiocSingular"
@@ -8166,12 +7543,10 @@
         "KEGGREST",
         "car",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "pdInfoBuilder": [
         "oligo",
-        "Biostrings",
         "oligoClasses",
         "SummarizedExperiment"
     ],
@@ -8183,8 +7558,7 @@
         "genefilter",
         "aroma.affymetrix",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "peco": [
         "scater",
@@ -8198,11 +7572,9 @@
         "fields"
     ],
     "PERFect": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "periodicDNA": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -8220,8 +7592,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "phantasus": [
         "AnnotationDbi",
@@ -8229,8 +7600,7 @@
         "KEGGREST",
         "SummarizedExperiment",
         "genefilter",
-        "geneplotter",
-        "Biostrings"
+        "geneplotter"
     ],
     "PharmacoGx": [
         "CoreGx",
@@ -8260,8 +7630,7 @@
         "genefilter",
         "hgu133a.db",
         "KEGGREST",
-        "org.Hs.eg.db",
-        "Biostrings"
+        "org.Hs.eg.db"
     ],
     "PhenStat": [
         "car",
@@ -8285,7 +7654,6 @@
         "lme4"
     ],
     "PhyloProfile": [
-        "Biostrings",
         "ExperimentHub",
         "OmaDB",
         "AnnotationHub",
@@ -8294,9 +7662,7 @@
         "GO.db",
         "KEGGREST"
     ],
-    "phyloseq": [
-        "Biostrings"
-    ],
+    "phyloseq": [],
     "Pi": [
         "caret",
         "ggnetwork",
@@ -8306,8 +7672,7 @@
     "PICS": [
         "Rsamtools",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "Pigengene": [
         "WGCNA",
@@ -8325,15 +7690,13 @@
         "KEGGREST",
         "DO.db",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "PING": [
         "PICS",
         "Gviz",
         "fda",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "fds",
@@ -8362,7 +7725,6 @@
     ],
     "pipeFrame": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -8377,16 +7739,14 @@
         "AnnotationForge",
         "KEGGREST",
         "GSEABase",
-        "genefilter",
-        "Biostrings"
+        "genefilter"
     ],
     "plotgardener": [
         "plyranges",
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "plotGrouper": [
         "ggpubr",
@@ -8400,8 +7760,7 @@
         "rtracklayer",
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "pmm": [
         "lme4"
@@ -8411,7 +7770,6 @@
     ],
     "podkat": [
         "Rsamtools",
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "GenomicAlignments",
@@ -8421,12 +7779,9 @@
         "ontoProc",
         "AnnotationDbi",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "polyester": [
-        "Biostrings"
-    ],
+    "polyester": [],
     "POMA": [
         "caret",
         "ggraph",
@@ -8436,8 +7791,7 @@
         "org.Hs.eg.db",
         "graphite",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "POWSC": [
         "SingleCellExperiment",
@@ -8453,32 +7807,26 @@
         "biomaRt",
         "STRINGdb",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ppiStats": [
         "Category",
         "AnnotationDbi",
         "GSEABase",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "pqsfinder": [
-        "Biostrings"
-    ],
+    "pqsfinder": [],
     "pram": [
         "GenomicAlignments",
         "rtracklayer",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "prebs": [
         "GenomicAlignments",
         "RPA",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "phyloseq"
     ],
@@ -8494,7 +7842,6 @@
         "AnnotationDbi",
         "aCGH",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -8505,18 +7852,15 @@
         "cgdsr",
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "PREDA": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "predictionet": [],
     "primirTSS": [
         "rtracklayer",
-        "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg38",
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
@@ -8553,14 +7897,12 @@
         "KEGGREST",
         "genefilter",
         "geneplotter",
-        "Biostrings",
         "Rsamtools",
         "rtracklayer",
         "biomaRt"
     ],
     "proBAMr": [
         "AnnotationDbi",
-        "Biostrings",
         "GenomicFeatures",
         "rtracklayer",
         "KEGGREST",
@@ -8578,12 +7920,10 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "procoil": [
-        "kebabs",
-        "Biostrings"
+        "kebabs"
     ],
     "proDA": [
         "SummarizedExperiment"
@@ -8612,7 +7952,6 @@
         "Rsamtools",
         "AnnotationDbi",
         "enrichplot",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments",
         "chipseq",
@@ -8640,8 +7979,7 @@
         "AnnotationDbi",
         "recipes",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "pRolocGUI": [
         "pRoloc",
@@ -8652,21 +7990,18 @@
         "AnnotationDbi",
         "recipes",
         "genefilter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "PROMISE": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "PROPS": [
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Prostar": [
         "DAPAR",
@@ -8699,12 +8034,10 @@
         "scatterpie",
         "ggtree",
         "rstatix",
-        "Biostrings",
         "geepack",
         "ggformula"
     ],
     "ProteoDisco": [
-        "Biostrings",
         "cleaver",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -8720,7 +8053,6 @@
     "ProteomicsAnnotationHubData": [
         "AnnotationHub",
         "AnnotationHubData",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "Rsamtools",
@@ -8736,8 +8068,7 @@
     "ProteoMM": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "psichomics": [
         "AnnotationDbi",
@@ -8754,7 +8085,6 @@
         "GenomicFiles",
         "Hmisc",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -8762,8 +8092,7 @@
     "PSICQUIC": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "psygenet2r": [
         "biomaRt",
@@ -8771,8 +8100,7 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ptairMS": [
         "ggpubr",
@@ -8789,7 +8117,6 @@
     "puma": [
         "oligo",
         "oligoClasses",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "PureCN": [
@@ -8797,7 +8124,6 @@
         "SummarizedExperiment",
         "GenomicFeatures",
         "Rsamtools",
-        "Biostrings",
         "rtracklayer",
         "AnnotationDbi",
         "biomaRt",
@@ -8811,7 +8137,6 @@
     "Pviz": [
         "Gviz",
         "biovizBase",
-        "Biostrings",
         "Hmisc",
         "SummarizedExperiment",
         "Rsamtools",
@@ -8826,16 +8151,13 @@
         "BSgenome",
         "KEGGREST"
     ],
-    "PWMEnrich": [
-        "Biostrings"
-    ],
+    "PWMEnrich": [],
     "pwOmics": [
         "STRINGdb",
         "AnnotationDbi",
         "biomaRt",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "pwrEWAS": [
         "genefilter",
@@ -8843,12 +8165,10 @@
         "AnnotationDbi",
         "ExperimentHub",
         "KEGGREST",
-        "AnnotationHub",
-        "Biostrings"
+        "AnnotationHub"
     ],
     "QDNAseq": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "QFeatures": [
         "MultiAssayExperiment",
@@ -8859,18 +8179,14 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "qPLEXanalyzer": [
-        "Biostrings"
-    ],
+    "qPLEXanalyzer": [],
     "qrqc": [
-        "Biostrings",
         "biovizBase",
         "Hmisc",
         "SummarizedExperiment",
@@ -8887,7 +8203,6 @@
         "BSgenome"
     ],
     "qsea": [
-        "Biostrings",
         "rtracklayer",
         "BSgenome",
         "Rsamtools",
@@ -8900,12 +8215,9 @@
         "Hmisc",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "QSutils": [
-        "Biostrings"
-    ],
+    "QSutils": [],
     "Qtlizer": [],
     "quantiseqr": [
         "SummarizedExperiment"
@@ -8913,7 +8225,6 @@
     "quantro": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -8928,11 +8239,9 @@
     "QuartPAC": [
         "iPAC",
         "GraphPAC",
-        "SpacePAC",
-        "Biostrings"
+        "SpacePAC"
     ],
     "QuasR": [
-        "Biostrings",
         "BSgenome",
         "Rsamtools",
         "GenomicFeatures",
@@ -8951,7 +8260,6 @@
         "ggbio",
         "biovizBase",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -8968,13 +8276,11 @@
     "r3Cseq": [
         "Rsamtools",
         "rtracklayer",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "R453Plus1Toolbox": [
         "VariantAnnotation",
-        "Biostrings",
         "SummarizedExperiment",
         "biomaRt",
         "BSgenome",
@@ -8986,9 +8292,7 @@
         "GenomicFeatures",
         "KEGGREST"
     ],
-    "R4RNA": [
-        "Biostrings"
-    ],
+    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "SummarizedExperiment",
@@ -9004,7 +8308,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "SummarizedExperiment",
         "KEGGREST"
@@ -9019,7 +8322,6 @@
         "phastCons100way.UCSC.hg19",
         "SummarizedExperiment",
         "GenomicScores",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
@@ -9030,27 +8332,23 @@
     ],
     "Rbec": [
         "dada2",
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "Rbowtie2": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "Rcade": [
         "Rsamtools",
         "baySeq",
         "GenomicAlignments",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "RCAS": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "Biostrings",
         "rtracklayer",
         "GenomicFeatures",
         "genomation",
@@ -9072,7 +8370,6 @@
         "AnnotationDbi",
         "aCGH",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -9084,16 +8381,13 @@
         "GSEABase",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "RCM": [
         "tseries",
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "Rcpi": [
-        "Biostrings",
         "GOSemSim",
         "fmcsR",
         "AnnotationDbi",
@@ -9119,16 +8413,14 @@
         "GOSemSim",
         "scatterpie",
         "ggtree",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "REBET": [],
     "receptLoss": [
         "SummarizedExperiment"
     ],
     "reconsi": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "recount": [
         "SummarizedExperiment",
@@ -9141,7 +8433,6 @@
         "GenomicFiles",
         "Hmisc",
         "Rsamtools",
-        "Biostrings",
         "KEGGREST",
         "biomaRt",
         "VariantAnnotation",
@@ -9150,7 +8441,6 @@
     "recount3": [
         "SummarizedExperiment",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -9158,7 +8448,6 @@
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -9173,7 +8462,6 @@
     "recoup": [
         "GenomicAlignments",
         "biomaRt",
-        "Biostrings",
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
@@ -9183,7 +8471,6 @@
     ],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
-        "Biostrings",
         "BSgenome",
         "ChIPpeakAnno",
         "AnnotationDbi",
@@ -9201,8 +8488,7 @@
     ],
     "RefPlus": [
         "affyPLM",
-        "gcrma",
-        "Biostrings"
+        "gcrma"
     ],
     "RegEnrich": [
         "BiocSet",
@@ -9217,12 +8503,10 @@
         "DO.db",
         "GOSemSim",
         "Hmisc",
-        "GO.db",
-        "Biostrings"
+        "GO.db"
     ],
     "regioneR": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -9244,7 +8528,6 @@
         "genefilter",
         "geneplotter",
         "KEGGREST",
-        "Biostrings",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -9255,7 +8538,6 @@
     "regutools": [
         "AnnotationDbi",
         "AnnotationHub",
-        "Biostrings",
         "Gviz",
         "KEGGREST",
         "rtracklayer",
@@ -9275,7 +8557,6 @@
         "SummarizedExperiment",
         "minfi",
         "rtracklayer",
-        "Biostrings",
         "caret",
         "BSgenome",
         "AnnotationHub",
@@ -9292,7 +8573,6 @@
         "biomaRt"
     ],
     "Repitools": [
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "rtracklayer",
@@ -9317,7 +8597,6 @@
         "geneplotter",
         "Hmisc",
         "biovizBase",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "BSgenome",
@@ -9335,13 +8614,11 @@
         "Rsamtools",
         "biomaRt",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST"
     ],
     "ReQON": [
         "Rsamtools",
-        "seqbias",
-        "Biostrings"
+        "seqbias"
     ],
     "restfulSE": [
         "SummarizedExperiment",
@@ -9349,8 +8626,7 @@
         "GO.db",
         "ExperimentHub",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "rexposome": [
         "FactoMineR",
@@ -9359,15 +8635,11 @@
         "car",
         "pbkrtest"
     ],
-    "rfaRm": [
-        "Biostrings"
-    ],
+    "rfaRm": [],
     "rfPred": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "rGADEM": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -9379,13 +8651,11 @@
         "rGenomeTracksData",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Rgin": [],
     "RGMQL": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -9405,7 +8675,6 @@
         "geneLenDataBase",
         "rtracklayer",
         "GenomicFeatures",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -9413,7 +8682,6 @@
         "GenomicFeatures",
         "SGSeq",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -9423,7 +8691,6 @@
     ],
     "RiboCrypt": [
         "ORFik",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "rtracklayer",
@@ -9447,7 +8714,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -9455,7 +8721,6 @@
         "KEGGREST"
     ],
     "RiboProfiling": [
-        "Biostrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "ggbio",
@@ -9475,12 +8740,10 @@
     ],
     "riboSeqR": [
         "Rsamtools",
-        "baySeq",
-        "Biostrings"
+        "baySeq"
     ],
     "ribosomeProfilingQC": [
         "AnnotationDbi",
-        "Biostrings",
         "BSgenome",
         "EDASeq",
         "GenomicAlignments",
@@ -9498,8 +8761,7 @@
     "Ringo": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "RIPAT": [
         "biomaRt",
@@ -9513,7 +8775,6 @@
         "bamsignals",
         "VariantAnnotation",
         "BSgenome",
-        "Biostrings",
         "GenomicAlignments",
         "KEGGREST",
         "Hmisc",
@@ -9532,13 +8793,11 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "RJMCMCNucleosomes": [
         "consensusSeekeR",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -9553,7 +8812,6 @@
         "RLHub",
         "AnnotationDbi",
         "caret",
-        "Biostrings",
         "biomaRt",
         "BSgenome",
         "ExperimentHub",
@@ -9579,14 +8837,12 @@
         "Rsamtools",
         "GenomicFeatures",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "GenomicAlignments"
     ],
     "rmspc": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -9605,7 +8861,6 @@
         "GenomicFiles",
         "Hmisc",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "VariantAnnotation",
         "BSgenome"
@@ -9617,7 +8872,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -9631,12 +8885,10 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "RNAmodR": [
         "Modstrings",
-        "Biostrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -9662,7 +8914,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -9676,7 +8927,6 @@
     "RNAmodR.ML": [
         "RNAmodR",
         "Modstrings",
-        "Biostrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -9702,7 +8952,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -9730,7 +8979,6 @@
         "org.Hs.eg.db",
         "org.Sc.sgd.db",
         "DOSE",
-        "Biostrings",
         "sva",
         "rtracklayer",
         "AnnotationDbi",
@@ -9759,8 +9007,7 @@
     "RnaSeqSampleSize": [
         "biomaRt",
         "KEGGREST",
-        "AnnotationDbi",
-        "Biostrings"
+        "AnnotationDbi"
     ],
     "RnBeads": [
         "fields",
@@ -9774,7 +9021,6 @@
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "bumphunter",
@@ -9787,7 +9033,6 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "rtracklayer",
-        "Biostrings",
         "Rsamtools"
     ],
     "ROCpAI": [
@@ -9795,26 +9040,22 @@
         "fission"
     ],
     "ROntoTools": [
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ropls": [
         "MultiDataSet",
         "SummarizedExperiment"
     ],
     "RPA": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "RpsiXML": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "rpx": [],
     "Rqc": [
         "ShortRead",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -9840,25 +9081,19 @@
         "lme4",
         "MultiDataSet"
     ],
-    "rRDP": [
-        "Biostrings"
-    ],
+    "rRDP": [],
     "RRHO": [],
     "rrvgo": [
         "GOSemSim",
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "Rsamtools": [
-        "Biostrings"
-    ],
+    "Rsamtools": [],
     "rScudo": [
         "SummarizedExperiment"
     ],
     "RSVSim": [
-        "Biostrings",
         "ShortRead",
         "Rsamtools",
         "GenomicAlignments",
@@ -9881,7 +9116,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -9912,7 +9146,6 @@
         "lme4"
     ],
     "rtracklayer": [
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -9922,15 +9155,13 @@
     ],
     "rTRM": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "rTRMui": [
         "rTRM",
         "MotifDb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "Biostrings",
         "rtracklayer",
         "AnnotationDbi",
         "KEGGREST",
@@ -9946,7 +9177,6 @@
         "ShortRead",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
@@ -9957,32 +9187,24 @@
     "RVS": [],
     "safe": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SAIGEgds": [
-        "SeqArray",
-        "Biostrings"
+        "SeqArray"
     ],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
         "AnnotationDbi",
         "biomaRt",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sangeranalyseR": [
-        "Biostrings",
         "DECIPHER",
         "sangerseqR"
     ],
-    "sangerseqR": [
-        "Biostrings"
-    ],
-    "sarks": [
-        "Biostrings"
-    ],
+    "sangerseqR": [],
+    "sarks": [],
     "satuRn": [
         "SummarizedExperiment"
     ],
@@ -9991,7 +9213,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "org.Hs.eg.db"
     ],
     "SC3": [
@@ -10008,7 +9229,6 @@
     ],
     "SCAN.UPC": [
         "oligo",
-        "Biostrings",
         "sva",
         "oligoClasses",
         "genefilter",
@@ -10016,14 +9236,11 @@
         "SummarizedExperiment",
         "KEGGREST"
     ],
-    "scanMiR": [
-        "Biostrings"
-    ],
+    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationDbi",
         "AnnotationFilter",
         "AnnotationHub",
-        "Biostrings",
         "ensembldb",
         "GenomicFeatures",
         "rtracklayer",
@@ -10042,12 +9259,10 @@
         "AnnotationHub",
         "AnnotationDbi",
         "recipes",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SCANVIS": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -10060,7 +9275,6 @@
         "SCATEData",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "ExperimentHub",
         "AnnotationHub",
@@ -10082,8 +9296,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "scCB2": [
         "SingleCellExperiment",
@@ -10104,8 +9317,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "scDataviz": [
         "SingleCellExperiment",
@@ -10151,8 +9363,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "schex": [
         "SingleCellExperiment",
@@ -10183,7 +9394,6 @@
         "BSgenome",
         "annotatr",
         "SummarizedExperiment",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "regioneR",
@@ -10205,7 +9415,6 @@
         "ShortRead",
         "Rsamtools",
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
@@ -10217,13 +9426,11 @@
         "Rsamtools",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "scoreInvHap": [
-        "Biostrings",
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
@@ -10253,7 +9460,6 @@
         "rtracklayer",
         "scater",
         "KEGGREST",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "scuttle",
@@ -10284,7 +9490,6 @@
         "Rsamtools",
         "ShortRead",
         "AnnotationDbi",
-        "Biostrings",
         "ggbio",
         "rtracklayer",
         "SingleCellExperiment",
@@ -10334,8 +9539,7 @@
         "graphite",
         "concaveman",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "scTGIF": [
         "GSEABase",
@@ -10346,8 +9550,7 @@
         "AnnotationDbi",
         "fields",
         "concaveman",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "scTreeViz": [
         "epivizr",
@@ -10370,7 +9573,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "KEGGREST",
         "GenomicAlignments"
@@ -10400,7 +9602,6 @@
         "scatterpie",
         "GOSemSim",
         "ggtree",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -10411,13 +9612,11 @@
         "baySeq",
         "ShortRead",
         "Rsamtools",
-        "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "selectKSigs": [
         "HiLDA",
-        "Biostrings",
         "GenomicFeatures",
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -10430,14 +9629,11 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "SELEX": [
-        "Biostrings"
-    ],
+    "SELEX": [],
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "seq2pathway": [
         "WGCNA",
@@ -10445,20 +9641,14 @@
         "AnnotationDbi",
         "Hmisc",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "SeqArray": [
-        "Biostrings"
-    ],
-    "seqbias": [
-        "Biostrings"
-    ],
+    "SeqArray": [],
+    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation",
         "rtracklayer",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "AnnotationDbi",
@@ -10467,9 +9657,7 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "seqcombo": [
-        "Biostrings"
-    ],
+    "seqcombo": [],
     "SeqGate": [
         "SummarizedExperiment"
     ],
@@ -10480,31 +9668,25 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
-    "seqPattern": [
-        "Biostrings"
-    ],
+    "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "SeqSQC": [
         "ExperimentHub",
         "rbokeh",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SeqVarTools": [
         "SeqArray",
-        "logistf",
-        "Biostrings"
+        "logistf"
     ],
     "sesame": [
         "sesameData",
@@ -10512,8 +9694,7 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SEtools": [
         "SummarizedExperiment",
@@ -10522,14 +9703,12 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sevenC": [
         "InteractionSet",
         "rtracklayer",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -10537,7 +9716,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "GenomicAlignments",
         "GenomicFeatures",
         "rtracklayer",
@@ -10550,7 +9728,6 @@
         "rtracklayer",
         "dendextend",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -10565,7 +9742,6 @@
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -10578,26 +9754,22 @@
         "GenomicAlignments"
     ],
     "ShortRead": [
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "SIAMCAT": [
         "mlr",
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "SICtools": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "SigCheck": [
         "MLInterfaces",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sigFeature": [
         "SummarizedExperiment"
@@ -10621,12 +9793,10 @@
         "AnnotationHub",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "signeR": [
         "VariantAnnotation",
-        "Biostrings",
         "SummarizedExperiment",
         "Rsamtools",
         "AnnotationDbi",
@@ -10640,7 +9810,6 @@
     "SigsPack": [
         "BSgenome",
         "VariantAnnotation",
-        "Biostrings",
         "rtracklayer",
         "SummarizedExperiment",
         "Rsamtools",
@@ -10653,18 +9822,15 @@
     "SIM": [
         "globaltest",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SimFFPE": [
-        "Biostrings",
         "Rsamtools"
     ],
     "simplifyEnrichment": [
@@ -10672,8 +9838,7 @@
         "GO.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sincell": [
         "fields"
@@ -10733,7 +9898,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "org.Hs.eg.db",
         "reldist",
@@ -10742,7 +9906,6 @@
         "GenomicAlignments"
     ],
     "SingleMoleculeFootprinting": [
-        "Biostrings",
         "BSgenome",
         "QuasR",
         "rtracklayer",
@@ -10766,8 +9929,7 @@
         "GSEABase",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SISPA": [
         "genefilter",
@@ -10777,12 +9939,10 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sitadela": [
         "biomaRt",
-        "Biostrings",
         "GenomicFeatures",
         "Rsamtools",
         "rtracklayer",
@@ -10804,7 +9964,6 @@
         "genefilter",
         "AnnotationDbi",
         "GenomicFeatures",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "lumi",
@@ -10822,15 +9981,13 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SLGI": [
         "ScISI",
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "slingshot": [
         "TrajectoryUtils",
@@ -10852,7 +10009,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "GO.db",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -10863,8 +10019,7 @@
         "tilingArray",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "snapcount": [
         "SummarizedExperiment"
@@ -10878,7 +10033,6 @@
         "DESeq2",
         "VariantAnnotation",
         "SummarizedExperiment",
-        "Biostrings",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -10891,7 +10045,6 @@
     ],
     "soGGi": [
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "rtracklayer",
@@ -10903,7 +10056,6 @@
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
-        "Biostrings",
         "ggbio",
         "Hmisc",
         "biovizBase",
@@ -10921,8 +10073,7 @@
         "biomaRt"
     ],
     "SpacePAC": [
-        "iPAC",
-        "Biostrings"
+        "iPAC"
     ],
     "Spaniel": [
         "SingleCellExperiment",
@@ -10939,12 +10090,10 @@
         "BiocSet",
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sparseDOSSA": [],
     "SparseSignatures": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -10965,8 +10114,7 @@
         "GeomxTools",
         "NanoStringNCTools",
         "lmerTest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "SpatialExperiment": [
         "SingleCellExperiment",
@@ -10989,8 +10137,7 @@
         "KEGGREST",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "Biostrings"
+        "BiocSingular"
     ],
     "spatzie": [
         "BSgenome",
@@ -10999,7 +10146,6 @@
         "motifmatchr",
         "SummarizedExperiment",
         "TFBSTools",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
@@ -11025,8 +10171,7 @@
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "spicyR": [
         "concaveman",
@@ -11051,12 +10196,10 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "Biostrings",
         "DO.db"
     ],
     "spiky": [
         "Rsamtools",
-        "Biostrings",
         "GenomicAlignments",
         "BSgenome",
         "rtracklayer",
@@ -11078,7 +10221,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -11087,11 +10229,9 @@
     "splineTimeR": [
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SPLINTER": [
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11117,7 +10257,6 @@
         "Hmisc",
         "WGCNA",
         "phyloseq",
-        "Biostrings",
         "SummarizedExperiment",
         "GO.db",
         "AnnotationDbi",
@@ -11139,7 +10278,6 @@
         "genefilter",
         "geneplotter",
         "rcmdcheck",
-        "Biostrings",
         "AnnotationDbi",
         "biomaRt",
         "ensembldb",
@@ -11150,9 +10288,7 @@
         "VariantAnnotation",
         "AnnotationFilter"
     ],
-    "sscu": [
-        "Biostrings"
-    ],
+    "sscu": [],
     "ssPATHS": [
         "SummarizedExperiment",
         "MESS",
@@ -11160,8 +10296,7 @@
         "ggformula"
     ],
     "ssviz": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "stageR": [
         "SummarizedExperiment"
@@ -11174,7 +10309,6 @@
         "GenomicFeatures",
         "ensembldb",
         "BSgenome",
-        "Biostrings",
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
@@ -11190,8 +10324,7 @@
         "GSEABase",
         "Category",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -11203,7 +10336,6 @@
         "org.Hs.eg.db",
         "TCGAbiolinks",
         "MAGeCKFlute",
-        "Biostrings",
         "clusterProfiler",
         "enrichplot",
         "biomaRt",
@@ -11221,7 +10353,6 @@
         "Rsamtools",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "SummarizedExperiment",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
@@ -11232,9 +10363,7 @@
     "struct": [
         "SummarizedExperiment"
     ],
-    "Structstrings": [
-        "Biostrings"
-    ],
+    "Structstrings": [],
     "structToolbox": [
         "struct",
         "SummarizedExperiment"
@@ -11242,7 +10371,6 @@
     "StructuralVariantAnnotation": [
         "rtracklayer",
         "VariantAnnotation",
-        "Biostrings",
         "GenomicFeatures",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -11257,8 +10385,7 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "KEGGREST",
-        "recipes",
-        "Biostrings"
+        "recipes"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [
@@ -11267,13 +10394,11 @@
     "SummarizedExperiment": [],
     "supersigs": [
         "caret",
-        "Biostrings",
         "SummarizedExperiment",
         "recipes"
     ],
     "surfaltr": [
         "biomaRt",
-        "Biostrings",
         "msa",
         "AnnotationDbi",
         "KEGGREST"
@@ -11291,20 +10416,17 @@
     "Sushi": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "sva": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "svaNUMT": [
         "rtracklayer",
         "VariantAnnotation",
         "StructuralVariantAnnotation",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "biomaRt",
@@ -11318,7 +10440,6 @@
         "rtracklayer",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
-        "Biostrings",
         "GenomicFeatures",
         "AnnotationDbi",
         "biomaRt",
@@ -11331,8 +10452,7 @@
     "SWATH2stats": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SwathXtend": [],
     "switchde": [
@@ -11351,20 +10471,16 @@
         "lme4"
     ],
     "SynExtend": [
-        "DECIPHER",
-        "Biostrings"
+        "DECIPHER"
     ],
     "synlet": [
         "doBy",
         "pbkrtest",
         "lme4"
     ],
-    "SynMut": [
-        "Biostrings"
-    ],
+    "SynMut": [],
     "systemPipeR": [
         "Rsamtools",
-        "Biostrings",
         "ShortRead",
         "SummarizedExperiment",
         "GenomicAlignments"
@@ -11377,8 +10493,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -11390,8 +10505,7 @@
         "Rsamtools",
         "car",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "tanggle": [
         "ggtree"
@@ -11400,7 +10514,6 @@
         "GenomicAlignments",
         "BSgenome",
         "GenomicFeatures",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "SummarizedExperiment",
@@ -11418,7 +10531,6 @@
     ],
     "TarSeqQC": [
         "Rsamtools",
-        "Biostrings",
         "GenomicAlignments",
         "Hmisc",
         "SummarizedExperiment"
@@ -11436,8 +10548,7 @@
         "SingleCellExperiment",
         "BiocSingular",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TCC": [
         "DESeq2",
@@ -11446,15 +10557,13 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TCGAbiolinks": [
         "biomaRt",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TCGAbiolinksGUI": [
         "SummarizedExperiment",
@@ -11484,7 +10593,6 @@
         "ggraph",
         "scatterpie",
         "ggtree",
-        "Biostrings",
         "rstatix",
         "ensembldb",
         "BSgenome",
@@ -11508,7 +10616,6 @@
         "RaggedExperiment",
         "SummarizedExperiment",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -11517,8 +10624,7 @@
     "TCseq": [
         "SummarizedExperiment",
         "GenomicAlignments",
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "TDARACNE": [
         "GenKern"
@@ -11532,18 +10638,15 @@
         "KEGGREST",
         "AnnotationHub",
         "GO.db",
-        "ExperimentHub",
-        "Biostrings"
+        "ExperimentHub"
     ],
     "TEQC": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "TFARM": [
         "fields"
     ],
     "TFBSTools": [
-        "Biostrings",
         "BSgenome",
         "CNEr",
         "rtracklayer",
@@ -11559,7 +10662,6 @@
         "GenomicFeatures",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "Biostrings",
         "rtracklayer",
         "KEGGREST",
         "Rsamtools",
@@ -11572,8 +10674,7 @@
         "GSEABase",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "tidybulk": [
         "SummarizedExperiment"
@@ -11587,15 +10688,13 @@
     ],
     "tigre": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TileDBArray": [],
     "tilingArray": [
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "timeOmics": [],
     "TimeSeriesExperiment": [
@@ -11605,8 +10704,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TimiRGeN": [
         "Mfuzz",
@@ -11624,8 +10722,7 @@
         "DO.db",
         "ggraph",
         "scatterpie",
-        "ggtree",
-        "Biostrings"
+        "ggtree"
     ],
     "TIN": [
         "aroma.affymetrix",
@@ -11633,21 +10730,18 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TissueEnrich": [
         "SummarizedExperiment",
         "GSEABase",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TitanCNA": [
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -11660,7 +10754,6 @@
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -11681,8 +10774,7 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "lme4",
-        "Biostrings"
+        "lme4"
     ],
     "TnT": [],
     "TOAST": [
@@ -11695,14 +10787,11 @@
     "tomoda": [
         "SummarizedExperiment"
     ],
-    "topdownr": [
-        "Biostrings"
-    ],
+    "topdownr": [],
     "topGO": [
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -11714,8 +10803,7 @@
         "biobroom"
     ],
     "tracktables": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "trackViewer": [
         "GenomicAlignments",
@@ -11727,7 +10815,6 @@
         "InteractionSet",
         "KEGGREST",
         "SummarizedExperiment",
-        "Biostrings",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -11751,8 +10838,7 @@
         "topGO",
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "transcriptR": [
         "caret",
@@ -11764,7 +10850,6 @@
         "recipes",
         "ShortRead",
         "SummarizedExperiment",
-        "Biostrings",
         "AnnotationDbi",
         "biomaRt",
         "KEGGREST"
@@ -11773,9 +10858,7 @@
         "glmGamPoi",
         "SummarizedExperiment"
     ],
-    "transite": [
-        "Biostrings"
-    ],
+    "transite": [],
     "tRanslatome": [
         "anota",
         "DESeq2",
@@ -11787,12 +10870,10 @@
         "geneplotter",
         "AnnotationDbi",
         "GO.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "transomics2cytoscape": [
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TransView": [],
     "TraRe": [
@@ -11802,7 +10883,6 @@
     "traseR": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -11837,7 +10917,6 @@
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment",
-        "Biostrings",
         "SummarizedExperiment"
     ],
     "trena": [
@@ -11849,7 +10928,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "org.Hs.eg.db",
-        "Biostrings",
         "biomaRt",
         "AnnotationDbi",
         "WGCNA",
@@ -11870,7 +10948,6 @@
         "Rsamtools",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -11883,36 +10960,29 @@
         "KEGGREST",
         "scuttle",
         "BiocNeighbors",
-        "BiocSingular",
-        "Biostrings"
+        "BiocSingular"
     ],
     "trigger": [
         "sva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "trio": [
         "siggenes"
     ],
-    "triplex": [
-        "Biostrings"
-    ],
+    "triplex": [],
     "tRNA": [
         "Structstrings",
-        "Biostrings",
         "Modstrings"
     ],
     "tRNAdbImport": [
         "Modstrings",
         "Structstrings",
-        "tRNA",
-        "Biostrings"
+        "tRNA"
     ],
     "tRNAscanImport": [
         "tRNA",
-        "Biostrings",
         "Structstrings",
         "rtracklayer",
         "BSgenome",
@@ -11939,7 +11009,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST"
     ],
     "ttgsea": [
@@ -11952,7 +11021,6 @@
     ],
     "TVTB": [
         "AnnotationFilter",
-        "Biostrings",
         "ensembldb",
         "ensemblVEP",
         "Gviz",
@@ -11972,7 +11040,6 @@
     "txcutr": [
         "AnnotationDbi",
         "GenomicFeatures",
-        "Biostrings",
         "rtracklayer",
         "KEGGREST",
         "biomaRt",
@@ -11986,7 +11053,6 @@
         "GenomicFeatures",
         "ensembldb",
         "AnnotationHub",
-        "Biostrings",
         "KEGGREST",
         "AnnotationFilter",
         "rtracklayer",
@@ -11997,7 +11063,6 @@
     "Ularcirc": [
         "AnnotationHub",
         "AnnotationDbi",
-        "Biostrings",
         "BSgenome",
         "GenomicFeatures",
         "GenomicAlignments",
@@ -12016,7 +11081,6 @@
         "ShortRead",
         "regioneR",
         "BSgenome",
-        "Biostrings",
         "DESeq2",
         "Rsamtools",
         "Rbowtie2",
@@ -12051,7 +11115,6 @@
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
-        "Biostrings",
         "biovizBase",
         "GenomicAlignments",
         "GO.db",
@@ -12063,14 +11126,12 @@
     ],
     "UniProt.ws": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Uniquorn": [
         "VariantAnnotation",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -12079,9 +11140,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "universalmotif": [
-        "Biostrings"
-    ],
+    "universalmotif": [],
     "uSORT": [
         "monocle"
     ],
@@ -12105,13 +11164,11 @@
         "crlmm",
         "BSgenome.Hsapiens.UCSC.hg18",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
     ],
     "VarCon": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -12126,7 +11183,6 @@
     "VariantAnnotation": [
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -12140,13 +11196,11 @@
         "GDSArray",
         "SeqArray",
         "SeqVarTools",
-        "Biostrings",
         "logistf"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
         "AnnotationDbi",
-        "Biostrings",
         "SummarizedExperiment",
         "GenomicFeatures",
         "Rsamtools",
@@ -12166,7 +11220,6 @@
     "VariantTools": [
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "GenomicFeatures",
         "rtracklayer",
         "BSgenome",
@@ -12184,7 +11237,6 @@
         "sva",
         "rtracklayer",
         "SummarizedExperiment",
-        "Biostrings",
         "biomaRt",
         "AnnotationDbi",
         "genefilter",
@@ -12197,7 +11249,6 @@
         "SummarizedExperiment",
         "rtracklayer",
         "GenomicAlignments",
-        "Biostrings",
         "AnnotationDbi",
         "BSgenome",
         "GenomicFeatures",
@@ -12207,8 +11258,7 @@
     "VegaMC": [
         "biomaRt",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "velociraptor": [
         "SummarizedExperiment",
@@ -12224,8 +11274,7 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "viper": [],
     "ViSEAGO": [
@@ -12238,8 +11287,7 @@
         "GO.db",
         "heatmaply",
         "topGO",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "vissE": [
         "GSEABase",
@@ -12250,19 +11298,16 @@
         "org.Mm.eg.db",
         "org.Hs.eg.db",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "VplotR": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "Biostrings"
+        "SummarizedExperiment"
     ],
     "vtpnet": [
         "gwascat",
         "GenomicFeatures",
-        "Biostrings",
         "AnnotationDbi",
         "VariantAnnotation",
         "AnnotationHub",
@@ -12282,7 +11327,6 @@
         "csaw",
         "DESeq2",
         "AnnotationDbi",
-        "Biostrings",
         "ensembldb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12321,7 +11365,6 @@
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "bumphunter",
@@ -12331,7 +11374,6 @@
     ],
     "wavClusteR": [
         "Rsamtools",
-        "Biostrings",
         "GenomicFeatures",
         "Hmisc",
         "rtracklayer",
@@ -12346,7 +11388,6 @@
         "gcrma",
         "GO.db",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST"
     ],
     "weitrix": [
@@ -12354,7 +11395,6 @@
     ],
     "wiggleplotr": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -12372,8 +11412,7 @@
         "GeneMeta",
         "siggenes",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Xeva": [
         "PharmacoGx",
@@ -12386,7 +11425,6 @@
         "STRINGdb"
     ],
     "XNAString": [
-        "Biostrings",
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
@@ -12402,7 +11440,6 @@
         "dendextend",
         "gtrellis",
         "KEGGREST",
-        "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
         "ggbio",
@@ -12426,7 +11463,6 @@
         "minfi",
         "KEGGREST",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -12447,13 +11483,11 @@
         "SingleCellExperiment",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GO.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ABAData": [],
     "ffbase": [],
@@ -12480,14 +11514,12 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Hmisc": [],
     "curatedTCGAData": [
@@ -12496,8 +11528,7 @@
         "ExperimentHub",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "caret": [
         "recipes"
@@ -12505,12 +11536,10 @@
     "recipes": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12520,7 +11549,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12535,7 +11563,6 @@
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12544,7 +11571,6 @@
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12552,7 +11578,6 @@
     ],
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12561,7 +11586,6 @@
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationHub",
@@ -12573,7 +11597,6 @@
     "MafDb.ExAC.r1.0.hs37d5": [
         "GenomicScores",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationHub",
@@ -12585,7 +11608,6 @@
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationHub",
@@ -12598,7 +11620,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "Rsamtools",
-        "Biostrings",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -12613,7 +11634,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
@@ -12626,7 +11646,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "Rsamtools",
-        "Biostrings",
         "rtracklayer",
         "BSgenome",
         "GenomicFeatures",
@@ -12635,15 +11654,13 @@
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "Biostrings",
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
@@ -12654,8 +11671,7 @@
     "mGSZ": [],
     "reactome.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "doBy": [
         "pbkrtest",
@@ -12663,7 +11679,6 @@
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12674,13 +11689,11 @@
     ],
     "dendextend": [],
     "corncob": [
-        "phyloseq",
-        "Biostrings"
+        "phyloseq"
     ],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -12700,14 +11713,12 @@
     "cgdsr": [],
     "org.Bt.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "DiagrammeR": [],
     "DO.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ggraph": [],
     "scatterpie": [],
@@ -12718,8 +11729,7 @@
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ggnetwork": [],
     "drtmle": [],
@@ -12727,8 +11737,7 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -12738,7 +11747,6 @@
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12747,14 +11755,12 @@
     ],
     "org.Mm.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12764,14 +11770,12 @@
     "hgu133plus2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "hgu133a.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GenomicState": [
         "AnnotationHub",
@@ -12786,7 +11790,6 @@
         "GenomicFiles",
         "Hmisc",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -12794,7 +11797,6 @@
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12829,7 +11831,6 @@
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -12844,7 +11845,6 @@
     "IlluminaHumanMethylation450kmanifest": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -12859,7 +11859,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -12876,7 +11875,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "Rsamtools",
         "GenomicAlignments",
@@ -12884,8 +11882,7 @@
         "SummarizedExperiment"
     ],
     "spp": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "ChIC.data": [
         "genomeIntervals",
@@ -12894,7 +11891,6 @@
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -12904,31 +11900,26 @@
         "AnnotationDbi",
         "rtracklayer",
         "KEGGREST",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "org.Dr.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "org.Rn.eg.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12939,7 +11930,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12950,7 +11940,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12961,7 +11950,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12972,7 +11960,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -12981,7 +11968,6 @@
     ],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13017,7 +12003,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
@@ -13026,7 +12011,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -13110,16 +12094,14 @@
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "easierData": [
         "ExperimentHub",
         "AnnotationHub",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "coin": [],
     "jackstraw": [],
@@ -13132,8 +12114,7 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "MPINet": [],
     "gprofiler2": [],
@@ -13154,7 +12135,6 @@
     "logistf": [],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13168,9 +12148,7 @@
         "heatmaply",
         "dendextend"
     ],
-    "seqmagick": [
-        "Biostrings"
-    ],
+    "seqmagick": [],
     "HH": [
         "Hmisc"
     ],
@@ -13180,7 +12158,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -13193,7 +12170,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "Biostrings",
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
@@ -13209,7 +12185,6 @@
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [
-        "Biostrings",
         "oligoClasses",
         "oligo",
         "SummarizedExperiment"
@@ -13217,8 +12192,7 @@
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "EnsDb.Hsapiens.v75": [
         "ensembldb",
@@ -13227,7 +12201,6 @@
         "AnnotationDbi",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "KEGGREST",
         "biomaRt",
         "GenomicAlignments",
@@ -13257,21 +12230,18 @@
         "isva",
         "genefilter",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "muStat": [],
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "FlowSorted.Blood.450k": [
         "minfi",
         "SummarizedExperiment",
-        "Biostrings",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -13293,7 +12263,6 @@
         "Rsamtools",
         "rtracklayer",
         "BiocCheck",
-        "Biostrings",
         "OrganismDbi",
         "AnnotationForge",
         "KEGGREST",
@@ -13306,12 +12275,10 @@
     "lumiHumanAll.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13319,8 +12286,7 @@
     ],
     "miRBaseVersions.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "BiBitR": [
         "dendextend"
@@ -13342,7 +12308,6 @@
     "deconstructSigs": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13360,7 +12325,6 @@
         "ExperimentHub",
         "rtracklayer",
         "AnnotationHub",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "AnnotationDbi",
@@ -13380,7 +12344,6 @@
     ],
     "biomartr": [
         "biomaRt",
-        "Biostrings",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -13398,7 +12361,6 @@
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationHub",
@@ -13415,13 +12377,11 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "AnnotationHub",
@@ -13432,7 +12392,6 @@
     ],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13441,12 +12400,10 @@
     "rGenomeTracksData": [
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "valr": [
         "rtracklayer",
-        "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -13459,12 +12416,10 @@
         "AnnotationHub",
         "ExperimentHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "TBX20BamSubset": [
-        "Rsamtools",
-        "Biostrings"
+        "Rsamtools"
     ],
     "systemPipeRdata": [
         "GenomicFeatures",
@@ -13472,7 +12427,6 @@
         "ShortRead",
         "rtracklayer",
         "AnnotationDbi",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments",
         "KEGGREST",
@@ -13482,15 +12436,13 @@
         "SummarizedExperiment"
     ],
     "scanMiRData": [
-        "scanMiR",
-        "Biostrings"
+        "scanMiR"
     ],
     "SCATEData": [
         "ExperimentHub",
         "GenomicAlignments",
         "AnnotationHub",
         "SummarizedExperiment",
-        "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
         "KEGGREST"
@@ -13511,16 +12463,14 @@
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "GSVAdata": [
         "GSEABase",
         "hgu95a.db",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "scRNAseq": [
         "SingleCellExperiment",
@@ -13534,7 +12484,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
-        "Biostrings",
         "biomaRt",
         "GenomicAlignments"
     ],
@@ -13544,22 +12493,19 @@
         "ExperimentHub",
         "AnnotationDbi",
         "SummarizedExperiment",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "ScISI": [],
     "sampSurf": [],
     "miRNAtap.db": [
         "miRNAtap",
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "SpatialExtremes": [
         "fields"
@@ -13569,7 +12515,6 @@
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
-        "Biostrings",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -13577,8 +12522,7 @@
     ],
     "mirbase.db": [
         "AnnotationDbi",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ],
     "gradDescent": [],
     "msigdb": [
@@ -13588,7 +12532,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "AnnotationHub",
-        "KEGGREST",
-        "Biostrings"
+        "KEGGREST"
     ]
 }
