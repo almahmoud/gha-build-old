@@ -5929,7 +5929,6 @@
         "mlapi",
         "koRpus.lang.en",
         "quanteda",
-        "MatrixExtra",
         "ggplot2"
     ],
     "deepSNV": [
@@ -24996,7 +24995,6 @@
         "koRpus.lang.en",
         "quanteda",
         "RcppTOML",
-        "MatrixExtra",
         "tfautograph",
         "ggplot2"
     ],
@@ -25274,8 +25272,7 @@
         "rsparse",
         "mlapi",
         "koRpus.lang.en",
-        "quanteda",
-        "MatrixExtra"
+        "quanteda"
     ],
     "VanillaICE": [
         "GenomicRanges",
@@ -27732,20 +27729,16 @@
     ],
     "text2vec": [
         "rsparse",
-        "mlapi",
-        "MatrixExtra"
+        "mlapi"
     ],
     "textstem": [
         "koRpus.lang.en",
         "quanteda"
     ],
-    "rsparse": [
-        "MatrixExtra"
-    ],
+    "rsparse": [],
     "mlapi": [],
     "koRpus.lang.en": [],
     "quanteda": [],
-    "MatrixExtra": [],
     "lasso2": [],
     "tseries": [
         "quantmod",
