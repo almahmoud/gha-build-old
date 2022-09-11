@@ -158,7 +158,6 @@
         "TTR",
         "IRanges",
         "KEGGREST",
-        "xts",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -1735,7 +1734,6 @@
         "RcppZiggurat",
         "spatstat.random",
         "spatstat.sparse",
-        "xts",
         "dqrng",
         "NADA",
         "KEGGREST",
@@ -3565,7 +3563,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "xts",
         "htmlTable",
         "viridis",
         "ggfun",
@@ -3766,7 +3763,6 @@
         "ggplot2",
         "Rsamtools",
         "scales",
-        "xts",
         "TTR",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -5900,7 +5896,6 @@
         "interactiveDisplayBase",
         "BiocParallel",
         "broom",
-        "xts",
         "quantmod",
         "igraph",
         "futile.logger",
@@ -6253,7 +6248,6 @@
         "flowClust",
         "rrcov",
         "broom",
-        "xts",
         "fda",
         "Biostrings",
         "nloptr",
@@ -6408,7 +6402,6 @@
         "ggrepel",
         "car",
         "broom",
-        "xts",
         "quantmod",
         "missMDA",
         "nloptr",
@@ -6604,7 +6597,6 @@
         "pcaPP",
         "apcluster",
         "futile.logger",
-        "xts",
         "quantmod",
         "pkgmaker",
         "ggplot2",
@@ -6989,7 +6981,6 @@
         "tseries",
         "scales",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "DeMixT": [
@@ -7186,7 +7177,6 @@
         "quantreg",
         "lme4",
         "XVector",
-        "xts",
         "nloptr",
         "broom",
         "testthat",
@@ -9537,7 +9527,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "xts",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -15440,7 +15429,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "xts",
         "broom",
         "googlesheets4",
         "modelr",
@@ -18794,7 +18782,6 @@
         "SummarizedExperiment",
         "rvest",
         "webshot",
-        "xts",
         "XVector",
         "BiocIO",
         "restfulr",
@@ -19845,7 +19832,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "xts",
         "nloptr",
         "broom",
         "testthat",
@@ -20625,7 +20611,6 @@
         "scales",
         "futile.logger",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "proActiv": [
@@ -20955,7 +20940,6 @@
         "Mfuzz",
         "apcluster",
         "broom",
-        "xts",
         "quantmod",
         "callr",
         "IRanges",
@@ -21108,7 +21092,6 @@
         "miniUI",
         "scales",
         "broom",
-        "xts",
         "quantmod",
         "igraph",
         "BiocParallel",
@@ -21889,7 +21872,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "xts",
         "TTR"
     ],
     "Rcpi": [
@@ -23246,7 +23228,6 @@
         "KEGGgraph",
         "Rgraphviz",
         "KEGGREST",
-        "xts",
         "RcppTOML",
         "ShortRead",
         "GenomicFeatures",
@@ -27372,7 +27353,6 @@
         "TH.data",
         "callr",
         "selectr",
-        "xts",
         "nloptr",
         "testthat"
     ],
@@ -30060,14 +30040,10 @@
         "selectr"
     ],
     "smoother": [
-        "TTR",
-        "xts"
+        "TTR"
     ],
     "selectr": [],
-    "TTR": [
-        "xts"
-    ],
-    "xts": [],
+    "TTR": [],
     "SAVER": [
         "glmnet"
     ],
@@ -31199,13 +31175,11 @@
         "ggpp",
         "ggplot2",
         "scales",
-        "quantreg",
-        "xts"
+        "quantreg"
     ],
     "ggpp": [
         "ggplot2",
-        "scales",
-        "xts"
+        "scales"
     ],
     "broom.mixed": [
         "broom",
@@ -31225,7 +31199,6 @@
         "snpStats"
     ],
     "quantmod": [
-        "xts",
         "TTR"
     ],
     "ChAMPdata": [
@@ -31785,7 +31758,6 @@
     ],
     "highcharter": [
         "broom",
-        "xts",
         "quantmod",
         "igraph",
         "ggplot2",
@@ -31995,7 +31967,6 @@
     ],
     "survey": [],
     "DMwR2": [
-        "xts",
         "quantmod",
         "TTR"
     ],
@@ -32032,7 +32003,6 @@
     "lasso2": [],
     "tseries": [
         "quantmod",
-        "xts",
         "TTR"
     ],
     "imputeLCMD": [],
@@ -32618,9 +32588,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "PerformanceAnalytics": [
-        "xts"
-    ],
+    "PerformanceAnalytics": [],
     "rebus": [],
     "mhsmm": [],
     "ggmcmc": [
@@ -32980,7 +32948,6 @@
         "tseries",
         "scales",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "rclipboard": [],
@@ -33337,8 +33304,7 @@
         "pcaPP"
     ],
     "gstat": [
-        "spacetime",
-        "xts"
+        "spacetime"
     ],
     "SpatialExtremes": [
         "fields",
@@ -33346,9 +33312,7 @@
         "ggplot2",
         "scales"
     ],
-    "spacetime": [
-        "xts"
-    ],
+    "spacetime": [],
     "spsComps": [
         "shinytoastr",
         "shinyAce"
