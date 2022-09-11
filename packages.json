@@ -3640,7 +3640,6 @@
         "ggdendro",
         "multtest",
         "multcomp",
-        "sn",
         "Biostrings"
     ],
     "dcGSA": [],
@@ -4544,8 +4543,7 @@
         "Biostrings",
         "multtest",
         "multcomp",
-        "GenomicRanges",
-        "sn"
+        "GenomicRanges"
     ],
     "eiR": [
         "ChemmineR"
@@ -8343,8 +8341,7 @@
         "TFisher",
         "mutoss",
         "multtest",
-        "multcomp",
-        "sn"
+        "multcomp"
     ],
     "MetCirc": [
         "MSnbase",
@@ -9592,8 +9589,7 @@
         "mutoss",
         "Biostrings",
         "multtest",
-        "multcomp",
-        "sn"
+        "multcomp"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -9660,7 +9656,6 @@
         "multtest",
         "multcomp",
         "ipred",
-        "sn",
         "Biostrings"
     ],
     "multtest": [],
@@ -9852,7 +9847,6 @@
         "AnnotationHub",
         "biovizBase",
         "multcomp",
-        "sn",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -10725,7 +10719,6 @@
         "viridis"
     ],
     "PERFect": [
-        "sn",
         "phyloseq",
         "Biostrings",
         "multtest"
@@ -12821,8 +12814,7 @@
         "nloptr",
         "ggrepel",
         "multtest",
-        "multcomp",
-        "sn"
+        "multcomp"
     ],
     "rqubic": [
         "biclust"
@@ -14068,7 +14060,6 @@
         "reldist",
         "Hmisc",
         "multcomp",
-        "sn",
         "densEstBayes",
         "GenomicAlignments",
         "rstan",
@@ -17192,17 +17183,13 @@
         "TFisher",
         "mutoss",
         "multtest",
-        "multcomp",
-        "sn"
+        "multcomp"
     ],
-    "TFisher": [
-        "sn"
-    ],
+    "TFisher": [],
     "mutoss": [
         "multtest",
         "multcomp"
     ],
-    "sn": [],
     "DMwR2": [
         "quantmod"
     ],
