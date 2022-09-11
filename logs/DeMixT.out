@@ -1,0 +1,38 @@
+* installing *source* package ‘DeMixT’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DeMixT.c -o DeMixT.o
+DeMixT.c: In function ‘Tdemix’:
+DeMixT.c:268:28: warning: implicit declaration of function ‘Rprintf’; did you mean ‘dprintf’? [-Wimplicit-function-declaration]
+  268 |         if (nHavepi != 1)  Rprintf("Iteration %d: updating parameters\n", i+1);
+      |                            ^~~~~~~
+      |                            dprintf
+DeMixT.c:93:8: warning: argument 1 range [18446744071562067968, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+   93 |   FD = calloc(nS ,sizeof(double *));
+      |        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from DeMixT.c:8:
+/usr/include/stdlib.h:542:14: note: in a call to allocation function ‘calloc’ declared here
+  542 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Profile_2D.cpp -o Profile_2D.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DeMixT.so DeMixT.o Profile_2D.o RcppExports.o init.o registerDynamicSymbol.o -fopenmp -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DeMixT/00new/DeMixT/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DeMixT’ as ‘DeMixT_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DeMixT)
