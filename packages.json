@@ -64,7 +64,6 @@
         "ggdendro",
         "plotly",
         "BiocStyle",
-        "futile.logger",
         "scales"
     ],
     "ACE": [
@@ -79,8 +78,7 @@
         "CGHcall",
         "Rsamtools",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "aCGH": [
         "multtest"
@@ -158,7 +156,6 @@
         "TTR",
         "IRanges",
         "KEGGREST",
-        "xts",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -168,7 +165,6 @@
         "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "futile.logger",
         "glmnet",
         "GenomicRanges",
         "DelayedArray",
@@ -190,7 +186,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "BiocParallel",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -250,7 +245,6 @@
         "ensembldb",
         "AnnotationFilter",
         "DelayedArray",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -348,7 +342,6 @@
         "ensembldb",
         "AnnotationFilter",
         "DelayedArray",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -379,7 +372,6 @@
         "ggrepel",
         "glmnet",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector"
@@ -392,7 +384,6 @@
         "IRanges",
         "SummarizedExperiment",
         "multtest",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "RcppZiggurat",
@@ -429,7 +420,6 @@
         "ensembldb",
         "biovizBase",
         "DelayedArray",
-        "futile.logger",
         "scales",
         "Hmisc",
         "AnnotationFilter",
@@ -444,7 +434,6 @@
         "igraph",
         "ggplot2",
         "plotly",
-        "futile.logger",
         "scales"
     ],
     "alpine": [
@@ -465,7 +454,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "restfulr"
     ],
     "AlpsNMR": [
@@ -478,7 +466,6 @@
         "ggplot2",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "scales",
         "igraph",
         "Rfast",
@@ -535,7 +522,6 @@
         "ggplot2",
         "ggthemes",
         "waffle",
-        "futile.logger",
         "XVector",
         "scales",
         "Rsamtools",
@@ -555,7 +541,6 @@
         "genefilter",
         "geneplotter",
         "scales",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -598,7 +583,6 @@
         "scales",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "ANF": [
@@ -631,7 +615,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "ipred",
@@ -660,8 +643,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "annotate": [
         "AnnotationDbi",
@@ -715,7 +697,6 @@
         "GenomeInfoDb",
         "OrganismDbi",
         "AnnotationForge",
-        "futile.logger",
         "KEGGREST",
         "interactiveDisplayBase",
         "RBGL",
@@ -751,7 +732,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "anota": [
@@ -773,16 +753,13 @@
         "ggplot2",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "scales",
         "KEGGREST",
         "Biostrings"
     ],
-    "AnVIL": [
-        "futile.logger"
-    ],
+    "AnVIL": [],
     "AnVILBilling": [
         "shinytoastr",
         "plotly",
@@ -790,8 +767,7 @@
         "scales"
     ],
     "AnVILPublish": [
-        "AnVIL",
-        "futile.logger"
+        "AnVIL"
     ],
     "APAlyzer": [
         "GenomicRanges",
@@ -822,8 +798,7 @@
         "restfulr",
         "DelayedArray",
         "BSgenome",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "apComplex": [
         "RBGL",
@@ -884,7 +859,6 @@
         "crul",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "RBGL",
         "GenomicAlignments",
         "restfulr"
@@ -917,7 +891,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -957,7 +930,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "sparseMatrixStats",
         "multtest"
     ],
@@ -999,7 +971,6 @@
         "KEGGREST",
         "MSstatsConvert",
         "lme4",
-        "futile.logger",
         "Biostrings",
         "nloptr",
         "XVector",
@@ -1014,7 +985,6 @@
         "PepsNMR",
         "ropls",
         "SummarizedExperiment",
-        "futile.logger",
         "scales",
         "ptw",
         "MultiDataSet",
@@ -1045,7 +1015,6 @@
         "scales",
         "ggplot2",
         "mGSZ",
-        "futile.logger",
         "AnnotationDbi",
         "Biostrings",
         "XVector",
@@ -1092,7 +1061,6 @@
         "biovizBase",
         "ggplot2",
         "scales",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -1121,7 +1089,6 @@
         "expm",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -1161,7 +1128,6 @@
         "BiocIO",
         "restfulr",
         "interactiveDisplayBase",
-        "futile.logger",
         "AnnotationFilter",
         "scales"
     ],
@@ -1174,7 +1140,6 @@
         "Rsamtools",
         "GenomeInfoDb",
         "sparseMatrixStats",
-        "futile.logger",
         "Biostrings",
         "XVector",
         "DelayedArray"
@@ -1185,7 +1150,6 @@
         "ggplot2",
         "motifStack",
         "testthat",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -1277,7 +1241,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "lme4",
         "DelayedArray",
         "nloptr",
@@ -1287,7 +1250,6 @@
     "bacon": [
         "ggplot2",
         "BiocParallel",
-        "futile.logger",
         "scales"
     ],
     "BadRegionFinder": [
@@ -1306,7 +1268,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "GenomicAlignments",
         "restfulr",
@@ -1326,7 +1287,6 @@
         "restfulr",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "SummarizedExperiment",
         "KEGGREST",
@@ -1343,7 +1303,6 @@
         "GenomicRanges",
         "Rsamtools",
         "xgboost",
-        "futile.logger",
         "Biostrings",
         "rtracklayer",
         "XVector",
@@ -1364,7 +1323,6 @@
         "ggplot2",
         "DRIMSeq",
         "BiocParallel",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "scales",
@@ -1406,7 +1364,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -1423,7 +1380,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "BiocParallel",
-        "futile.logger",
         "rtracklayer",
         "DelayedArray",
         "BiocIO",
@@ -1439,7 +1395,6 @@
         "SummarizedExperiment",
         "viridis",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "colourpicker",
         "miniUI",
@@ -1469,7 +1424,6 @@
         "Rsamtools",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "basilisk": [
@@ -1489,7 +1443,6 @@
         "ResidualMatrix",
         "ScaledMatrix",
         "beachmat",
-        "futile.logger",
         "IRanges",
         "sparseMatrixStats",
         "GenomicRanges",
@@ -1512,7 +1465,6 @@
         "quantreg",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "callr",
         "IRanges",
@@ -1547,7 +1499,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "sparseMatrixStats",
         "XVector"
     ],
@@ -1556,7 +1507,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -1585,7 +1535,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
@@ -1658,15 +1607,13 @@
         "Rsamtools",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "BiocIO",
         "restfulr",
         "DelayedArray"
     ],
     "BEclear": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "benchdamic": [
         "phyloseq",
@@ -1688,7 +1635,6 @@
         "GenomicRanges",
         "IRanges",
         "multtest",
-        "futile.logger",
         "optimr",
         "detectseparation",
         "scales",
@@ -1735,7 +1681,6 @@
         "RcppZiggurat",
         "spatstat.random",
         "spatstat.sparse",
-        "xts",
         "dqrng",
         "NADA",
         "KEGGREST",
@@ -1772,7 +1717,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "BgeeDB": [
@@ -1839,7 +1783,6 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1887,7 +1830,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "bioassayR": [
@@ -1936,7 +1878,6 @@
         "patchwork",
         "ggraph",
         "graphite",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -1977,8 +1918,7 @@
     ],
     "BiocIO": [],
     "BiocNeighbors": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "BiocOncoTK": [
         "ComplexHeatmap",
@@ -2021,13 +1961,11 @@
         "restfulr",
         "BiocParallel",
         "testthat",
-        "futile.logger",
         "callr"
     ],
     "BioCor": [
         "BiocParallel",
         "GSEABase",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -2035,9 +1973,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "BiocParallel": [
-        "futile.logger"
-    ],
+    "BiocParallel": [],
     "BiocPkgTools": [
         "biocViews",
         "rvest",
@@ -2059,7 +1995,6 @@
         "BiocParallel",
         "ScaledMatrix",
         "beachmat",
-        "futile.logger",
         "IRanges"
     ],
     "BiocSklearn": [
@@ -2135,7 +2070,6 @@
         "imager",
         "topGO",
         "xlsx",
-        "futile.logger",
         "scales",
         "igraph",
         "Hmisc",
@@ -2180,7 +2114,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -2198,11 +2131,9 @@
         "networkD3",
         "ggnewscale",
         "ggpubr",
-        "NetRep",
         "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -2252,7 +2183,6 @@
         "pheatmap",
         "ggplot2",
         "Hmisc",
-        "futile.logger",
         "scales",
         "htmlTable",
         "viridis",
@@ -2311,7 +2241,6 @@
         "drtmle",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "SuperLearner",
         "np",
         "scales",
@@ -2352,7 +2281,6 @@
         "viridis",
         "DelayedArray",
         "BSgenome",
-        "futile.logger",
         "restfulr"
     ],
     "BiRewire": [
@@ -2374,7 +2302,6 @@
         "QDNAseq",
         "dmrseq",
         "BiocParallel",
-        "futile.logger",
         "ExperimentHub",
         "AnnotationHub",
         "IRanges",
@@ -2423,8 +2350,7 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "BitSeq": [
         "Rsamtools",
@@ -2433,8 +2359,7 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "blacksheepr": [
         "viridis",
@@ -2499,8 +2424,7 @@
     "bluster": [
         "igraph",
         "BiocParallel",
-        "BiocNeighbors",
-        "futile.logger"
+        "BiocNeighbors"
     ],
     "bnbc": [
         "SummarizedExperiment",
@@ -2512,7 +2436,6 @@
         "DelayedArray",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -2533,7 +2456,6 @@
         "Linnorm",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "vegan",
@@ -2592,7 +2514,6 @@
         "org.Hs.eg.db",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "SummarizedExperiment",
         "BiocIO",
         "biomaRt",
@@ -2645,7 +2566,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "ipred",
-        "futile.logger",
         "prodlim",
         "DelayedArray",
         "lava"
@@ -2663,12 +2583,10 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "brendaDb": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "BRGenomics": [
         "rtracklayer",
@@ -2688,7 +2606,6 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "KEGGREST"
@@ -2705,7 +2622,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -2722,7 +2638,6 @@
         "Biostrings",
         "HDF5Array",
         "beachmat",
-        "futile.logger",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -2759,7 +2674,6 @@
         "viridis",
         "DelayedArray",
         "BSgenome",
-        "futile.logger",
         "restfulr"
     ],
     "BUMHMM": [
@@ -2797,7 +2711,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "BumpyMatrix": [
@@ -2834,7 +2747,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "BUSseq": [
@@ -2886,8 +2798,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "CAGEfightR": [
         "GenomicRanges",
@@ -2902,7 +2813,6 @@
         "Gviz",
         "InteractionSet",
         "GenomicInteractions",
-        "futile.logger",
         "Biostrings",
         "Rsamtools",
         "AnnotationDbi",
@@ -2942,7 +2852,6 @@
         "networkD3",
         "ggnewscale",
         "ggpubr",
-        "NetRep",
         "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
@@ -2963,7 +2872,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "BiocIO",
@@ -3005,7 +2913,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "vegan",
-        "futile.logger",
         "Biostrings",
         "XVector",
         "sparseMatrixStats",
@@ -3027,7 +2934,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "scales",
         "vsn",
         "affy",
@@ -3082,8 +2988,7 @@
     ],
     "Cardinal": [
         "BiocParallel",
-        "matter",
-        "futile.logger"
+        "matter"
     ],
     "CARNIVAL": [
         "igraph"
@@ -3105,7 +3010,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -3146,7 +3050,6 @@
         "viridis",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "pbkrtest",
         "quantreg",
@@ -3228,7 +3131,6 @@
         "RTCGAToolbox",
         "SummarizedExperiment",
         "TCGAutils",
-        "futile.logger",
         "XVector",
         "DelayedArray",
         "AnnotationDbi",
@@ -3326,7 +3228,6 @@
         "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector"
@@ -3350,14 +3251,12 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
     "cellbaseR": [
         "Rsamtools",
         "BiocParallel",
-        "futile.logger",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -3367,7 +3266,6 @@
     "CellBench": [
         "SingleCellExperiment",
         "BiocParallel",
-        "futile.logger",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -3401,7 +3299,6 @@
         "BiocParallel",
         "SummarizedExperiment",
         "fgsea",
-        "futile.logger",
         "scales",
         "RcppTOML",
         "scuttle",
@@ -3482,7 +3379,6 @@
         "SingleCellExperiment",
         "ggridges",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "scuttle",
         "DelayedArray",
@@ -3560,14 +3456,12 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "DO.db",
         "aplot",
         "ggraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "xts",
         "htmlTable",
         "viridis",
         "ggfun",
@@ -3593,7 +3487,6 @@
         "mice",
         "multcomp",
         "SummarizedExperiment",
-        "futile.logger",
         "broom",
         "flowCore",
         "FlowSOM",
@@ -3653,7 +3546,6 @@
         "ggplot2",
         "patchwork",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "sparseMatrixStats",
         "scales",
@@ -3712,7 +3604,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "DO.db",
         "fgsea",
         "aplot",
@@ -3758,7 +3649,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -3768,15 +3658,13 @@
         "ggplot2",
         "Rsamtools",
         "scales",
-        "xts",
         "TTR",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "CGEN": [],
     "CGHbase": [],
@@ -3850,7 +3738,6 @@
         "ruv",
         "lumi",
         "KEGGREST",
-        "futile.logger",
         "BSgenome",
         "beachmat",
         "sparseMatrixStats",
@@ -3889,7 +3776,6 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "ipred",
         "prodlim",
@@ -3926,7 +3812,6 @@
         "biomaRt",
         "BSgenome",
         "biovizBase",
-        "futile.logger",
         "scales",
         "Hmisc",
         "VariantAnnotation",
@@ -3952,7 +3837,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "ChIPComp": [
@@ -3970,7 +3854,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -4004,7 +3887,6 @@
         "scales",
         "viridis",
         "TH.data",
-        "futile.logger",
         "DelayedArray"
     ],
     "ChIPexoQual": [
@@ -4019,7 +3901,6 @@
         "broom",
         "scales",
         "viridis",
-        "futile.logger",
         "Hmisc",
         "SummarizedExperiment",
         "Biostrings",
@@ -4065,8 +3946,7 @@
         "scales",
         "BSgenome",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "ChIPQC": [
         "ggplot2",
@@ -4085,7 +3965,6 @@
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "futile.logger",
         "ShortRead",
         "SummarizedExperiment",
         "systemPipeR",
@@ -4152,7 +4031,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "futile.logger",
         "tweenr",
         "DelayedArray"
     ],
@@ -4166,7 +4044,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -4180,7 +4057,6 @@
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -4194,7 +4070,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -4233,7 +4108,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "chromPlot": [
@@ -4281,7 +4155,6 @@
         "ResidualMatrix",
         "ScaledMatrix",
         "beachmat",
-        "futile.logger",
         "miniUI",
         "GenomeInfoDb",
         "XVector",
@@ -4320,7 +4193,6 @@
         "BiocParallel",
         "XVector",
         "scales",
-        "futile.logger",
         "DelayedArray"
     ],
     "chromswitch": [
@@ -4329,7 +4201,6 @@
         "IRanges",
         "NMF",
         "rtracklayer",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "pkgmaker",
@@ -4356,7 +4227,6 @@
         "miniUI",
         "SummarizedExperiment",
         "BSgenome",
-        "futile.logger",
         "XVector",
         "rtracklayer",
         "scales",
@@ -4415,7 +4285,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "htmlTable",
         "DelayedArray"
     ],
@@ -4471,7 +4340,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "biomaRt",
         "DelayedArray"
     ],
@@ -4505,7 +4373,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "BiocNeighbors",
         "sparseMatrixStats",
@@ -4515,7 +4382,6 @@
     "ClassifyR": [
         "MultiAssayExperiment",
         "BiocParallel",
-        "futile.logger",
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
@@ -4538,7 +4404,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -4562,7 +4427,6 @@
         "GenomicRanges",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -4590,7 +4454,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "cliqueMS": [
@@ -4606,7 +4469,6 @@
         "scales",
         "SummarizedExperiment",
         "MsFeatures",
-        "futile.logger",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -4628,8 +4490,7 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "clusterExperiment": [
         "SingleCellExperiment",
@@ -4656,7 +4517,6 @@
         "GenomeInfoDb",
         "genefilter",
         "benchmarkmeData",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -4684,7 +4544,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "scales",
         "ggforce",
         "ggrepel",
@@ -4703,7 +4562,6 @@
         "BiocParallel",
         "baySeq",
         "GenomicRanges",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "XVector"
@@ -4721,10 +4579,8 @@
         "DelayedArray",
         "IRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "XVector"
     ],
-    "CMA": [],
     "cmapR": [
         "flowCore",
         "SummarizedExperiment",
@@ -4754,8 +4610,7 @@
         "exomeCopy",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "CNAnorm": [],
     "CNEr": [
@@ -4776,7 +4631,6 @@
         "scales",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "CNORdt": [
@@ -4845,7 +4699,6 @@
         "BiocParallel",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "Hmisc",
         "GenomicAlignments",
@@ -4902,7 +4755,6 @@
         "BiocParallel",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
         "htmlTable",
         "viridis"
     ],
@@ -4921,8 +4773,7 @@
         "scales",
         "Biostrings",
         "BiocParallel",
-        "callr",
-        "futile.logger"
+        "callr"
     ],
     "CNVRanger": [
         "GenomicRanges",
@@ -4932,7 +4783,6 @@
         "GenomeInfoDb",
         "IRanges",
         "SummarizedExperiment",
-        "futile.logger",
         "DelayedArray",
         "SeqArray",
         "XVector",
@@ -4956,7 +4806,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
@@ -4991,7 +4840,6 @@
         "Biostrings",
         "HDF5Array",
         "beachmat",
-        "futile.logger",
         "rtracklayer",
         "Rsamtools",
         "sparseMatrixStats",
@@ -5017,7 +4865,6 @@
         "BSgenome",
         "GenomicRanges",
         "BiocParallel",
-        "futile.logger",
         "rtracklayer",
         "GenomicAlignments",
         "BiocIO",
@@ -5029,7 +4876,6 @@
         "BiocParallel",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "futile.logger",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -5071,7 +4917,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "COHCAP": [],
@@ -5125,7 +4970,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "BiocParallel",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -5153,8 +4997,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "COMPASS": [
         "scales",
@@ -5176,8 +5019,7 @@
         "scales",
         "shinydashboard",
         "shinyjs",
-        "readxl",
-        "futile.logger"
+        "readxl"
     ],
     "conclus": [
         "org.Hs.eg.db",
@@ -5218,7 +5060,6 @@
         "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "DO.db",
@@ -5261,7 +5102,6 @@
         "BiocParallel",
         "TrajectoryUtils",
         "igraph",
-        "futile.logger",
         "spatstat.geom",
         "spatstat",
         "caret",
@@ -5323,7 +5163,6 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "ggplot2",
@@ -5356,7 +5195,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
@@ -5376,7 +5214,6 @@
         "BiocParallel",
         "GenomeInfoDb",
         "rtracklayer",
-        "futile.logger",
         "XVector",
         "Biostrings",
         "Rsamtools",
@@ -5396,7 +5233,6 @@
         "ggplot2",
         "exomeCopy",
         "GenomicAlignments",
-        "futile.logger",
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
@@ -5437,7 +5273,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
@@ -5473,7 +5308,6 @@
         "BiocParallel",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "Hmisc",
         "GenomicAlignments",
@@ -5494,7 +5328,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ShortRead",
         "SummarizedExperiment",
         "Biostrings",
@@ -5518,7 +5351,6 @@
         "piano",
         "BiocParallel",
         "BumpyMatrix",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "igraph",
@@ -5556,7 +5388,6 @@
         "ggplot2",
         "scales",
         "HTSFilter",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -5577,7 +5408,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "vsn",
         "affy",
         "ggplot2",
@@ -5619,7 +5449,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "Biostrings"
     ],
@@ -5639,7 +5468,6 @@
         "XVector",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "covRNA": [
@@ -5656,7 +5484,6 @@
         "GSEABase",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -5702,7 +5529,6 @@
         "BiocIO",
         "restfulr",
         "tfautograph",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "crisprseekplus": [
@@ -5729,7 +5555,6 @@
         "BiocParallel",
         "ChIPpeakAnno",
         "GenomicAlignments",
-        "futile.logger",
         "ensembldb",
         "RBGL",
         "SummarizedExperiment",
@@ -5757,7 +5582,6 @@
         "IRanges",
         "Rsamtools",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "SummarizedExperiment",
         "scales",
@@ -5798,7 +5622,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "XVector",
         "scales"
     ],
@@ -5815,7 +5638,6 @@
         "IRanges",
         "GenomeInfoDb",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "Biostrings",
         "DelayedArray"
@@ -5854,8 +5676,7 @@
         "scales",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "CTDquerier": [
         "ggplot2",
@@ -5902,10 +5723,8 @@
         "interactiveDisplayBase",
         "BiocParallel",
         "broom",
-        "xts",
         "quantmod",
         "igraph",
-        "futile.logger",
         "Biostrings",
         "TTR",
         "XVector",
@@ -5943,7 +5762,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "BiocParallel",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -5980,7 +5798,6 @@
         "BiocIO",
         "restfulr",
         "BSgenome",
-        "futile.logger",
         "DelayedArray"
     ],
     "cyanoFilter": [
@@ -6026,7 +5843,6 @@
         "SummarizedExperiment",
         "flowCore",
         "BiocNeighbors",
-        "futile.logger",
         "cytolib",
         "GenomicRanges",
         "DelayedArray",
@@ -6066,7 +5882,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "recipes",
         "dendextend",
         "FactoMineR",
@@ -6120,7 +5935,6 @@
         "pheatmap",
         "ggrepel",
         "caret",
-        "futile.logger",
         "recipes",
         "scales",
         "dendextend",
@@ -6146,7 +5960,6 @@
         "SummarizedExperiment",
         "ComplexHeatmap",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -6164,7 +5977,6 @@
         "ggplot2",
         "ggbeeswarm",
         "shinydashboard",
-        "futile.logger",
         "IRanges",
         "scales",
         "GenomicRanges",
@@ -6226,7 +6038,6 @@
         "ggfun",
         "genefilter",
         "reticulate",
-        "futile.logger",
         "openCyto",
         "RBGL",
         "Rgraphviz",
@@ -6255,7 +6066,6 @@
         "flowClust",
         "rrcov",
         "broom",
-        "xts",
         "fda",
         "Biostrings",
         "nloptr",
@@ -6278,7 +6088,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -6317,7 +6126,6 @@
         "rtracklayer",
         "BSgenome",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "restfulr"
@@ -6358,7 +6166,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "pbkrtest",
         "quantreg",
@@ -6410,7 +6217,6 @@
         "ggrepel",
         "car",
         "broom",
-        "xts",
         "quantmod",
         "missMDA",
         "nloptr",
@@ -6423,7 +6229,6 @@
         "modelr",
         "reprex",
         "rvest",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "DO.db",
@@ -6480,7 +6285,6 @@
         "reticulate",
         "rtracklayer",
         "SummarizedExperiment",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "Biostrings",
@@ -6563,8 +6367,7 @@
         "GenomeInfoDb"
     ],
     "dcGSA": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "ddPCRclust": [
         "ggplot2",
@@ -6605,8 +6408,6 @@
         "DMwR2",
         "pcaPP",
         "apcluster",
-        "futile.logger",
-        "xts",
         "quantmod",
         "pkgmaker",
         "ggplot2",
@@ -6669,7 +6470,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "ggforce",
         "ggrepel",
         "tidygraph",
@@ -6696,7 +6496,6 @@
         "made4",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -6709,7 +6508,6 @@
         "SummarizedExperiment",
         "ComplexHeatmap",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -6748,8 +6546,7 @@
         "KEGGREST",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "DeconRNASeq": [
         "ggplot2",
@@ -6778,7 +6575,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "testthat",
@@ -6803,7 +6599,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "DeepPINCS": [
@@ -6827,7 +6622,6 @@
         "rsparse",
         "mlapi",
         "koRpus.lang.en",
-        "koRpus",
         "quanteda",
         "MatrixExtra",
         "ggplot2"
@@ -6851,8 +6645,7 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "DEFormats": [
         "DESeq2",
@@ -6866,7 +6659,6 @@
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "KEGGREST",
@@ -6897,7 +6689,6 @@
         "webshot",
         "egg",
         "KEGGREST",
-        "futile.logger",
         "restfulr",
         "DelayedArray",
         "callr"
@@ -6929,7 +6720,6 @@
         "geneplotter",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -6966,8 +6756,7 @@
         "ScaledMatrix",
         "beachmat",
         "IRanges",
-        "dqrng",
-        "futile.logger"
+        "dqrng"
     ],
     "deltaCaptureC": [
         "IRanges",
@@ -6982,7 +6771,6 @@
         "XVector",
         "scales",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -6992,7 +6780,6 @@
         "tseries",
         "scales",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "DeMixT": [
@@ -7027,7 +6814,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "XVector"
     ],
     "DepecheR": [
@@ -7037,8 +6823,7 @@
         "scales",
         "igraph",
         "ggrepel",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "DEqMS": [
         "ggplot2",
@@ -7060,7 +6845,6 @@
         "Rsamtools",
         "rtracklayer",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
@@ -7110,7 +6894,6 @@
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -7127,7 +6910,6 @@
         "IRanges",
         "rtracklayer",
         "SummarizedExperiment",
-        "futile.logger",
         "AnnotationDbi",
         "Biostrings",
         "ensembldb",
@@ -7156,7 +6938,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -7167,8 +6948,7 @@
     ],
     "DEsingle": [
         "gamlss",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "destiny": [
         "SummarizedExperiment",
@@ -7189,7 +6969,6 @@
         "quantreg",
         "lme4",
         "XVector",
-        "xts",
         "nloptr",
         "broom",
         "testthat",
@@ -7212,7 +6991,6 @@
         "testthat",
         "scales",
         "qvalue",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -7227,7 +7005,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "genefilter",
         "geneplotter",
@@ -7250,7 +7027,6 @@
         "igraph",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -7270,7 +7046,6 @@
         "geneplotter",
         "genefilter",
         "KEGGREST",
-        "futile.logger",
         "ggplot2",
         "GenomeInfoDb",
         "XVector",
@@ -7301,7 +7076,6 @@
         "ggrepel",
         "apeglm",
         "GreyListChIP",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -7407,8 +7181,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "DiffLogo": [],
     "diffloop": [
@@ -7430,7 +7203,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "diffuStats": [
@@ -7468,8 +7240,7 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "diggit": [
         "viper",
@@ -7482,7 +7253,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "futile.logger",
         "DelayedArray",
         "ScaledMatrix",
         "beachmat",
@@ -7555,7 +7325,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "XVector",
         "selectr",
         "callr"
@@ -7579,7 +7348,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector"
@@ -7617,7 +7385,6 @@
         "benchmarkme",
         "lme4",
         "benchmarkmeData",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -7637,7 +7404,6 @@
         "IRanges",
         "rtracklayer",
         "multcomp",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "TH.data",
@@ -7697,7 +7463,6 @@
         "ruv",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -7736,7 +7501,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -7764,7 +7528,6 @@
         "interactiveDisplayBase",
         "GenomicFeatures",
         "regioneR",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray",
@@ -7812,14 +7575,12 @@
         "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "doppelgangR": [
         "BiocParallel",
         "sva",
         "SummarizedExperiment",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -7861,7 +7622,6 @@
         "qvalue",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "GO.db",
         "Biostrings",
@@ -7893,7 +7653,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -7906,7 +7665,6 @@
         "IRanges",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales"
@@ -7923,7 +7681,6 @@
         "dqrng",
         "beachmat",
         "scuttle",
-        "futile.logger",
         "sparseMatrixStats",
         "GenomeInfoDb",
         "XVector"
@@ -7947,7 +7704,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -7978,7 +7734,6 @@
         "BiocParallel",
         "bsseq",
         "DelayedArray",
-        "futile.logger",
         "GenomicRanges",
         "SummarizedExperiment",
         "IRanges",
@@ -8007,7 +7762,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "gganimate",
-        "futile.logger",
         "tweenr",
         "scales",
         "GenomicRanges",
@@ -8031,7 +7785,6 @@
         "rstatix",
         "ggrepel",
         "coin",
-        "futile.logger",
         "multcomp",
         "IRanges",
         "GenomicRanges",
@@ -8073,7 +7826,6 @@
         "IRanges",
         "Rsamtools",
         "ShortRead",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "DelayedArray",
@@ -8089,7 +7841,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -8123,7 +7874,6 @@
         "rtracklayer",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "restfulr",
         "DelayedArray"
@@ -8137,7 +7887,6 @@
         "lme4",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "nloptr",
@@ -8175,7 +7924,6 @@
         "fgsea",
         "scales",
         "network",
-        "futile.logger",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -8235,7 +7983,6 @@
         "hgu133a.db",
         "KEGGgraph",
         "Rgraphviz",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "Biostrings",
@@ -8303,7 +8050,6 @@
         "BiocParallel",
         "broom",
         "car",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -8316,7 +8062,6 @@
     "EMDomics": [
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales"
     ],
     "EnhancedVolcano": [
@@ -8337,7 +8082,6 @@
         "IRanges",
         "motifmatchr",
         "rtracklayer",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "TFBSTools",
@@ -8381,7 +8125,6 @@
         "quantreg",
         "multcomp",
         "htmlTable",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -8418,7 +8161,6 @@
         "HDF5Array",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "sparseMatrixStats",
@@ -8487,7 +8229,6 @@
         "GO.db",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "tweenr",
         "Biostrings",
         "XVector",
@@ -8528,7 +8269,6 @@
         "CNEr",
         "DirichletMultinomial",
         "KEGGREST",
-        "futile.logger",
         "DO.db",
         "fgsea",
         "aplot",
@@ -8575,7 +8315,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -8598,8 +8337,7 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "epialleleR": [
         "GenomicRanges",
@@ -8620,8 +8358,7 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -8650,7 +8387,6 @@
         "lme4",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "nloptr",
         "DelayedArray",
         "testthat",
@@ -8674,7 +8410,6 @@
         "BiocParallel",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "scales"
     ],
     "epigraHMM": [
@@ -8704,7 +8439,6 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
         "broom",
         "car",
         "pbkrtest",
@@ -8753,7 +8487,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "tweenr",
         "ape",
         "tidytree",
@@ -8804,7 +8537,6 @@
         "scales",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "epivizr": [
@@ -8831,8 +8563,7 @@
         "DelayedArray",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "epivizrChart": [
         "epivizrData",
@@ -8857,8 +8588,7 @@
         "KEGGREST",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "epivizrData": [
         "epivizrServer",
@@ -8882,8 +8612,7 @@
         "KEGGREST",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "epivizrServer": [],
     "epivizrStandalone": [
@@ -8911,8 +8640,7 @@
         "AnnotationFilter",
         "BiocParallel",
         "RBGL",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -8932,7 +8660,6 @@
         "IRanges",
         "AnnotationDbi",
         "KEGGREST",
-        "futile.logger",
         "Rsamtools",
         "GenomicAlignments",
         "VariantAnnotation",
@@ -8955,7 +8682,6 @@
         "DESeq2",
         "ggplot2",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -9006,7 +8732,6 @@
         "restfulr",
         "CNEr",
         "DirichletMultinomial",
-        "futile.logger",
         "DO.db",
         "fgsea",
         "aplot",
@@ -9035,7 +8760,6 @@
         "SingleCellExperiment",
         "ggridges",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "AnnotationDbi",
         "IRanges",
@@ -9069,8 +8793,7 @@
         "XVector",
         "GenomeInfoDb",
         "GenomicRanges",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "evaluomeR": [
         "SummarizedExperiment",
@@ -9118,8 +8841,7 @@
         "KEGGREST",
         "BiocParallel",
         "scales",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "EWCE": [
         "RNOmni",
@@ -9156,7 +8878,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "ExiMiR": [
@@ -9169,8 +8890,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "exomePeak2": [
         "SummarizedExperiment",
@@ -9189,7 +8909,6 @@
         "rtracklayer",
         "apeglm",
         "GenomeInfoDb",
-        "futile.logger",
         "XVector",
         "quantreg",
         "geneplotter",
@@ -9227,7 +8946,6 @@
         "GenomeInfoDb",
         "OrganismDbi",
         "AnnotationForge",
-        "futile.logger",
         "KEGGREST",
         "interactiveDisplayBase",
         "RBGL",
@@ -9254,7 +8972,6 @@
         "ape",
         "BiocParallel",
         "treeio",
-        "futile.logger",
         "XVector",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -9323,7 +9040,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -9368,7 +9084,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -9410,14 +9125,12 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "pcaPP",
         "hdrcde",
         "DelayedArray"
     ],
     "fCI": [
-        "VennDiagram",
-        "futile.logger"
+        "VennDiagram"
     ],
     "fcoex": [
         "FCBF",
@@ -9455,7 +9168,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "ggforce",
         "viridis",
         "tidygraph",
@@ -9485,8 +9197,7 @@
         "GenomicFeatures",
         "KEGGREST",
         "BiocParallel",
-        "biomaRt",
-        "futile.logger"
+        "biomaRt"
     ],
     "FEAST": [
         "BiocParallel",
@@ -9494,7 +9205,6 @@
         "SingleCellExperiment",
         "TSCAN",
         "SC3",
-        "futile.logger",
         "ggplot2",
         "pheatmap",
         "ROCR",
@@ -9540,7 +9250,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "xts",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -9555,7 +9264,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -9574,7 +9282,6 @@
     "fgsea": [
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales"
     ],
     "FilterFFPE": [
@@ -9584,8 +9291,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "FindIT2": [
         "GenomicRanges",
@@ -9601,7 +9307,6 @@
         "MultiAssayExperiment",
         "IRanges",
         "glmnet",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "Biostrings",
@@ -9638,7 +9343,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -9674,7 +9378,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "scales"
@@ -9700,7 +9403,6 @@
     "flowcatchR": [
         "BiocParallel",
         "plotly",
-        "futile.logger",
         "ggplot2",
         "scales"
     ],
@@ -9880,7 +9582,6 @@
         "ggplot2",
         "BiocParallel",
         "flowCore",
-        "futile.logger",
         "cytolib",
         "scales"
     ],
@@ -9972,7 +9673,6 @@
         "viridis",
         "graphlayouts",
         "ipred",
-        "futile.logger",
         "tweenr",
         "prodlim",
         "lava"
@@ -10013,7 +9713,6 @@
         "plotly",
         "Rsubread",
         "KEGGREST",
-        "futile.logger",
         "Biostrings",
         "rtracklayer",
         "XVector",
@@ -10082,7 +9781,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "rainbow",
         "DelayedArray",
         "pcaPP",
@@ -10107,7 +9805,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -10140,8 +9837,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "GA4GHshiny": [
         "GA4GHclient",
@@ -10165,8 +9861,7 @@
         "SummarizedExperiment",
         "BSgenome",
         "BiocParallel",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "gaga": [],
     "gage": [
@@ -10238,7 +9933,6 @@
         "viridis",
         "igraph",
         "callr",
-        "futile.logger",
         "KEGGREST",
         "pbkrtest",
         "quantreg",
@@ -10270,7 +9964,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "BiocIO",
         "restfulr",
         "DelayedArray"
@@ -10319,7 +10012,6 @@
         "ggplot2",
         "GenomicDataCommons",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "enrichplot",
         "GO.db",
@@ -10413,8 +10105,7 @@
         "BSgenome",
         "KEGGREST",
         "BiocParallel",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "GeneAccord": [
         "biomaRt",
@@ -10469,7 +10160,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "GeneBreak": [
@@ -10482,8 +10172,7 @@
         "XVector",
         "Rsamtools",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "GeneExpressionSignature": [],
     "genefilter": [
@@ -10526,7 +10215,6 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -10582,7 +10270,6 @@
         "SeqArray",
         "SeqVarTools",
         "igraph",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "logistf",
@@ -10620,7 +10307,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "BiocParallel",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -10664,7 +10350,6 @@
         "tweenr",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "XVector",
         "Biostrings"
     ],
@@ -10688,7 +10373,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "GENIE3": [],
@@ -10709,7 +10393,6 @@
         "scales",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "GenomeInfoDb": [
@@ -10729,7 +10412,6 @@
         "Biostrings",
         "Rsamtools",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "DelayedArray"
     ],
@@ -10766,7 +10448,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "GenomicFiles": [
@@ -10779,7 +10460,6 @@
         "IRanges",
         "VariantAnnotation",
         "GenomeInfoDb",
-        "futile.logger",
         "Biostrings",
         "XVector",
         "BiocIO",
@@ -10825,7 +10505,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -10864,8 +10543,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "GenomicRanges": [
         "IRanges",
@@ -10925,7 +10603,6 @@
         "GenomeInfoDb",
         "IRanges",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "scales",
         "Biostrings",
@@ -10976,7 +10653,6 @@
         "BiocIO",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray"
@@ -11146,8 +10822,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "ggcyto": [
         "ggplot2",
@@ -11205,7 +10880,6 @@
         "beachmat",
         "scuttle",
         "XVector",
-        "futile.logger",
         "sparseMatrixStats"
     ],
     "ggtree": [
@@ -11243,7 +10917,6 @@
         "GenomicRanges",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -11281,7 +10954,6 @@
         "ggplot2",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "scales",
@@ -11305,7 +10977,6 @@
         "glmnet",
         "SummarizedExperiment",
         "biomaRt",
-        "futile.logger",
         "sparsebn",
         "ggplot2",
         "survminer",
@@ -11372,7 +11043,6 @@
         "BSgenome",
         "GenomicAlignments",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -11428,7 +11098,6 @@
         "biomaRt",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "DelayedArray"
     ],
     "GMRP": [
@@ -11527,7 +11196,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "GOSim": [
@@ -11587,7 +11255,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -11632,7 +11299,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "gprege": [
@@ -11698,8 +11364,7 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "GRmetrics": [
         "SummarizedExperiment",
@@ -11736,7 +11401,6 @@
         "XVector",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "GRridge": [
@@ -11755,7 +11419,6 @@
         "SummarizedExperiment",
         "nloptr",
         "BiocParallel",
-        "futile.logger",
         "testthat",
         "GenomicRanges",
         "IRanges",
@@ -11783,7 +11446,6 @@
         "IRanges",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "GSEABase",
         "GO.db",
         "KEGGgraph",
@@ -11815,8 +11477,6 @@
         "biomaRt",
         "igraph",
         "STRINGdb",
-        "yeastExpData",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "IRanges",
@@ -11849,7 +11509,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "GSRI": [
@@ -11873,7 +11532,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "BiocSingular",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
@@ -11900,7 +11558,6 @@
         "GenomicAlignments",
         "GenomeInfoDb",
         "Rsamtools",
-        "futile.logger",
         "XVector",
         "rtracklayer",
         "AnnotationDbi",
@@ -11947,7 +11604,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "Gviz": [
@@ -11974,7 +11630,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -12011,8 +11666,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "GWASTools": [
         "logistf",
@@ -12048,7 +11702,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "broom",
         "ggplot2",
         "scales"
@@ -12057,7 +11710,6 @@
         "WGCNA",
         "ggplot2",
         "gprofiler2",
-        "NetRep",
         "igraph",
         "SummarizedExperiment",
         "scales",
@@ -12085,7 +11737,6 @@
         "BatchJobs",
         "GenomeInfoDb",
         "BBmisc",
-        "futile.logger",
         "XVector",
         "scales"
     ],
@@ -12131,8 +11782,7 @@
         "biomaRt",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "HELP": [],
     "HGC": [
@@ -12159,7 +11809,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "HiCcompare": [
@@ -12170,7 +11819,6 @@
         "BiocParallel",
         "QDNAseq",
         "pheatmap",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -12208,7 +11856,6 @@
         "biovizBase",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -12252,7 +11899,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "hipathia": [
@@ -12295,7 +11941,6 @@
         "hiAnnotator",
         "GenomicRanges",
         "readxl",
-        "futile.logger",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -12322,7 +11967,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "hopach": [],
@@ -12362,7 +12006,6 @@
         "VariantTools",
         "GenomeInfoDb",
         "SummarizedExperiment",
-        "futile.logger",
         "XVector",
         "AnnotationDbi",
         "BiocIO",
@@ -12375,7 +12018,6 @@
     "HTSFilter": [
         "DESeq2",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -12434,7 +12076,6 @@
     "iasva": [
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -12474,7 +12115,6 @@
         "csaw",
         "DESeq2",
         "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "genefilter",
@@ -12522,7 +12162,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "sparseMatrixStats",
         "multtest"
     ],
@@ -12541,7 +12180,6 @@
         "BSgenome",
         "GenomicRanges",
         "BiocParallel",
-        "futile.logger",
         "rtracklayer",
         "GenomicAlignments",
         "BiocIO",
@@ -12580,7 +12218,6 @@
         "shinyAce",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -12625,7 +12262,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "idiogram": [
@@ -12645,7 +12281,6 @@
         "scales"
     ],
     "idr2d": [
-        "futile.logger",
         "GenomeInfoDb",
         "GenomicRanges",
         "ggplot2",
@@ -12688,7 +12323,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "biomaRt",
         "DelayedArray"
     ],
@@ -12746,7 +12380,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
@@ -12776,7 +12409,6 @@
         "ggplot2",
         "sf",
         "concaveman",
-        "futile.logger",
         "HDF5Array",
         "DelayedArray",
         "ggbeeswarm",
@@ -12850,7 +12482,6 @@
         "gert"
     ],
     "infercnv": [
-        "futile.logger",
         "ape",
         "phyclust",
         "ggplot2",
@@ -12892,7 +12523,6 @@
         "GenomicFeatures",
         "ggplot2",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -12918,7 +12548,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -12958,7 +12587,6 @@
         "BiocParallel",
         "broom",
         "car",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -12997,8 +12625,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "interacCircos": [],
     "InteractionSet": [
@@ -13094,7 +12721,6 @@
         "BiocParallel",
         "DEXSeq",
         "DESeq2",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "genefilter",
@@ -13141,7 +12767,6 @@
         "ggplot2",
         "XVector",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "scales",
@@ -13163,7 +12788,6 @@
         "ggpubr",
         "ggplot2",
         "survminer",
-        "futile.logger",
         "scales",
         "ggrepel",
         "ggsci",
@@ -13198,7 +12822,6 @@
         "xcms",
         "CAMERA",
         "BiocParallel",
-        "futile.logger",
         "RBGL",
         "Hmisc",
         "igraph",
@@ -13283,7 +12906,6 @@
         "spatstat.geom",
         "uwot",
         "GenomicRanges",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "DO.db",
@@ -13318,7 +12940,6 @@
         "ggplot2",
         "ggrepel",
         "readxl",
-        "futile.logger",
         "scales"
     ],
     "iSEE": [
@@ -13394,7 +13015,6 @@
         "VennDiagram",
         "GenomeInfoDb",
         "tximeta",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "BiocParallel",
@@ -13454,7 +13074,6 @@
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
-        "futile.logger",
         "Biostrings"
     ],
     "ITALICS": [
@@ -13500,7 +13119,6 @@
         "ggfortify",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -13586,7 +13204,6 @@
         "BSgenome",
         "BiocParallel",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -13636,8 +13253,7 @@
         "GenomeInfoDb"
     ],
     "KinSwingR": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "kissDE": [
         "DESeq2",
@@ -13652,7 +13268,6 @@
         "bsseq",
         "DelayedArray",
         "scales",
-        "futile.logger",
         "GenomeInfoDb",
         "DelayedMatrixStats",
         "BSgenome",
@@ -13682,7 +13297,6 @@
         "viridis",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "ipred",
         "IRanges",
@@ -13725,7 +13339,6 @@
         "XVector",
         "BSgenome",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "restfulr",
@@ -13766,7 +13379,6 @@
         "ggplot2",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "scales",
         "GenomicRanges",
@@ -13831,7 +13443,6 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "XVector",
         "ggrepel"
     ],
@@ -13856,7 +13467,6 @@
         "spatstat.core",
         "spatstat.geom",
         "spicyR",
-        "futile.logger",
         "sf",
         "scales",
         "spatstat.random",
@@ -13883,7 +13493,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -13899,7 +13508,6 @@
         "pheatmap",
         "GenomicRanges",
         "BiocParallel",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -13933,7 +13541,6 @@
         "BiocParallel",
         "motifStack",
         "Biostrings",
-        "futile.logger",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -13956,7 +13563,6 @@
         "ggrepel",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -13996,7 +13602,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "sparseMatrixStats",
         "multtest"
     ],
@@ -14018,7 +13623,6 @@
         "tidytree",
         "treeio",
         "igraph",
-        "futile.logger",
         "ggplotify",
         "patchwork"
     ],
@@ -14066,7 +13670,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "ipred",
         "DelayedArray",
@@ -14114,7 +13717,6 @@
         "BiocParallel",
         "Biostrings",
         "ShortRead",
-        "futile.logger",
         "XVector",
         "SummarizedExperiment",
         "BiocIO",
@@ -14175,7 +13777,6 @@
         "ape",
         "vegan",
         "KEGGREST",
-        "futile.logger",
         "biomaRt"
     ],
     "maftools": [],
@@ -14219,7 +13820,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -14258,7 +13858,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "futile.logger",
         "tweenr",
         "Biostrings",
         "XVector",
@@ -14308,7 +13907,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "viridis",
         "scales",
         "htmlTable",
@@ -14402,7 +14000,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "BiocParallel",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -14466,7 +14063,6 @@
         "DirichletMultinomial",
         "GenomicRanges",
         "rtracklayer",
-        "futile.logger",
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
@@ -14480,14 +14076,12 @@
         "DelayedArray"
     ],
     "matter": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "MBASED": [
         "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -14502,7 +14096,6 @@
         "BiocParallel",
         "beachmat",
         "benchmarkmeData",
-        "futile.logger",
         "ggplot2",
         "IRanges",
         "GenomicRanges",
@@ -14551,7 +14144,6 @@
         "WGCNA",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "htmlTable",
         "viridis",
@@ -14588,7 +14180,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -14611,7 +14202,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "MEAL": [
@@ -14659,7 +14249,6 @@
         "ggrepel",
         "sva",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -14692,7 +14281,6 @@
         "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -14736,7 +14324,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -14843,7 +14430,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "scales",
         "ggforce",
         "ggrepel",
@@ -14901,7 +14487,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "vsn",
         "affy",
         "ggplot2",
@@ -14937,7 +14522,6 @@
         "multtest",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales"
     ],
     "MetaboSignal": [
@@ -14980,7 +14564,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "testthat",
         "callr"
     ],
@@ -15043,7 +14626,6 @@
         "Rsamtools",
         "ensembldb",
         "EnsDb.Hsapiens.v86",
-        "futile.logger",
         "AnnotationFilter",
         "AnnotationDbi",
         "Biostrings",
@@ -15065,7 +14647,6 @@
         "IRanges",
         "ggplot2",
         "Rsamtools",
-        "futile.logger",
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
@@ -15090,7 +14671,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -15117,7 +14697,6 @@
     "metapone": [
         "BiocParallel",
         "fields",
-        "futile.logger",
         "viridis",
         "ggplot2",
         "scales"
@@ -15149,7 +14728,6 @@
         "survcomp",
         "VennDiagram",
         "vsn",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "geneplotter",
@@ -15215,8 +14793,7 @@
         "KEGGREST",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "MetaVolcanoR": [
         "plotly",
@@ -15241,8 +14818,7 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "methimpute": [
         "GenomicRanges",
@@ -15271,7 +14847,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -15327,8 +14902,7 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "MethTargetedNGS": [
         "seqinr",
@@ -15342,7 +14916,6 @@
         "ggplot2",
         "minfi",
         "SummarizedExperiment",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "Biostrings",
@@ -15398,7 +14971,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "KEGGREST",
-        "futile.logger",
         "sparseMatrixStats",
         "BiocIO",
         "biomaRt",
@@ -15444,7 +15016,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "xts",
         "broom",
         "googlesheets4",
         "modelr",
@@ -15453,7 +15024,6 @@
         "rvest",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "sparseMatrixStats",
@@ -15492,7 +15062,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "DOSE",
         "enrichplot",
         "GOSemSim",
@@ -15554,7 +15123,6 @@
         "IRanges",
         "ggplot2",
         "rebus",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -15584,7 +15152,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -15602,7 +15169,6 @@
         "Rfast",
         "shinyFiles",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -15628,7 +15194,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "methylSig": [
@@ -15648,7 +15213,6 @@
         "beachmat",
         "sparseMatrixStats",
         "XVector",
-        "futile.logger",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments",
@@ -15682,7 +15246,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -15709,7 +15272,6 @@
         "BiocParallel",
         "ggplot2",
         "GENIE3",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "IRanges",
@@ -15765,7 +15327,6 @@
         "scuttle",
         "scater",
         "DirichletMultinomial",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "ggplot2",
@@ -15806,7 +15367,6 @@
         "tidygraph",
         "ape",
         "DirichletMultinomial",
-        "futile.logger",
         "IRanges",
         "scales",
         "ggforce",
@@ -15899,7 +15459,6 @@
         "egg",
         "glmnet",
         "Wrench",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -15952,7 +15511,6 @@
         "igraph",
         "vegan",
         "ggplotify",
-        "futile.logger",
         "AnnotationDbi",
         "TH.data",
         "testthat",
@@ -16002,7 +15560,6 @@
         "tidytree",
         "treeio",
         "gert",
-        "futile.logger",
         "tweenr",
         "Biostrings",
         "XVector",
@@ -16065,7 +15622,6 @@
     "MIGSA": [
         "AnnotationDbi",
         "BiocParallel",
-        "futile.logger",
         "ggdendro",
         "ggplot2",
         "GO.db",
@@ -16098,7 +15654,6 @@
         "patchwork",
         "ggrepel",
         "ggbeeswarm",
-        "futile.logger",
         "DelayedArray",
         "ScaledMatrix",
         "beachmat",
@@ -16192,7 +15747,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "sparseMatrixStats",
         "multtest"
     ],
@@ -16210,7 +15764,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -16243,8 +15796,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "MiPP": [],
     "miQC": [
@@ -16274,7 +15826,6 @@
         "HDF5Array",
         "beachmat",
         "XVector",
-        "futile.logger",
         "rtracklayer",
         "Rsamtools",
         "sparseMatrixStats",
@@ -16417,7 +15968,6 @@
         "ggraph",
         "reactome.db",
         "graphite",
-        "futile.logger",
         "aplot",
         "scatterpie",
         "shadowtext",
@@ -16458,7 +16008,6 @@
         "graphite",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "aplot",
         "scatterpie",
         "shadowtext",
@@ -16514,7 +16063,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BiocIO",
@@ -16575,15 +16123,13 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "mixOmics": [
         "ggplot2",
         "igraph",
         "ggrepel",
         "BiocParallel",
-        "futile.logger",
         "scales"
     ],
     "MLInterfaces": [
@@ -16625,7 +16171,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "callr",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "ipred",
@@ -16644,7 +16189,6 @@
         "GenomicRanges",
         "IRanges",
         "VariantTools",
-        "futile.logger",
         "Biostrings",
         "SummarizedExperiment",
         "XVector",
@@ -16671,7 +16215,6 @@
         "rtracklayer",
         "scales",
         "BiocParallel",
-        "futile.logger",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -16771,8 +16314,7 @@
     "MOGAMUN": [
         "RCy3",
         "BiocParallel",
-        "igraph",
-        "futile.logger"
+        "igraph"
     ],
     "mogsa": [
         "graphite",
@@ -16811,7 +16353,6 @@
         "ComplexHeatmap",
         "XVector",
         "GenomeInfoDb",
-        "futile.logger",
         "rtracklayer",
         "Rsamtools",
         "DelayedArray",
@@ -16858,7 +16399,6 @@
         "biomaRt",
         "rvest",
         "KEGGREST",
-        "futile.logger",
         "aplot",
         "ggraph",
         "igraph",
@@ -16892,7 +16432,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "mosbi": [
@@ -16920,7 +16459,6 @@
         "motifStack",
         "Gviz",
         "SummarizedExperiment",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "biomaRt",
@@ -16959,7 +16497,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "motifmatchr": [
@@ -16977,7 +16514,6 @@
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
-        "futile.logger",
         "GenomicAlignments",
         "ggplot2",
         "GO.db",
@@ -17019,7 +16555,6 @@
     "MPRAnalyze": [
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -17058,22 +16593,19 @@
         "Spectra",
         "BiocParallel",
         "IRanges",
-        "MsCoreUtils",
-        "futile.logger"
+        "MsCoreUtils"
     ],
     "MsBackendMgf": [
         "Spectra",
         "BiocParallel",
         "IRanges",
-        "MsCoreUtils",
-        "futile.logger"
+        "MsCoreUtils"
     ],
     "MsBackendRawFileReader": [
         "Spectra",
         "MsCoreUtils",
         "IRanges",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "MsCoreUtils": [],
     "MsFeatures": [
@@ -17116,7 +16648,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -17143,7 +16674,6 @@
         "bluster",
         "dqrng",
         "beachmat",
-        "futile.logger",
         "ScaledMatrix",
         "BiocNeighbors",
         "IRanges",
@@ -17160,8 +16690,7 @@
         "vsn",
         "affy",
         "ggplot2",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "msmsTests": [
         "MSnbase",
@@ -17173,8 +16702,7 @@
         "vsn",
         "affy",
         "ggplot2",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "MSnbase": [
         "MsCoreUtils",
@@ -17183,8 +16711,7 @@
         "vsn",
         "affy",
         "ggplot2",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "MSnID": [
         "MSnbase",
@@ -17205,8 +16732,7 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -17224,7 +16750,6 @@
         "genefilter",
         "BiocParallel",
         "car",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -17247,7 +16772,6 @@
         "lme4",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "nloptr",
         "MultiAssayExperiment",
         "IRanges",
@@ -17347,8 +16871,7 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
@@ -17364,15 +16887,13 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "MSstatsSampleSize": [
         "ggplot2",
         "BiocParallel",
         "caret",
         "MSstats",
-        "futile.logger",
         "recipes",
         "scales",
         "MSstatsConvert",
@@ -17477,7 +16998,6 @@
         "BiocParallel",
         "tensorflow",
         "tfruns",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "tfautograph"
@@ -17504,7 +17024,6 @@
         "ggplot2",
         "TFisher",
         "mutoss",
-        "futile.logger",
         "scales",
         "Biostrings",
         "multtest",
@@ -17521,7 +17040,6 @@
         "pheatmap",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "IRanges",
         "XVector",
         "ggplot2",
@@ -17597,7 +17115,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "miniUI",
         "pkgbuild",
         "pkgdown",
@@ -17647,7 +17164,6 @@
         "batchelor",
         "uwot",
         "ResidualMatrix",
-        "futile.logger",
         "sparseMatrixStats",
         "bluster",
         "dqrng",
@@ -17674,8 +17190,7 @@
         "KEGGREST",
         "BiocParallel",
         "biomaRt",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "muscat": [
         "BiocParallel",
@@ -17694,7 +17209,6 @@
         "SummarizedExperiment",
         "variancePartition",
         "viridis",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -17787,7 +17301,6 @@
         "GenomicAlignments",
         "restfulr",
         "selectr",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -17822,8 +17335,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "MWASTools": [
         "qvalue",
@@ -17872,7 +17384,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "myvariant": [
@@ -17899,8 +17410,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "NADfinder": [
         "IRanges",
@@ -17933,7 +17443,6 @@
         "Rgraphviz",
         "InteractionSet",
         "KEGGREST",
-        "futile.logger",
         "ensembldb",
         "RBGL",
         "VennDiagram",
@@ -17979,7 +17488,6 @@
         "Biostrings",
         "HDF5Array",
         "XVector",
-        "futile.logger",
         "rtracklayer",
         "sparseMatrixStats",
         "GenomicAlignments",
@@ -18039,15 +17547,13 @@
         "ggplot2",
         "fgsea",
         "BiocParallel",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "NBAMSeq": [
         "SummarizedExperiment",
         "DESeq2",
         "BiocParallel",
         "genefilter",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "geneplotter",
@@ -18065,7 +17571,6 @@
         "mppa",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -18082,7 +17587,6 @@
     "ncGTW": [
         "BiocParallel",
         "xcms",
-        "futile.logger",
         "MSnbase",
         "IRanges",
         "SummarizedExperiment",
@@ -18134,7 +17638,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "biomaRt",
         "DelayedArray"
@@ -18229,7 +17732,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "scales",
         "ggforce",
         "ggrepel",
@@ -18351,7 +17853,6 @@
         "ggrepel",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector",
@@ -18396,7 +17897,6 @@
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "XVector"
     ],
     "ngsReports": [
@@ -18441,8 +17941,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "normalize450K": [
         "illuminaio"
@@ -18493,13 +17992,11 @@
         "SummarizedExperiment",
         "BiocParallel",
         "scales",
-        "futile.logger",
         "DelayedArray"
     ],
     "NPARC": [
         "BiocParallel",
         "broom",
-        "futile.logger",
         "ggplot2",
         "scales"
     ],
@@ -18528,7 +18025,6 @@
         "scales",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -18550,8 +18046,7 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
@@ -18572,7 +18067,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "sparseMatrixStats",
@@ -18622,7 +18116,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "testthat",
         "usethis",
         "biomaRt",
@@ -18712,7 +18205,6 @@
         "SummarizedExperiment",
         "multtest",
         "NADA",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "RcppZiggurat",
@@ -18743,7 +18235,6 @@
         "DelayedArray",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "car",
         "AnnotationDbi",
         "XVector",
@@ -18762,7 +18253,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "IRanges",
@@ -18798,7 +18288,6 @@
         "SummarizedExperiment",
         "rvest",
         "webshot",
-        "xts",
         "XVector",
         "BiocIO",
         "restfulr",
@@ -18816,7 +18305,6 @@
         "DelayedArray",
         "callr",
         "KEGGREST",
-        "futile.logger",
         "nloptr",
         "broom",
         "testthat"
@@ -19001,7 +18489,6 @@
         "HDF5Array",
         "BiocSingular",
         "KEGGREST",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
@@ -19056,7 +18543,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "ORFik": [
@@ -19078,7 +18564,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "KEGGREST",
-        "futile.logger",
         "biomaRt",
         "XVector",
         "scales",
@@ -19106,7 +18591,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "OrganismDbi": [
@@ -19127,7 +18611,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "orthogene": [
@@ -19161,7 +18644,6 @@
         "EBSeq",
         "testthat",
         "BiocParallel",
-        "futile.logger",
         "callr"
     ],
     "OTUbase": [
@@ -19175,7 +18657,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -19192,7 +18673,6 @@
         "IRanges",
         "plotly",
         "scales",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -19217,7 +18697,6 @@
     "OVESEG": [
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -19231,7 +18710,6 @@
         "igraph",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -19298,7 +18776,6 @@
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
-        "futile.logger",
         "GenomicAlignments",
         "ggplot2",
         "GO.db",
@@ -19312,7 +18789,6 @@
         "nloptr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "testthat",
         "GenomicRanges",
         "IRanges",
@@ -19349,8 +18825,7 @@
         "exomeCopy",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "panp": [
         "affy"
@@ -19383,7 +18858,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "Path2PPI": [
@@ -19421,7 +18895,6 @@
         "igraph",
         "multtest",
         "callr",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -19496,14 +18969,12 @@
         "pkgmaker",
         "DelayedArray",
         "igraph",
-        "futile.logger",
         "GSEABase",
         "Biostrings",
         "callr"
     ],
     "PCAN": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "PCAtools": [
         "ggplot2",
@@ -19515,7 +18986,6 @@
         "BiocParallel",
         "dqrng",
         "beachmat",
-        "futile.logger",
         "ScaledMatrix",
         "scales",
         "IRanges",
@@ -19542,7 +19012,6 @@
         "switchBox",
         "reportROC",
         "verification",
-        "futile.logger",
         "recipes",
         "BumpyMatrix",
         "biomaRt",
@@ -19617,8 +19086,7 @@
         "BiocParallel",
         "IRanges",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "PECA": [
         "affy",
@@ -19655,7 +19123,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector",
@@ -19663,8 +19130,7 @@
     ],
     "pengls": [
         "glmnet",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "PepsNMR": [
         "ptw",
@@ -19708,7 +19174,6 @@
         "GenomeInfoDb",
         "ggplot2",
         "cowplot",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "scales",
@@ -19744,7 +19209,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -19774,7 +19238,6 @@
         "BiocParallel",
         "genefilter",
         "geneplotter",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -19786,7 +19249,6 @@
         "MultiAssayExperiment",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "piano",
         "BumpyMatrix",
         "scales",
@@ -19849,7 +19311,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "xts",
         "nloptr",
         "broom",
         "testthat",
@@ -20035,8 +19496,7 @@
         "shinydashboard",
         "scales",
         "BiocParallel",
-        "ggplot2",
-        "futile.logger"
+        "ggplot2"
     ],
     "PICS": [
         "IRanges",
@@ -20048,7 +19508,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "Pigengene": [
@@ -20092,7 +19551,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "tweenr",
         "ape",
         "tidytree",
@@ -20130,7 +19588,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -20151,7 +19608,6 @@
         "cowplot",
         "scater",
         "uwot",
-        "futile.logger",
         "IRanges",
         "scuttle",
         "DelayedArray",
@@ -20200,7 +19656,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -20250,7 +19705,6 @@
         "scales",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "plotGrouper": [
@@ -20294,7 +19748,6 @@
         "XVector",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "pmm": [
@@ -20328,7 +19781,6 @@
         "XVector",
         "rtracklayer",
         "BiocParallel",
-        "futile.logger",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -20382,7 +19834,6 @@
         "MsCoreUtils",
         "vsn",
         "affy",
-        "futile.logger",
         "tweenr",
         "ipred",
         "prodlim",
@@ -20436,13 +19887,11 @@
         "ggplot2",
         "igraph",
         "STRINGdb",
-        "yeastExpData",
         "AnnotationDbi",
         "BiocParallel",
         "scales",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -20474,7 +19923,6 @@
         "GenomicRanges",
         "IRanges",
         "Rsamtools",
-        "futile.logger",
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
@@ -20496,7 +19944,6 @@
         "XVector",
         "BiocStyle",
         "phyloseq",
-        "futile.logger",
         "ape",
         "biomformat",
         "ggplot2",
@@ -20538,7 +19985,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "lava",
-        "futile.logger",
         "DelayedArray"
     ],
     "PrecisionTrialDrawer": [
@@ -20550,7 +19996,6 @@
         "IRanges",
         "GenomicRanges",
         "shinyBS",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -20602,7 +20047,6 @@
         "DirichletMultinomial",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -20627,9 +20071,7 @@
         "vsn",
         "affy",
         "scales",
-        "futile.logger",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "proActiv": [
@@ -20645,7 +20087,6 @@
         "scales",
         "SummarizedExperiment",
         "KEGGREST",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "Biostrings",
@@ -20674,7 +20115,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "proBatch": [
@@ -20695,7 +20135,6 @@
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "htmlTable",
         "nloptr",
         "affy",
@@ -20728,7 +20167,6 @@
         "xcms",
         "BiocParallel",
         "ropls",
-        "futile.logger",
         "MultiDataSet",
         "MSnbase",
         "IRanges",
@@ -20767,7 +20205,6 @@
         "rtracklayer",
         "GenomeInfoDb",
         "Rsamtools",
-        "futile.logger",
         "AnnotationDbi",
         "enrichplot",
         "XVector",
@@ -20823,7 +20260,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "pkgmaker",
-        "futile.logger",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -20840,7 +20276,6 @@
         "mixtools",
         "ggplot2",
         "biomaRt",
-        "futile.logger",
         "AnnotationDbi",
         "recipes",
         "viridis",
@@ -20885,7 +20320,6 @@
         "biomaRt",
         "fresh",
         "waiter",
-        "futile.logger",
         "AnnotationDbi",
         "recipes",
         "viridis",
@@ -20915,7 +20349,6 @@
         "sva",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -20959,7 +20392,6 @@
         "Mfuzz",
         "apcluster",
         "broom",
-        "xts",
         "quantmod",
         "callr",
         "IRanges",
@@ -20987,7 +20419,6 @@
         "modelr",
         "reprex",
         "rvest",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "DO.db",
@@ -21034,7 +20465,6 @@
         "IRanges",
         "VariantAnnotation",
         "XVector",
-        "futile.logger",
         "AnnotationDbi",
         "BiocIO",
         "rtracklayer",
@@ -21064,7 +20494,6 @@
         "BiocCheck",
         "OrganismDbi",
         "AnnotationForge",
-        "futile.logger",
         "XVector",
         "MsCoreUtils",
         "BiocParallel",
@@ -21112,7 +20541,6 @@
         "miniUI",
         "scales",
         "broom",
-        "xts",
         "quantmod",
         "igraph",
         "BiocParallel",
@@ -21122,7 +20550,6 @@
         "rtracklayer",
         "RcppZiggurat",
         "DelayedArray",
-        "futile.logger",
         "bumphunter",
         "derfinderHelper",
         "GenomicAlignments",
@@ -21186,7 +20613,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "futile.logger",
         "broom",
         "car",
         "pbkrtest",
@@ -21243,7 +20669,6 @@
         "Biostrings",
         "rtracklayer",
         "ggplot2",
-        "futile.logger",
         "XVector",
         "AnnotationDbi",
         "BiocIO",
@@ -21297,8 +20722,7 @@
         "htmlTable",
         "viridis",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "PWMEnrich": [
         "Biostrings",
@@ -21350,8 +20774,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "QFeatures": [
         "MultiAssayExperiment",
@@ -21380,7 +20803,6 @@
         "GenomicFeatures",
         "Rgraphviz",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -21404,8 +20826,7 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "qrqc": [
         "ggplot2",
@@ -21436,7 +20857,6 @@
         "viridis",
         "DelayedArray",
         "BSgenome",
-        "futile.logger",
         "restfulr"
     ],
     "qsea": [
@@ -21448,7 +20868,6 @@
         "IRanges",
         "GenomeInfoDb",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicAlignments",
         "BiocIO",
@@ -21469,7 +20888,6 @@
         "DelayedArray",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "scales",
@@ -21516,7 +20934,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -21558,7 +20975,6 @@
         "GenomicFiles",
         "AnnotationDbi",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -21610,8 +21026,7 @@
         "biomaRt",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "r3Cseq": [
         "GenomicRanges",
@@ -21627,7 +21042,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -21651,7 +21065,6 @@
         "DelayedArray",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "restfulr"
     ],
@@ -21666,7 +21079,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "scales",
-        "futile.logger",
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
@@ -21715,7 +21127,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "DelayedArray"
     ],
     "RandomWalkRestartMH": [
@@ -21752,8 +21163,7 @@
         "interactiveDisplayBase",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "RbcBook1": [],
     "Rbec": [
@@ -21769,7 +21179,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -21782,8 +21191,7 @@
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "rbsurv": [],
     "Rcade": [
@@ -21797,7 +21205,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "RCAS": [
@@ -21828,7 +21235,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "rcellminer": [
@@ -21861,7 +21267,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "RcisTarget": [
@@ -21893,7 +21298,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "xts",
         "TTR"
     ],
     "Rcpi": [
@@ -21924,7 +21328,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "futile.logger",
         "igraph",
         "influenceR",
         "scales",
@@ -21939,7 +21342,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "futile.logger",
         "igraph",
         "influenceR",
         "scales",
@@ -21985,7 +21387,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "tweenr",
         "ape",
         "tidytree",
@@ -22035,7 +21436,6 @@
         "GenomicRanges",
         "IRanges",
         "rtracklayer",
-        "futile.logger",
         "AnnotationDbi",
         "bumphunter",
         "derfinderHelper",
@@ -22072,8 +21472,7 @@
         "BiocIO",
         "restfulr",
         "DelayedArray",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "recountmethylation": [
         "minfi",
@@ -22091,7 +21490,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -22125,7 +21523,6 @@
         "scales",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "DelayedArray"
     ],
     "RedeR": [
@@ -22160,8 +21557,7 @@
         "BiocIO",
         "scales",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "RefPlus": [
         "affy",
@@ -22181,7 +21577,6 @@
         "DESeq2",
         "WGCNA",
         "ggplot2",
-        "futile.logger",
         "BiocIO",
         "AnnotationDbi",
         "KEGGREST",
@@ -22216,7 +21611,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "regionReport": [
@@ -22246,7 +21640,6 @@
         "XVector",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "Biostrings",
         "BiocIO",
         "biomaRt",
@@ -22294,7 +21687,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -22315,7 +21707,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "ggplot2",
@@ -22357,7 +21748,6 @@
         "vsn",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "AnnotationDbi",
         "DelayedArray",
         "affy",
@@ -22400,7 +21790,6 @@
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
-        "futile.logger",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -22419,8 +21808,7 @@
         "XVector",
         "Biostrings",
         "BiocParallel",
-        "KEGGREST",
-        "futile.logger"
+        "KEGGREST"
     ],
     "ReQON": [
         "Rsamtools",
@@ -22430,8 +21818,7 @@
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "ResidualMatrix": [
         "DelayedArray",
@@ -22492,8 +21879,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "rGADEM": [
         "Biostrings",
@@ -22508,7 +21894,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -22542,7 +21927,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "RGraph2js": [],
@@ -22571,7 +21955,6 @@
         "geneLenDataBase",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "rtracklayer",
         "GenomicFeatures",
         "XVector",
@@ -22605,8 +21988,7 @@
         "KEGGREST",
         "BiocParallel",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "RiboCrypt": [
         "ORFik",
@@ -22618,7 +22000,6 @@
         "ggplot2",
         "IRanges",
         "plotly",
-        "futile.logger",
         "XVector",
         "AnnotationDbi",
         "BiocIO",
@@ -22663,7 +22044,6 @@
         "scales",
         "densEstBayes",
         "KEGGREST",
-        "futile.logger",
         "rstan",
         "rstantools",
         "restfulr",
@@ -22700,7 +22080,6 @@
         "AnnotationFilter",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "RBGL",
@@ -22718,8 +22097,7 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "ribosomeProfilingQC": [
         "GenomicRanges",
@@ -22748,7 +22126,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "RImmPort": [],
@@ -22793,7 +22170,6 @@
         "ensembldb",
         "AnnotationFilter",
         "BiocParallel",
-        "futile.logger",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -22809,7 +22185,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "vsn",
         "ggplot2",
         "scales",
@@ -22847,7 +22222,6 @@
         "consensusSeekeR",
         "GenomeInfoDb",
         "BiocParallel",
-        "futile.logger",
         "rtracklayer",
         "XVector",
         "Biostrings",
@@ -22894,7 +22268,6 @@
         "GenomicAlignments",
         "restfulr",
         "broom",
-        "futile.logger",
         "KEGGREST",
         "recipes",
         "SummarizedExperiment",
@@ -22915,8 +22288,7 @@
         "vsn",
         "affy",
         "ggplot2",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "Rmmquant": [
         "GenomicRanges",
@@ -22945,7 +22317,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "Biostrings",
         "BiocIO",
         "rtracklayer",
@@ -22969,7 +22340,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "RNAAgeCalc": [
@@ -22987,7 +22357,6 @@
         "GenomicRanges",
         "rtracklayer",
         "DelayedArray",
-        "futile.logger",
         "bumphunter",
         "derfinderHelper",
         "GenomicAlignments",
@@ -23036,7 +22405,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "scales",
-        "futile.logger",
         "DelayedArray"
     ],
     "RNAinteract": [
@@ -23075,7 +22443,6 @@
         "ggplot2",
         "Gviz",
         "ROCR",
-        "futile.logger",
         "XVector",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -23115,7 +22482,6 @@
         "ggplot2",
         "ROCR",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -23144,7 +22510,6 @@
         "ggplot2",
         "Gviz",
         "ROCR",
-        "futile.logger",
         "SummarizedExperiment",
         "AnnotationDbi",
         "BiocIO",
@@ -23183,7 +22548,6 @@
         "ggplot2",
         "ROCR",
         "KEGGREST",
-        "futile.logger",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -23250,11 +22614,9 @@
         "KEGGgraph",
         "Rgraphviz",
         "KEGGREST",
-        "xts",
         "RcppTOML",
         "ShortRead",
         "GenomicFeatures",
-        "futile.logger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -23328,7 +22690,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -23354,8 +22715,7 @@
         "XVector",
         "BiocIO",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "ROCpAI": [
         "SummarizedExperiment",
@@ -23425,7 +22785,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "GenomicFiles",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "scales",
@@ -23488,8 +22847,7 @@
         "GenomeInfoDb"
     ],
     "RRHO": [
-        "VennDiagram",
-        "futile.logger"
+        "VennDiagram"
     ],
     "rrvgo": [
         "GOSemSim",
@@ -23513,8 +22871,7 @@
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "rScudo": [
         "igraph",
@@ -23539,7 +22896,6 @@
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -23593,8 +22949,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "RTN": [
         "RedeR",
@@ -23688,7 +23043,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "Rtreemix": [
@@ -23727,7 +23081,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "runibic": [
@@ -23744,8 +23097,7 @@
         "scales"
     ],
     "RUVcorr": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "RUVnormalize": [],
     "RUVSeq": [
@@ -23765,7 +23117,6 @@
         "rtracklayer",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "restfulr",
         "DelayedArray"
@@ -23849,7 +23200,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "IRanges",
@@ -23952,7 +23302,6 @@
         "oligoClasses",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -23966,7 +23315,6 @@
         "BiocParallel",
         "GenomeInfoDb",
         "ggplot2",
-        "futile.logger",
         "XVector",
         "scales"
     ],
@@ -23992,7 +23340,6 @@
         "waiter",
         "KEGGREST",
         "interactiveDisplayBase",
-        "futile.logger",
         "XVector",
         "Rsamtools",
         "BiocIO",
@@ -24060,7 +23407,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "SCArray": [
@@ -24087,7 +23433,6 @@
         "BiocParallel",
         "XVector",
         "ExperimentHub",
-        "futile.logger",
         "AnnotationHub",
         "DelayedArray",
         "AnnotationDbi",
@@ -24108,7 +23453,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "futile.logger",
         "ScaledMatrix",
         "IRanges",
         "sparseMatrixStats",
@@ -24156,7 +23500,6 @@
         "uwot",
         "DelayedArray",
         "GenomeInfoDb",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "RcppTOML",
@@ -24200,7 +23543,6 @@
         "spatstat.geom",
         "uwot",
         "GenomeInfoDb",
-        "futile.logger",
         "sparseMatrixStats",
         "XVector",
         "RcppTOML",
@@ -24254,7 +23596,6 @@
         "ggplot2",
         "hopach",
         "Cepo",
-        "futile.logger",
         "GSEABase",
         "DelayedMatrixStats",
         "DelayedArray",
@@ -24327,7 +23668,6 @@
         "bluster",
         "DelayedArray",
         "xgboost",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "IRanges",
@@ -24353,7 +23693,6 @@
         "SummarizedExperiment",
         "scran",
         "lme4",
-        "futile.logger",
         "testthat",
         "viridis",
         "scales",
@@ -24377,8 +23716,7 @@
     ],
     "scde": [
         "quantreg",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "scds": [
         "SingleCellExperiment",
@@ -24396,7 +23734,6 @@
         "BiocParallel",
         "igraph",
         "glmnet",
-        "futile.logger",
         "reticulate",
         "tfruns",
         "tfautograph",
@@ -24422,7 +23759,6 @@
         "scales",
         "DelayedArray",
         "GenomeInfoDb",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "ipred",
@@ -24477,7 +23813,6 @@
         "ggplot2",
         "igraph",
         "ggforce",
-        "futile.logger",
         "scales",
         "tweenr",
         "GenomicRanges",
@@ -24532,7 +23867,6 @@
         "ruv",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "IRanges",
@@ -24578,7 +23912,6 @@
         "BiocParallel",
         "beachmat",
         "KEGGREST",
-        "futile.logger",
         "sparseMatrixStats",
         "BiocIO",
         "biomaRt",
@@ -24591,7 +23924,6 @@
         "quantreg",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "DelayedArray",
@@ -24605,7 +23937,6 @@
         "mixtools",
         "RUVSeq",
         "SingleCellExperiment",
-        "futile.logger",
         "EDASeq",
         "GenomicRanges",
         "DelayedArray",
@@ -24645,7 +23976,6 @@
         "gld",
         "readxl",
         "BiocParallel",
-        "futile.logger",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -24659,7 +23989,6 @@
         "GenomicRanges",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -24697,7 +24026,6 @@
         "origami",
         "DelayedArray",
         "ScaledMatrix",
-        "futile.logger",
         "IRanges"
     ],
     "scPipe": [
@@ -24734,7 +24062,6 @@
         "viridis",
         "ggrepel",
         "callr",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats"
     ],
@@ -24750,7 +24077,6 @@
         "bluster",
         "dqrng",
         "beachmat",
-        "futile.logger",
         "ScaledMatrix",
         "BiocNeighbors",
         "IRanges",
@@ -24774,7 +24100,6 @@
         "SAVER",
         "Rmagic",
         "BiocParallel",
-        "futile.logger",
         "reticulate",
         "ggplot2",
         "glmnet",
@@ -24816,7 +24141,6 @@
         "Rsubread",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -24846,12 +24170,10 @@
         "IRanges",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "XVector"
     ],
     "scShapes": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "scTensor": [
         "igraph",
@@ -24903,7 +24225,6 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "futile.logger",
         "sf",
         "aplot",
         "scatterpie",
@@ -24989,8 +24310,7 @@
         "dqrng"
     ],
     "scTHI": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "scTreeViz": [
         "epivizr",
@@ -25043,7 +24363,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "futile.logger",
         "ScaledMatrix",
         "AnnotationDbi",
         "sparseMatrixStats",
@@ -25071,7 +24390,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "beachmat",
-        "futile.logger",
         "IRanges",
         "sparseMatrixStats",
         "GenomeInfoDb",
@@ -25148,7 +24466,6 @@
         "tidytree",
         "treeio",
         "GO.db",
-        "futile.logger",
         "tweenr"
     ],
     "segmentSeq": [
@@ -25162,7 +24479,6 @@
         "Biostrings",
         "BiocParallel",
         "GenomicAlignments",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -25192,7 +24508,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "SELEX": [
@@ -25262,8 +24577,7 @@
         "GenomicFeatures",
         "KEGGREST",
         "BiocParallel",
-        "biomaRt",
-        "futile.logger"
+        "biomaRt"
     ],
     "seqCNA": [],
     "seqcombo": [
@@ -25296,7 +24610,6 @@
         "geneplotter",
         "ggplot2",
         "KEGGREST",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -25327,7 +24640,6 @@
         "scales",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "DelayedArray"
     ],
     "SeqSQC": [
@@ -25371,7 +24683,6 @@
         "SummarizedExperiment",
         "fgsea",
         "ggrepel",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -25391,7 +24702,6 @@
         "randomcoloR",
         "sva",
         "DESeq2",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -25419,8 +24729,7 @@
         "BiocIO",
         "restfulr",
         "BiocParallel",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "SGSeq": [
         "IRanges",
@@ -25440,8 +24749,7 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "shinyepico": [
         "GenomicRanges",
@@ -25477,7 +24785,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
@@ -25502,7 +24809,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25525,7 +24831,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -25555,13 +24860,11 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "SigCheck": [
         "MLInterfaces",
         "BiocParallel",
-        "futile.logger",
         "genefilter",
         "ggvis",
         "gbm",
@@ -25579,7 +24882,6 @@
         "pheatmap",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "RBGL",
         "scales",
         "GenomicRanges",
@@ -25621,7 +24923,6 @@
         "DelayedArray",
         "IRanges",
         "KEGGREST",
-        "futile.logger",
         "enrichplot",
         "GO.db",
         "GOSemSim",
@@ -25677,8 +24978,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "callr",
-        "futile.logger"
+        "callr"
     ],
     "SigsPack": [
         "BSgenome",
@@ -25699,8 +24999,7 @@
         "GenomicFeatures",
         "KEGGREST",
         "BiocParallel",
-        "biomaRt",
-        "futile.logger"
+        "biomaRt"
     ],
     "sigsquared": [],
     "SIM": [
@@ -25740,8 +25039,7 @@
         "Rsamtools",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "simplifyEnrichment": [
         "GOSemSim",
@@ -25786,7 +25084,6 @@
         "bluster",
         "dqrng",
         "beachmat",
-        "futile.logger",
         "ScaledMatrix",
         "BiocNeighbors",
         "IRanges",
@@ -25851,7 +25148,6 @@
         "ResidualMatrix",
         "ScaledMatrix",
         "beachmat",
-        "futile.logger",
         "scales",
         "uwot",
         "multipanelfigure",
@@ -25935,7 +25231,6 @@
         "GenomicFiles",
         "AnnotationDbi",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "SummarizedExperiment",
@@ -25952,7 +25247,6 @@
         "BiocParallel",
         "BiocSingular",
         "beachmat",
-        "futile.logger",
         "ScaledMatrix",
         "IRanges",
         "sparseMatrixStats",
@@ -25967,7 +25261,6 @@
         "plotly",
         "BiocParallel",
         "SummarizedExperiment",
-        "futile.logger",
         "scales",
         "AnnotationDbi",
         "GenomicRanges",
@@ -25995,7 +25288,6 @@
         "HDF5Array",
         "BiocSingular",
         "KEGGREST",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
@@ -26019,7 +25311,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -26063,7 +25354,6 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "sparseMatrixStats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -26151,7 +25441,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "snapCGH": [
@@ -26201,7 +25490,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "scales",
-        "futile.logger",
         "XVector",
         "genefilter",
         "geneplotter",
@@ -26229,7 +25517,6 @@
         "rtracklayer",
         "chipseq",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "ShortRead",
         "scales",
@@ -26279,8 +25566,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "SpacePAC": [
         "iPAC",
@@ -26331,7 +25617,6 @@
         "spatstat.geom",
         "uwot",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector",
@@ -26348,7 +25633,6 @@
         "GSEABase",
         "plotly",
         "viridis",
-        "futile.logger",
         "BiocIO",
         "AnnotationDbi",
         "KEGGREST",
@@ -26387,7 +25671,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -26431,7 +25714,6 @@
         "beachmat",
         "scuttle",
         "XVector",
-        "futile.logger",
         "sparseMatrixStats"
     ],
     "SpatialDecon": [
@@ -26471,7 +25753,6 @@
         "beachmat",
         "scuttle",
         "GenomeInfoDb",
-        "futile.logger",
         "sparseMatrixStats",
         "XVector"
     ],
@@ -26502,7 +25783,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "htmlTable",
         "viridis",
@@ -26544,7 +25824,6 @@
         "CNEr",
         "DirichletMultinomial",
         "KEGGREST",
-        "futile.logger",
         "GenomicAlignments",
         "GO.db",
         "ensembldb",
@@ -26568,14 +25847,12 @@
     "Spectra": [
         "BiocParallel",
         "IRanges",
-        "MsCoreUtils",
-        "futile.logger"
+        "MsCoreUtils"
     ],
     "SpectralTAD": [
         "BiocParallel",
         "HiCcompare",
         "GenomicRanges",
-        "futile.logger",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -26606,7 +25883,6 @@
         "pheatmap",
         "IRanges",
         "scam",
-        "futile.logger",
         "sf",
         "scales",
         "nloptr",
@@ -26662,7 +25938,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "futile.logger",
         "tweenr"
     ],
     "spiky": [
@@ -26680,7 +25955,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "BiocIO",
         "restfulr",
         "DelayedArray"
@@ -26693,7 +25967,6 @@
         "scales",
         "scater",
         "SummarizedExperiment",
-        "futile.logger",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -26728,7 +26001,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools",
-        "futile.logger",
         "SummarizedExperiment",
         "Biostrings",
         "AnnotationDbi",
@@ -26774,7 +26046,6 @@
         "ensembldb",
         "biovizBase",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -26856,7 +26127,6 @@
         "Gviz",
         "BiocParallel",
         "BiocStyle",
-        "futile.logger",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -26927,8 +26197,7 @@
         "GenomeInfoDb",
         "scales",
         "GenomicRanges",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "stageR": [
         "SummarizedExperiment",
@@ -26963,7 +26232,6 @@
         "BiocParallel",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -27036,7 +26304,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "futile.logger",
         "tweenr"
     ],
     "STATegRa": [
@@ -27064,7 +26331,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "rtracklayer",
         "biomaRt",
@@ -27078,8 +26344,7 @@
         "igraph"
     ],
     "STROMA4": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "struct": [
         "SummarizedExperiment",
@@ -27126,8 +26391,7 @@
         "DelayedArray",
         "BSgenome",
         "KEGGREST",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "SubCellBarCode": [
         "caret",
@@ -27158,7 +26422,6 @@
         "UpSetR",
         "BiocParallel",
         "ggplot2",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "IRanges",
@@ -27264,7 +26527,6 @@
     "sva": [
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -27292,8 +26554,7 @@
         "BSgenome",
         "KEGGREST",
         "BiocParallel",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "svaRetro": [
         "GenomicRanges",
@@ -27315,8 +26576,7 @@
         "BSgenome",
         "KEGGREST",
         "BiocParallel",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "SWATH2stats": [
         "ggplot2",
@@ -27330,8 +26590,7 @@
         "GenomeInfoDb"
     ],
     "SwathXtend": [
-        "VennDiagram",
-        "futile.logger"
+        "VennDiagram"
     ],
     "switchBox": [],
     "switchde": [
@@ -27376,7 +26635,6 @@
         "TH.data",
         "callr",
         "selectr",
-        "xts",
         "nloptr",
         "testthat"
     ],
@@ -27418,8 +26676,7 @@
         "scales",
         "BiocParallel",
         "GenomicAlignments",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "systemPipeShiny": [
         "spsComps",
@@ -27463,7 +26720,6 @@
         "DelayedArray",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -27485,7 +26741,6 @@
         "BiocParallel",
         "QDNAseq",
         "pheatmap",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "SummarizedExperiment",
@@ -27526,7 +26781,6 @@
         "GenomicFeatures",
         "Biostrings",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -27573,7 +26827,6 @@
         "cowplot",
         "GenomicAlignments",
         "Hmisc",
-        "futile.logger",
         "XVector",
         "scales",
         "SummarizedExperiment",
@@ -27592,7 +26845,6 @@
         "BiocParallel",
         "msm",
         "sva",
-        "futile.logger",
         "IRanges",
         "GenomicRanges",
         "genefilter",
@@ -27626,7 +26878,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "futile.logger",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -27698,7 +26949,6 @@
         "BiocParallel",
         "illuminaio",
         "fgsea",
-        "futile.logger",
         "DO.db",
         "aplot",
         "ggraph",
@@ -27772,8 +27022,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "TCseq": [
         "GenomicRanges",
@@ -27787,8 +27036,7 @@
         "BiocParallel",
         "XVector",
         "scales",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "TDARACNE": [
         "GenKern",
@@ -27823,13 +27071,11 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "ternarynet": [
         "igraph",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "TFARM": [
         "fields",
@@ -27852,7 +27098,6 @@
         "IRanges",
         "rtracklayer",
         "XVector",
-        "futile.logger",
         "Rsamtools",
         "GenomicAlignments",
         "ggplot2",
@@ -27883,7 +27128,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "TFHAZ": [
@@ -27905,8 +27149,7 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "tidybulk": [
         "scales",
@@ -27974,8 +27217,7 @@
         "propr",
         "scales",
         "igraph",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "TimeSeriesExperiment": [
         "SummarizedExperiment",
@@ -27993,7 +27235,6 @@
         "htmlTable",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -28038,7 +27279,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "futile.logger",
         "ggforce",
         "viridis",
         "tidygraph",
@@ -28102,8 +27342,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "tkWidgets": [],
     "tLOH": [
@@ -28127,12 +27366,10 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "TMixClust": [
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "TNBC.CMS": [
         "SummarizedExperiment",
@@ -28159,7 +27396,6 @@
         "BiocSingular",
         "GenomicRanges",
         "GenomeInfoDb",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "XVector",
@@ -28226,8 +27462,7 @@
         "MsCoreUtils",
         "BiocParallel",
         "vsn",
-        "affy",
-        "futile.logger"
+        "affy"
     ],
     "topGO": [
         "GO.db",
@@ -28244,7 +27479,6 @@
         "BiocParallel",
         "ggplot2",
         "scales",
-        "futile.logger",
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
@@ -28261,7 +27495,6 @@
     "TPP": [
         "biobroom",
         "broom",
-        "futile.logger",
         "ggplot2",
         "nls2",
         "VennDiagram",
@@ -28270,7 +27503,6 @@
     "TPP2D": [
         "ggplot2",
         "BiocParallel",
-        "futile.logger",
         "scales"
     ],
     "tracktables": [
@@ -28280,8 +27512,7 @@
         "Rsamtools",
         "GenomeInfoDb",
         "Biostrings",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "trackViewer": [
         "GenomicRanges",
@@ -28307,7 +27538,6 @@
         "BSgenome",
         "biovizBase",
         "restfulr",
-        "futile.logger",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -28325,7 +27555,6 @@
         "ggplot2",
         "TrajectoryUtils",
         "viridis",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "DelayedArray",
@@ -28385,7 +27614,6 @@
         "scales",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "ipred",
         "DelayedArray",
         "prodlim",
@@ -28432,7 +27660,6 @@
         "AnnotationDbi",
         "GO.db",
         "KEGGREST",
-        "futile.logger",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -28461,7 +27688,6 @@
         "dqrng",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "scales",
         "GenomicRanges",
         "IRanges",
@@ -28483,7 +27709,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -28584,7 +27809,6 @@
         "BiocParallel",
         "IRanges",
         "treeio",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -28622,7 +27846,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "scales",
         "DelayedArray"
@@ -28631,7 +27854,6 @@
         "BiocParallel",
         "SummarizedExperiment",
         "shinyFiles",
-        "futile.logger",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -28654,7 +27876,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -28681,7 +27902,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "Biostrings"
@@ -28692,7 +27912,6 @@
         "ggplot2",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "scales",
         "IRanges",
@@ -28765,7 +27984,6 @@
         "Modstrings",
         "ggplot2",
         "scales",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -28811,7 +28029,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "Biostrings",
         "XVector",
         "BiocIO",
@@ -28834,7 +28051,6 @@
         "rsparse",
         "mlapi",
         "koRpus.lang.en",
-        "koRpus",
         "quanteda",
         "RcppTOML",
         "MatrixExtra",
@@ -28867,7 +28083,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -28903,7 +28118,6 @@
         "rtracklayer",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "XVector",
         "GenomeInfoDb",
         "BiocIO",
@@ -28935,8 +28149,7 @@
         "DelayedArray",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "Ularcirc": [
         "AnnotationHub",
@@ -28967,7 +28180,6 @@
         "biomaRt",
         "scales",
         "AnnotationFilter",
-        "futile.logger",
         "restfulr",
         "DelayedArray"
     ],
@@ -29002,7 +28214,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
         "rainbow",
         "restfulr",
         "pcaPP",
@@ -29043,7 +28254,6 @@
         "RBGL",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -29085,8 +28295,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "universalmotif": [
         "ggplot2",
@@ -29139,7 +28348,6 @@
         "IRanges",
         "GenomeInfoDb",
         "tfautograph",
-        "futile.logger",
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector",
@@ -29151,7 +28359,6 @@
         "rsparse",
         "mlapi",
         "koRpus.lang.en",
-        "koRpus",
         "quanteda",
         "MatrixExtra"
     ],
@@ -29173,8 +28380,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "VarCon": [
         "Biostrings",
@@ -29193,7 +28399,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -29204,7 +28409,6 @@
         "lmerTest",
         "scales",
         "lme4",
-        "futile.logger",
         "nloptr",
         "broom",
         "testthat",
@@ -29228,8 +28432,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "VariantExperiment": [
         "SummarizedExperiment",
@@ -29269,7 +28472,6 @@
         "shinyTree",
         "XVector",
         "KEGGREST",
-        "futile.logger",
         "rtracklayer",
         "BiocIO",
         "biomaRt",
@@ -29299,7 +28501,6 @@
         "BiocParallel",
         "GenomeInfoDb",
         "BSgenome",
-        "futile.logger",
         "XVector",
         "AnnotationDbi",
         "BiocIO",
@@ -29325,7 +28526,6 @@
         "BiocParallel",
         "XVector",
         "biomaRt",
-        "futile.logger",
         "AnnotationDbi",
         "BiocIO",
         "restfulr",
@@ -29351,7 +28551,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "futile.logger",
         "BiocIO",
         "biomaRt",
         "restfulr"
@@ -29375,7 +28574,6 @@
         "SingleCellExperiment",
         "BiocParallel",
         "BiocSingular",
-        "futile.logger",
         "ScaledMatrix",
         "beachmat",
         "IRanges",
@@ -29393,7 +28591,6 @@
         "ggplot2",
         "UpSetR",
         "VennDiagram",
-        "futile.logger",
         "scales"
     ],
     "VERSO": [
@@ -29415,7 +28612,6 @@
         "geneplotter",
         "GenomeInfoDb",
         "DelayedArray",
-        "futile.logger",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -29448,7 +28644,6 @@
         "seriation",
         "webshot",
         "egg",
-        "futile.logger",
         "Biostrings",
         "callr",
         "XVector",
@@ -29476,7 +28671,6 @@
         "org.Hs.eg.db",
         "AnnotationHub",
         "koRpus.lang.en",
-        "koRpus",
         "quanteda",
         "IRanges",
         "KEGGREST",
@@ -29498,7 +28692,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "futile.logger",
         "DelayedArray"
     ],
     "vsn": [
@@ -29529,8 +28722,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -29567,7 +28759,6 @@
         "GreyListChIP",
         "XVector",
         "mixtools",
-        "futile.logger",
         "AnnotationFilter",
         "BiocIO",
         "scales",
@@ -29582,7 +28773,6 @@
         "BiocParallel",
         "SingleCellExperiment",
         "lme4",
-        "futile.logger",
         "EnvStats",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -29627,7 +28817,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -29656,7 +28845,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -29685,7 +28873,6 @@
         "topconfects",
         "ggplot2",
         "scales",
-        "futile.logger",
         "IRanges",
         "sparseMatrixStats",
         "GenomicRanges",
@@ -29708,7 +28895,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "wpm": [
@@ -29740,7 +28926,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "vsn",
         "affy",
         "ggplot2",
@@ -29774,7 +28959,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "BiocParallel",
-        "futile.logger",
         "piano",
         "BumpyMatrix",
         "GenomicRanges",
@@ -29805,7 +28989,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -29858,7 +29041,6 @@
         "BiocParallel",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
         "htmlTable",
         "RBGL"
     ],
@@ -29883,7 +29065,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "sparseMatrixStats",
@@ -29921,7 +29102,6 @@
         "SingleCellExperiment",
         "BiocParallel",
         "genefilter",
-        "futile.logger",
         "AnnotationDbi",
         "GenomicRanges",
         "DelayedArray",
@@ -29946,9 +29126,7 @@
     "ggplot2": [
         "scales"
     ],
-    "VennDiagram": [
-        "futile.logger"
-    ],
+    "VennDiagram": [],
     "flexdashboard": [
         "scales"
     ],
@@ -29965,7 +29143,6 @@
         "ggplot2",
         "scales"
     ],
-    "futile.logger": [],
     "scales": [],
     "ffbase": [],
     "ggrepel": [
@@ -30067,14 +29244,10 @@
         "selectr"
     ],
     "smoother": [
-        "TTR",
-        "xts"
+        "TTR"
     ],
     "selectr": [],
-    "TTR": [
-        "xts"
-    ],
-    "xts": [],
+    "TTR": [],
     "SAVER": [
         "glmnet"
     ],
@@ -30227,7 +29400,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -30248,7 +29420,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "Homo.sapiens": [
@@ -30273,7 +29444,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
@@ -30289,7 +29459,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -30306,7 +29475,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -30333,7 +29501,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -30356,7 +29523,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -30379,7 +29545,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "COSMIC.67": [
@@ -30401,8 +29566,7 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "VariantAnnotation",
@@ -30423,8 +29587,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "VariantAnnotation",
@@ -30445,8 +29608,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "futile.logger"
+        "DelayedArray"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -30476,7 +29638,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "pheatmap": [
@@ -30578,7 +29739,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -30728,7 +29888,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -30902,7 +30061,6 @@
         "ggplot2",
         "scales"
     ],
-    "NetRep": [],
     "network": [],
     "sna": [
         "network"
@@ -30966,7 +30124,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "org.Mm.eg.db": [
@@ -30994,7 +30151,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "hgu133plus2.db": [
@@ -31055,7 +30211,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "VariantAnnotation",
         "ggplot2",
@@ -31079,7 +30234,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31207,13 +30361,11 @@
         "ggpp",
         "ggplot2",
         "scales",
-        "quantreg",
-        "xts"
+        "quantreg"
     ],
     "ggpp": [
         "ggplot2",
-        "scales",
-        "xts"
+        "scales"
     ],
     "broom.mixed": [
         "broom",
@@ -31233,7 +30385,6 @@
         "snpStats"
     ],
     "quantmod": [
-        "xts",
         "TTR"
     ],
     "ChAMPdata": [
@@ -31257,7 +30408,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -31286,7 +30436,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -31315,7 +30464,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -31351,7 +30499,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "ruv": [
@@ -31365,8 +30512,7 @@
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "ChIC.data": [
         "genomeIntervals",
@@ -31395,7 +30541,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31414,7 +30559,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "org.Dm.eg.db": [
@@ -31458,7 +30602,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
@@ -31478,7 +30621,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
@@ -31498,7 +30640,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
@@ -31518,7 +30659,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
@@ -31538,7 +30678,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "shinyhelper": [],
@@ -31581,7 +30720,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31702,7 +30840,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31724,7 +30861,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -31747,7 +30883,6 @@
         "SummarizedExperiment",
         "MsCoreUtils",
         "MsFeatures",
-        "futile.logger",
         "vsn",
         "affy",
         "ggplot2",
@@ -31793,7 +30928,6 @@
     ],
     "highcharter": [
         "broom",
-        "xts",
         "quantmod",
         "igraph",
         "ggplot2",
@@ -31903,8 +31037,7 @@
         "vsn",
         "affy",
         "ggplot2",
-        "scales",
-        "futile.logger"
+        "scales"
     ],
     "tidyverse": [
         "broom",
@@ -32003,7 +31136,6 @@
     ],
     "survey": [],
     "DMwR2": [
-        "xts",
         "quantmod",
         "TTR"
     ],
@@ -32028,23 +31160,18 @@
     ],
     "textstem": [
         "koRpus.lang.en",
-        "koRpus",
         "quanteda"
     ],
     "rsparse": [
         "MatrixExtra"
     ],
     "mlapi": [],
-    "koRpus.lang.en": [
-        "koRpus"
-    ],
-    "koRpus": [],
+    "koRpus.lang.en": [],
     "quanteda": [],
     "MatrixExtra": [],
     "lasso2": [],
     "tseries": [
         "quantmod",
-        "xts",
         "TTR"
     ],
     "imputeLCMD": [],
@@ -32225,7 +31352,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -32312,7 +31438,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "gptk": [],
@@ -32336,7 +31461,6 @@
         "ggplot2",
         "scales"
     ],
-    "yeastExpData": [],
     "BatchJobs": [
         "BBmisc"
     ],
@@ -32364,7 +31488,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "threejs": [
@@ -32448,7 +31571,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -32548,7 +31670,6 @@
         "qvalue",
         "genefilter",
         "BiocParallel",
-        "futile.logger",
         "AnnotationDbi",
         "ggplot2",
         "IRanges",
@@ -32586,7 +31707,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "futile.logger",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -32618,7 +31738,6 @@
         "GenomeInfoDb",
         "OrganismDbi",
         "AnnotationForge",
-        "futile.logger",
         "KEGGREST",
         "RBGL",
         "XVector",
@@ -32630,9 +31749,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "PerformanceAnalytics": [
-        "xts"
-    ],
+    "PerformanceAnalytics": [],
     "rebus": [],
     "mhsmm": [],
     "ggmcmc": [
@@ -32677,7 +31794,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -32779,7 +31895,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -32849,7 +31964,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "KEGGREST",
-        "futile.logger",
         "DelayedArray"
     ],
     "OMICsPCAdata": [
@@ -32984,7 +32098,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "forecast": [
@@ -32992,7 +32105,6 @@
         "tseries",
         "scales",
         "quantmod",
-        "xts",
         "TTR"
     ],
     "rclipboard": [],
@@ -33032,7 +32144,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment"
     ],
     "batchtools": [],
@@ -33052,7 +32163,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -33087,7 +32197,6 @@
         "restfulr",
         "SummarizedExperiment",
         "BiocParallel",
-        "futile.logger",
         "DelayedArray"
     ],
     "caretEnsemble": [
@@ -33121,8 +32230,7 @@
         "Biostrings",
         "IRanges",
         "XVector",
-        "BiocParallel",
-        "futile.logger"
+        "BiocParallel"
     ],
     "systemPipeRdata": [
         "GenomicFeatures",
@@ -33141,7 +32249,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -33170,7 +32277,6 @@
         "BiocParallel",
         "GenomeInfoDb",
         "ggplot2",
-        "futile.logger",
         "XVector",
         "scales"
     ],
@@ -33188,7 +32294,6 @@
         "XVector",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "futile.logger",
         "DelayedArray",
         "KEGGREST"
     ],
@@ -33299,8 +32404,7 @@
         "DelayedArray",
         "BiocParallel",
         "GenomicAlignments",
-        "restfulr",
-        "futile.logger"
+        "restfulr"
     ],
     "TENxPBMCData": [
         "SingleCellExperiment",
@@ -33349,8 +32453,7 @@
         "pcaPP"
     ],
     "gstat": [
-        "spacetime",
-        "xts"
+        "spacetime"
     ],
     "SpatialExtremes": [
         "fields",
@@ -33358,9 +32461,7 @@
         "ggplot2",
         "scales"
     ],
-    "spacetime": [
-        "xts"
-    ],
+    "spacetime": [],
     "spsComps": [
         "shinytoastr",
         "shinyAce"
@@ -33391,7 +32492,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "futile.logger",
         "SummarizedExperiment",
         "DelayedArray"
     ],
