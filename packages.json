@@ -53,7 +53,6 @@
         "ggplot2",
         "VennDiagram",
         "flexdashboard",
-        "BiocParallel",
         "ggcorrplot",
         "ggdendro",
         "plotly",
@@ -67,8 +66,7 @@
         "XVector",
         "CGHcall",
         "Rsamtools",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "aCGH": [
         "multtest"
@@ -140,7 +138,6 @@
         "GenomeInfoDb"
     ],
     "ADImpute": [
-        "BiocParallel",
         "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -162,7 +159,6 @@
     "AffiXcan": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -198,7 +194,6 @@
         "ggbio",
         "GenomeInfoDb",
         "genefilter",
-        "BiocParallel",
         "geneplotter",
         "Hmisc",
         "biovizBase",
@@ -279,7 +274,6 @@
         "ggbio",
         "GenomeInfoDb",
         "genefilter",
-        "BiocParallel",
         "geneplotter",
         "Hmisc",
         "biovizBase",
@@ -315,7 +309,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -326,7 +319,6 @@
     ],
     "ALDEx2": [
         "zCompositions",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
@@ -355,7 +347,6 @@
         "KEGGREST",
         "XVector",
         "rtracklayer",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "ensembldb",
@@ -368,7 +359,6 @@
         "viridis"
     ],
     "AlphaBeta": [
-        "BiocParallel",
         "ggplot2",
         "plotly"
     ],
@@ -381,7 +371,6 @@
         "GenomicFeatures",
         "GenomeInfoDb",
         "XVector",
-        "BiocParallel",
         "AnnotationDbi",
         "BiocIO",
         "rtracklayer",
@@ -396,7 +385,6 @@
         "speaq",
         "ggrepel",
         "ggplot2",
-        "BiocParallel",
         "SummarizedExperiment",
         "rvest",
         "GenomicRanges",
@@ -438,7 +426,6 @@
         "ShortRead",
         "GenomicRanges",
         "GenomeInfoDb",
-        "BiocParallel",
         "ggplot2",
         "ggthemes",
         "waffle",
@@ -454,7 +441,6 @@
         "DESeq2",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -489,7 +475,6 @@
         "ggrepel",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "ANF": [],
@@ -507,7 +492,6 @@
         "GUniFrac",
         "recipes",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggrepel",
@@ -538,7 +522,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "KEGGREST"
     ],
     "annotate": [
@@ -592,7 +575,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -616,7 +598,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "anota": [
@@ -630,7 +611,6 @@
         "DESeq2",
         "SummarizedExperiment",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -662,7 +642,6 @@
         "VariantAnnotation",
         "repmis",
         "Rsamtools",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "AnnotationFilter",
@@ -724,7 +703,6 @@
         "OrganismDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "BiocParallel",
         "KEGGREST",
         "interactiveDisplayBase",
         "GenomicAlignments"
@@ -752,7 +730,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -785,7 +762,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -827,7 +803,6 @@
         "testthat"
     ],
     "ASICS": [
-        "BiocParallel",
         "ggplot2",
         "glmnet",
         "PepsNMR",
@@ -843,7 +818,6 @@
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -889,7 +863,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "rtracklayer",
@@ -920,7 +893,6 @@
         "sva",
         "ggplot2",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -950,7 +922,6 @@
         "KEGGREST",
         "multtest",
         "regioneR",
-        "BiocParallel",
         "AnnotationHub",
         "DelayedArray",
         "HDF5Array",
@@ -960,7 +931,6 @@
     ],
     "atena": [
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "GenomicAlignments",
         "Rsamtools",
@@ -971,7 +941,6 @@
     ],
     "atSNP": [
         "BSgenome",
-        "BiocParallel",
         "ggplot2",
         "motifStack",
         "testthat",
@@ -1046,7 +1015,6 @@
         "pbkrtest",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "lme4",
         "DelayedArray",
@@ -1054,8 +1022,7 @@
         "testthat"
     ],
     "bacon": [
-        "ggplot2",
-        "BiocParallel"
+        "ggplot2"
     ],
     "BadRegionFinder": [
         "VariantAnnotation",
@@ -1066,7 +1033,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "SummarizedExperiment",
         "rtracklayer",
         "BSgenome",
@@ -1087,7 +1053,6 @@
         "GenomicAlignments",
         "BiocIO",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "SummarizedExperiment",
         "KEGGREST",
@@ -1096,7 +1061,6 @@
     "bambu": [
         "SummarizedExperiment",
         "BSgenome",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1119,7 +1083,6 @@
     "BANDITS": [
         "ggplot2",
         "DRIMSeq",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -1145,7 +1108,6 @@
     "basecallQC": [
         "ggplot2",
         "ShortRead",
-        "BiocParallel",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -1165,7 +1127,6 @@
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
-        "BiocParallel",
         "rtracklayer",
         "DelayedArray",
         "BiocIO"
@@ -1179,7 +1140,6 @@
         "scuttle",
         "SummarizedExperiment",
         "viridis",
-        "BiocParallel",
         "colourpicker",
         "miniUI",
         "DelayedArray",
@@ -1200,7 +1160,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -1214,7 +1173,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "BiocParallel",
         "scuttle",
         "ResidualMatrix",
         "ScaledMatrix",
@@ -1236,7 +1194,6 @@
         "egg",
         "quantreg",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -1251,7 +1208,6 @@
         "ggplot2",
         "BiocSingular",
         "DelayedArray",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "scuttle",
@@ -1268,7 +1224,6 @@
     "bayNorm": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1287,7 +1242,6 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "DelayedArray",
         "AnnotationDbi",
         "rtracklayer",
@@ -1350,18 +1304,14 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "BiocIO",
         "DelayedArray"
     ],
-    "BEclear": [
-        "BiocParallel"
-    ],
+    "BEclear": [],
     "benchdamic": [
         "phyloseq",
-        "BiocParallel",
         "zinbwave",
         "DESeq2",
         "ALDEx2",
@@ -1435,7 +1385,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "BgeeDB": [
@@ -1489,7 +1438,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
@@ -1530,7 +1478,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "bioassayR": [
@@ -1561,7 +1508,6 @@
         "qvalue",
         "influenceR",
         "viridis",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -1606,9 +1552,7 @@
         "GenomeInfoDb"
     ],
     "BiocIO": [],
-    "BiocNeighbors": [
-        "BiocParallel"
-    ],
+    "BiocNeighbors": [],
     "BiocOncoTK": [
         "ComplexHeatmap",
         "GenomicRanges",
@@ -1644,11 +1588,9 @@
         "broom",
         "Rsamtools",
         "GenomicAlignments",
-        "BiocParallel",
         "testthat"
     ],
     "BioCor": [
-        "BiocParallel",
         "GSEABase",
         "AnnotationDbi",
         "KEGGREST",
@@ -1656,7 +1598,6 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "BiocParallel": [],
     "BiocPkgTools": [
         "biocViews",
         "rvest"
@@ -1671,7 +1612,6 @@
     ],
     "BiocSingular": [
         "DelayedArray",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat"
     ],
@@ -1726,7 +1666,6 @@
     ],
     "biomformat": [],
     "BioMM": [
-        "BiocParallel",
         "glmnet",
         "rms",
         "precrec",
@@ -1766,7 +1705,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -1784,7 +1722,6 @@
         "networkD3",
         "ggnewscale",
         "ggpubr",
-        "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -1824,7 +1761,6 @@
     "BioNetStat": [
         "shinyBS",
         "pathview",
-        "BiocParallel",
         "pheatmap",
         "ggplot2",
         "Hmisc",
@@ -1874,7 +1810,6 @@
         "ggsci",
         "superheat",
         "drtmle",
-        "BiocParallel",
         "SummarizedExperiment",
         "SuperLearner",
         "np",
@@ -1902,7 +1837,6 @@
         "KEGGREST",
         "XVector",
         "rtracklayer",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "ggplot2",
@@ -1927,7 +1861,6 @@
         "rtracklayer",
         "QDNAseq",
         "dmrseq",
-        "BiocParallel",
         "ExperimentHub",
         "AnnotationHub",
         "DelayedArray",
@@ -1967,16 +1900,14 @@
         "GenomicAlignments",
         "BiocIO",
         "DelayedArray",
-        "KEGGREST",
-        "BiocParallel"
+        "KEGGREST"
     ],
     "BitSeq": [
         "Rsamtools",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "blacksheepr": [
         "viridis",
@@ -2029,7 +1960,6 @@
         "Biostrings"
     ],
     "bluster": [
-        "BiocParallel",
         "BiocNeighbors"
     ],
     "bnbc": [
@@ -2040,7 +1970,6 @@
         "XVector",
         "DelayedArray",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -2055,7 +1984,6 @@
         "pcalg",
         "Linnorm",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "ggdendro",
         "ggm",
@@ -2092,7 +2020,6 @@
         "BSgenome",
         "GenomicFeatures",
         "AnnotationDbi",
-        "BiocParallel",
         "derfinderHelper",
         "GenomicAlignments",
         "GenomicFiles",
@@ -2149,7 +2076,6 @@
         "BiocIO",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "ipred",
         "prodlim",
         "DelayedArray"
@@ -2163,13 +2089,10 @@
         "ggplot2",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
-    "brendaDb": [
-        "BiocParallel"
-    ],
+    "brendaDb": [],
     "BRGenomics": [
         "rtracklayer",
         "GenomeInfoDb",
@@ -2178,7 +2101,6 @@
         "GenomicAlignments",
         "DESeq2",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -2196,7 +2118,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -2208,7 +2129,6 @@
         "GenomeInfoDb",
         "DelayedMatrixStats",
         "DelayedArray",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -2238,7 +2158,6 @@
         "XVector",
         "KEGGREST",
         "rtracklayer",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -2275,7 +2194,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "BUScorrect": [
@@ -2304,7 +2222,6 @@
         "BiocIO",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "BUSseq": [
@@ -2344,7 +2261,6 @@
         "OrganismDbi",
         "GGally",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -2358,7 +2274,6 @@
         "GenomeInfoDb",
         "GenomicFeatures",
         "GenomicAlignments",
-        "BiocParallel",
         "GenomicFiles",
         "Gviz",
         "InteractionSet",
@@ -2397,7 +2312,6 @@
         "networkD3",
         "ggnewscale",
         "ggpubr",
-        "BiocParallel",
         "GENIE3",
         "SummarizedExperiment",
         "XVector",
@@ -2440,7 +2354,6 @@
     ],
     "CAGEr": [
         "MultiAssayExperiment",
-        "BiocParallel",
         "BSgenome",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2461,7 +2374,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -2506,7 +2418,6 @@
         "bc3net"
     ],
     "Cardinal": [
-        "BiocParallel",
         "matter"
     ],
     "CARNIVAL": [],
@@ -2521,7 +2432,6 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -2555,7 +2465,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "GenomicRanges",
@@ -2638,8 +2547,7 @@
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
-        "GenomicAlignments",
-        "BiocParallel"
+        "GenomicAlignments"
     ],
     "cbpManager": [
         "shinydashboard",
@@ -2700,7 +2608,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "bluster",
@@ -2721,7 +2628,6 @@
         "egg",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -2730,7 +2636,6 @@
     ],
     "cellbaseR": [
         "Rsamtools",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -2738,7 +2643,6 @@
     ],
     "CellBench": [
         "SingleCellExperiment",
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -2764,7 +2668,6 @@
         "umap",
         "reticulate",
         "ggplot2",
-        "BiocParallel",
         "SummarizedExperiment",
         "fgsea",
         "scuttle",
@@ -2831,7 +2734,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "ggridges",
-        "BiocParallel",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2887,7 +2789,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "BiocParallel",
         "ggpp",
         "quantreg",
         "Hmisc",
@@ -2914,7 +2815,6 @@
     ],
     "censcyt": [
         "diffcyt",
-        "BiocParallel",
         "broom.mixed",
         "lme4",
         "mice",
@@ -2969,7 +2869,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "patchwork",
-        "BiocParallel",
         "AnnotationDbi",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -3006,7 +2905,6 @@
         "GOSemSim",
         "qvalue",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "snpStats",
@@ -3056,7 +2954,6 @@
         "ggplot2",
         "seqPattern",
         "XVector",
-        "BiocParallel",
         "BiocIO",
         "SummarizedExperiment",
         "DelayedArray"
@@ -3069,8 +2966,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "CGEN": [],
     "CGHcall": [],
@@ -3126,7 +3022,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
         "org.Hs.eg.db",
@@ -3165,7 +3060,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "ipred",
         "prodlim"
     ],
@@ -3193,7 +3087,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "SummarizedExperiment",
-        "BiocParallel",
         "biomaRt",
         "BSgenome",
         "biovizBase",
@@ -3216,7 +3109,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "ChIPComp": [
@@ -3229,7 +3121,6 @@
         "BSgenome",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -3259,7 +3150,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "viridis",
         "TH.data",
         "DelayedArray"
@@ -3267,7 +3157,6 @@
     "ChIPexoQual": [
         "GenomicAlignments",
         "GenomeInfoDb",
-        "BiocParallel",
         "GenomicRanges",
         "ggplot2",
         "Rsamtools",
@@ -3311,7 +3200,6 @@
         "rtracklayer",
         "XVector",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "BSgenome",
         "DelayedArray"
@@ -3323,7 +3211,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "chipseq",
-        "BiocParallel",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -3378,7 +3265,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -3398,7 +3284,6 @@
         "ShortRead",
         "GenomeInfoDb",
         "XVector",
-        "BiocParallel",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -3411,7 +3296,6 @@
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -3422,7 +3306,6 @@
         "XVector",
         "ShortRead",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3458,7 +3341,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "chromPlot": [
@@ -3482,7 +3364,6 @@
         "kableExtra",
         "viridis",
         "batchelor",
-        "BiocParallel",
         "Rsamtools",
         "ggplot2",
         "scran",
@@ -3527,13 +3408,11 @@
         "bamsignals",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
     "chromswitch": [
         "GenomicRanges",
-        "BiocParallel",
         "NMF",
         "rtracklayer",
         "GenomeInfoDb",
@@ -3550,7 +3429,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "ggplot2",
-        "BiocParallel",
         "Biostrings",
         "TFBSTools",
         "Rsamtools",
@@ -3603,7 +3481,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "ggrepel",
-        "BiocParallel",
         "BiocIO",
         "htmlTable",
         "DelayedArray"
@@ -3641,7 +3518,6 @@
         "XVector",
         "Rsamtools",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomicFeatures",
@@ -3671,7 +3547,6 @@
         "tidygraph",
         "graphlayouts",
         "scuttle",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -3685,7 +3560,6 @@
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -3701,7 +3575,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -3716,7 +3589,6 @@
         "gRbase",
         "qpgraph",
         "KEGGgraph",
-        "BiocParallel",
         "AnnotationDbi",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -3744,13 +3616,11 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "cliqueMS": [
         "xcms",
         "MSnbase",
-        "BiocParallel",
         "vsn",
         "ggplot2",
         "SummarizedExperiment",
@@ -3767,7 +3637,6 @@
         "plotly",
         "sna",
         "MSnbase",
-        "BiocParallel",
         "vsn"
     ],
     "clusterExperiment": [
@@ -3780,7 +3649,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "ClusterR",
@@ -3802,7 +3670,6 @@
         "GOSemSim",
         "qvalue",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -3826,7 +3693,6 @@
         "GenomeInfoDb"
     ],
     "clusterSeq": [
-        "BiocParallel",
         "baySeq",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -3838,7 +3704,6 @@
         "ggplot2",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -3868,8 +3733,7 @@
         "GenomeInfoDb",
         "exomeCopy",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "CNEr": [
         "Biostrings",
@@ -3884,7 +3748,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "Rsamtools",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -3932,7 +3795,6 @@
         "bamsignals",
         "AnnotationDbi",
         "BSgenome",
-        "BiocParallel",
         "DelayedArray",
         "KEGGREST",
         "Hmisc",
@@ -3982,7 +3844,6 @@
         "BiocIO",
         "biomaRt",
         "BSgenome",
-        "BiocParallel",
         "DelayedArray",
         "htmlTable",
         "viridis"
@@ -3995,13 +3856,11 @@
         "GenomeInfoDb",
         "testthat",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "CNVRanger": [
         "GenomicRanges",
         "RaggedExperiment",
-        "BiocParallel",
         "GDSArray",
         "GenomeInfoDb",
         "SummarizedExperiment",
@@ -4018,7 +3877,6 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "BiocParallel",
         "SummarizedExperiment",
         "AnnotationDbi",
         "rtracklayer",
@@ -4049,7 +3907,6 @@
         "SummarizedExperiment",
         "DelayedMatrixStats",
         "DelayedArray",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -4074,7 +3931,6 @@
         "XVector",
         "BSgenome",
         "GenomicRanges",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "BiocIO",
@@ -4082,7 +3938,6 @@
         "DelayedArray"
     ],
     "CoGAPS": [
-        "BiocParallel",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -4116,7 +3971,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "cola": [
@@ -4158,7 +4012,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -4174,7 +4027,6 @@
         "DelayedArray",
         "rtracklayer",
         "DelayedMatrixStats",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "GenomeInfoDb",
@@ -4228,7 +4080,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "bluster",
@@ -4269,7 +4120,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Ecume",
-        "BiocParallel",
         "TrajectoryUtils",
         "spatstat",
         "caret",
@@ -4306,7 +4156,6 @@
     "consensusDE": [
         "airway",
         "AnnotationDbi",
-        "BiocParallel",
         "Biostrings",
         "dendextend",
         "DESeq2",
@@ -4343,7 +4192,6 @@
         "iC10",
         "SummarizedExperiment",
         "GSEABase",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -4363,7 +4211,6 @@
     ],
     "consensusSeekeR": [
         "GenomicRanges",
-        "BiocParallel",
         "GenomeInfoDb",
         "rtracklayer",
         "XVector",
@@ -4379,7 +4226,6 @@
         "GenomicRanges",
         "GenomicFiles",
         "rtracklayer",
-        "BiocParallel",
         "ggplot2",
         "exomeCopy",
         "GenomicAlignments",
@@ -4414,7 +4260,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
@@ -4447,7 +4292,6 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "BiocParallel",
         "DelayedArray",
         "KEGGREST",
         "Hmisc",
@@ -4461,7 +4305,6 @@
         "viridis"
     ],
     "CopywriteR": [
-        "BiocParallel",
         "chipseq",
         "Rsamtools",
         "GenomicAlignments",
@@ -4483,7 +4326,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "BiocParallel",
         "GenomicRanges",
         "fgsea",
         "shinydashboard",
@@ -4509,7 +4351,6 @@
         "SummarizedExperiment",
         "DESeq2",
         "Rmixmod",
-        "BiocParallel",
         "ggplot2",
         "HTSFilter",
         "GenomicRanges",
@@ -4525,7 +4366,6 @@
     "cosmiq": [
         "xcms",
         "faahKO",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -4557,7 +4397,6 @@
         "SummarizedExperiment",
         "genefilter",
         "GenomicRanges",
-        "BiocParallel",
         "geneplotter",
         "AnnotationDbi",
         "GenomeInfoDb",
@@ -4575,7 +4414,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -4591,7 +4429,6 @@
     "cpvSNP": [
         "GenomicFeatures",
         "GSEABase",
-        "BiocParallel",
         "ggplot2",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4627,7 +4464,6 @@
         "Rsamtools",
         "tensorflow",
         "tfruns",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "tfautograph",
@@ -4651,7 +4487,6 @@
         "keras",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "ChIPpeakAnno",
         "GenomicAlignments",
         "ensembldb",
@@ -4669,7 +4504,6 @@
     "CrispRVariants": [
         "ggplot2",
         "AnnotationDbi",
-        "BiocParallel",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -4702,7 +4536,6 @@
         "readxl",
         "KEGGREST",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -4722,7 +4555,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "GenomeInfoDb",
-        "BiocParallel",
         "XVector",
         "Biostrings",
         "DelayedArray"
@@ -4750,7 +4582,6 @@
         "ggplot2",
         "GenomeInfoDb",
         "Biostrings",
-        "BiocParallel",
         "AnnotationDbi",
         "XVector",
         "BiocIO",
@@ -4792,7 +4623,6 @@
         "shinycssloaders",
         "KEGGREST",
         "interactiveDisplayBase",
-        "BiocParallel",
         "broom",
         "quantmod",
         "Biostrings",
@@ -4826,7 +4656,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -4856,7 +4685,6 @@
         "KEGGREST",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "BSgenome",
         "DelayedArray"
@@ -4892,7 +4720,6 @@
     "cydar": [
         "SingleCellExperiment",
         "viridis",
-        "BiocParallel",
         "SummarizedExperiment",
         "flowCore",
         "BiocNeighbors",
@@ -4913,7 +4740,6 @@
         "shinyFeedback",
         "shinyMatrix",
         "SummarizedExperiment",
-        "BiocParallel",
         "cowplot",
         "factoextra",
         "mbest",
@@ -4965,7 +4791,6 @@
         "hdrcde"
     ],
     "CytoGLMM": [
-        "BiocParallel",
         "cowplot",
         "factoextra",
         "ggplot2",
@@ -4994,7 +4819,6 @@
     "cytoKernel": [
         "SummarizedExperiment",
         "ComplexHeatmap",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -5002,7 +4826,6 @@
     ],
     "cytomapper": [
         "SingleCellExperiment",
-        "BiocParallel",
         "HDF5Array",
         "DelayedArray",
         "viridis",
@@ -5042,7 +4865,6 @@
         "pheatmap",
         "scatterpie",
         "umap",
-        "BiocParallel",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "ggplot.multistats",
@@ -5097,7 +4919,6 @@
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5130,7 +4951,6 @@
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
-        "BiocParallel",
         "DelayedArray",
         "rtracklayer",
         "BSgenome",
@@ -5154,7 +4974,6 @@
         "lme4",
         "recipes",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ShortRead",
@@ -5217,7 +5036,6 @@
         "quantmod",
         "missMDA",
         "nloptr",
-        "BiocParallel",
         "TH.data",
         "modelr",
         "reprex",
@@ -5258,7 +5076,6 @@
     "DART": [],
     "dasper": [
         "basilisk",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicFeatures",
         "GenomicRanges",
@@ -5331,9 +5148,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "dcGSA": [
-        "BiocParallel"
-    ],
+    "dcGSA": [],
     "ddPCRclust": [
         "ggplot2",
         "flowCore",
@@ -5359,7 +5174,6 @@
         "patchwork"
     ],
     "debCAM": [
-        "BiocParallel",
         "SummarizedExperiment",
         "NMF",
         "DMwR2",
@@ -5395,7 +5209,6 @@
         "GOSemSim",
         "qvalue",
         "miniUI",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "DO.db",
@@ -5431,7 +5244,6 @@
     ],
     "deco": [
         "AnnotationDbi",
-        "BiocParallel",
         "SummarizedExperiment",
         "ggplot2",
         "BiocStyle",
@@ -5447,7 +5259,6 @@
         "DESeq2",
         "SummarizedExperiment",
         "ComplexHeatmap",
-        "BiocParallel",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -5480,7 +5291,6 @@
         "DelayedArray",
         "Rsamtools",
         "KEGGREST",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "DeconRNASeq": [
@@ -5503,7 +5313,6 @@
         "nloptr",
         "ggplot2",
         "Biostrings",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -5524,7 +5333,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "DeepPINCS": [
@@ -5561,14 +5369,12 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "DEFormats": [
         "DESeq2",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -5591,7 +5397,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "AnnotationDbi",
         "XVector",
         "BiocIO",
@@ -5620,7 +5425,6 @@
         "lasso2",
         "SummarizedExperiment",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -5649,7 +5453,6 @@
         "HDF5Array",
         "BiocSingular",
         "DelayedRandomArray",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat"
     ],
@@ -5658,7 +5461,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "DESeq2",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -5695,7 +5497,6 @@
         "ComplexHeatmap",
         "shinydashboard",
         "imputeLCMD",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -5705,15 +5506,13 @@
         "ggplot2",
         "viridis",
         "mixOmics",
-        "ggrepel",
-        "BiocParallel"
+        "ggrepel"
     ],
     "DEqMS": [
         "ggplot2"
     ],
     "derfinder": [
         "AnnotationDbi",
-        "BiocParallel",
         "bumphunter",
         "derfinderHelper",
         "GenomeInfoDb",
@@ -5747,7 +5546,6 @@
         "ggbio",
         "ggplot2",
         "AnnotationDbi",
-        "BiocParallel",
         "bumphunter",
         "derfinderHelper",
         "GenomicAlignments",
@@ -5775,7 +5573,6 @@
     ],
     "DEScan2": [
         "GenomicRanges",
-        "BiocParallel",
         "ChIPpeakAnno",
         "DelayedArray",
         "GenomeInfoDb",
@@ -5802,7 +5599,6 @@
     "DESeq2": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -5814,8 +5610,7 @@
         "Biostrings"
     ],
     "DEsingle": [
-        "gamlss",
-        "BiocParallel"
+        "gamlss"
     ],
     "destiny": [
         "SummarizedExperiment",
@@ -5846,7 +5641,6 @@
         "DESeq2",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "testthat",
@@ -5860,7 +5654,6 @@
     ],
     "DEWSeq": [
         "DESeq2",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -5879,7 +5672,6 @@
         "sva",
         "bnstruct",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -5887,7 +5679,6 @@
         "GenomeInfoDb"
     ],
     "DEXSeq": [
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "DESeq2",
@@ -5914,7 +5705,6 @@
         "GenomicAlignments",
         "systemPipeR",
         "ggplot2",
-        "BiocParallel",
         "Rsamtools",
         "DESeq2",
         "ggrepel",
@@ -6006,7 +5796,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "XVector",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "DelayedArray"
@@ -6027,7 +5816,6 @@
         "BiocIO",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "diffuStats": [
@@ -6044,7 +5832,6 @@
         "ggrepel",
         "GenomeInfoDb",
         "ensembldb",
-        "BiocParallel",
         "DESeq2",
         "AnnotationDbi",
         "biomaRt",
@@ -6065,7 +5852,6 @@
         "mixtools"
     ],
     "Dino": [
-        "BiocParallel",
         "BiocSingular",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -6136,7 +5922,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -6167,7 +5952,6 @@
     ],
     "DMCFB": [
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "arm",
         "rtracklayer",
@@ -6185,7 +5969,6 @@
     ],
     "DMCHMM": [
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "rtracklayer",
         "multcomp",
@@ -6215,7 +5998,6 @@
         "SummarizedExperiment",
         "DelayedMatrixStats",
         "DelayedArray",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -6274,7 +6056,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -6292,7 +6073,6 @@
         "ggplot2",
         "bumphunter",
         "DelayedMatrixStats",
-        "BiocParallel",
         "annotatr",
         "AnnotationHub",
         "rtracklayer",
@@ -6340,11 +6120,9 @@
         "BSgenome",
         "GenomicFeatures",
         "BiocIO",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "doppelgangR": [
-        "BiocParallel",
         "sva",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -6375,7 +6153,6 @@
     ],
     "DOSE": [
         "AnnotationDbi",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -6405,7 +6182,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -6416,7 +6192,6 @@
     ],
     "DRIMSeq": [
         "GenomicRanges",
-        "BiocParallel",
         "ggplot2",
         "GenomeInfoDb",
         "XVector"
@@ -6425,7 +6200,6 @@
         "SingleCellExperiment",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -6449,7 +6223,6 @@
         "KEGGREST",
         "XVector",
         "BiocIO",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -6475,7 +6248,6 @@
         "DelayedArray"
     ],
     "DSS": [
-        "BiocParallel",
         "bsseq",
         "DelayedArray",
         "GenomicRanges",
@@ -6496,7 +6268,6 @@
         "ggplot2"
     ],
     "Dune": [
-        "BiocParallel",
         "SummarizedExperiment",
         "ggplot2",
         "gganimate",
@@ -6513,7 +6284,6 @@
         "quantiseqr",
         "ggplot2",
         "DESeq2",
-        "BiocParallel",
         "rstatix",
         "ggrepel",
         "coin",
@@ -6544,7 +6314,6 @@
     ],
     "easyreporting": [],
     "easyRNASeq": [
-        "BiocParallel",
         "biomaRt",
         "Biostrings",
         "GenomeInfoDb",
@@ -6564,7 +6333,6 @@
         "DESeq2",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -6595,7 +6363,6 @@
         "GenomeInfoDb",
         "BiocIO",
         "rtracklayer",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -6608,7 +6375,6 @@
         "ggplot2",
         "lme4",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "nloptr",
         "KEGGREST",
@@ -6634,7 +6400,6 @@
         "qvalue",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "DO.db",
@@ -6678,7 +6443,6 @@
         "GO.db",
         "SummarizedExperiment",
         "GSEABase",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -6747,7 +6511,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "broom",
         "car",
         "pbkrtest",
@@ -6759,7 +6522,6 @@
         "testthat"
     ],
     "EMDomics": [
-        "BiocParallel",
         "ggplot2"
     ],
     "EnhancedVolcano": [
@@ -6773,7 +6535,6 @@
     "enhancerHomologSearch": [
         "Biostrings",
         "BSgenome",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "motifmatchr",
@@ -6810,7 +6571,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -6845,7 +6605,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "KEGGREST",
         "XVector",
         "GenomicFeatures",
@@ -6893,7 +6652,6 @@
         "ggplotify",
         "patchwork",
         "AnnotationDbi",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -6938,7 +6696,6 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "BiocIO",
-        "BiocParallel",
         "CNEr",
         "KEGGREST",
         "DO.db",
@@ -6979,7 +6736,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -7000,7 +6756,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "epialleleR": [
@@ -7019,7 +6774,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "epidecodeR": [
@@ -7045,7 +6799,6 @@
         "quantreg",
         "lme4",
         "SummarizedExperiment",
-        "BiocParallel",
         "nloptr",
         "DelayedArray",
         "testthat"
@@ -7063,7 +6816,6 @@
         "XVector",
         "quantreg",
         "Biostrings",
-        "BiocParallel",
         "DelayedArray",
         "KEGGREST"
     ],
@@ -7079,7 +6831,6 @@
         "ggplot2",
         "GreyListChIP",
         "pheatmap",
-        "BiocParallel",
         "XVector",
         "ggrepel",
         "ggsci",
@@ -7118,7 +6869,6 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "GOSemSim",
@@ -7171,7 +6921,6 @@
         "GenomicAlignments",
         "ggplot2",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "epivizr": [
@@ -7193,7 +6942,6 @@
         "BiocIO",
         "biomaRt",
         "DelayedArray",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "epivizrChart": [
@@ -7214,7 +6962,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "epivizrData": [
@@ -7234,7 +6981,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "epivizrStandalone": [
@@ -7257,7 +7003,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "AnnotationFilter",
-        "BiocParallel",
         "DelayedArray"
     ],
     "erccdashboard": [
@@ -7272,7 +7017,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "GenomeInfoDb",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Rsamtools",
@@ -7293,7 +7037,6 @@
     "ERSSA": [
         "DESeq2",
         "ggplot2",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "genefilter",
@@ -7334,7 +7077,6 @@
         "BiocIO",
         "biomaRt",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicAlignments",
         "CNEr",
         "DO.db",
@@ -7362,7 +7104,6 @@
         "GSVA",
         "SingleCellExperiment",
         "ggridges",
-        "BiocParallel",
         "AnnotationDbi",
         "SummarizedExperiment",
         "DelayedArray",
@@ -7390,8 +7131,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "GenomicRanges",
-        "BiocParallel"
+        "GenomicRanges"
     ],
     "evaluomeR": [
         "SummarizedExperiment",
@@ -7428,8 +7168,7 @@
         "ggplot2",
         "GenomicAlignments",
         "DelayedArray",
-        "KEGGREST",
-        "BiocParallel"
+        "KEGGREST"
     ],
     "EWCE": [
         "AnnotationHub",
@@ -7459,7 +7198,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "ExiMiR": [],
@@ -7468,8 +7206,7 @@
         "Rsamtools",
         "GenomeInfoDb",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "exomePeak2": [
         "SummarizedExperiment",
@@ -7483,7 +7220,6 @@
         "genefilter",
         "Biostrings",
         "BSgenome",
-        "BiocParallel",
         "rtracklayer",
         "apeglm",
         "GenomeInfoDb",
@@ -7525,7 +7261,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -7540,7 +7275,6 @@
         "DropletUtils",
         "GenomeInfoDb",
         "Biostrings",
-        "BiocParallel",
         "treeio",
         "XVector",
         "DelayedMatrixStats",
@@ -7587,7 +7321,6 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "aplot",
@@ -7631,7 +7364,6 @@
         "shinyBS",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7668,7 +7400,6 @@
         "XVector",
         "rainbow",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "hdrcde",
         "DelayedArray"
@@ -7695,7 +7426,6 @@
         "GenomicRanges",
         "DelayedArray",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "aplot",
@@ -7732,11 +7462,9 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "BiocParallel",
         "biomaRt"
     ],
     "FEAST": [
-        "BiocParallel",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "TSCAN",
@@ -7787,7 +7515,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -7797,7 +7524,6 @@
     ],
     "FGNet": [],
     "fgsea": [
-        "BiocParallel",
         "ggplot2"
     ],
     "FilterFFPE": [
@@ -7805,8 +7531,7 @@
         "Rsamtools",
         "GenomeInfoDb",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "FindIT2": [
         "GenomicRanges",
@@ -7815,7 +7540,6 @@
         "GenomicFeatures",
         "patchwork",
         "ggplot2",
-        "BiocParallel",
         "qvalue",
         "ggrepel",
         "SummarizedExperiment",
@@ -7845,7 +7569,6 @@
         "xcms",
         "CAMERA",
         "Hmisc",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -7870,7 +7593,6 @@
         "GenomicRanges",
         "Biostrings",
         "XVector",
-        "BiocParallel",
         "ggplot2",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -7896,7 +7618,6 @@
         "flowViz"
     ],
     "flowcatchR": [
-        "BiocParallel",
         "plotly",
         "ggplot2"
     ],
@@ -8029,7 +7750,6 @@
     ],
     "flowSpecs": [
         "ggplot2",
-        "BiocParallel",
         "flowCore"
     ],
     "flowStats": [
@@ -8090,7 +7810,6 @@
         "ggraph",
         "RecordLinkage",
         "tidygraph",
-        "BiocParallel",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -8109,7 +7828,6 @@
         "GenomeInfoDb"
     ],
     "FRASER": [
-        "BiocParallel",
         "Rsamtools",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -8182,7 +7900,6 @@
         "fds",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "rainbow",
         "DelayedArray",
@@ -8203,7 +7920,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -8230,7 +7946,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -8252,7 +7967,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "BSgenome",
-        "BiocParallel",
         "DelayedArray"
     ],
     "gage": [
@@ -8300,7 +8014,6 @@
         "DelayedArray",
         "lme4",
         "recipes",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ShortRead",
@@ -8340,7 +8053,6 @@
         "XVector",
         "rtracklayer",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -8379,7 +8091,6 @@
         "pathview",
         "ggplot2",
         "GenomicDataCommons",
-        "BiocParallel",
         "AnnotationDbi",
         "enrichplot",
         "GO.db",
@@ -8459,7 +8170,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GeneAccord": [
@@ -8506,7 +8216,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GeneBreak": [
@@ -8516,8 +8225,7 @@
         "GenomeInfoDb",
         "XVector",
         "Rsamtools",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "genefilter": [
         "AnnotationDbi",
@@ -8551,7 +8259,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -8586,7 +8293,6 @@
         "XVector"
     ],
     "GENESIS": [
-        "BiocParallel",
         "GWASTools",
         "GenomicRanges",
         "SeqArray",
@@ -8623,7 +8329,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -8656,7 +8361,6 @@
         "waiter",
         "miniUI",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -8680,7 +8384,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GENIE3": [],
@@ -8696,7 +8399,6 @@
         "rtracklayer",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -8712,7 +8414,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -8743,13 +8444,11 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GenomicFiles": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "Rsamtools",
         "rtracklayer",
         "GenomicAlignments",
@@ -8791,7 +8490,6 @@
         "biovizBase",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "KEGGREST",
         "Hmisc",
@@ -8824,7 +8522,6 @@
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "htmlTable",
         "viridis",
@@ -8880,7 +8577,6 @@
         "rtracklayer",
         "GenomicRanges",
         "GenomeInfoDb",
-        "BiocParallel",
         "XVector",
         "Biostrings",
         "Rsamtools",
@@ -8921,7 +8617,6 @@
         "XVector",
         "rtracklayer",
         "BiocIO",
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicAlignments",
         "DelayedArray"
@@ -9059,7 +8754,6 @@
         "AnnotationFilter",
         "KEGGREST",
         "XVector",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -9103,7 +8797,6 @@
         "DelayedArray",
         "DropletUtils",
         "GenomeInfoDb",
-        "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -9138,7 +8831,6 @@
         "XVector",
         "GenomeInfoDb",
         "GenomicRanges",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -9167,7 +8859,6 @@
         "DESeq2",
         "SummarizedExperiment",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -9250,7 +8941,6 @@
         "VariantAnnotation",
         "BSgenome",
         "GenomicAlignments",
-        "BiocParallel",
         "XVector",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -9292,7 +8982,6 @@
         "rtracklayer",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
@@ -9380,7 +9069,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GOSim": [
@@ -9427,7 +9115,6 @@
         "ggplot2",
         "GenomeInfoDb",
         "XVector",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -9466,7 +9153,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "gprege": [
@@ -9519,7 +9205,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "XVector",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -9550,7 +9235,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -9566,7 +9250,6 @@
     "gscreend": [
         "SummarizedExperiment",
         "nloptr",
-        "BiocParallel",
         "testthat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -9584,7 +9267,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocParallel",
         "EnrichmentBrowser",
         "ExperimentHub",
         "KEGGREST",
@@ -9612,7 +9294,6 @@
     "gsean": [
         "fgsea",
         "PPInfer",
-        "BiocParallel",
         "ggplot2",
         "biomaRt",
         "STRINGdb",
@@ -9642,7 +9323,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "GSRI": [
@@ -9657,7 +9337,6 @@
     "GSVA": [
         "SummarizedExperiment",
         "GSEABase",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9679,7 +9358,6 @@
     ],
     "GUIDEseq": [
         "GenomicRanges",
-        "BiocParallel",
         "Biostrings",
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -9724,7 +9402,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "Gviz": [
@@ -9746,7 +9423,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -9778,7 +9454,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -9811,7 +9486,6 @@
         "biomaRt",
         "mice",
         "quantreg",
-        "BiocParallel",
         "GenomicAlignments",
         "broom",
         "ggplot2"
@@ -9839,7 +9513,6 @@
         "Biostrings",
         "Rsamtools",
         "GenomicRanges",
-        "BiocParallel",
         "BatchJobs",
         "GenomeInfoDb",
         "BBmisc",
@@ -9875,7 +9548,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "XVector",
-        "BiocParallel",
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
@@ -9900,14 +9572,12 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "HiCcompare": [
         "ggplot2",
         "InteractionSet",
         "GenomicRanges",
-        "BiocParallel",
         "QDNAseq",
         "pheatmap",
         "GenomeInfoDb",
@@ -9933,7 +9603,6 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "BiocIO",
-        "BiocParallel",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -9978,7 +9647,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "hipathia": [
@@ -10012,7 +9680,6 @@
     "hiReadsProcessor": [
         "Biostrings",
         "GenomicAlignments",
-        "BiocParallel",
         "hiAnnotator",
         "GenomicRanges",
         "readxl",
@@ -10036,7 +9703,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "hopach": [],
@@ -10061,7 +9727,6 @@
         "Biostrings",
         "chipseq",
         "GenomicFeatures",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "VariantTools",
@@ -10077,7 +9742,6 @@
     ],
     "HTSFilter": [
         "DESeq2",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "genefilter",
@@ -10123,7 +9787,6 @@
     "hypergraph": [],
     "iasva": [
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -10147,7 +9810,6 @@
         "ggplot2",
         "GenomicFeatures",
         "ShortRead",
-        "BiocParallel",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -10194,7 +9856,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -10211,7 +9872,6 @@
         "XVector",
         "BSgenome",
         "GenomicRanges",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "BiocIO",
@@ -10244,7 +9904,6 @@
         "rintrojs",
         "ggrepel",
         "shinyAce",
-        "BiocParallel",
         "KEGGREST",
         "genefilter",
         "geneplotter",
@@ -10279,7 +9938,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "idiogram": [
@@ -10323,7 +9981,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "AnnotationDbi",
@@ -10373,7 +10030,6 @@
         "GenomeInfoDb",
         "ggfortify",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -10392,7 +10048,6 @@
         "pheatmap",
         "scuttle",
         "cytomapper",
-        "BiocParallel",
         "viridis",
         "SingleCellExperiment",
         "BiocNeighbors",
@@ -10476,7 +10131,6 @@
         "BSgenome",
         "cleanUpdTSeq",
         "GenomeInfoDb",
-        "BiocParallel",
         "Biostrings",
         "plyranges",
         "GenomicFeatures",
@@ -10493,7 +10147,6 @@
         "DelayedArray"
     ],
     "INSPEcT": [
-        "BiocParallel",
         "GenomicFeatures",
         "GenomicRanges",
         "GenomicAlignments",
@@ -10534,7 +10187,6 @@
         "GenomicAlignments",
         "BiocIO",
         "DelayedArray",
-        "BiocParallel",
         "broom",
         "car",
         "pbkrtest",
@@ -10565,7 +10217,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -10644,7 +10295,6 @@
         "Biostrings",
         "GenomicFeatures",
         "GenomicAlignments",
-        "BiocParallel",
         "DEXSeq",
         "DESeq2",
         "XVector",
@@ -10686,7 +10336,6 @@
         "Biostrings",
         "ggplot2",
         "XVector",
-        "BiocParallel",
         "GenomeInfoDb",
         "Rsamtools",
         "GenomicAlignments",
@@ -10701,7 +10350,6 @@
         "GenomeInfoDb"
     ],
     "iPath": [
-        "BiocParallel",
         "ggpubr",
         "ggplot2",
         "survminer",
@@ -10734,7 +10382,6 @@
     "IPO": [
         "xcms",
         "CAMERA",
-        "BiocParallel",
         "Hmisc",
         "MSnbase",
         "SummarizedExperiment",
@@ -10773,7 +10420,6 @@
         "GOSemSim",
         "qvalue",
         "gamlss",
-        "BiocParallel",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -10828,7 +10474,6 @@
         "testthat"
     ],
     "ISAnalytics": [
-        "BiocParallel",
         "ggplot2",
         "ggrepel",
         "readxl"
@@ -10897,7 +10542,6 @@
         "tximeta",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "SummarizedExperiment",
         "DESeq2",
         "AnnotationDbi",
@@ -10941,7 +10585,6 @@
         "ggdendro",
         "ggrepel",
         "lasso2",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -10984,7 +10627,6 @@
         "AnnotationDbi",
         "GenomeInfoDb",
         "ggfortify",
-        "BiocParallel",
         "KEGGREST",
         "XVector",
         "Biostrings",
@@ -11057,7 +10699,6 @@
         "BiocIO",
         "biomaRt",
         "BSgenome",
-        "BiocParallel",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -11097,16 +10738,13 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "KinSwingR": [
-        "BiocParallel"
-    ],
+    "KinSwingR": [],
     "kissDE": [
         "DESeq2",
         "DSS",
         "ggplot2",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "bsseq",
@@ -11136,7 +10774,6 @@
         "htmlTable",
         "viridis",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
@@ -11167,7 +10804,6 @@
         "rtracklayer",
         "Biostrings",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicAlignments",
         "XVector",
         "BSgenome",
@@ -11197,7 +10833,6 @@
         "testthat"
     ],
     "LineagePulse": [
-        "BiocParallel",
         "ComplexHeatmap",
         "ggplot2",
         "SingleCellExperiment",
@@ -11248,7 +10883,6 @@
         "fgsea",
         "ropls",
         "imputeLCMD",
-        "BiocParallel",
         "MultiDataSet",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -11271,7 +10905,6 @@
     "lisaClust": [
         "ggplot2",
         "concaveman",
-        "BiocParallel",
         "spatstat.core",
         "spicyR",
         "sf",
@@ -11286,7 +10919,6 @@
         "xcms",
         "CAMERA",
         "Hmisc",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -11302,7 +10934,6 @@
     "loci2path": [
         "pheatmap",
         "GenomicRanges",
-        "BiocParallel",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -11327,7 +10958,6 @@
     ],
     "LowMACA": [
         "cgdsr",
-        "BiocParallel",
         "motifStack",
         "Biostrings",
         "XVector",
@@ -11344,7 +10974,6 @@
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocParallel",
         "ggplot2",
         "ggrepel",
         "AnnotationDbi",
@@ -11378,7 +11007,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -11435,7 +11063,6 @@
         "ggplot2",
         "recipes",
         "SummarizedExperiment",
-        "BiocParallel",
         "KEGGREST",
         "ipred",
         "DelayedArray",
@@ -11472,7 +11099,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "rtracklayer",
-        "BiocParallel",
         "Biostrings",
         "ShortRead",
         "XVector",
@@ -11518,7 +11144,6 @@
         "rtracklayer",
         "vcfR",
         "XVector",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray",
         "AnnotationDbi",
@@ -11560,7 +11185,6 @@
         "bumphunter",
         "siggenes",
         "DelayedMatrixStats",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -11584,7 +11208,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggforce",
@@ -11627,7 +11250,6 @@
         "ggplot2",
         "recipes",
         "fields",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -11702,7 +11324,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -11748,7 +11369,6 @@
         "XVector",
         "Biostrings",
         "GenomeInfoDb",
-        "BiocParallel",
         "BSgenome",
         "CNEr",
         "GenomicRanges",
@@ -11763,11 +11383,8 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "matter": [
-        "BiocParallel"
-    ],
+    "matter": [],
     "MBASED": [
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "GenomeInfoDb",
@@ -11780,7 +11397,6 @@
         "SummarizedExperiment",
         "ClusterR",
         "benchmarkme",
-        "BiocParallel",
         "beachmat",
         "ggplot2",
         "GenomicRanges",
@@ -11813,7 +11429,6 @@
         "XVector"
     ],
     "MCbiclust": [
-        "BiocParallel",
         "AnnotationDbi",
         "GO.db",
         "org.Hs.eg.db",
@@ -11838,7 +11453,6 @@
         "Gviz",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BiocParallel",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -11872,7 +11486,6 @@
         "XVector",
         "GenomeInfoDb",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "MEAL": [
@@ -11904,7 +11517,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "GO.db",
@@ -11940,7 +11552,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -11976,7 +11587,6 @@
         "AnnotationDbi",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -12052,7 +11662,6 @@
         "MeSHDbi",
         "KEGGREST",
         "interactiveDisplayBase",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -12107,7 +11716,6 @@
     ],
     "Metab": [
         "xcms",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -12137,7 +11745,6 @@
     ],
     "metabomxtr": [
         "multtest",
-        "BiocParallel",
         "ggplot2"
     ],
     "MetaboSignal": [
@@ -12173,7 +11780,6 @@
         "DelayedArray",
         "nloptr",
         "broom",
-        "BiocParallel",
         "GenomicAlignments",
         "testthat"
     ],
@@ -12216,7 +11822,6 @@
     ],
     "metagene": [
         "GenomicRanges",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "GenomeInfoDb",
@@ -12238,7 +11843,6 @@
     ],
     "metagene2": [
         "GenomicRanges",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "GenomeInfoDb",
@@ -12257,7 +11861,6 @@
         "CAMERA",
         "xcms",
         "Hmisc",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -12280,7 +11883,6 @@
         "XVector"
     ],
     "metapone": [
-        "BiocParallel",
         "fields",
         "viridis",
         "ggplot2"
@@ -12289,7 +11891,6 @@
     "metaseqR2": [
         "DESeq2",
         "baySeq",
-        "BiocParallel",
         "biomaRt",
         "Biostrings",
         "DSS",
@@ -12357,7 +11958,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "MetaVolcanoR": [
@@ -12377,7 +11977,6 @@
     "MetCirc": [
         "MSnbase",
         "ggplot2",
-        "BiocParallel",
         "vsn"
     ],
     "methimpute": [
@@ -12399,7 +11998,6 @@
         "rtracklayer",
         "ggplot2",
         "Biostrings",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -12447,8 +12045,7 @@
         "XVector",
         "Rsamtools",
         "GenomicAlignments",
-        "BiocIO",
-        "BiocParallel"
+        "BiocIO"
     ],
     "MethTargetedNGS": [
         "Biostrings",
@@ -12456,7 +12053,6 @@
         "GenomeInfoDb"
     ],
     "MethylAid": [
-        "BiocParallel",
         "ggplot2",
         "minfi",
         "SummarizedExperiment",
@@ -12494,7 +12090,6 @@
         "GenomeInfoDb",
         "DelayedMatrixStats",
         "DelayedArray",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -12546,7 +12141,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "broom",
         "modelr",
         "readxl",
@@ -12579,7 +12173,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "reactome.db",
-        "BiocParallel",
         "GO.db",
         "AnnotationDbi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -12634,7 +12227,6 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "BiocParallel",
         "GenomicRanges",
         "ggplot2",
         "GenomeInfoDb",
@@ -12659,7 +12251,6 @@
         "XVector",
         "ggplot2",
         "Biostrings",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -12669,7 +12260,6 @@
         "ggplot2"
     ],
     "methylscaper": [
-        "BiocParallel",
         "Biostrings",
         "SummarizedExperiment",
         "XVector",
@@ -12691,7 +12281,6 @@
         "BiocIO",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "methylSig": [
@@ -12702,7 +12291,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -12736,7 +12324,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -12754,7 +12341,6 @@
     ],
     "MetNet": [
         "SummarizedExperiment",
-        "BiocParallel",
         "ggplot2",
         "GENIE3",
         "GenomicRanges",
@@ -12794,7 +12380,6 @@
         "decontam",
         "Biostrings",
         "DECIPHER",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "scuttle",
@@ -12826,7 +12411,6 @@
         "mia",
         "ggplot2",
         "ggraph",
-        "BiocParallel",
         "DelayedArray",
         "scater",
         "ggtree",
@@ -12895,7 +12479,6 @@
         "lme4",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "viridis",
@@ -12931,7 +12514,6 @@
         "multtest",
         "plotROC",
         "zCompositions",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "nloptr",
@@ -12976,7 +12558,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggforce",
@@ -13036,7 +12617,6 @@
     ],
     "MIGSA": [
         "AnnotationDbi",
-        "BiocParallel",
         "ggdendro",
         "ggplot2",
         "GO.db",
@@ -13055,7 +12635,6 @@
         "BiocNeighbors",
         "SingleCellExperiment",
         "cowplot",
-        "BiocParallel",
         "BiocSingular",
         "ggplot2",
         "ggraph",
@@ -13134,7 +12713,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -13150,7 +12728,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -13176,7 +12753,6 @@
         "BSgenome",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO"
     ],
@@ -13198,7 +12774,6 @@
         "GenomeInfoDb",
         "DelayedMatrixStats",
         "DelayedArray",
-        "BiocParallel",
         "BSgenome",
         "Biostrings",
         "HDF5Array",
@@ -13317,7 +12892,6 @@
         "enrichplot",
         "GOSemSim",
         "qvalue",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "XVector",
@@ -13353,7 +12927,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -13408,7 +12981,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "BiocIO",
         "rtracklayer",
@@ -13458,13 +13030,11 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "mixOmics": [
         "ggplot2",
-        "ggrepel",
-        "BiocParallel"
+        "ggrepel"
     ],
     "MLInterfaces": [
         "genefilter",
@@ -13494,7 +13064,6 @@
         "SummarizedExperiment",
         "recipes",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -13511,7 +13080,6 @@
         "gmapR",
         "Rsamtools",
         "VariantAnnotation",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "VariantTools",
@@ -13537,7 +13105,6 @@
         "XVector",
         "GenomeInfoDb",
         "rtracklayer",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -13613,8 +13180,7 @@
         "basilisk"
     ],
     "MOGAMUN": [
-        "RCy3",
-        "BiocParallel"
+        "RCy3"
     ],
     "mogsa": [
         "graphite",
@@ -13645,7 +13211,6 @@
         "BSgenome",
         "glmnet",
         "SummarizedExperiment",
-        "BiocParallel",
         "ComplexHeatmap",
         "XVector",
         "GenomeInfoDb",
@@ -13678,7 +13243,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -13713,7 +13277,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -13733,7 +13296,6 @@
         "BSgenome",
         "rtracklayer",
         "VariantAnnotation",
-        "BiocParallel",
         "motifStack",
         "Gviz",
         "SummarizedExperiment",
@@ -13769,7 +13331,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "motifmatchr": [
@@ -13782,7 +13343,6 @@
         "GenomeInfoDb",
         "XVector",
         "rtracklayer",
-        "BiocParallel",
         "DelayedArray",
         "CNEr",
         "GenomicAlignments",
@@ -13816,7 +13376,6 @@
         "XVector"
     ],
     "MPRAnalyze": [
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -13848,16 +13407,13 @@
         "GenomeInfoDb"
     ],
     "MsBackendMassbank": [
-        "Spectra",
-        "BiocParallel"
+        "Spectra"
     ],
     "MsBackendMgf": [
-        "Spectra",
-        "BiocParallel"
+        "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "Spectra",
-        "BiocParallel"
+        "Spectra"
     ],
     "MsFeatures": [
         "SummarizedExperiment",
@@ -13880,7 +13436,6 @@
         "Biostrings",
         "rtracklayer",
         "XVector",
-        "BiocParallel",
         "biomaRt",
         "genomeIntervals",
         "ShortRead",
@@ -13908,7 +13463,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -13922,7 +13476,6 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "BiocParallel",
         "vsn",
         "ggplot2"
     ],
@@ -13930,12 +13483,10 @@
         "MSnbase",
         "msmsEDA",
         "qvalue",
-        "BiocParallel",
         "vsn",
         "ggplot2"
     ],
     "MSnbase": [
-        "BiocParallel",
         "vsn",
         "ggplot2"
     ],
@@ -13953,7 +13504,6 @@
         "GenomeInfoDb",
         "msmsEDA",
         "qvalue",
-        "BiocParallel",
         "vsn"
     ],
     "MSPrep": [
@@ -13967,7 +13517,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "genefilter",
-        "BiocParallel",
         "car",
         "pbkrtest",
         "quantreg",
@@ -13986,7 +13535,6 @@
     "msqrob2": [
         "QFeatures",
         "lme4",
-        "BiocParallel",
         "SummarizedExperiment",
         "nloptr",
         "MultiAssayExperiment",
@@ -14061,7 +13609,6 @@
         "MSnbase",
         "colourpicker",
         "miniUI",
-        "BiocParallel",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -14072,12 +13619,10 @@
         "ggplot2",
         "miniUI",
         "MSnbase",
-        "BiocParallel",
         "vsn"
     ],
     "MSstatsSampleSize": [
         "ggplot2",
-        "BiocParallel",
         "caret",
         "MSstats",
         "recipes",
@@ -14159,7 +13704,6 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "BiocParallel",
         "tensorflow",
         "tfruns",
         "htmlTable",
@@ -14181,7 +13725,6 @@
         "fgsea",
         "metap",
         "KEGGREST",
-        "BiocParallel",
         "ggplot2",
         "TFisher",
         "mutoss",
@@ -14196,7 +13739,6 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "BiocParallel",
         "pheatmap",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14249,7 +13791,6 @@
         "qvalue",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "aplot",
@@ -14295,7 +13836,6 @@
     "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "SummarizedExperiment",
@@ -14328,12 +13868,10 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "BiocParallel",
         "biomaRt",
         "DelayedArray"
     ],
     "muscat": [
-        "BiocParallel",
         "blme",
         "ComplexHeatmap",
         "DESeq2",
@@ -14425,7 +13963,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "BiocParallel",
         "GenomicAlignments",
         "pbkrtest",
         "quantreg",
@@ -14454,7 +13991,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -14496,7 +14032,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "myvariant": [
@@ -14518,7 +14053,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -14538,7 +14072,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "motifStack",
-        "BiocParallel",
         "XVector",
         "TFisher",
         "mutoss",
@@ -14581,7 +14114,6 @@
         "Rsamtools",
         "KEGGREST",
         "DelayedArray",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "GenomeInfoDb",
@@ -14634,13 +14166,11 @@
     ],
     "NanoTube": [
         "ggplot2",
-        "fgsea",
-        "BiocParallel"
+        "fgsea"
     ],
     "NBAMSeq": [
         "SummarizedExperiment",
         "DESeq2",
-        "BiocParallel",
         "genefilter",
         "GenomicRanges",
         "geneplotter",
@@ -14655,7 +14185,6 @@
     "NBSplice": [
         "car",
         "mppa",
-        "BiocParallel",
         "ggplot2",
         "pbkrtest",
         "quantreg",
@@ -14668,7 +14197,6 @@
         "flowCore"
     ],
     "ncGTW": [
-        "BiocParallel",
         "xcms",
         "MSnbase",
         "SummarizedExperiment",
@@ -14703,7 +14231,6 @@
         "XVector",
         "GenomicAlignments",
         "Biostrings",
-        "BiocParallel",
         "BiocIO",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -14768,7 +14295,6 @@
         "GOSemSim",
         "qvalue",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggplot2",
@@ -14865,7 +14391,6 @@
         "DelayedMatrixStats",
         "beachmat",
         "BiocNeighbors",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -14902,7 +14427,6 @@
         "SingleCellExperiment",
         "DelayedArray",
         "BiocSingular",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
@@ -14941,8 +14465,7 @@
         "BiocIO",
         "Rsamtools",
         "GenomicAlignments",
-        "DelayedArray",
-        "BiocParallel"
+        "DelayedArray"
     ],
     "normalize450K": [],
     "NormalyzerDE": [
@@ -14981,11 +14504,9 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "NPARC": [
-        "BiocParallel",
         "broom",
         "ggplot2"
     ],
@@ -15006,7 +14527,6 @@
         "ShortRead",
         "ggplot2",
         "XVector",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -15024,7 +14544,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "Biostrings",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -15032,7 +14551,6 @@
         "NxtIRFdata",
         "ggplot2",
         "AnnotationHub",
-        "BiocParallel",
         "Biostrings",
         "BSgenome",
         "DelayedArray",
@@ -15067,7 +14585,6 @@
         "rtracklayer",
         "megadepth",
         "basilisk",
-        "BiocParallel",
         "GenomicFeatures",
         "plyranges",
         "reticulate",
@@ -15155,7 +14672,6 @@
     "omicplotR": [
         "ALDEx2",
         "zCompositions",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "multtest",
@@ -15185,7 +14701,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "genefilter",
-        "BiocParallel",
         "car",
         "AnnotationDbi",
         "XVector",
@@ -15202,7 +14717,6 @@
     "OmicsLonDA": [
         "SummarizedExperiment",
         "ggplot2",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -15240,7 +14754,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "BiocParallel",
         "AnnotationDbi",
         "biomaRt",
         "ggsci",
@@ -15382,7 +14895,6 @@
         "GSVA",
         "AnnotationDbi",
         "SummarizedExperiment",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -15430,7 +14942,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "ORFik": [
@@ -15439,7 +14950,6 @@
         "AnnotationDbi",
         "Biostrings",
         "biomartr",
-        "BiocParallel",
         "BSgenome",
         "cowplot",
         "DESeq2",
@@ -15473,7 +14983,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "OrganismDbi": [
@@ -15490,7 +14999,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "orthogene": [
@@ -15517,15 +15025,13 @@
     ],
     "Oscope": [
         "EBSeq",
-        "testthat",
-        "BiocParallel"
+        "testthat"
     ],
     "OTUbase": [
         "ShortRead",
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -15533,7 +15039,6 @@
         "DelayedArray"
     ],
     "OUTRIDER": [
-        "BiocParallel",
         "GenomicFeatures",
         "SummarizedExperiment",
         "BBmisc",
@@ -15562,7 +15067,6 @@
         "GenomicAlignments"
     ],
     "OVESEG": [
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -15572,7 +15076,6 @@
     "PAA": [
         "sva",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -15626,7 +15129,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "rtracklayer",
-        "BiocParallel",
         "DelayedArray",
         "CNEr",
         "GenomicAlignments",
@@ -15639,7 +15141,6 @@
     "PAIRADISE": [
         "nloptr",
         "SummarizedExperiment",
-        "BiocParallel",
         "testthat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -15665,8 +15166,7 @@
         "GenomeInfoDb",
         "exomeCopy",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "panp": [],
     "PANR": [],
@@ -15689,7 +15189,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "Path2PPI": [],
@@ -15705,7 +15204,6 @@
         "devtools",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "usethis",
@@ -15765,7 +15263,6 @@
         "biomaRt",
         "pheatmap",
         "KEGGREST",
-        "BiocParallel",
         "geneplotter",
         "GenomeInfoDb",
         "XVector",
@@ -15779,9 +15276,7 @@
         "GSEABase",
         "Biostrings"
     ],
-    "PCAN": [
-        "BiocParallel"
-    ],
+    "PCAN": [],
     "PCAtools": [
         "ggplot2",
         "ggrepel",
@@ -15789,7 +15284,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "BiocSingular",
-        "BiocParallel",
         "beachmat",
         "ScaledMatrix"
     ],
@@ -15803,7 +15297,6 @@
         "CoreGx",
         "caret",
         "survminer",
-        "BiocParallel",
         "piano",
         "survcomp",
         "genefu",
@@ -15867,7 +15360,6 @@
         "MSnbase",
         "shinythemes",
         "shinycssloaders",
-        "BiocParallel",
         "vsn"
     ],
     "PECA": [
@@ -15894,7 +15386,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -15904,8 +15395,7 @@
         "XVector"
     ],
     "pengls": [
-        "glmnet",
-        "BiocParallel"
+        "glmnet"
     ],
     "PepsNMR": [
         "ptw",
@@ -15934,7 +15424,6 @@
         "Biostrings",
         "GenomicRanges",
         "BSgenome",
-        "BiocParallel",
         "rtracklayer",
         "GenomeInfoDb",
         "ggplot2",
@@ -15957,7 +15446,6 @@
         "GOSemSim",
         "qvalue",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "aplot",
@@ -15989,7 +15477,6 @@
         "KEGGREST",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -16001,7 +15488,6 @@
         "CoreGx",
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "BiocParallel",
         "ggplot2",
         "piano",
         "GenomicRanges",
@@ -16189,7 +15675,6 @@
     "piano": [
         "fgsea",
         "shinydashboard",
-        "BiocParallel",
         "ggplot2"
     ],
     "PICS": [
@@ -16199,7 +15684,6 @@
         "GenomeInfoDb",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -16224,7 +15708,6 @@
         "graphite",
         "Hmisc",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "aplot",
@@ -16270,7 +15753,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "rainbow",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -16279,7 +15761,6 @@
         "DelayedArray"
     ],
     "pipeComp": [
-        "BiocParallel",
         "ComplexHeatmap",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -16324,7 +15805,6 @@
         "GenomicRanges",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -16360,7 +15840,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -16397,7 +15876,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -16426,7 +15904,6 @@
         "BSgenome",
         "XVector",
         "rtracklayer",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -16466,7 +15943,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "BiocParallel",
         "vsn",
         "ipred",
         "prodlim"
@@ -16509,7 +15985,6 @@
         "ggplot2",
         "STRINGdb",
         "AnnotationDbi",
-        "BiocParallel",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -16532,7 +16007,6 @@
         "GenomeInfoDb"
     ],
     "pram": [
-        "BiocParallel",
         "GenomicAlignments",
         "rtracklayer",
         "GenomeInfoDb",
@@ -16552,7 +16026,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "BiocStyle",
         "phyloseq",
@@ -16587,12 +16060,10 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "PrecisionTrialDrawer": [
         "cgdsr",
-        "BiocParallel",
         "biomaRt",
         "ggplot2",
         "ggrepel",
@@ -16638,7 +16109,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
-        "BiocParallel",
         "CNEr",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -16659,14 +16129,12 @@
         "tseries",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "vsn",
         "quantmod",
         "TTR"
     ],
     "proActiv": [
         "AnnotationDbi",
-        "BiocParallel",
         "DESeq2",
         "GenomicRanges",
         "GenomicFeatures",
@@ -16699,7 +16167,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "proBatch": [
@@ -16713,7 +16180,6 @@
         "vsn",
         "lme4",
         "genefilter",
-        "BiocParallel",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -16743,7 +16209,6 @@
     ],
     "proFIA": [
         "xcms",
-        "BiocParallel",
         "ropls",
         "MultiDataSet",
         "MSnbase",
@@ -16774,7 +16239,6 @@
         "ggplot2",
         "EnrichedHeatmap",
         "ComplexHeatmap",
-        "BiocParallel",
         "rtracklayer",
         "GenomeInfoDb",
         "Rsamtools",
@@ -16821,7 +16285,6 @@
         "ggalluvial",
         "viridis",
         "ggplot2",
-        "BiocParallel",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -16832,7 +16295,6 @@
     "pRoloc": [
         "MSnbase",
         "MLInterfaces",
-        "BiocParallel",
         "caret",
         "dendextend",
         "mixtools",
@@ -16863,7 +16325,6 @@
         "shinyWidgets",
         "shinydashboard",
         "miniUI",
-        "BiocParallel",
         "vsn",
         "MLInterfaces",
         "caret",
@@ -16897,7 +16358,6 @@
     "PROPS": [
         "sva",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -16951,7 +16411,6 @@
         "car",
         "missMDA",
         "nloptr",
-        "BiocParallel",
         "TH.data",
         "TTR",
         "modelr",
@@ -16990,7 +16449,6 @@
         "treeio"
     ],
     "ProteoDisco": [
-        "BiocParallel",
         "Biostrings",
         "cleaver",
         "GenomeInfoDb",
@@ -17026,7 +16484,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "XVector",
-        "BiocParallel",
         "vsn",
         "ggplot2",
         "KEGGREST",
@@ -17061,7 +16518,6 @@
         "miniUI",
         "broom",
         "quantmod",
-        "BiocParallel",
         "derfinder",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -17119,7 +16575,6 @@
         "rstatix",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "vsn",
         "broom",
         "car",
@@ -17172,7 +16627,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray",
         "BSgenome",
@@ -17206,7 +16660,6 @@
         "biomaRt",
         "BSgenome",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -17254,8 +16707,7 @@
         "Rsamtools",
         "GenomeInfoDb",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "QFeatures": [
         "MultiAssayExperiment",
@@ -17270,7 +16722,6 @@
     ],
     "qpcrNorm": [],
     "qpgraph": [
-        "BiocParallel",
         "AnnotationDbi",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -17293,7 +16744,6 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "vsn"
     ],
     "qrqc": [
@@ -17315,7 +16765,6 @@
         "AnnotationFilter",
         "KEGGREST",
         "rtracklayer",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -17330,7 +16779,6 @@
         "GenomicRanges",
         "Rsamtools",
         "GenomeInfoDb",
-        "BiocParallel",
         "XVector",
         "GenomicAlignments",
         "BiocIO",
@@ -17348,7 +16796,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -17385,7 +16832,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -17416,7 +16862,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "ShortRead",
-        "BiocParallel",
         "GenomeInfoDb",
         "rtracklayer",
         "GenomicFiles",
@@ -17462,7 +16907,6 @@
         "htmlTable",
         "viridis",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "DelayedArray"
@@ -17476,7 +16920,6 @@
         "Biostrings",
         "XVector",
         "ggplot2",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -17495,7 +16938,6 @@
         "AnnotationDbi",
         "GenomeInfoDb",
         "rtracklayer",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray",
         "GenomicFeatures",
@@ -17510,7 +16952,6 @@
     "RadioGx": [
         "CoreGx",
         "SummarizedExperiment",
-        "BiocParallel",
         "MultiAssayExperiment",
         "piano",
         "GenomicRanges",
@@ -17549,7 +16990,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "KEGGREST",
         "DelayedArray"
     ],
@@ -17580,7 +17020,6 @@
         "HDF5Array",
         "KEGGREST",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "Rbec": [
@@ -17590,7 +17029,6 @@
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -17602,8 +17040,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "rbsurv": [],
     "Rcade": [
@@ -17614,7 +17051,6 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -17642,7 +17078,6 @@
         "biomaRt",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "rcellminer": [
@@ -17669,7 +17104,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "RcisTarget": [
@@ -17715,7 +17149,6 @@
         "reticulate"
     ],
     "Rcwl": [
-        "BiocParallel",
         "batchtools",
         "DiagrammeR",
         "basilisk",
@@ -17726,7 +17159,6 @@
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "BiocParallel",
         "batchtools",
         "DiagrammeR",
         "basilisk",
@@ -17751,7 +17183,6 @@
         "reactome.db",
         "graphite",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "GOSemSim",
@@ -17801,7 +17232,6 @@
     ],
     "recount": [
         "SummarizedExperiment",
-        "BiocParallel",
         "derfinder",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -17837,8 +17267,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
-        "DelayedArray",
-        "BiocParallel"
+        "DelayedArray"
     ],
     "recountmethylation": [
         "minfi",
@@ -17853,7 +17282,6 @@
         "siggenes",
         "DelayedMatrixStats",
         "genefilter",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -17879,7 +17307,6 @@
         "AnnotationDbi",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "KEGGREST",
         "DelayedArray"
@@ -17907,7 +17334,6 @@
         "InteractionSet",
         "regioneR",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -17923,7 +17349,6 @@
         "SummarizedExperiment",
         "fgsea",
         "DOSE",
-        "BiocParallel",
         "DESeq2",
         "WGCNA",
         "ggplot2",
@@ -17956,7 +17381,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "regionReport": [
@@ -17968,7 +17392,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BiocParallel",
         "bumphunter",
         "derfinderHelper",
         "GenomicAlignments",
@@ -18023,7 +17446,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -18037,7 +17459,6 @@
         "Biostrings",
         "GenomicRanges",
         "GenomeInfoDb",
-        "BiocParallel",
         "caret",
         "BSgenome",
         "AnnotationHub",
@@ -18074,7 +17495,6 @@
         "Ringo",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "vsn",
         "BiocIO",
@@ -18096,7 +17516,6 @@
         "genefilter",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "geneplotter",
         "Hmisc",
         "biovizBase",
@@ -18129,7 +17548,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "KEGGREST"
     ],
     "ReQON": [
@@ -18138,8 +17556,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "ResidualMatrix": [
         "DelayedArray"
@@ -18191,8 +17608,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "rGADEM": [
         "Biostrings",
@@ -18202,7 +17618,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -18232,7 +17647,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "rGREAT": [
@@ -18250,7 +17664,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -18283,12 +17696,10 @@
         "SummarizedExperiment",
         "GenomicAlignments",
         "KEGGREST",
-        "BiocParallel",
         "DelayedArray"
     ],
     "RiboCrypt": [
         "ORFik",
-        "BiocParallel",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -18323,7 +17734,6 @@
         "DESeq2",
         "ggplot2",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -18352,7 +17762,6 @@
         "rtracklayer",
         "XVector",
         "SummarizedExperiment",
-        "BiocParallel",
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
@@ -18378,8 +17787,7 @@
         "baySeq",
         "GenomeInfoDb",
         "XVector",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "ribosomeProfilingQC": [
         "GenomicRanges",
@@ -18402,7 +17810,6 @@
         "ShortRead",
         "biomaRt",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
@@ -18441,7 +17848,6 @@
         "SummarizedExperiment",
         "ensembldb",
         "AnnotationFilter",
-        "BiocParallel",
         "htmlTable",
         "viridis",
         "DelayedArray"
@@ -18449,7 +17855,6 @@
     "Risa": [
         "biocViews",
         "xcms",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -18482,7 +17887,6 @@
         "GenomicRanges",
         "consensusSeekeR",
         "GenomeInfoDb",
-        "BiocParallel",
         "rtracklayer",
         "XVector",
         "Biostrings",
@@ -18526,7 +17930,6 @@
         "KEGGREST",
         "recipes",
         "SummarizedExperiment",
-        "BiocParallel",
         "ipred",
         "DelayedArray",
         "prodlim"
@@ -18536,7 +17939,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "BiocParallel",
         "vsn",
         "ggplot2"
     ],
@@ -18549,7 +17951,6 @@
         "org.Mm.eg.db",
         "DESeq2",
         "BiocStyle",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -18582,7 +17983,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "RNAAgeCalc": [
@@ -18592,7 +17992,6 @@
         "org.Hs.eg.db",
         "SummarizedExperiment",
         "KEGGREST",
-        "BiocParallel",
         "derfinder",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -18639,7 +18038,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "RNAinteract": [
@@ -18662,7 +18060,6 @@
         "GenomicRanges",
         "Modstrings",
         "Biostrings",
-        "BiocParallel",
         "GenomicFeatures",
         "GenomicAlignments",
         "GenomeInfoDb",
@@ -18703,7 +18100,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "Modstrings",
-        "BiocParallel",
         "ggplot2",
         "KEGGREST",
         "Hmisc",
@@ -18722,7 +18118,6 @@
         "XVector",
         "Modstrings",
         "Biostrings",
-        "BiocParallel",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -18761,7 +18156,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "Modstrings",
-        "BiocParallel",
         "ggplot2",
         "KEGGREST",
         "Hmisc",
@@ -18812,7 +18206,6 @@
         "GOSemSim",
         "qvalue",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "DO.db",
@@ -18888,7 +18281,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -18905,7 +18297,6 @@
         "GenomeInfoDb",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -18955,7 +18346,6 @@
     ],
     "rpx": [],
     "Rqc": [
-        "BiocParallel",
         "ShortRead",
         "ggplot2",
         "Biostrings",
@@ -19038,8 +18428,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "rScudo": [
         "SummarizedExperiment",
@@ -19055,7 +18444,6 @@
         "ShortRead",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
@@ -19103,8 +18491,7 @@
         "rtracklayer",
         "biomaRt",
         "Rsamtools",
-        "GenomicAlignments",
-        "BiocParallel"
+        "GenomicAlignments"
     ],
     "RTN": [
         "viper",
@@ -19179,7 +18566,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "Rtreemix": [
@@ -19211,7 +18597,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "runibic": [
@@ -19224,9 +18609,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "RUVcorr": [
-        "BiocParallel"
-    ],
+    "RUVcorr": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
@@ -19242,7 +18625,6 @@
         "GenomeInfoDb",
         "BiocIO",
         "rtracklayer",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -19305,7 +18687,6 @@
     ],
     "satuRn": [
         "SummarizedExperiment",
-        "BiocParallel",
         "ggplot2",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -19385,7 +18766,6 @@
         "GenomeInfoDb",
         "oligoClasses",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -19395,7 +18775,6 @@
     "scanMiR": [
         "Biostrings",
         "GenomicRanges",
-        "BiocParallel",
         "GenomeInfoDb",
         "ggplot2",
         "XVector"
@@ -19404,7 +18783,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "AnnotationHub",
-        "BiocParallel",
         "Biostrings",
         "ensembldb",
         "GenomeInfoDb",
@@ -19472,7 +18850,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "SCArray": [
@@ -19492,7 +18869,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "ExperimentHub",
         "AnnotationHub",
@@ -19511,7 +18887,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -19532,7 +18907,6 @@
         "ggplot2",
         "DESeq2",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "cowplot",
@@ -19562,7 +18936,6 @@
         "DropletUtils",
         "Seurat",
         "GenomicRanges",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -19617,7 +18990,6 @@
     "scClassify": [
         "ggraph",
         "mixtools",
-        "BiocParallel",
         "ggplot2",
         "hopach",
         "Cepo",
@@ -19667,7 +19039,6 @@
         "spatstat.random"
     ],
     "scDblFinder": [
-        "BiocParallel",
         "BiocNeighbors",
         "BiocSingular",
         "SummarizedExperiment",
@@ -19690,7 +19061,6 @@
     ],
     "scDD": [
         "fields",
-        "BiocParallel",
         "ggplot2",
         "EBSeq",
         "arm",
@@ -19714,8 +19084,7 @@
         "nloptr"
     ],
     "scde": [
-        "quantreg",
-        "BiocParallel"
+        "quantreg"
     ],
     "scds": [
         "SingleCellExperiment",
@@ -19728,7 +19097,6 @@
     "SCFA": [
         "keras",
         "tensorflow",
-        "BiocParallel",
         "glmnet",
         "reticulate",
         "tfruns",
@@ -19746,7 +19114,6 @@
         "DESeq2",
         "recipes",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "DelayedArray",
@@ -19788,7 +19155,6 @@
     "scHOT": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocParallel",
         "ggplot2",
         "ggforce",
         "GenomicRanges",
@@ -19824,7 +19190,6 @@
         "XVector"
     ],
     "scMerge": [
-        "BiocParallel",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -19867,7 +19232,6 @@
         "XVector",
         "Rsamtools",
         "DelayedMatrixStats",
-        "BiocParallel",
         "beachmat",
         "KEGGREST",
         "BiocIO",
@@ -19878,7 +19242,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "quantreg",
-        "BiocParallel",
         "ggplot2",
         "GenomicRanges",
         "DelayedArray",
@@ -19887,7 +19250,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "BiocParallel",
         "mixtools",
         "RUVSeq",
         "SingleCellExperiment",
@@ -19922,7 +19284,6 @@
         "XVector",
         "rtracklayer",
         "readxl",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -19933,7 +19294,6 @@
         "snpStats",
         "VariantAnnotation",
         "GenomicRanges",
-        "BiocParallel",
         "SummarizedExperiment",
         "XVector",
         "GenomeInfoDb",
@@ -19962,7 +19322,6 @@
         "ggplot2"
     ],
     "scPCA": [
-        "BiocParallel",
         "DelayedArray",
         "ScaledMatrix"
     ],
@@ -19992,7 +19351,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -20002,7 +19360,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -20027,7 +19384,6 @@
         "gamlss",
         "SAVER",
         "Rmagic",
-        "BiocParallel",
         "reticulate",
         "ggplot2",
         "glmnet"
@@ -20049,7 +19405,6 @@
         "GenomicRanges",
         "Rsamtools",
         "ShortRead",
-        "BiocParallel",
         "AnnotationDbi",
         "Biostrings",
         "ggplot2",
@@ -20081,16 +19436,13 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "BiocParallel",
         "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
     ],
-    "scShapes": [
-        "BiocParallel"
-    ],
+    "scShapes": [],
     "scTensor": [
         "plotly",
         "reactome.db",
@@ -20115,7 +19467,6 @@
         "GSEABase",
         "genefilter",
         "fields",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "GOSemSim",
@@ -20198,9 +19549,7 @@
         "Biostrings",
         "spatstat.random"
     ],
-    "scTHI": [
-        "BiocParallel"
-    ],
+    "scTHI": [],
     "scTreeViz": [
         "epivizr",
         "SummarizedExperiment",
@@ -20229,7 +19578,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "bluster",
         "cowplot",
@@ -20259,7 +19607,6 @@
     ],
     "scuttle": [
         "SingleCellExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "SummarizedExperiment",
         "DelayedArray",
@@ -20317,7 +19664,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "qvalue",
@@ -20338,7 +19684,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -20364,7 +19709,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "SELEX": [
@@ -20424,7 +19768,6 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "BiocParallel",
         "biomaRt"
     ],
     "seqCNA": [],
@@ -20448,7 +19791,6 @@
         "AnnotationDbi",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -20475,7 +19817,6 @@
         "UpSetR",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "DelayedArray"
@@ -20508,7 +19849,6 @@
     ],
     "sesame": [
         "sesameData",
-        "BiocParallel",
         "GenomicRanges",
         "ggplot2",
         "SummarizedExperiment",
@@ -20527,7 +19867,6 @@
     "SEtools": [
         "SummarizedExperiment",
         "ComplexHeatmap",
-        "BiocParallel",
         "randomcoloR",
         "sva",
         "DESeq2",
@@ -20553,7 +19892,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
-        "BiocParallel",
         "DelayedArray"
     ],
     "SGSeq": [
@@ -20568,7 +19906,6 @@
         "rtracklayer",
         "KEGGREST",
         "XVector",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "DelayedArray"
@@ -20597,7 +19934,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "BiocIO",
@@ -20620,7 +19956,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -20633,7 +19968,6 @@
         "GenomicAlignments"
     ],
     "ShortRead": [
-        "BiocParallel",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -20662,12 +19996,10 @@
         "Biostrings",
         "GenomicRanges",
         "XVector",
-        "GenomeInfoDb",
-        "BiocParallel"
+        "GenomeInfoDb"
     ],
     "SigCheck": [
         "MLInterfaces",
-        "BiocParallel",
         "genefilter",
         "ggvis",
         "gbm",
@@ -20682,7 +20014,6 @@
         "biocViews",
         "pheatmap",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -20709,7 +20040,6 @@
         "HDF5Array",
         "fgsea",
         "qvalue",
-        "BiocParallel",
         "reactome.db",
         "clusterProfiler",
         "DOSE",
@@ -20761,7 +20091,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -20781,7 +20110,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "KEGGREST",
-        "BiocParallel",
         "biomaRt"
     ],
     "sigsquared": [],
@@ -20815,8 +20143,7 @@
         "GenomicRanges",
         "Rsamtools",
         "XVector",
-        "GenomeInfoDb",
-        "BiocParallel"
+        "GenomeInfoDb"
     ],
     "simplifyEnrichment": [
         "GOSemSim",
@@ -20848,7 +20175,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -20865,7 +20191,6 @@
         "SingleCellExperiment",
         "DelayedArray",
         "batchelor",
-        "BiocParallel",
         "celldex",
         "colourpicker",
         "cowplot",
@@ -20976,7 +20301,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "ShortRead",
-        "BiocParallel",
         "GenomicFiles",
         "AnnotationDbi",
         "KEGGREST",
@@ -20992,7 +20316,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocNeighbors",
-        "BiocParallel",
         "BiocSingular",
         "beachmat",
         "ScaledMatrix",
@@ -21005,7 +20328,6 @@
         "ggrepel",
         "GSEABase",
         "plotly",
-        "BiocParallel",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicRanges",
@@ -21022,7 +20344,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "GSEABase",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -21047,7 +20368,6 @@
         "AnnotationDbi",
         "XVector",
         "BiocIO",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -21083,7 +20403,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
@@ -21159,7 +20478,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "snapCGH": [
@@ -21197,7 +20515,6 @@
         "DESeq2",
         "ggplot2",
         "GenomeInfoDb",
-        "BiocParallel",
         "VariantAnnotation",
         "SummarizedExperiment",
         "Biostrings",
@@ -21225,7 +20542,6 @@
         "GenomicAlignments",
         "rtracklayer",
         "chipseq",
-        "BiocParallel",
         "XVector",
         "ShortRead",
         "BiocIO",
@@ -21259,7 +20575,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "KEGGREST",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "htmlTable",
@@ -21282,7 +20597,6 @@
         "scran",
         "DropletUtils",
         "GenomicRanges",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -21312,7 +20626,6 @@
         "spatstat.random"
     ],
     "sparrow": [
-        "BiocParallel",
         "BiocSet",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -21346,7 +20659,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -21377,7 +20689,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
@@ -21409,7 +20720,6 @@
         "DropletUtils",
         "SummarizedExperiment",
         "GenomicRanges",
-        "BiocParallel",
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -21432,7 +20742,6 @@
         "shinydashboard",
         "UpSetR",
         "GenomicRanges",
-        "BiocParallel",
         "geneplotter",
         "SingleCellExperiment",
         "scater",
@@ -21475,7 +20784,6 @@
         "InteractionSet",
         "Gviz",
         "DelayedArray",
-        "BiocParallel",
         "CNEr",
         "KEGGREST",
         "GenomicAlignments",
@@ -21494,11 +20802,8 @@
         "viridis",
         "ggplot2"
     ],
-    "Spectra": [
-        "BiocParallel"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
-        "BiocParallel",
         "HiCcompare",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -21519,7 +20824,6 @@
     "spicyR": [
         "ggplot2",
         "concaveman",
-        "BiocParallel",
         "spatstat.core",
         "lmerTest",
         "lme4",
@@ -21561,7 +20865,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggforce",
@@ -21583,13 +20886,11 @@
         "XVector",
         "rtracklayer",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "DelayedArray"
     ],
     "splatter": [
         "SingleCellExperiment",
-        "BiocParallel",
         "ggplot2",
         "scater",
         "SummarizedExperiment",
@@ -21617,7 +20918,6 @@
     "SplicingGraphs": [
         "GenomicFeatures",
         "GenomicAlignments",
-        "BiocParallel",
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools",
@@ -21654,7 +20954,6 @@
         "BSgenome",
         "SummarizedExperiment",
         "Rsamtools",
-        "BiocParallel",
         "BiocIO",
         "rtracklayer",
         "ensembldb",
@@ -21722,7 +21021,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "Gviz",
-        "BiocParallel",
         "BiocStyle",
         "genefilter",
         "geneplotter",
@@ -21777,8 +21075,7 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "GenomicRanges",
-        "BiocParallel"
+        "GenomicRanges"
     ],
     "stageR": [
         "SummarizedExperiment",
@@ -21807,7 +21104,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "AnnotationFilter",
-        "BiocParallel",
         "BiocIO",
         "ggplot2",
         "htmlTable",
@@ -21862,7 +21158,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "ggforce",
@@ -21887,7 +21182,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -21899,9 +21193,7 @@
     ],
     "Streamer": [],
     "STRINGdb": [],
-    "STROMA4": [
-        "BiocParallel"
-    ],
+    "STROMA4": [],
     "struct": [
         "SummarizedExperiment",
         "GenomicRanges",
@@ -21940,8 +21232,7 @@
         "GenomicAlignments",
         "DelayedArray",
         "BSgenome",
-        "KEGGREST",
-        "BiocParallel"
+        "KEGGREST"
     ],
     "SubCellBarCode": [
         "caret",
@@ -21965,7 +21256,6 @@
     "SummarizedBenchmark": [
         "SummarizedExperiment",
         "UpSetR",
-        "BiocParallel",
         "ggplot2",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -22050,7 +21340,6 @@
     ],
     "sva": [
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -22074,7 +21363,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocParallel",
         "DelayedArray"
     ],
     "svaRetro": [
@@ -22094,7 +21382,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocParallel",
         "DelayedArray"
     ],
     "SWATH2stats": [
@@ -22175,7 +21462,6 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -22203,7 +21489,6 @@
         "pheatmap",
         "plotly",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "aplot",
@@ -22230,7 +21515,6 @@
         "rstatix",
         "InteractionSet",
         "GenomicRanges",
-        "BiocParallel",
         "QDNAseq",
         "pheatmap",
         "GenomeInfoDb",
@@ -22266,7 +21550,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -22303,7 +21586,6 @@
         "Rsamtools",
         "ggplot2",
         "GenomeInfoDb",
-        "BiocParallel",
         "Biostrings",
         "cowplot",
         "GenomicAlignments",
@@ -22322,7 +21604,6 @@
         "ggplot2",
         "DESeq2",
         "SummarizedExperiment",
-        "BiocParallel",
         "msm",
         "sva",
         "GenomicRanges",
@@ -22349,7 +21630,6 @@
         "baySeq",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -22411,7 +21691,6 @@
         "org.Hs.eg.db",
         "KEGGREST",
         "sesameData",
-        "BiocParallel",
         "fgsea",
         "DO.db",
         "aplot",
@@ -22475,8 +21754,7 @@
         "biomaRt",
         "DelayedArray",
         "Rsamtools",
-        "GenomicAlignments",
-        "BiocParallel"
+        "GenomicAlignments"
     ],
     "TCseq": [
         "GenomicRanges",
@@ -22486,7 +21764,6 @@
         "ggplot2",
         "GenomeInfoDb",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -22517,12 +21794,9 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
-    "ternarynet": [
-        "BiocParallel"
-    ],
+    "ternarynet": [],
     "TFARM": [
         "fields",
         "GenomicRanges",
@@ -22533,7 +21807,6 @@
     ],
     "TFBSTools": [
         "Biostrings",
-        "BiocParallel",
         "BSgenome",
         "CNEr",
         "GenomeInfoDb",
@@ -22565,7 +21838,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "TFHAZ": [
@@ -22584,8 +21856,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "tidybulk": [
         "SummarizedExperiment",
@@ -22637,8 +21908,7 @@
         "mixOmics",
         "ggplot2",
         "ggrepel",
-        "propr",
-        "BiocParallel"
+        "propr"
     ],
     "TimeSeriesExperiment": [
         "SummarizedExperiment",
@@ -22647,7 +21917,6 @@
         "Hmisc",
         "viridis",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "htmlTable",
@@ -22679,7 +21948,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "KEGGREST",
-        "BiocParallel",
         "DO.db",
         "fgsea",
         "aplot",
@@ -22745,7 +22013,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -22765,13 +22032,10 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
-    "TMixClust": [
-        "BiocParallel"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "SummarizedExperiment",
         "GSVA",
@@ -22786,7 +22050,6 @@
         "ggsignif",
         "rstatix",
         "GSEABase",
-        "BiocParallel",
         "SingleCellExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -22847,7 +22110,6 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "BiocParallel",
         "vsn"
     ],
     "topGO": [
@@ -22861,7 +22123,6 @@
     "ToxicoGx": [
         "CoreGx",
         "SummarizedExperiment",
-        "BiocParallel",
         "ggplot2",
         "MultiAssayExperiment",
         "piano",
@@ -22879,16 +22140,14 @@
         "VennDiagram"
     ],
     "TPP2D": [
-        "ggplot2",
-        "BiocParallel"
+        "ggplot2"
     ],
     "tracktables": [
         "GenomicRanges",
         "XVector",
         "Rsamtools",
         "GenomeInfoDb",
-        "Biostrings",
-        "BiocParallel"
+        "Biostrings"
     ],
     "trackViewer": [
         "GenomicRanges",
@@ -22903,7 +22162,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -22922,7 +22180,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "slingshot",
-        "BiocParallel",
         "ggplot2",
         "TrajectoryUtils",
         "viridis",
@@ -22967,7 +22224,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "AnnotationDbi",
         "XVector",
         "BiocIO",
@@ -23006,7 +22262,6 @@
         "multtest",
         "GenomicRanges",
         "SummarizedExperiment",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -23035,7 +22290,6 @@
         "glmnet",
         "vbsr",
         "SummarizedExperiment",
-        "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -23050,7 +22304,6 @@
         "Biostrings",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -23131,7 +22384,6 @@
         "SingleCellExperiment",
         "Biostrings",
         "SummarizedExperiment",
-        "BiocParallel",
         "treeio",
         "XVector",
         "GenomeInfoDb",
@@ -23164,14 +22416,12 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
         "DelayedArray"
     ],
     "Trendy": [
-        "BiocParallel",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -23190,7 +22440,6 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -23212,7 +22461,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "viridis",
         "ggrepel",
@@ -23224,7 +22472,6 @@
         "sva",
         "ggplot2",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -23278,7 +22525,6 @@
         "rtracklayer",
         "BSgenome",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "Modstrings",
@@ -23309,7 +22555,6 @@
     ],
     "TSRchitect": [
         "AnnotationHub",
-        "BiocParallel",
         "GenomicAlignments",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -23350,7 +22595,6 @@
     "TurboNorm": [],
     "TVTB": [
         "AnnotationFilter",
-        "BiocParallel",
         "Biostrings",
         "ensembldb",
         "ensemblVEP",
@@ -23390,7 +22634,6 @@
         "GenomicRanges",
         "Biostrings",
         "rtracklayer",
-        "BiocParallel",
         "KEGGREST",
         "XVector",
         "GenomeInfoDb",
@@ -23419,7 +22662,6 @@
         "BiocIO",
         "biomaRt",
         "DelayedArray",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "Ularcirc": [
@@ -23443,7 +22685,6 @@
         "rtracklayer",
         "Rsamtools",
         "SummarizedExperiment",
-        "BiocParallel",
         "BiocIO",
         "biomaRt",
         "AnnotationFilter",
@@ -23470,7 +22711,6 @@
         "AnnotationDbi",
         "XVector",
         "rtracklayer",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "fds",
@@ -23510,7 +22750,6 @@
         "biovizBase",
         "GenomicAlignments",
         "GO.db",
-        "BiocParallel",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -23546,7 +22785,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -23587,7 +22825,6 @@
         "beachmat",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocParallel",
         "ggbeeswarm",
         "ggrepel",
         "GenomicRanges",
@@ -23614,7 +22851,6 @@
         "DelayedArray",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO"
     ],
@@ -23628,7 +22864,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -23636,7 +22871,6 @@
     ],
     "variancePartition": [
         "ggplot2",
-        "BiocParallel",
         "pbkrtest",
         "lmerTest",
         "lme4",
@@ -23658,7 +22892,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -23681,7 +22914,6 @@
     "VariantFiltering": [
         "VariantAnnotation",
         "AnnotationDbi",
-        "BiocParallel",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -23718,7 +22950,6 @@
         "Biostrings",
         "GenomicFeatures",
         "rtracklayer",
-        "BiocParallel",
         "GenomeInfoDb",
         "BSgenome",
         "XVector",
@@ -23741,7 +22972,6 @@
         "rtracklayer",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "biomaRt",
         "AnnotationDbi",
@@ -23757,7 +22987,6 @@
         "GenomicFiles",
         "Rsamtools",
         "SummarizedExperiment",
-        "BiocParallel",
         "rtracklayer",
         "GenomicAlignments",
         "GenomeInfoDb",
@@ -23786,7 +23015,6 @@
         "zellkonverter",
         "scuttle",
         "SingleCellExperiment",
-        "BiocParallel",
         "BiocSingular",
         "ScaledMatrix",
         "beachmat",
@@ -23809,7 +23037,6 @@
         "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "GenomeInfoDb",
@@ -23839,7 +23066,6 @@
         "KEGGREST",
         "viridis",
         "influenceR",
-        "BiocParallel",
         "webshot",
         "egg",
         "Biostrings",
@@ -23879,7 +23105,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "Biostrings",
-        "BiocParallel",
         "XVector",
         "DelayedArray"
     ],
@@ -23905,7 +23130,6 @@
         "SummarizedExperiment",
         "Rsamtools",
         "BSgenome",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -23933,7 +23157,6 @@
         "multtest",
         "regioneR",
         "rtracklayer",
-        "BiocParallel",
         "genefilter",
         "geneplotter",
         "systemPipeR",
@@ -23951,7 +23174,6 @@
     "waddR": [
         "arm",
         "eva",
-        "BiocParallel",
         "SingleCellExperiment",
         "lme4",
         "EnvStats",
@@ -23990,7 +23212,6 @@
         "DelayedMatrixStats",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
         "multtest"
@@ -24010,7 +23231,6 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -24034,7 +23254,6 @@
         "SummarizedExperiment",
         "DelayedArray",
         "DelayedMatrixStats",
-        "BiocParallel",
         "topconfects",
         "ggplot2",
         "GenomicRanges",
@@ -24053,7 +23272,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "wpm": [
@@ -24073,7 +23291,6 @@
         "readxl"
     ],
     "xcms": [
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -24103,7 +23320,6 @@
         "CoreGx",
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "BiocParallel",
         "piano",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -24124,7 +23340,6 @@
         "GenomeInfoDb",
         "rtracklayer",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -24170,7 +23385,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "BiocParallel",
         "DelayedArray",
         "htmlTable"
     ],
@@ -24191,7 +23405,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "multtest",
@@ -24221,7 +23434,6 @@
     "zinbwave": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "BiocParallel",
         "genefilter",
         "AnnotationDbi",
         "GenomicRanges",
@@ -24436,7 +23648,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -24456,7 +23667,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "Homo.sapiens": [
@@ -24477,7 +23687,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
@@ -24488,7 +23697,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -24502,7 +23710,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -24523,7 +23730,6 @@
         "HDF5Array",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -24543,7 +23749,6 @@
         "HDF5Array",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -24563,7 +23768,6 @@
         "HDF5Array",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -24585,7 +23789,6 @@
         "KEGGREST",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
@@ -24603,7 +23806,6 @@
         "GenomicFeatures",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -24622,7 +23824,6 @@
         "GenomicFeatures",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "DelayedArray"
     ],
@@ -24649,7 +23850,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "pheatmap": [],
@@ -24704,7 +23904,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -24801,7 +24000,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -24973,7 +24171,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "org.Mm.eg.db": [
@@ -24997,7 +24194,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "hgu133plus2.db": [
@@ -25033,7 +24229,6 @@
         "KEGGREST",
         "interactiveDisplayBase",
         "GenomicRanges",
-        "BiocParallel",
         "derfinderHelper",
         "GenomicAlignments",
         "GenomicFiles",
@@ -25061,7 +24256,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -25192,7 +24386,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25216,7 +24409,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25240,7 +24432,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25270,7 +24461,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "ruv": [
@@ -25281,8 +24471,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "ChIC.data": [
         "genomeIntervals",
@@ -25303,7 +24492,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -25321,7 +24509,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "org.Dm.eg.db": [
@@ -25359,7 +24546,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
@@ -25376,7 +24562,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
@@ -25393,7 +24578,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
@@ -25410,7 +24594,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
@@ -25427,7 +24610,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "shinyhelper": [],
@@ -25458,7 +24640,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -25548,7 +24729,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -25568,7 +24748,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -25583,7 +24762,6 @@
     "Rmixmod": [],
     "faahKO": [
         "xcms",
-        "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
@@ -25703,7 +24881,6 @@
     ],
     "DAPARdata": [
         "MSnbase",
-        "BiocParallel",
         "vsn",
         "ggplot2"
     ],
@@ -25951,7 +25128,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -26020,7 +25196,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "gptk": [],
@@ -26056,7 +25231,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "threejs": [],
@@ -26121,7 +25295,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -26194,7 +25367,6 @@
         "isva",
         "qvalue",
         "genefilter",
-        "BiocParallel",
         "AnnotationDbi",
         "ggplot2",
         "KEGGREST",
@@ -26226,7 +25398,6 @@
         "genefilter",
         "DelayedArray",
         "HDF5Array",
-        "BiocParallel",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -26259,7 +25430,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "SummarizedExperiment",
         "DelayedArray"
@@ -26294,7 +25464,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -26376,7 +25545,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -26429,7 +25597,6 @@
         "AnnotationDbi",
         "interactiveDisplayBase",
         "SummarizedExperiment",
-        "BiocParallel",
         "KEGGREST",
         "DelayedArray"
     ],
@@ -26527,7 +25694,6 @@
         "HDF5Array",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -26568,7 +25734,6 @@
         "HDF5Array",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "KEGGREST",
@@ -26584,7 +25749,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -26614,7 +25778,6 @@
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
-        "BiocParallel",
         "DelayedArray"
     ],
     "caretEnsemble": [
@@ -26642,8 +25805,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
-        "XVector",
-        "BiocParallel"
+        "XVector"
     ],
     "systemPipeRdata": [
         "GenomicFeatures",
@@ -26657,7 +25819,6 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "BiocParallel",
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
@@ -26679,7 +25840,6 @@
         "scanMiR",
         "Biostrings",
         "GenomicRanges",
-        "BiocParallel",
         "GenomeInfoDb",
         "ggplot2",
         "XVector"
@@ -26693,7 +25853,6 @@
         "SummarizedExperiment",
         "Biostrings",
         "Rsamtools",
-        "BiocParallel",
         "XVector",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -26784,7 +25943,6 @@
         "BiocIO",
         "biomaRt",
         "DelayedArray",
-        "BiocParallel",
         "GenomicAlignments"
     ],
     "TENxPBMCData": [
@@ -26856,7 +26014,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
