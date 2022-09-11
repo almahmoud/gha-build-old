@@ -9606,7 +9606,6 @@
     "PECA": [
         "genefilter",
         "aroma.affymetrix",
-        "aroma.core",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -13680,7 +13679,6 @@
     "TIN": [
         "aroma.affymetrix",
         "WGCNA",
-        "aroma.core",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -15796,10 +15794,7 @@
         "fields",
         "viridis"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "genlasso": [],
     "tidybayes": [
         "ggdist",
