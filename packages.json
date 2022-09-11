@@ -7499,7 +7499,6 @@
         "DelayedArray"
     ],
     "epivizr": [
-        "epivizrServer",
         "epivizrData",
         "GenomicRanges",
         "bumphunter",
@@ -7524,7 +7523,6 @@
     ],
     "epivizrChart": [
         "epivizrData",
-        "epivizrServer",
         "GenomicRanges",
         "SummarizedExperiment",
         "OrganismDbi",
@@ -7546,7 +7544,6 @@
         "GenomicAlignments"
     ],
     "epivizrData": [
-        "epivizrServer",
         "GenomicRanges",
         "SummarizedExperiment",
         "OrganismDbi",
@@ -7567,10 +7564,8 @@
         "BiocParallel",
         "GenomicAlignments"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrServer",
         "GenomeInfoDb",
         "GenomicFeatures",
         "epivizrData",
@@ -12923,7 +12918,6 @@
         "metagenomeSeq",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "epivizrStandalone",
         "vegan",
         "GenomeInfoDb",
@@ -21229,7 +21223,6 @@
         "clustree",
         "scran",
         "epivizrData",
-        "epivizrServer",
         "ggraph",
         "scater",
         "Seurat",
