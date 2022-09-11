@@ -359,7 +359,6 @@
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
-        "prodlim",
         "Biostrings"
     ],
     "annaffy": [
@@ -974,7 +973,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -1487,8 +1485,7 @@
         "GenomicAlignments",
         "KEGGREST",
         "SummarizedExperiment",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "breakpointR": [
         "GenomicRanges",
@@ -1933,7 +1930,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix"
     ],
@@ -2213,8 +2209,7 @@
         "Rsamtools",
         "recipes",
         "Biostrings",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "Chicago": [
         "Hmisc",
@@ -2996,10 +2991,8 @@
         "caret",
         "GenomicRanges",
         "recipes",
-        "spatstat.core",
         "spatstat.linnet",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "CONFESS": [
         "contrast",
@@ -3055,7 +3048,6 @@
         "beachmat",
         "AnnotationDbi",
         "GenomicRanges",
-        "prodlim",
         "ipred",
         "KEGGREST",
         "Biostrings"
@@ -3466,7 +3458,6 @@
         "rstatix",
         "ipred",
         "pbkrtest",
-        "prodlim",
         "flowViz",
         "flowStats",
         "flowClust",
@@ -3493,8 +3484,7 @@
         "rstatix",
         "nloptr",
         "ipred",
-        "pbkrtest",
-        "prodlim"
+        "pbkrtest"
     ],
     "cytoKernel": [
         "SummarizedExperiment",
@@ -3630,8 +3620,7 @@
         "rtracklayer",
         "nloptr",
         "ipred",
-        "GenomicAlignments",
-        "prodlim"
+        "GenomicAlignments"
     ],
     "DAPAR": [
         "MSnbase",
@@ -4251,7 +4240,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "BiocNeighbors"
     ],
@@ -4439,7 +4427,6 @@
     "Doscheda": [
         "drc",
         "vsn",
-        "prodlim",
         "car",
         "multcomp",
         "pbkrtest",
@@ -5204,7 +5191,6 @@
         "SGSeq",
         "SummarizedExperiment",
         "GenomicFeatures",
-        "prodlim",
         "GenomicRanges",
         "qvalue",
         "cobs",
@@ -5693,8 +5679,7 @@
         "ggforce",
         "ggrepel",
         "viridis",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "FoldGO": [
         "topGO",
@@ -5858,8 +5843,7 @@
         "rtracklayer",
         "nloptr",
         "ipred",
-        "GenomicAlignments",
-        "prodlim"
+        "GenomicAlignments"
     ],
     "GateFinder": [
         "flowCore",
@@ -5910,7 +5894,6 @@
         "fgsea",
         "KEGGREST",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "aplot",
         "ggraph",
@@ -6006,7 +5989,6 @@
         "biomaRt",
         "iC10",
         "AnnotationDbi",
-        "prodlim",
         "ipred",
         "KEGGREST",
         "Biostrings"
@@ -6456,7 +6438,6 @@
         "AnnotationDbi",
         "GenomicRanges",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "KEGGREST",
         "ggrepel",
@@ -6847,8 +6828,7 @@
     "GWAS.BAYES": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "gwascat": [
         "GenomicRanges",
@@ -7038,8 +7018,7 @@
     "HPiP": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -7480,7 +7459,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "survMisc",
         "ggtext",
         "car",
         "pbkrtest",
@@ -7546,7 +7524,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix",
         "DO.db",
@@ -7679,7 +7656,6 @@
         "UpSetR",
         "GenomicRanges",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "ggrepel",
         "ggsci",
@@ -7774,7 +7750,6 @@
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
-        "prodlim",
         "Biostrings"
     ],
     "LACE": [
@@ -7852,7 +7827,6 @@
     ],
     "lisaClust": [
         "concaveman",
-        "spatstat.core",
         "spicyR",
         "lmerTest",
         "lme4",
@@ -7960,8 +7934,7 @@
         "recipes",
         "SummarizedExperiment",
         "KEGGREST",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "Maaslin2": [
         "metagenomeSeq",
@@ -8082,8 +8055,7 @@
         "recipes",
         "GenomicRanges",
         "modelr",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "MAIT": [
         "CAMERA",
@@ -8102,8 +8074,7 @@
         "questionr",
         "vsn",
         "ipred",
-        "GenomicRanges",
-        "prodlim"
+        "GenomicRanges"
     ],
     "mAPKL": [
         "multtest",
@@ -8121,8 +8092,7 @@
         "recipes",
         "Biostrings",
         "org.Hs.eg.db",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "marr": [
         "SummarizedExperiment",
@@ -8434,8 +8404,7 @@
     "metabCombiner": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
@@ -8574,7 +8543,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "prodlim",
         "ipred",
         "KEGGREST",
         "DelayedMatrixStats",
@@ -9028,8 +8996,7 @@
         "ggplotify",
         "AnnotationDbi",
         "ipred",
-        "KEGGREST",
-        "prodlim"
+        "KEGGREST"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -9381,8 +9348,7 @@
     "mistyR": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "mitch": [
         "GGally",
@@ -9428,7 +9394,6 @@
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
-        "prodlim",
         "Biostrings"
     ],
     "MMAPPR2": [
@@ -9757,7 +9722,6 @@
         "nloptr",
         "Biostrings"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures",
         "lme4",
@@ -9828,8 +9792,7 @@
         "lme4",
         "ggrepel",
         "nloptr",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "MSstatsTMT": [
         "lme4",
@@ -9975,7 +9938,6 @@
         "multcomp",
         "ipred",
         "sn",
-        "prodlim",
         "Biostrings"
     ],
     "multtest": [],
@@ -10278,7 +10240,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges"
     ],
     "nempi": [
@@ -11006,10 +10967,8 @@
         "iC10",
         "GenomicRanges",
         "fgsea",
-        "prodlim",
         "ipred",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "fields",
         "AnnotationDbi",
@@ -11156,7 +11115,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "car",
         "pbkrtest",
@@ -11246,8 +11204,7 @@
         "ggnetwork",
         "osfr",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "piano": [
         "fgsea"
@@ -11337,7 +11294,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix"
     ],
@@ -11441,8 +11397,7 @@
         "viridis",
         "tidygraph",
         "vsn",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -11522,7 +11477,6 @@
         "rtracklayer",
         "biomaRt",
         "ipred",
-        "prodlim",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -11712,7 +11666,6 @@
         "vsn",
         "KEGGREST",
         "ipred",
-        "prodlim",
         "Biostrings"
     ],
     "pRolocGUI": [
@@ -11733,7 +11686,6 @@
         "genefilter",
         "KEGGREST",
         "ipred",
-        "prodlim",
         "Biostrings"
     ],
     "PROMISE": [
@@ -12546,8 +12498,7 @@
         "GenomicFeatures",
         "ipred",
         "multtest",
-        "biomaRt",
-        "prodlim"
+        "biomaRt"
     ],
     "Repitools": [
         "GenomicRanges",
@@ -12870,8 +12821,7 @@
         "KEGGREST",
         "recipes",
         "SummarizedExperiment",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "Rmagpie": [],
     "RMassBank": [
@@ -13252,7 +13202,6 @@
         "ggthemes",
         "viridis",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "ggrepel",
         "ggsci",
@@ -13435,7 +13384,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges",
         "tfruns"
@@ -13489,11 +13437,9 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "KEGGREST",
         "ipred",
-        "prodlim",
         "Biostrings"
     ],
     "SCANVIS": [
@@ -13553,7 +13499,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -13574,8 +13519,7 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "scClassifR": [
         "Seurat",
@@ -13590,10 +13534,8 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "scClassify": [
         "ggraph",
@@ -13625,7 +13567,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13689,7 +13630,6 @@
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
-        "prodlim",
         "Biostrings"
     ],
     "schex": [
@@ -13704,7 +13644,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13722,8 +13661,7 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -13962,7 +13900,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ggfun",
         "ggplotify",
         "treeio"
@@ -13988,7 +13925,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "Biostrings"
     ],
     "scTHI": [],
@@ -14024,7 +13960,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ScaledMatrix",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14518,7 +14453,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
@@ -14783,7 +14717,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ScaledMatrix"
     ],
     "sparrow": [
@@ -14926,7 +14859,6 @@
     "SPIA": [],
     "spicyR": [
         "concaveman",
-        "spatstat.core",
         "lmerTest",
         "lme4",
         "nloptr"
@@ -15228,8 +15160,7 @@
         "KEGGREST",
         "recipes",
         "Biostrings",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "subSeq": [
         "qvalue"
@@ -15251,8 +15182,7 @@
         "SummarizedExperiment",
         "recipes",
         "GenomicRanges",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "surfaltr": [
         "biomaRt",
@@ -15262,7 +15192,6 @@
         "KEGGREST"
     ],
     "survcomp": [
-        "prodlim",
         "ipred"
     ],
     "survtype": [
@@ -15272,7 +15201,6 @@
         "BMA",
         "GenomicRanges",
         "ggpubr",
-        "survMisc",
         "ggtext",
         "ggrepel",
         "ggsci",
@@ -15572,7 +15500,6 @@
         "viridis",
         "tidygraph",
         "treeio",
-        "prodlim",
         "car",
         "pbkrtest",
         "lme4",
@@ -15923,8 +15850,7 @@
         "AnnotationDbi",
         "biomaRt",
         "KEGGREST",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "transformGamPoi": [
         "glmGamPoi",
@@ -16878,8 +16804,7 @@
     "waffle": [],
     "caret": [
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "plotROC": [],
     "umap": [],
@@ -16887,13 +16812,9 @@
         "ggrepel"
     ],
     "recipes": [
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
-    "ipred": [
-        "prodlim"
-    ],
-    "prodlim": [],
+    "ipred": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "KEGGREST",
@@ -17122,13 +17043,11 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "patchwork": [],
     "scattermore": [],
     "sctransform": [],
-    "spatstat.core": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
@@ -17448,8 +17367,7 @@
         "caret",
         "recipes",
         "GenomicRanges",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -17591,18 +17509,13 @@
         "spatstat",
         "caret",
         "recipes",
-        "spatstat.core",
         "spatstat.linnet",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "spatstat": [
-        "spatstat.core",
         "spatstat.linnet"
     ],
-    "spatstat.linnet": [
-        "spatstat.core"
-    ],
+    "spatstat.linnet": [],
     "contrast": [
         "rms",
         "Hmisc",
@@ -17843,8 +17756,7 @@
     "SPARQL": [],
     "ggiraph": [],
     "RecordLinkage": [
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "NHPoisson": [
         "car",
@@ -17854,7 +17766,6 @@
     ],
     "survminer": [
         "ggpubr",
-        "survMisc",
         "ggtext",
         "ggrepel",
         "ggsci",
@@ -17866,7 +17777,6 @@
         "lme4",
         "nloptr"
     ],
-    "survMisc": [],
     "logistf": [
         "mice"
     ],
@@ -17994,8 +17904,7 @@
     "adabag": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "glmmTMB": [
         "lme4",
@@ -18292,8 +18201,7 @@
     "caretEnsemble": [
         "caret",
         "recipes",
-        "ipred",
-        "prodlim"
+        "ipred"
     ],
     "RLHub": [
         "AnnotationHub",
