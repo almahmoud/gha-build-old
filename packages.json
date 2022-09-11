@@ -4059,7 +4059,6 @@
     ],
     "CNVrd2": [
         "VariantAnnotation",
-        "rjags",
         "ggplot2",
         "Rsamtools",
         "GenomeInfoDb",
@@ -10109,7 +10108,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "rjags",
         "KEGGREST",
         "Rsamtools",
         "GenomicAlignments",
@@ -10599,7 +10597,6 @@
         "ggplot2",
         "coin",
         "leiden",
-        "rjags",
         "fitdistrplus",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -11663,7 +11660,6 @@
         "XVector"
     ],
     "MADSEQ": [
-        "rjags",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicAlignments",
@@ -20662,7 +20658,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "rjags",
         "KEGGREST",
         "Rsamtools",
         "GenomicAlignments",
@@ -25879,7 +25874,6 @@
     ],
     "benchmarkme": [],
     "RNeXML": [],
-    "rjags": [],
     "cobs": [
         "quantreg"
     ],
@@ -26459,9 +26453,7 @@
     "BatchJobs": [
         "BBmisc"
     ],
-    "R2jags": [
-        "rjags"
-    ],
+    "R2jags": [],
     "biclust": [
         "ggplot2"
     ],
