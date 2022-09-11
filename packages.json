@@ -78,8 +78,7 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "ACE": [
         "QDNAseq",
@@ -164,7 +163,6 @@
         "cowplot",
         "rstatix",
         "AnnotationDbi",
-        "httpuv",
         "callr",
         "waldo",
         "IRanges",
@@ -207,7 +205,6 @@
         "shiny",
         "xts",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -507,8 +504,7 @@
         "forcats",
         "progress",
         "reshape",
-        "tidyr",
-        "httpuv"
+        "tidyr"
     ],
     "AllelicImbalance": [
         "GenomicRanges",
@@ -677,8 +673,7 @@
         "progress",
         "KEGGREST",
         "shiny",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "amplican": [
         "Biostrings",
@@ -817,7 +812,6 @@
         "ggrepel",
         "modeest",
         "tidyr",
-        "httpuv",
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
@@ -901,7 +895,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -938,7 +931,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "httpuv",
         "DelayedArray"
     ],
     "annotatr": [
@@ -976,7 +968,6 @@
         "shiny",
         "DT",
         "futile.logger",
-        "httpuv",
         "DelayedArray"
     ],
     "anota": [
@@ -1032,8 +1023,7 @@
         "tibble",
         "tidyselect",
         "scales",
-        "tidyr",
-        "httpuv"
+        "tidyr"
     ],
     "AnVILPublish": [
         "AnVIL",
@@ -1153,7 +1143,6 @@
         "org.Hs.eg.db",
         "BiocParallel",
         "crul",
-        "httpuv",
         "KEGGREST",
         "interactiveDisplayBase",
         "dplyr",
@@ -1526,8 +1515,7 @@
         "scales",
         "survival",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "atena": [
         "SummarizedExperiment",
@@ -1598,7 +1586,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "survival",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -1804,7 +1791,6 @@
         "vegan",
         "viridis",
         "tidyselect",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -1887,8 +1873,7 @@
         "ScaledMatrix",
         "BiocNeighbors",
         "sparseMatrixStats",
-        "XVector",
-        "httpuv"
+        "XVector"
     ],
     "BasicSTARRseq": [
         "GenomicRanges",
@@ -1945,7 +1930,6 @@
         "webshot",
         "egg",
         "quantreg",
-        "httpuv",
         "genefilter",
         "BiocParallel",
         "futile.logger",
@@ -2207,7 +2191,6 @@
         "tidyr",
         "RcppTOML",
         "RcppZiggurat",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "xts",
@@ -2385,7 +2368,6 @@
         "latticeExtra",
         "htmlTable",
         "viridis",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
@@ -2432,9 +2414,7 @@
         "tidyselect",
         "scales"
     ],
-    "biobtreeR": [
-        "httpuv"
-    ],
+    "biobtreeR": [],
     "bioCancer": [
         "radiant.data",
         "cgdsr",
@@ -2483,7 +2463,6 @@
         "patchwork",
         "ggraph",
         "graphite",
-        "httpuv",
         "futile.logger",
         "pbkrtest",
         "quantreg",
@@ -2589,7 +2568,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "httpuv",
         "DelayedArray",
         "KEGGREST",
         "BiocFileCache",
@@ -2963,7 +2941,6 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
-        "httpuv",
         "IRanges",
         "checkmate",
         "Biostrings",
@@ -3157,8 +3134,7 @@
         "progress",
         "dbplyr",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "BiSeq": [
         "IRanges",
@@ -3266,8 +3242,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "bluster": [
         "igraph",
@@ -3411,8 +3386,7 @@
         "DT",
         "interp",
         "RBGL",
-        "DelayedArray",
-        "httpuv"
+        "DelayedArray"
     ],
     "BrainSABER": [
         "biomaRt",
@@ -3423,7 +3397,6 @@
         "dplyr",
         "AnnotationDbi",
         "progress",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -3528,9 +3501,7 @@
         "tibble",
         "KEGGREST"
     ],
-    "BrowserViz": [
-        "httpuv"
-    ],
+    "BrowserViz": [],
     "BSgenome": [
         "IRanges",
         "GenomeInfoDb",
@@ -3648,7 +3619,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "bumphunter": [
@@ -4278,7 +4248,6 @@
         "tidyselect",
         "reshape2",
         "RcppTOML",
-        "httpuv",
         "progress"
     ],
     "ccfindR": [
@@ -4499,7 +4468,6 @@
         "tidyr",
         "dplyr",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -5018,7 +4986,6 @@
         "tidyr",
         "dplyr",
         "reshape2",
-        "httpuv",
         "lumi",
         "KEGGREST",
         "futile.logger",
@@ -5594,7 +5561,6 @@
         "ggrepel",
         "bluster",
         "dqrng",
-        "httpuv",
         "fresh",
         "waiter",
         "biomaRt",
@@ -5676,7 +5642,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "httpuv",
         "DelayedArray",
         "CNEr",
         "DirichletMultinomial",
@@ -5837,8 +5802,7 @@
         "shiny",
         "DT",
         "DelayedArray",
-        "progress",
-        "httpuv"
+        "progress"
     ],
     "CiteFuse": [
         "SingleCellExperiment",
@@ -6351,7 +6315,6 @@
         "AnnotationDbi",
         "ggplot2",
         "tidyr",
-        "httpuv",
         "KEGGREST",
         "Hmisc",
         "Biostrings",
@@ -6394,7 +6357,6 @@
         "tibble",
         "Biostrings",
         "BiocParallel",
-        "httpuv",
         "callr",
         "waldo",
         "futile.logger",
@@ -6554,7 +6516,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "Cogito": [
@@ -6726,7 +6687,6 @@
         "tidyselect",
         "haven",
         "readxl",
-        "httpuv",
         "futile.logger",
         "readr",
         "cellranger",
@@ -7166,8 +7126,7 @@
     ],
     "CoRegNet": [
         "igraph",
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "CoreGx": [
         "SummarizedExperiment",
@@ -7192,7 +7151,6 @@
         "DelayedArray",
         "ggplot2",
         "XVector",
-        "httpuv",
         "dplyr",
         "tibble",
         "tidyselect"
@@ -7447,7 +7405,6 @@
         "BiocParallel",
         "ChIPpeakAnno",
         "GenomicAlignments",
-        "httpuv",
         "futile.logger",
         "progress",
         "BiocFileCache",
@@ -7533,7 +7490,6 @@
         "Biostrings",
         "cellranger",
         "progress",
-        "httpuv",
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
@@ -7649,8 +7605,7 @@
         "ggrepel",
         "tidyselect",
         "XVector",
-        "scales",
-        "httpuv"
+        "scales"
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -7683,7 +7638,6 @@
         "igraph",
         "cellranger",
         "progress",
-        "httpuv",
         "dbplyr",
         "futile.logger",
         "Biostrings",
@@ -7698,8 +7652,7 @@
         "shiny",
         "pcaPP",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "cummeRbund": [
         "ggplot2",
@@ -7760,7 +7713,6 @@
         "scales",
         "shiny",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -7854,7 +7806,6 @@
         "BiocNeighbors",
         "futile.logger",
         "cytolib",
-        "httpuv",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -7903,7 +7854,6 @@
         "ComplexHeatmap",
         "tidyselect",
         "scales",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -8047,7 +7997,6 @@
         "IRanges",
         "scales",
         "tibble",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -8719,7 +8668,6 @@
         "egg",
         "KEGGgraph",
         "Rgraphviz",
-        "httpuv",
         "DelayedArray",
         "ggfun",
         "ggplotify",
@@ -9179,7 +9127,6 @@
         "BiocParallel",
         "affy",
         "vroom",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -9818,7 +9765,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "tidyselect"
@@ -9865,7 +9811,6 @@
         "egg",
         "rvest",
         "gnm",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -10057,8 +10002,7 @@
         "shiny",
         "DT",
         "vroom",
-        "checkmate",
-        "httpuv"
+        "checkmate"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -10150,8 +10094,7 @@
         "shiny",
         "DT",
         "vroom",
-        "progress",
-        "httpuv"
+        "progress"
     ],
     "DNABarcodeCompatibility": [
         "dplyr",
@@ -10236,7 +10179,6 @@
         "lava",
         "cellranger",
         "progress",
-        "httpuv",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -10510,15 +10452,13 @@
         "nloptr",
         "Biostrings",
         "testthat",
-        "httpuv",
         "callr",
         "waldo",
         "rematch2"
     ],
     "easyreporting": [
         "rmarkdown",
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "easyRNASeq": [
         "BiocFileCache",
@@ -11009,7 +10949,6 @@
         "rtracklayer",
         "biomaRt",
         "vroom",
-        "httpuv",
         "progress",
         "Rsamtools",
         "GenomicAlignments",
@@ -11487,7 +11426,6 @@
         "SummarizedExperiment",
         "OrganismDbi",
         "ensembldb",
-        "httpuv",
         "XVector",
         "KEGGREST",
         "AnnotationFilter",
@@ -11519,7 +11457,6 @@
         "GenomeInfoDb",
         "IRanges",
         "ensembldb",
-        "httpuv",
         "AnnotationFilter",
         "AnnotationDbi",
         "rtracklayer",
@@ -11556,7 +11493,6 @@
         "rtracklayer",
         "Rsamtools",
         "Biostrings",
-        "httpuv",
         "XVector",
         "BiocIO",
         "biomaRt",
@@ -11574,9 +11510,7 @@
         "tibble",
         "tidyselect"
     ],
-    "epivizrServer": [
-        "httpuv"
-    ],
+    "epivizrServer": [],
     "epivizrStandalone": [
         "epivizr",
         "epivizrServer",
@@ -11586,7 +11520,6 @@
         "GenomicRanges",
         "IRanges",
         "bumphunter",
-        "httpuv",
         "AnnotationDbi",
         "XVector",
         "Biostrings",
@@ -11648,7 +11581,6 @@
         "Biostrings",
         "BiocIO",
         "restfulr",
-        "httpuv",
         "DelayedArray",
         "biomaRt",
         "RBGL",
@@ -11897,8 +11829,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "ExCluster": [
         "Rsubread",
@@ -11983,7 +11914,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -12022,7 +11952,6 @@
         "SummarizedExperiment",
         "shiny",
         "DT",
-        "httpuv",
         "DelayedArray"
     ],
     "ExperimentSubset": [
@@ -12068,8 +11997,7 @@
         "scales",
         "tibble",
         "shinyjs",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "ExpressionAtlas": [
         "SummarizedExperiment",
@@ -12120,7 +12048,6 @@
         "ggplot2",
         "Biostrings",
         "scales",
-        "httpuv",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -12188,7 +12115,6 @@
         "shinyBS",
         "XVector",
         "GenomeInfoDb",
-        "httpuv",
         "BiocParallel",
         "Rsamtools",
         "GenomicAlignments",
@@ -12359,8 +12285,7 @@
         "XVector",
         "scales",
         "tibble",
-        "pcaPP",
-        "httpuv"
+        "pcaPP"
     ],
     "fedup": [
         "tibble",
@@ -12622,7 +12547,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "httpuv",
         "tidyselect"
     ],
     "flowCHIC": [
@@ -12788,7 +12712,6 @@
         "quantreg",
         "lme4",
         "cytolib",
-        "httpuv",
         "nloptr",
         "broom",
         "dplyr",
@@ -13143,7 +13066,6 @@
         "Biostrings",
         "BiocParallel",
         "XVector",
-        "httpuv",
         "futile.logger",
         "rainbow",
         "DelayedArray",
@@ -13248,7 +13170,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "httpuv",
         "progress",
         "BiocFileCache",
         "Rsamtools",
@@ -13455,7 +13376,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "GDCRNATools": [
@@ -13496,7 +13416,6 @@
         "KEGGgraph",
         "Rgraphviz",
         "KEGGREST",
-        "httpuv",
         "ggpubr",
         "maxstat",
         "broom",
@@ -13898,7 +13817,6 @@
         "KEGGREST",
         "fresh",
         "waiter",
-        "httpuv",
         "miniUI",
         "shinyjs",
         "GenomicRanges",
@@ -14209,8 +14127,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "GenomicSuperSignature": [
         "SummarizedExperiment",
@@ -14398,7 +14315,6 @@
         "seriation",
         "webshot",
         "egg",
-        "httpuv",
         "rmarkdown",
         "readxl",
         "reticulate",
@@ -14742,7 +14658,6 @@
         "htmlTable",
         "viridis",
         "TH.data",
-        "httpuv",
         "lmtest",
         "scales",
         "tibble",
@@ -14922,7 +14837,6 @@
         "AnnotationForge",
         "Rgraphviz",
         "igraph",
-        "httpuv",
         "Hmisc",
         "survival",
         "ggplot2",
@@ -15180,8 +15094,7 @@
         "shiny",
         "shinyBS",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "gpart": [
         "Homo.sapiens",
@@ -15362,8 +15275,7 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "gscreend": [
         "SummarizedExperiment",
@@ -15425,8 +15337,7 @@
         "shiny",
         "DT",
         "Biostrings",
-        "org.Hs.eg.db",
-        "httpuv"
+        "org.Hs.eg.db"
     ],
     "GSEAlm": [],
     "GSEAmining": [
@@ -15708,8 +15619,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "httpuv"
+        "futile.logger"
     ],
     "GWASTools": [
         "survival",
@@ -16051,7 +15961,6 @@
         "IRanges",
         "GenomicRanges",
         "tidyr",
-        "httpuv",
         "GenomeInfoDb",
         "KEGGREST",
         "dbplyr",
@@ -16140,8 +16049,7 @@
         "scales",
         "tibble",
         "shiny",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "HPiP": [
         "dplyr",
@@ -16242,7 +16150,6 @@
         "shiny",
         "ssrch",
         "SummarizedExperiment",
-        "httpuv",
         "DT",
         "GenomicRanges",
         "IRanges",
@@ -16279,7 +16186,6 @@
         "rvest",
         "webshot",
         "babelgene",
-        "httpuv",
         "selectr",
         "callr"
     ],
@@ -16459,8 +16365,7 @@
         "DT",
         "UpSetR",
         "tibble",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "ideal": [
         "topGO",
@@ -16513,7 +16418,6 @@
         "threejs",
         "biomaRt",
         "tidyr",
-        "httpuv",
         "DelayedArray",
         "progress",
         "BiocFileCache",
@@ -16604,7 +16508,6 @@
         "GenomicRanges",
         "GenomicAlignments",
         "BrowserViz",
-        "httpuv",
         "MotifDb",
         "rtracklayer",
         "VariantAnnotation",
@@ -16770,8 +16673,7 @@
         "sparseMatrixStats",
         "dqrng",
         "XVector",
-        "tweenr",
-        "httpuv"
+        "tweenr"
     ],
     "IMMAN": [
         "STRINGdb",
@@ -16853,7 +16755,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "infercnv": [
@@ -16954,7 +16855,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "httpuv",
         "DelayedArray",
         "KEGGREST",
         "progress",
@@ -17074,7 +16974,6 @@
         "rmarkdown",
         "scales",
         "webshot",
-        "httpuv",
         "selectr",
         "tibble",
         "callr"
@@ -17094,7 +16993,6 @@
         "scales",
         "tibble",
         "DT",
-        "httpuv",
         "survival",
         "Biostrings",
         "XVector",
@@ -17102,8 +17000,7 @@
     ],
     "interactiveDisplayBase": [
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "InterCellar": [
         "golem",
@@ -17143,7 +17040,6 @@
         "ggrepel",
         "usethis",
         "cellranger",
-        "httpuv",
         "reticulate",
         "RSpectra",
         "KEGGREST",
@@ -17319,8 +17215,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "IPO": [
         "xcms",
@@ -17444,7 +17339,6 @@
         "RcppTOML",
         "broom",
         "car",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "ggfun",
@@ -17497,7 +17391,6 @@
         "IRanges",
         "scales",
         "tibble",
-        "httpuv",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -17523,7 +17416,6 @@
         "igraph",
         "shinyWidgets",
         "ComplexHeatmap",
-        "httpuv",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -17611,8 +17503,7 @@
         "survival",
         "DelayedArray",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "IsoGeneGUI": [
         "xlsx",
@@ -17753,7 +17644,6 @@
         "tibble",
         "tidyr",
         "dplyr",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -18044,7 +17934,6 @@
         "tibble",
         "tidyselect",
         "scales",
-        "httpuv",
         "callr",
         "waldo",
         "rematch2"
@@ -18309,7 +18198,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -18459,7 +18347,6 @@
         "DelayedArray",
         "survival",
         "prodlim",
-        "httpuv",
         "lava",
         "future.apply"
     ],
@@ -18564,7 +18451,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -18820,7 +18706,6 @@
         "labelled",
         "haven",
         "lava",
-        "httpuv",
         "R.cache",
         "rematch2",
         "forcats",
@@ -18994,7 +18879,6 @@
         "htmlTable",
         "viridis",
         "tmvtnorm",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -19534,8 +19418,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "tweenr",
-        "httpuv"
+        "tweenr"
     ],
     "meshr": [
         "rmarkdown",
@@ -19975,7 +19858,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "httpuv",
         "glmnet",
         "Wrench",
         "ape",
@@ -20044,7 +19926,6 @@
         "vsn",
         "affy",
         "pcaMethods",
-        "httpuv",
         "futile.logger"
     ],
     "methimpute": [
@@ -20127,7 +20008,6 @@
         "Biostrings",
         "nloptr",
         "survival",
-        "httpuv",
         "testthat",
         "callr",
         "waldo",
@@ -20186,7 +20066,6 @@
         "GEOquery",
         "DelayedArray",
         "HDF5Array",
-        "httpuv",
         "XVector",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -20359,7 +20238,6 @@
         "biomaRt",
         "credentials",
         "DT",
-        "httpuv",
         "RBGL",
         "nloptr",
         "GenomicAlignments",
@@ -20395,7 +20273,6 @@
         "methylumi",
         "ruv",
         "SummarizedExperiment",
-        "httpuv",
         "DO.db",
         "fgsea",
         "reshape2",
@@ -20520,7 +20397,6 @@
         "GenomeInfoDb",
         "RcppZiggurat",
         "TSP",
-        "httpuv",
         "tibble",
         "GenomicRanges",
         "DelayedArray"
@@ -20643,7 +20519,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "MetNet": [
@@ -20896,7 +20771,6 @@
         "glmnet",
         "Wrench",
         "vroom",
-        "httpuv",
         "futile.logger",
         "AnnotationDbi",
         "survival",
@@ -20971,7 +20845,6 @@
         "hardhat",
         "ipred",
         "RcppZiggurat",
-        "httpuv",
         "DelayedArray",
         "NADA",
         "KEGGREST",
@@ -21008,7 +20881,6 @@
         "scales",
         "tibble",
         "usethis",
-        "httpuv",
         "IRanges",
         "KEGGREST",
         "ggfun",
@@ -21553,7 +21425,6 @@
         "ggraph",
         "reactome.db",
         "graphite",
-        "httpuv",
         "tidyselect",
         "futile.logger",
         "aplot",
@@ -21741,8 +21612,7 @@
         "reshape",
         "tidyr",
         "tibble",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "mitoClone2": [
         "reshape2",
@@ -21803,7 +21673,6 @@
         "flexmix",
         "survival",
         "dplyr",
-        "httpuv",
         "igraph",
         "IRanges",
         "KEGGREST",
@@ -21906,7 +21775,6 @@
         "scales",
         "tibble",
         "BiocParallel",
-        "httpuv",
         "futile.logger",
         "GenomicAlignments",
         "BiocIO",
@@ -22495,7 +22363,6 @@
         "shiny",
         "MSGFplus",
         "shinyFiles",
-        "httpuv",
         "tibble"
     ],
     "MSGFplus": [],
@@ -22604,8 +22471,7 @@
         "dbplyr",
         "futile.logger",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -22642,7 +22508,6 @@
         "XVector",
         "scales",
         "vroom",
-        "httpuv",
         "lmtest",
         "KEGGREST",
         "nloptr",
@@ -22821,8 +22686,7 @@
         "affy",
         "pcaMethods",
         "tidyr",
-        "futile.logger",
-        "httpuv"
+        "futile.logger"
     ],
     "MSstatsQCgui": [
         "shiny",
@@ -22840,7 +22704,6 @@
         "MSnbase",
         "qcmetrics",
         "tidyr",
-        "httpuv",
         "mzR",
         "MsCoreUtils",
         "BiocParallel",
@@ -23147,7 +23010,6 @@
         "ggrepel",
         "reactome.db",
         "graphite",
-        "httpuv",
         "KEGGREST",
         "ggfun",
         "ggplotify",
@@ -23369,7 +23231,6 @@
         "biomaRt",
         "survival",
         "pkgmaker",
-        "httpuv",
         "learnr",
         "DelayedArray",
         "rvest",
@@ -23613,8 +23474,7 @@
         "viridis",
         "shiny",
         "DT",
-        "checkmate",
-        "httpuv"
+        "checkmate"
     ],
     "NanoMethViz": [
         "ggplot2",
@@ -23902,7 +23762,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -24458,8 +24317,7 @@
         "KEGGREST",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "OCplus": [
         "multtest",
@@ -24613,7 +24471,6 @@
         "SummarizedExperiment",
         "multtest",
         "bayesm",
-        "httpuv",
         "NADA",
         "futile.logger",
         "GenomeInfoDb",
@@ -24860,7 +24717,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "httpuv",
         "callr",
         "tidyselect"
     ],
@@ -24889,7 +24745,6 @@
         "dbplyr",
         "tibble",
         "tidyselect",
-        "httpuv",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -24968,7 +24823,6 @@
         "ape",
         "distrEx",
         "fitdistrplus",
-        "httpuv",
         "XVector",
         "GenomeInfoDb",
         "tibble",
@@ -25075,7 +24929,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "optimalFlow": [
@@ -25505,8 +25358,7 @@
         "shiny",
         "pcaMethods",
         "FindMyFriends",
-        "igraph",
-        "httpuv"
+        "igraph"
     ],
     "parglms": [
         "BatchJobs",
@@ -25583,7 +25435,6 @@
         "Biostrings",
         "igraph",
         "multtest",
-        "httpuv",
         "callr",
         "futile.logger",
         "rhdf5",
@@ -25683,7 +25534,6 @@
         "egg",
         "pkgmaker",
         "dplyr",
-        "httpuv",
         "DelayedArray",
         "igraph",
         "tidyselect",
@@ -25787,7 +25637,6 @@
         "pamr",
         "lava",
         "hardhat",
-        "httpuv",
         "km.ci",
         "lmtest",
         "KEGGREST",
@@ -25850,7 +25699,6 @@
         "vsn",
         "affy",
         "pcaMethods",
-        "httpuv",
         "futile.logger"
     ],
     "PECA": [
@@ -26018,7 +25866,6 @@
     "phantasus": [
         "ggplot2",
         "GEOquery",
-        "httpuv",
         "opencpu",
         "rhdf5",
         "fgsea",
@@ -26077,8 +25924,7 @@
         "shinydashboard",
         "visNetwork",
         "dplyr",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "phemd": [
         "monocle",
@@ -26135,7 +25981,6 @@
         "RBGL",
         "survival",
         "XVector",
-        "httpuv",
         "TTR",
         "spatstat.random",
         "spatstat.sparse",
@@ -26333,7 +26178,6 @@
         "tibble",
         "GenomicRanges",
         "topGO",
-        "httpuv",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "dplyr",
@@ -26409,7 +26253,6 @@
         "scales",
         "BiocParallel",
         "ggplot2",
-        "httpuv",
         "futile.logger",
         "tibble"
     ],
@@ -26591,7 +26434,6 @@
         "XVector",
         "tidyr",
         "RcppTOML",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse"
     ],
@@ -26704,7 +26546,6 @@
         "vroom",
         "cellranger",
         "progress",
-        "httpuv",
         "checkmate",
         "interp",
         "broom",
@@ -26769,7 +26610,6 @@
         "scales",
         "tibble",
         "vroom",
-        "httpuv",
         "tidyselect",
         "progress"
     ],
@@ -26804,7 +26644,6 @@
         "DT",
         "igraph",
         "AnnotationHub",
-        "httpuv",
         "IRanges",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -27043,7 +26882,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "httpuv",
         "progress",
         "BiocFileCache",
         "prodlim",
@@ -27078,7 +26916,6 @@
         "XVector",
         "scales",
         "tibble",
-        "httpuv",
         "KEGGREST",
         "dbplyr",
         "dplyr",
@@ -27134,7 +26971,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "httpuv",
         "BiocParallel",
         "CNEr",
         "DirichletMultinomial",
@@ -27481,7 +27317,6 @@
         "ipred",
         "tidyr",
         "tidyselect",
-        "httpuv",
         "igraph",
         "prodlim",
         "Biostrings",
@@ -27519,7 +27354,6 @@
         "dendextend",
         "mixtools",
         "biomaRt",
-        "httpuv",
         "fresh",
         "waiter",
         "futile.logger",
@@ -27623,7 +27457,6 @@
         "broom",
         "xts",
         "quantmod",
-        "httpuv",
         "callr",
         "IRanges",
         "KEGGREST",
@@ -27778,7 +27611,6 @@
         "restfulr",
         "progress",
         "SummarizedExperiment",
-        "httpuv",
         "DelayedArray"
     ],
     "ProteoMM": [
@@ -27840,7 +27672,6 @@
         "rentrez",
         "rtracklayer",
         "RcppZiggurat",
-        "httpuv",
         "DelayedArray",
         "futile.logger",
         "bumphunter",
@@ -27936,7 +27767,6 @@
         "vsn",
         "affy",
         "pcaMethods",
-        "httpuv",
         "futile.logger",
         "tidyselect",
         "checkmate",
@@ -28109,8 +27939,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "pwrEWAS": [
         "shinyBS",
@@ -28124,7 +27953,6 @@
         "scales",
         "tibble",
         "ExperimentHub",
-        "httpuv",
         "IRanges",
         "KEGGREST",
         "AnnotationHub",
@@ -28596,7 +28424,6 @@
         "shinydashboard",
         "visNetwork",
         "ggplot2",
-        "httpuv",
         "dplyr",
         "tibble",
         "tidyselect"
@@ -28700,8 +28527,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "RbcBook1": [],
     "Rbec": [
@@ -28808,8 +28634,7 @@
         "ggplot2",
         "shiny",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "rCGH": [
         "ggplot2",
@@ -28835,7 +28660,6 @@
         "biomaRt",
         "scales",
         "tibble",
-        "httpuv",
         "progress",
         "BiocFileCache",
         "Rsamtools",
@@ -28868,7 +28692,6 @@
         "DelayedArray",
         "KEGGREST",
         "survival",
-        "httpuv",
         "Biostrings"
     ],
     "RCM": [
@@ -28940,7 +28763,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "httpuv",
         "tidyselect",
         "vroom",
         "RcppTOML",
@@ -28970,7 +28792,6 @@
         "tidyr",
         "viridis",
         "visNetwork",
-        "httpuv",
         "vroom",
         "RcppTOML",
         "ggplot2"
@@ -28981,8 +28802,7 @@
         "IRdisplay"
     ],
     "RCyjs": [
-        "BrowserViz",
-        "httpuv"
+        "BrowserViz"
     ],
     "rDGIdb": [],
     "RDRToolbox": [
@@ -28997,7 +28817,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "httpuv",
         "dplyr"
     ],
     "ReactomeGSA": [
@@ -29454,7 +29273,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "httpuv",
         "DelayedArray",
         "checkmate"
     ],
@@ -29515,7 +29333,6 @@
         "progress",
         "biomaRt",
         "prodlim",
-        "httpuv",
         "lava",
         "future.apply"
     ],
@@ -29663,8 +29480,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "rexposome": [
         "FactoMineR",
@@ -29763,7 +29579,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -30256,7 +30071,6 @@
         "vroom",
         "hardhat",
         "ipred",
-        "httpuv",
         "DelayedArray",
         "survival",
         "prodlim",
@@ -30333,7 +30147,6 @@
         "credentials",
         "GenomicAlignments",
         "restfulr",
-        "httpuv",
         "rematch2",
         "dbplyr",
         "dplyr",
@@ -30959,7 +30772,6 @@
         "AnnotationFilter",
         "rtracklayer",
         "tibble",
-        "httpuv",
         "latticeExtra",
         "KEGGREST",
         "BiocIO",
@@ -31048,7 +30860,6 @@
         "KEGGREST",
         "scales",
         "tibble",
-        "httpuv",
         "igraph",
         "Biostrings",
         "XVector",
@@ -31324,7 +31135,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "igraph",
-        "httpuv",
         "KEGGREST",
         "XVector",
         "GenomeInfoDb",
@@ -31479,7 +31289,6 @@
         "tidyr",
         "dplyr",
         "tibble",
-        "httpuv",
         "tidyselect"
     ],
     "sangerseqR": [
@@ -31487,8 +31296,7 @@
         "shiny",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "httpuv"
+        "GenomeInfoDb"
     ],
     "SANTA": [
         "igraph"
@@ -31549,7 +31357,6 @@
         "scales",
         "tibble",
         "pcaPP",
-        "httpuv",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -31608,7 +31415,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "tidyselect",
@@ -31690,7 +31496,6 @@
         "tidyr",
         "GenomicAlignments",
         "restfulr",
-        "httpuv",
         "dbplyr",
         "progress",
         "tidyselect",
@@ -31748,7 +31553,6 @@
         "hardhat",
         "ipred",
         "RcppTOML",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -31809,8 +31613,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "scater": [
         "SingleCellExperiment",
@@ -31888,7 +31691,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -31943,7 +31745,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "tidyselect"
@@ -31992,7 +31793,6 @@
         "hardhat",
         "ipred",
         "RcppTOML",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -32079,7 +31879,6 @@
         "tidyr",
         "dplyr",
         "RcppTOML",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -32261,7 +32060,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "httpuv",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -32326,7 +32124,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -32427,8 +32224,7 @@
         "vroom",
         "GenomicAlignments",
         "restfulr",
-        "progress",
-        "httpuv"
+        "progress"
     ],
     "SCnorm": [
         "SingleCellExperiment",
@@ -32872,7 +32668,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "httpuv",
         "callr",
         "ggfun",
         "ggplotify",
@@ -32936,7 +32731,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "httpuv",
         "survival",
         "Biostrings",
         "RcppTOML",
@@ -32975,7 +32769,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "httpuv",
         "scales",
         "tibble",
         "ggforce",
@@ -33384,8 +33177,7 @@
         "urltools",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "SeqVarTools": [
         "SeqArray",
@@ -33433,8 +33225,7 @@
         "tidyselect",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "SEtools": [
         "SummarizedExperiment",
@@ -33555,7 +33346,6 @@
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
-        "httpuv",
         "futile.logger",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -33592,7 +33382,6 @@
         "DelayedArray",
         "HDF5Array",
         "BiocParallel",
-        "httpuv",
         "futile.logger",
         "XVector",
         "GenomicFeatures",
@@ -33683,7 +33472,6 @@
         "AnnotationDbi",
         "flexmix",
         "dplyr",
-        "httpuv",
         "igraph",
         "IRanges",
         "KEGGREST",
@@ -33787,8 +33575,7 @@
         "treeio",
         "shiny",
         "DT",
-        "tweenr",
-        "httpuv"
+        "tweenr"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -34085,7 +33872,6 @@
         "SeuratObject",
         "spatstat.core",
         "spatstat.geom",
-        "httpuv",
         "GenomeInfoDb",
         "interactiveDisplayBase",
         "dbplyr",
@@ -34544,8 +34330,7 @@
         "shinyjs",
         "tibble",
         "tidyselect",
-        "survival",
-        "httpuv"
+        "survival"
     ],
     "SomaticSignatures": [
         "VariantAnnotation",
@@ -34655,7 +34440,6 @@
         "spatstat.core",
         "spatstat.geom",
         "uwot",
-        "httpuv",
         "GenomeInfoDb",
         "futile.logger",
         "ScaledMatrix",
@@ -34750,7 +34534,6 @@
         "scales",
         "tweenr",
         "vroom",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -34882,7 +34665,6 @@
         "rhdf5",
         "tidyr",
         "progress",
-        "httpuv",
         "GenomeInfoDb",
         "Hmisc",
         "GO.db",
@@ -35381,7 +35163,6 @@
         "credentials",
         "htmlTable",
         "viridis",
-        "httpuv",
         "rematch2",
         "tidyselect",
         "checkmate"
@@ -35437,8 +35218,7 @@
     ],
     "ssrch": [
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "ssviz": [
         "Rsamtools",
@@ -36143,7 +35923,6 @@
         "tidyselect",
         "scales",
         "tidyr",
-        "httpuv",
         "fresh",
         "waiter",
         "R.cache",
@@ -36284,8 +36063,7 @@
         "IRanges",
         "shiny",
         "GenomeInfoDb",
-        "XVector",
-        "httpuv"
+        "XVector"
     ],
     "TargetDecoy": [
         "ggplot2",
@@ -36489,7 +36267,6 @@
         "BiocParallel",
         "illuminaio",
         "fgsea",
-        "httpuv",
         "futile.logger",
         "BiocFileCache",
         "DO.db",
@@ -36629,7 +36406,6 @@
         "rhdf5client",
         "bigrquery",
         "ExperimentHub",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "interactiveDisplayBase",
@@ -36753,7 +36529,6 @@
         "Biostrings",
         "XVector",
         "BiocParallel",
-        "httpuv",
         "futile.logger"
     ],
     "tidybulk": [
@@ -36936,7 +36711,6 @@
         "ggtree",
         "GenomeInfoDb",
         "XVector",
-        "httpuv",
         "DelayedArray",
         "ggfun",
         "ggplotify",
@@ -37222,8 +36996,7 @@
         "DT",
         "shinyjs",
         "shinydashboard",
-        "visNetwork",
-        "httpuv"
+        "visNetwork"
     ],
     "TPP": [
         "dplyr",
@@ -37698,7 +37471,6 @@
         "shiny",
         "shinyFiles",
         "futile.logger",
-        "httpuv",
         "tibble",
         "GenomicRanges",
         "IRanges",
@@ -37810,7 +37582,6 @@
         "ggplot2",
         "scales",
         "tidyr",
-        "httpuv",
         "gert",
         "gh",
         "credentials"
@@ -37881,7 +37652,6 @@
         "IRanges",
         "scales",
         "tibble",
-        "httpuv",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -37934,8 +37704,7 @@
         "KEGGREST",
         "dbplyr",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "ttgsea": [
         "keras",
@@ -38040,8 +37809,7 @@
         "ggplot2",
         "scales",
         "shiny",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "txcutr": [
         "AnnotationDbi",
@@ -38099,8 +37867,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "httpuv"
+        "futile.logger"
     ],
     "Ularcirc": [
         "AnnotationHub",
@@ -38137,7 +37904,6 @@
         "tibble",
         "AnnotationFilter",
         "dbplyr",
-        "httpuv",
         "futile.logger",
         "progress",
         "tidyselect",
@@ -38235,7 +38001,6 @@
         "GO.db",
         "RBGL",
         "BiocParallel",
-        "httpuv",
         "KEGGREST",
         "futile.logger",
         "progress",
@@ -38423,7 +38188,6 @@
         "Rsamtools",
         "scales",
         "tibble",
-        "httpuv",
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
@@ -38537,7 +38301,6 @@
         "biovizBase",
         "latticeExtra",
         "GenomicAlignments",
-        "httpuv",
         "interactiveDisplayBase",
         "dplyr",
         "dbplyr",
@@ -38814,8 +38577,7 @@
         "DT",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "httpuv"
+        "GenomeInfoDb"
     ],
     "VplotR": [
         "GenomicRanges",
@@ -38876,8 +38638,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "httpuv"
+        "futile.logger"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -39126,7 +38887,6 @@
         "tidyselect",
         "scales",
         "usethis",
-        "httpuv",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -39217,8 +38977,7 @@
         "shinydashboard",
         "visNetwork",
         "dplyr",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "XINA": [
         "ggplot2",
@@ -39437,8 +39196,7 @@
     "flexdashboard": [
         "rmarkdown",
         "shiny",
-        "scales",
-        "httpuv"
+        "scales"
     ],
     "rmarkdown": [],
     "vegan": [],
@@ -39465,9 +39223,7 @@
     "bookdown": [
         "rmarkdown"
     ],
-    "shiny": [
-        "httpuv"
-    ],
+    "shiny": [],
     "scales": [],
     "tibble": [],
     "tidyr": [
@@ -39481,7 +39237,6 @@
     ],
     "tidyselect": [],
     "munsell": [],
-    "httpuv": [],
     "future.apply": [],
     "ffbase": [],
     "strucchange": [],
@@ -39521,8 +39276,7 @@
         "tibble"
     ],
     "shinyjs": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "testthat": [
         "callr",
@@ -39641,7 +39395,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -39749,8 +39502,7 @@
         "survival"
     ],
     "shinydashboard": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "seqinr": [],
     "expm": [],
@@ -39808,8 +39560,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "readr": [
         "tibble",
@@ -39858,8 +39609,7 @@
         "ggplot2",
         "shiny",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "umap": [
         "reticulate",
@@ -39928,8 +39678,7 @@
         "tibble"
     ],
     "shinytoastr": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "gargle": [],
     "repmis": [
@@ -40085,8 +39834,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "GenomicScores",
@@ -40117,8 +39865,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores",
@@ -40149,8 +39896,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "COSMIC.67": [
         "GenomicRanges",
@@ -40417,8 +40163,7 @@
         "scales",
         "shiny",
         "shinyjs",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "colourpicker": [
         "ggplot2",
@@ -40426,12 +40171,10 @@
         "shiny",
         "shinyjs",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "miniUI": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "dqrng": [],
     "MCMCpack": [
@@ -40442,8 +40185,7 @@
         "shiny",
         "dplyr",
         "tibble",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "heatmaply": [
         "plotly",
@@ -40539,7 +40281,6 @@
         "dplyr",
         "RcppTOML",
         "reshape2",
-        "httpuv",
         "spatstat.random",
         "spatstat.sparse",
         "dqrng",
@@ -40649,8 +40390,7 @@
         "dbplyr"
     ],
     "shinycssloaders": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "ggforce": [
         "ggplot2",
@@ -40685,7 +40425,6 @@
         "vroom",
         "cellranger",
         "progress",
-        "httpuv",
         "nloptr",
         "survival",
         "testthat",
@@ -40695,8 +40434,7 @@
     ],
     "cgdsr": [],
     "shinythemes": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "org.Bt.eg.db": [
         "AnnotationDbi",
@@ -40734,14 +40472,12 @@
         "GenomeInfoDb"
     ],
     "shinyAce": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "psych": [],
     "shinyFiles": [
         "shiny",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "ggraph": [
         "ggplot2",
@@ -40907,8 +40643,7 @@
         "tibble"
     ],
     "shinyBS": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "superheat": [
         "dplyr",
@@ -40956,7 +40691,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -41116,7 +40850,6 @@
         "scales",
         "checkmate",
         "interp",
-        "httpuv",
         "DelayedArray",
         "BSgenome"
     ],
@@ -41158,7 +40891,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "pkgdown": [
@@ -41280,8 +41012,7 @@
         "reshape2"
     ],
     "rintrojs": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "enrichR": [
         "ggplot2",
@@ -41787,19 +41518,16 @@
     "bigmemory": [],
     "biganalytics": [],
     "shinyhelper": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "shinyWidgets": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "shinydashboardPlus": [
         "shiny",
         "shinydashboard",
         "fresh",
-        "waiter",
-        "httpuv"
+        "waiter"
     ],
     "kableExtra": [
         "rvest",
@@ -41825,12 +41553,10 @@
     ],
     "stringfish": [],
     "fresh": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "waiter": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "nabor": [],
     "DDRTree": [],
@@ -42172,8 +41898,7 @@
     "shinypanel": [
         "shinyjs",
         "shiny",
-        "shinyBS",
-        "httpuv"
+        "shinyBS"
     ],
     "fields": [
         "viridis",
@@ -42231,12 +41956,10 @@
     "splancs": [],
     "MBA": [],
     "shinyFeedback": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "shinyMatrix": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "mbest": [
         "lme4",
@@ -42732,8 +42455,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "coin": [
         "survival",
@@ -42803,7 +42525,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -42945,12 +42666,10 @@
     "bs4Dash": [
         "shiny",
         "fresh",
-        "waiter",
-        "httpuv"
+        "waiter"
     ],
     "tippy": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "flextable": [
         "rmarkdown"
@@ -42998,13 +42717,11 @@
         "tidyr",
         "cellranger",
         "progress",
-        "httpuv",
         "TSP",
         "callr"
     ],
     "shinybusy": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "seqmagick": [
         "Biostrings",
@@ -43030,7 +42747,6 @@
         "viridis",
         "interp",
         "TH.data",
-        "httpuv",
         "lmtest",
         "scales",
         "tibble",
@@ -43118,9 +42834,7 @@
     "R2jags": [
         "rjags"
     ],
-    "servr": [
-        "httpuv"
-    ],
+    "servr": [],
     "available": [
         "tidytext",
         "tibble",
@@ -43178,14 +42892,12 @@
     "golem": [
         "shiny",
         "usethis",
-        "httpuv",
         "gert",
         "gh",
         "credentials"
     ],
     "shinyalert": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "haplo.stats": [
         "arsenal",
@@ -43213,7 +42925,6 @@
         "DataVisualizations",
         "ggplot2",
         "reshape2",
-        "httpuv",
         "scales",
         "tibble"
     ],
@@ -43386,7 +43097,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "httpuv",
         "R.cache",
         "rematch2",
         "tibble",
@@ -43406,7 +43116,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "httpuv",
         "R.cache",
         "rematch2",
         "tibble",
@@ -43425,7 +43134,6 @@
         "haven",
         "dplyr",
         "tidyr",
-        "httpuv",
         "R.cache",
         "rematch2",
         "tibble",
@@ -43484,7 +43192,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -43566,7 +43273,6 @@
         "restfulr",
         "progress",
         "SummarizedExperiment",
-        "httpuv",
         "DelayedArray"
     ],
     "PerformanceAnalytics": [
@@ -43591,8 +43297,7 @@
         "ape"
     ],
     "shinycustomloader": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "ggstar": [
         "ggplot2",
@@ -43684,8 +43389,7 @@
         "shiny",
         "dplyr",
         "tibble",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "SOMbrero": [
         "igraph",
@@ -43698,7 +43402,6 @@
         "tibble",
         "checkmate",
         "fields",
-        "httpuv",
         "viridis"
     ],
     "ppclust": [],
@@ -43722,8 +43425,7 @@
         "tibble",
         "tidyr",
         "ggplot2",
-        "tidyselect",
-        "httpuv"
+        "tidyselect"
     ],
     "MKmisc": [
         "ggplot2",
@@ -43755,7 +43457,6 @@
         "scales",
         "survival",
         "vroom",
-        "httpuv",
         "progress"
     ],
     "anyLib": [
@@ -43777,7 +43478,6 @@
         "gert",
         "gh",
         "credentials",
-        "httpuv",
         "rematch2"
     ],
     "blme": [
@@ -43812,18 +43512,15 @@
         "learnr",
         "shiny",
         "rmarkdown",
-        "checkmate",
-        "httpuv"
+        "checkmate"
     ],
     "shinyjqui": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "learnr": [
         "shiny",
         "rmarkdown",
-        "checkmate",
-        "httpuv"
+        "checkmate"
     ],
     "ggalluvial": [
         "ggplot2",
@@ -43930,8 +43627,7 @@
         "futile.logger",
         "shiny",
         "DT",
-        "DelayedArray",
-        "httpuv"
+        "DelayedArray"
     ],
     "fst": [],
     "OMICsPCAdata": [
@@ -44071,9 +43767,7 @@
     "genlasso": [
         "igraph"
     ],
-    "opencpu": [
-        "httpuv"
-    ],
+    "opencpu": [],
     "magicaxis": [],
     "phateR": [
         "reticulate",
@@ -44163,8 +43857,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "forecast": [
         "ggplot2",
@@ -44178,20 +43871,16 @@
     ],
     "rhandsontable": [],
     "rclipboard": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "shinyTree": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "pairsD3": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "shinyscreenshot": [
-        "shiny",
-        "httpuv"
+        "shiny"
     ],
     "taRifx": [],
     "MuMIn": [],
@@ -44210,7 +43899,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -44243,8 +43931,7 @@
         "tidyselect",
         "SummarizedExperiment",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "rcellminerData": [],
     "feather": [
@@ -44264,7 +43951,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "httpuv",
         "dplyr"
     ],
     "CodeDepends": [],
@@ -44303,7 +43989,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -44376,7 +44061,6 @@
         "shiny",
         "DT",
         "Biostrings",
-        "httpuv",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -44432,8 +44116,7 @@
         "igraph",
         "shiny",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "bladderbatch": [],
     "RUVnormalizeData": [],
@@ -44482,8 +44165,7 @@
         "tibble",
         "tidyselect",
         "shiny",
-        "DT",
-        "httpuv"
+        "DT"
     ],
     "copula": [
         "pcaPP"
@@ -44596,8 +44278,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "GSVAdata": [
         "GSEABase",
@@ -44642,8 +44323,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "httpuv"
+        "futile.logger"
     ],
     "TENxPBMCData": [
         "SingleCellExperiment",
@@ -44667,8 +44347,7 @@
         "XVector",
         "shiny",
         "DT",
-        "Biostrings",
-        "httpuv"
+        "Biostrings"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
@@ -44739,14 +44418,12 @@
     "spsComps": [
         "shiny",
         "shinytoastr",
-        "shinyAce",
-        "httpuv"
+        "shinyAce"
     ],
     "drawer": [
         "bsplus",
         "shiny",
-        "rmarkdown",
-        "httpuv"
+        "rmarkdown"
     ],
     "bsplus": [
         "rmarkdown"
@@ -44761,8 +44438,7 @@
         "ggplot2",
         "shiny",
         "scales",
-        "tibble",
-        "httpuv"
+        "tibble"
     ],
     "gghighlight": [
         "ggplot2",
@@ -44841,8 +44517,7 @@
         "DT",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "httpuv"
+        "GenomeInfoDb"
     ],
     "eva": [
         "EnvStats",
