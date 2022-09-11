@@ -8855,15 +8855,9 @@
     "msa": [
         "Biostrings"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendRawFileReader": [],
     "MsFeatures": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -13616,7 +13610,6 @@
         "fields",
         "viridis"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "GenomicRanges",
