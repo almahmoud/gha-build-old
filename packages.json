@@ -231,8 +231,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
-        "ScaledMatrix"
+        "ggrepel"
     ],
     "ALDEx2": [
         "GenomicRanges",
@@ -829,7 +828,6 @@
         "bluster",
         "beachmat",
         "GenomicRanges",
-        "ScaledMatrix",
         "BiocNeighbors"
     ],
     "BasicSTARRseq": [
@@ -848,7 +846,6 @@
         "DelayedMatrixStats",
         "scuttle",
         "ResidualMatrix",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges"
     ],
@@ -871,7 +868,6 @@
         "scran",
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "scuttle",
         "DelayedMatrixStats",
@@ -1154,7 +1150,6 @@
         "Biostrings"
     ],
     "BiocSingular": [
-        "ScaledMatrix",
         "beachmat"
     ],
     "BiocSklearn": [
@@ -1756,7 +1751,6 @@
         "ggbeeswarm",
         "viridis",
         "GenomicRanges",
-        "ScaledMatrix",
         "pbkrtest",
         "lme4",
         "openCyto",
@@ -1858,8 +1852,7 @@
         "ggbeeswarm",
         "viridis",
         "bluster",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "CellaRepertorium": [
         "Biostrings"
@@ -1913,8 +1906,7 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -1950,8 +1942,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "CellNOptR": [],
     "CellTrails": [
@@ -2424,7 +2415,6 @@
         "DelayedMatrixStats",
         "scuttle",
         "ResidualMatrix",
-        "ScaledMatrix",
         "beachmat",
         "Biostrings",
         "GenomicAlignments",
@@ -2547,7 +2537,6 @@
         "bluster",
         "beachmat",
         "GenomicRanges",
-        "ScaledMatrix",
         "BiocNeighbors"
     ],
     "ClassifyR": [
@@ -2614,7 +2603,6 @@
         "zinbwave",
         "phylobase",
         "mbkmeans",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
         "genefilter",
@@ -2879,7 +2867,6 @@
         "GenomicRanges",
         "rtracklayer",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "Biostrings",
         "Rsamtools",
@@ -2920,7 +2907,6 @@
         "viridis",
         "bluster",
         "GenomicRanges",
-        "ScaledMatrix",
         "DO.db",
         "fgsea",
         "aplot",
@@ -3004,7 +2990,6 @@
         "SingleCellExperiment",
         "DelayedMatrixStats",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
         "GenomicRanges",
@@ -3879,7 +3864,6 @@
     "DelayedTensor": [
         "BiocSingular",
         "DelayedRandomArray",
-        "ScaledMatrix",
         "beachmat"
     ],
     "deltaCaptureC": [
@@ -4162,7 +4146,6 @@
         "SingleCellExperiment",
         "Seurat",
         "scran",
-        "ScaledMatrix",
         "beachmat",
         "scuttle",
         "DelayedMatrixStats",
@@ -4203,8 +4186,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "dittoSeq": [
         "cowplot",
@@ -4580,7 +4562,6 @@
         "mutoss",
         "hgu133plus2.db",
         "hgu133a.db",
-        "ScaledMatrix",
         "beachmat",
         "Biostrings",
         "multtest",
@@ -5082,7 +5063,6 @@
         "BiocSingular",
         "GenomicRanges",
         "KEGGREST",
-        "ScaledMatrix",
         "beachmat",
         "Biostrings"
     ],
@@ -5423,8 +5403,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
-        "ScaledMatrix"
+        "ggrepel"
     ],
     "flowAI": [],
     "flowBeads": [],
@@ -6622,7 +6601,6 @@
         "SingleCellExperiment",
         "DelayedMatrixStats",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
         "GenomicRanges",
@@ -7374,7 +7352,6 @@
         "scattermore",
         "sctransform",
         "GenomicRanges",
-        "ScaledMatrix",
         "DO.db",
         "fgsea",
         "aplot",
@@ -8724,8 +8701,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "treeio",
-        "ScaledMatrix"
+        "treeio"
     ],
     "miaSim": [
         "SummarizedExperiment",
@@ -8758,8 +8734,7 @@
         "ggbeeswarm",
         "GenomicRanges",
         "ggplotify",
-        "patchwork",
-        "ScaledMatrix"
+        "patchwork"
     ],
     "microbiome": [
         "phyloseq",
@@ -8900,7 +8875,6 @@
         "patchwork",
         "ggrepel",
         "ggbeeswarm",
-        "ScaledMatrix",
         "beachmat",
         "viridis",
         "tidygraph",
@@ -9490,7 +9464,6 @@
         "BiocSingular",
         "bluster",
         "beachmat",
-        "ScaledMatrix",
         "BiocNeighbors",
         "GenomicRanges"
     ],
@@ -9756,7 +9729,6 @@
         "SummarizedExperiment",
         "BiocNeighbors",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "scuttle",
         "scran",
@@ -9803,7 +9775,6 @@
         "ggbeeswarm",
         "ggrepel",
         "pbkrtest",
-        "ScaledMatrix",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -9956,7 +9927,6 @@
         "patchwork",
         "Rsamtools",
         "KEGGREST",
-        "ScaledMatrix",
         "beachmat",
         "DelayedMatrixStats",
         "BSgenome",
@@ -10141,7 +10111,6 @@
         "viridis",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST",
@@ -10161,7 +10130,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges"
     ],
@@ -10479,7 +10447,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "KEGGREST",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
         "Biostrings"
@@ -10737,8 +10704,7 @@
         "cowplot",
         "DelayedMatrixStats",
         "BiocSingular",
-        "beachmat",
-        "ScaledMatrix"
+        "beachmat"
     ],
     "pcxn": [],
     "PDATK": [
@@ -10812,8 +10778,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "pengls": [],
     "PepsNMR": [],
@@ -11080,8 +11045,7 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -13144,7 +13108,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "ScaledMatrix": [],
     "scAlign": [
         "SingleCellExperiment",
         "Seurat",
@@ -13250,7 +13213,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "scatterHatch": [],
@@ -13346,7 +13308,6 @@
         "scater",
         "scuttle",
         "bluster",
-        "ScaledMatrix",
         "beachmat",
         "DelayedMatrixStats",
         "ggbeeswarm",
@@ -13368,7 +13329,6 @@
         "bluster",
         "beachmat",
         "GenomicRanges",
-        "ScaledMatrix",
         "BiocNeighbors",
         "nloptr"
     ],
@@ -13438,7 +13398,6 @@
         "ruv",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ScaledMatrix",
         "beachmat",
         "reldist",
         "Hmisc",
@@ -13523,9 +13482,7 @@
         "AnnotationFilter",
         "plotly"
     ],
-    "scPCA": [
-        "ScaledMatrix"
-    ],
+    "scPCA": [],
     "scPipe": [
         "SingleCellExperiment",
         "biomaRt",
@@ -13548,8 +13505,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
-        "ScaledMatrix"
+        "ggrepel"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -13559,7 +13515,6 @@
         "BiocSingular",
         "bluster",
         "beachmat",
-        "ScaledMatrix",
         "BiocNeighbors",
         "GenomicRanges"
     ],
@@ -13606,7 +13561,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges"
     ],
@@ -13715,7 +13669,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "ScaledMatrix",
         "AnnotationDbi",
         "AnnotationFilter",
         "rtracklayer",
@@ -14131,7 +14084,6 @@
         "BiocSingular",
         "bluster",
         "beachmat",
-        "ScaledMatrix",
         "BiocNeighbors",
         "GenomicRanges"
     ],
@@ -14177,7 +14129,6 @@
         "BiocSingular",
         "scuttle",
         "ResidualMatrix",
-        "ScaledMatrix",
         "beachmat",
         "multipanelfigure",
         "AnnotationHub",
@@ -14240,7 +14191,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "beachmat",
-        "ScaledMatrix",
         "GenomicRanges"
     ],
     "singscore": [
@@ -14263,7 +14213,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "KEGGREST",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
         "Biostrings"
@@ -14462,8 +14411,7 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "ScaledMatrix"
+        "sctransform"
     ],
     "sparrow": [
         "BiocSet",
@@ -14554,7 +14502,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "ggrepel",
-        "ScaledMatrix",
         "Biostrings"
     ],
     "spatzie": [
@@ -14659,8 +14606,7 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "GenomicRanges",
-        "ScaledMatrix"
+        "GenomicRanges"
     ],
     "SplicingFactory": [
         "SummarizedExperiment",
@@ -15153,7 +15099,6 @@
         "BiocSingular",
         "ggrepel",
         "plotly",
-        "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
         "KEGGREST",
@@ -15469,7 +15414,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "GenomicRanges",
-        "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
         "car",
@@ -15747,7 +15691,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "ScaledMatrix",
         "Biostrings"
     ],
     "trigger": [
@@ -16008,7 +15951,6 @@
         "ggbeeswarm",
         "ggrepel",
         "GenomicRanges",
-        "ScaledMatrix",
         "text2vec",
         "textstem"
     ],
@@ -16143,7 +16085,6 @@
         "scuttle",
         "SingleCellExperiment",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat",
         "GenomicRanges",
         "DelayedMatrixStats"
