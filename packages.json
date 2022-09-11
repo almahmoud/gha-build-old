@@ -635,9 +635,7 @@
     "BANDITS": [
         "DRIMSeq"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "barcodetrackR": [
         "SummarizedExperiment"
     ],
@@ -4701,7 +4699,6 @@
         "biomaRt"
     ],
     "genphen": [
-        "rstan",
         "Biostrings"
     ],
     "GenVisR": [
@@ -5465,8 +5462,7 @@
     ],
     "idr2d": [],
     "IgGeneUsage": [
-        "SummarizedExperiment",
-        "rstan"
+        "SummarizedExperiment"
     ],
     "igvR": [
         "GenomicAlignments",
@@ -5998,8 +5994,7 @@
     "M3Drop": [
         "reldist",
         "Hmisc",
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
     "m6Aboost": [
         "adabag",
@@ -8528,7 +8523,6 @@
         "SummarizedExperiment"
     ],
     "ppcseq": [
-        "rstan",
         "tidybayes",
         "ggdist",
         "posterior"
@@ -9546,8 +9540,7 @@
         "rtracklayer",
         "biomaRt",
         "densEstBayes",
-        "KEGGREST",
-        "rstan"
+        "KEGGREST"
     ],
     "RiboProfiling": [
         "Biostrings",
@@ -10278,8 +10271,7 @@
         "SummarizedExperiment",
         "reldist",
         "Hmisc",
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
     "scmeth": [
         "bsseq",
@@ -10845,8 +10837,7 @@
         "reldist",
         "Hmisc",
         "densEstBayes",
-        "GenomicAlignments",
-        "rstan"
+        "GenomicAlignments"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -12784,7 +12775,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "rstan": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "Biostrings",
@@ -13375,12 +13365,9 @@
         "SummarizedExperiment"
     ],
     "reldist": [
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "densEstBayes": [],
     "adabag": [
         "caret",
         "recipes",
