@@ -68,7 +68,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
-        "CGHbase",
         "CGHcall",
         "Rsamtools",
         "Biostrings",
@@ -2064,7 +2063,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "CGHbase",
         "CGHcall",
         "GenomicAlignments",
         "BiocIO",
@@ -3262,10 +3260,7 @@
         "BiocParallel"
     ],
     "CGEN": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter",
@@ -3276,12 +3271,9 @@
         "GenomeInfoDb"
     ],
     "CGHnormaliter": [
-        "CGHcall",
-        "CGHbase"
+        "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "minfi",
         "ChAMPdata",
@@ -9057,7 +9049,6 @@
     "GeneBreak": [
         "QDNAseq",
         "CGHcall",
-        "CGHbase",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector",
@@ -10512,7 +10503,6 @@
         "GenomeInfoDb",
         "XVector",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "Rsamtools",
         "Biostrings",
@@ -15112,7 +15102,6 @@
         "InteractionSet",
         "QDNAseq",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "Rsamtools",
         "Biostrings",
@@ -18388,7 +18377,6 @@
         "ggplot2"
     ],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "Rsamtools",
@@ -22894,7 +22882,6 @@
         "QDNAseq",
         "pheatmap",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "Rsamtools",
         "Biostrings",
@@ -23668,7 +23655,6 @@
         "GenomeInfoDb",
         "XVector",
         "SummarizedExperiment",
-        "CGHbase",
         "CGHcall",
         "Rsamtools",
         "broom",
