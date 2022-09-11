@@ -275,7 +275,6 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -1160,8 +1159,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
-        "SummarizedExperiment",
-        "ipred"
+        "SummarizedExperiment"
     ],
     "breakpointR": [
         "Rsamtools",
@@ -1689,8 +1687,7 @@
         "genomeIntervals",
         "Rsamtools",
         "recipes",
-        "Biostrings",
-        "ipred"
+        "Biostrings"
     ],
     "Chicago": [
         "Hmisc"
@@ -2286,8 +2283,7 @@
         "TrajectoryUtils",
         "spatstat",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "CONFESS": [
         "contrast",
@@ -2331,7 +2327,6 @@
         "SingleCellExperiment",
         "BiocSingular",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -2658,7 +2653,6 @@
         "ggcyto",
         "car",
         "rstatix",
-        "ipred",
         "pbkrtest",
         "flowStats",
         "flowClust",
@@ -2677,7 +2671,6 @@
         "lme4",
         "car",
         "rstatix",
-        "ipred",
         "pbkrtest"
     ],
     "cytoKernel": [
@@ -2777,7 +2770,6 @@
         "KEGGREST",
         "pbkrtest",
         "rtracklayer",
-        "ipred",
         "GenomicAlignments"
     ],
     "DAPAR": [
@@ -4249,8 +4241,7 @@
     "fmcsR": [],
     "fobitools": [
         "ggraph",
-        "RecordLinkage",
-        "ipred"
+        "RecordLinkage"
     ],
     "FoldGO": [
         "topGO",
@@ -4387,7 +4378,6 @@
         "KEGGREST",
         "pbkrtest",
         "rtracklayer",
-        "ipred",
         "GenomicAlignments"
     ],
     "GateFinder": [
@@ -4498,7 +4488,6 @@
         "survcomp",
         "biomaRt",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -5155,8 +5144,7 @@
     ],
     "GWAS.BAYES": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "gwascat": [
         "GenomicFeatures",
@@ -5312,8 +5300,7 @@
     "HPAanalyze": [],
     "HPiP": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "HTSeqGenie": [
         "gmapR",
@@ -5862,7 +5849,6 @@
         "recipes",
         "genefilter",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -5999,8 +5985,7 @@
         "AnnotationDbi",
         "recipes",
         "SummarizedExperiment",
-        "KEGGREST",
-        "ipred"
+        "KEGGREST"
     ],
     "Maaslin2": [
         "car",
@@ -6091,8 +6076,7 @@
         "tidyverse",
         "SummarizedExperiment",
         "recipes",
-        "modelr",
-        "ipred"
+        "modelr"
     ],
     "MAIT": [
         "CAMERA",
@@ -6105,8 +6089,7 @@
         "recipes",
         "fields",
         "SummarizedExperiment",
-        "MsFeatures",
-        "ipred"
+        "MsFeatures"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -6122,8 +6105,7 @@
         "KEGGREST",
         "recipes",
         "Biostrings",
-        "org.Hs.eg.db",
-        "ipred"
+        "org.Hs.eg.db"
     ],
     "marr": [
         "SummarizedExperiment"
@@ -6359,8 +6341,7 @@
     ],
     "metabCombiner": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
@@ -6462,7 +6443,6 @@
         "bsseq",
         "ShortRead",
         "dendextend",
-        "ipred",
         "KEGGREST",
         "BSgenome"
     ],
@@ -6779,7 +6759,6 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST"
     ],
     "MicrobiomeProfiler": [
@@ -7032,8 +7011,7 @@
     ],
     "mistyR": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "mitch": [],
     "mitoClone2": [
@@ -7069,7 +7047,6 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -7350,8 +7327,7 @@
         "caret",
         "MSstats",
         "recipes",
-        "lme4",
-        "ipred"
+        "lme4"
     ],
     "MSstatsTMT": [
         "lme4",
@@ -7453,7 +7429,6 @@
         "KEGGREST",
         "rcmdcheck",
         "DO.db",
-        "ipred",
         "Biostrings"
     ],
     "mumosa": [
@@ -8214,7 +8189,6 @@
         "verification",
         "recipes",
         "biomaRt",
-        "ipred",
         "ggpubr",
         "fields",
         "AnnotationDbi",
@@ -8357,8 +8331,7 @@
     "Pi": [
         "caret",
         "ggnetwork",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "piano": [],
     "PICS": [
@@ -8488,8 +8461,7 @@
     "POMA": [
         "caret",
         "ggraph",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "PoTRA": [
         "org.Hs.eg.db",
@@ -8556,7 +8528,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "ipred",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -8701,7 +8672,6 @@
         "recipes",
         "genefilter",
         "KEGGREST",
-        "ipred",
         "Biostrings"
     ],
     "pRolocGUI": [
@@ -8714,7 +8684,6 @@
         "recipes",
         "genefilter",
         "KEGGREST",
-        "ipred",
         "Biostrings"
     ],
     "PROMISE": [
@@ -9352,7 +9321,6 @@
         "GenomicAlignments",
         "KEGGREST",
         "GenomicFeatures",
-        "ipred",
         "biomaRt"
     ],
     "Repitools": [
@@ -9626,8 +9594,7 @@
         "GenomicAlignments",
         "KEGGREST",
         "recipes",
-        "SummarizedExperiment",
-        "ipred"
+        "SummarizedExperiment"
     ],
     "Rmagpie": [],
     "RMassBank": [],
@@ -10112,7 +10079,6 @@
         "AnnotationDbi",
         "recipes",
         "KEGGREST",
-        "ipred",
         "Biostrings"
     ],
     "SCANVIS": [
@@ -10165,8 +10131,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "scClassify": [
         "ggraph",
@@ -10222,7 +10187,6 @@
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
-        "ipred",
         "KEGGREST",
         "Biostrings"
     ],
@@ -11332,8 +11296,7 @@
         "AnnotationDbi",
         "KEGGREST",
         "recipes",
-        "Biostrings",
-        "ipred"
+        "Biostrings"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [
@@ -11344,8 +11307,7 @@
         "caret",
         "Biostrings",
         "SummarizedExperiment",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "surfaltr": [
         "biomaRt",
@@ -11354,9 +11316,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "survcomp": [
-        "ipred"
-    ],
+    "survcomp": [],
     "survtype": [
         "SummarizedExperiment",
         "survminer",
@@ -11570,7 +11530,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "ipred",
         "ExperimentHub",
         "AnnotationHub",
         "Hmisc",
@@ -11847,8 +11806,7 @@
         "Biostrings",
         "AnnotationDbi",
         "biomaRt",
-        "KEGGREST",
-        "ipred"
+        "KEGGREST"
     ],
     "transformGamPoi": [
         "glmGamPoi",
@@ -12582,13 +12540,9 @@
         "Biostrings"
     ],
     "caret": [
-        "recipes",
-        "ipred"
+        "recipes"
     ],
-    "recipes": [
-        "ipred"
-    ],
-    "ipred": [],
+    "recipes": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "KEGGREST",
@@ -12977,8 +12931,7 @@
     "ChIC.data": [
         "genomeIntervals",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -13089,8 +13042,7 @@
     "Ecume": [
         "spatstat",
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "spatstat": [],
     "contrast": [
@@ -13234,9 +13186,7 @@
     "MPINet": [],
     "gprofiler2": [],
     "SPARQL": [],
-    "RecordLinkage": [
-        "ipred"
-    ],
+    "RecordLinkage": [],
     "NHPoisson": [
         "car",
         "pbkrtest",
@@ -13339,8 +13289,7 @@
     "densEstBayes": [],
     "adabag": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "glmmTMB": [
         "lme4"
@@ -13557,8 +13506,7 @@
     ],
     "caretEnsemble": [
         "caret",
-        "recipes",
-        "ipred"
+        "recipes"
     ],
     "RLHub": [
         "AnnotationHub",
