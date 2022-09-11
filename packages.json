@@ -354,7 +354,6 @@
         "GenomicAlignments",
         "GenomicScores",
         "rtracklayer",
-        "motifStack",
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
@@ -368,7 +367,6 @@
     ],
     "atSNP": [
         "BSgenome",
-        "motifStack",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -1844,7 +1842,6 @@
     "dagLogo": [
         "UniProt.ws",
         "biomaRt",
-        "motifStack",
         "AnnotationDbi"
     ],
     "DAMEfinder": [
@@ -3983,8 +3980,7 @@
         "SingleCellExperiment"
     ],
     "LowMACA": [
-        "cgdsr",
-        "motifStack"
+        "cgdsr"
     ],
     "LRBaseDbi": [
         "AnnotationDbi"
@@ -4800,7 +4796,6 @@
         "BSgenome",
         "rtracklayer",
         "VariantAnnotation",
-        "motifStack",
         "Gviz",
         "biomaRt",
         "AnnotationDbi",
@@ -4822,7 +4817,6 @@
         "GO.db",
         "AnnotationDbi"
     ],
-    "motifStack": [],
     "MouseFM": [
         "biomaRt",
         "AnnotationDbi"
@@ -5051,7 +5045,6 @@
         "BSgenome",
         "ChIPpeakAnno",
         "GenomicScores",
-        "motifStack",
         "GenomicFeatures",
         "Gviz",
         "AnnotationDbi",
@@ -6339,7 +6332,6 @@
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "motifStack",
         "rtracklayer",
         "RUVSeq",
         "ShortRead",
