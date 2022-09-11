@@ -409,7 +409,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "Gviz",
-        "seqinr",
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
@@ -831,7 +830,6 @@
         "COSMIC.67",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
-        "seqinr",
         "Rsamtools",
         "GenomicRanges",
         "GenomicFeatures",
@@ -959,7 +957,6 @@
         "pheatmap",
         "plotly",
         "scales",
-        "seqinr",
         "UpSetR",
         "VennDiagram",
         "IRanges",
@@ -4270,7 +4267,6 @@
         "DESeq2",
         "GenomicRanges",
         "IRanges",
-        "seqinr",
         "ggplot2",
         "GenomeInfoDb",
         "universalmotif",
@@ -4347,7 +4343,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "BSgenome",
         "GenomicRanges",
-        "seqinr",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -5448,7 +5443,6 @@
     ],
     "CRISPRseek": [
         "Biostrings",
-        "seqinr",
         "IRanges",
         "BSgenome",
         "reticulate",
@@ -5484,7 +5478,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "seqinr",
         "reticulate",
         "DelayedArray",
         "keras",
@@ -10088,9 +10081,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "snpStats",
         "Rsamtools",
@@ -11448,7 +11439,6 @@
         "KEGGREST",
         "multtest",
         "regioneR",
-        "seqinr",
         "reticulate",
         "DelayedArray",
         "keras",
@@ -12301,7 +12291,6 @@
     "IMMAN": [
         "STRINGdb",
         "Biostrings",
-        "seqinr",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -12393,7 +12382,6 @@
         "rtracklayer",
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
-        "seqinr",
         "BiocIO",
         "biomaRt",
         "scales",
@@ -12581,7 +12569,6 @@
         "Biostrings",
         "GenomicFeatures",
         "IRanges",
-        "seqinr",
         "GenomicAlignments",
         "BiocParallel",
         "DEXSeq",
@@ -14745,7 +14732,6 @@
         "BiocParallel"
     ],
     "MethTargetedNGS": [
-        "seqinr",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -15003,7 +14989,6 @@
         "shinyjs",
         "seriation",
         "BiocParallel",
-        "seqinr",
         "Biostrings",
         "Rfast",
         "shinyFiles",
@@ -16793,7 +16778,6 @@
         "IRanges",
         "XVector",
         "Rsamtools",
-        "seqinr",
         "DelayedArray",
         "keras",
         "AnnotationDbi",
@@ -18208,7 +18192,6 @@
     "openPrimeR": [
         "Biostrings",
         "scales",
-        "seqinr",
         "IRanges",
         "GenomicRanges",
         "ggplot2",
@@ -18227,7 +18210,6 @@
         "shinyBS",
         "Biostrings",
         "scales",
-        "seqinr",
         "IRanges",
         "GenomicRanges",
         "ggplot2",
@@ -22895,7 +22877,6 @@
         "shinycssloaders",
         "ggdendro",
         "shinyWidgets",
-        "seqinr",
         "BiocStyle",
         "IRanges",
         "XVector",
@@ -25010,7 +24991,6 @@
         "ggplot2",
         "ggrepel",
         "ggtree",
-        "seqinr",
         "tidytree",
         "ggfun",
         "ggplotify",
@@ -25518,9 +25498,7 @@
         "htmlTable",
         "viridis"
     ],
-    "specL": [
-        "seqinr"
-    ],
+    "specL": [],
     "SpeCond": [
         "fields",
         "viridis",
@@ -25838,7 +25816,6 @@
     ],
     "sscu": [
         "Biostrings",
-        "seqinr",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -26135,7 +26112,6 @@
     ],
     "surfaltr": [
         "biomaRt",
-        "seqinr",
         "ggplot2",
         "Biostrings",
         "testthat",
@@ -26329,7 +26305,6 @@
         "callr"
     ],
     "SynMut": [
-        "seqinr",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -28481,7 +28456,6 @@
         "ggplot2",
         "Hmisc",
         "rtracklayer",
-        "seqinr",
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -28941,7 +28915,6 @@
     "RcppZiggurat": [],
     "NADA": [],
     "shinydashboard": [],
-    "seqinr": [],
     "expm": [],
     "readxl": [],
     "speaq": [
