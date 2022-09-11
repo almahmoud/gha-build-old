@@ -7325,7 +7325,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BBmisc",
         "biomaRt",
         "BSgenome",
         "cowplot",
@@ -8907,7 +8906,6 @@
         "GenomicRanges",
         "BatchJobs",
         "GenomeInfoDb",
-        "BBmisc",
         "XVector"
     ],
     "Harshlight": [
@@ -14013,7 +14011,6 @@
     "OUTRIDER": [
         "GenomicFeatures",
         "SummarizedExperiment",
-        "BBmisc",
         "DESeq2",
         "GenomicRanges",
         "heatmaply",
@@ -14140,8 +14137,7 @@
         "FindMyFriends"
     ],
     "parglms": [
-        "BatchJobs",
-        "BBmisc"
+        "BatchJobs"
     ],
     "PAST": [
         "qvalue",
@@ -18600,7 +18596,6 @@
         "mlr",
         "phyloseq",
         "ParamHelpers",
-        "BBmisc",
         "parallelMap",
         "Biostrings",
         "multtest",
@@ -21709,7 +21704,6 @@
         "GenomeInfoDb"
     ],
     "Xeva": [
-        "BBmisc",
         "ComplexHeatmap",
         "PharmacoGx",
         "CoreGx",
@@ -23228,7 +23222,6 @@
         "ipred",
         "prodlim"
     ],
-    "BBmisc": [],
     "NHPoisson": [
         "car",
         "pbkrtest",
@@ -23336,9 +23329,7 @@
     "sf": [],
     "penalized": [],
     "ggwordcloud": [],
-    "BatchJobs": [
-        "BBmisc"
-    ],
+    "BatchJobs": [],
     "R2jags": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
@@ -23926,15 +23917,10 @@
     "gistr": [],
     "mlr": [
         "ParamHelpers",
-        "BBmisc",
         "parallelMap"
     ],
-    "ParamHelpers": [
-        "BBmisc"
-    ],
-    "parallelMap": [
-        "BBmisc"
-    ],
+    "ParamHelpers": [],
+    "parallelMap": [],
     "celldex": [
         "SummarizedExperiment",
         "ExperimentHub",
