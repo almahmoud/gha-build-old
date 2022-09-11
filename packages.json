@@ -2137,7 +2137,6 @@
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
-        "apcluster",
         "ggdendro",
         "ggm",
         "KEGGREST",
@@ -4255,7 +4254,6 @@
     ],
     "cogena": [
         "ggplot2",
-        "apcluster",
         "devtools",
         "usethis",
         "miniUI",
@@ -4284,8 +4282,7 @@
         "DelayedArray"
     ],
     "cola": [
-        "ComplexHeatmap",
-        "skmeans"
+        "ComplexHeatmap"
     ],
     "combi": [
         "ggplot2",
@@ -5413,7 +5410,6 @@
         "multcomp",
         "dendextend",
         "Mfuzz",
-        "apcluster",
         "KEGGREST",
         "DOSE",
         "enrichplot",
@@ -5544,7 +5540,6 @@
         "rvest",
         "KEGGREST",
         "tweenr",
-        "apcluster",
         "ggdendro",
         "multtest",
         "multcomp",
@@ -5593,7 +5588,6 @@
         "NMF",
         "DMwR2",
         "pcaPP",
-        "apcluster",
         "quantmod",
         "pkgmaker",
         "ggplot2",
@@ -7433,7 +7427,6 @@
         "ggplot2",
         "RBGL",
         "ggm",
-        "apcluster",
         "ggdendro"
     ],
     "epistack": [
@@ -11529,7 +11522,6 @@
     "kebabs": [
         "Biostrings",
         "XVector",
-        "apcluster",
         "GenomeInfoDb"
     ],
     "KEGGgraph": [
@@ -11699,7 +11691,6 @@
         "testthat"
     ],
     "Linnorm": [
-        "apcluster",
         "ggplot2",
         "ggdendro"
     ],
@@ -12013,7 +12004,6 @@
         "RnBeads.hg19",
         "cowplot",
         "ggplot2",
-        "rmio",
         "oligoClasses",
         "illuminaio",
         "DelayedArray",
@@ -12133,7 +12123,6 @@
     "MANOR": [],
     "mAPKL": [
         "multtest",
-        "apcluster",
         "AnnotationDbi",
         "reactome.db",
         "KEGGREST",
@@ -13638,7 +13627,6 @@
     ],
     "mina": [
         "MCL",
-        "apcluster",
         "ggplot2",
         "Hmisc",
         "htmlTable",
@@ -14129,7 +14117,6 @@
         "Rgraphviz",
         "Linnorm",
         "ggplot2",
-        "apcluster",
         "ggdendro"
     ],
     "moanin": [
@@ -15364,7 +15351,6 @@
         "Rgraphviz",
         "Linnorm",
         "ggplot2",
-        "apcluster",
         "ggdendro",
         "RBGL",
         "ggm"
@@ -15749,7 +15735,6 @@
         "kebabs",
         "Biostrings",
         "XVector",
-        "apcluster",
         "GenomeInfoDb"
     ],
     "oligo": [
@@ -17461,8 +17446,7 @@
         "kebabs",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "apcluster"
+        "GenomeInfoDb"
     ],
     "proDA": [
         "SummarizedExperiment",
@@ -17672,7 +17656,6 @@
         "multcomp",
         "dendextend",
         "Mfuzz",
-        "apcluster",
         "broom",
         "quantmod",
         "KEGGREST",
@@ -26097,7 +26080,6 @@
         "RBGL",
         "ggm"
     ],
-    "apcluster": [],
     "ggm": [],
     "GenomicState": [
         "AnnotationHub",
@@ -26577,7 +26559,6 @@
     "RNeXML": [],
     "benchmarkmeData": [],
     "rjags": [],
-    "skmeans": [],
     "cobs": [
         "quantreg"
     ],
@@ -27304,15 +27285,13 @@
     "vcfR": [],
     "bigstatsr": [
         "cowplot",
-        "ggplot2",
-        "rmio"
+        "ggplot2"
     ],
     "RnBeads.hg19": [
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
     ],
-    "rmio": [],
     "plsgenomics": [
         "fields",
         "viridis",
