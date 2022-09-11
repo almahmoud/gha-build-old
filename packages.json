@@ -169,7 +169,6 @@
         "rvest",
         "reshape2",
         "smoother",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "selectr",
@@ -281,7 +280,6 @@
         "htmlTable",
         "viridis",
         "restfulr",
-        "BiocFileCache",
         "checkmate"
     ],
     "affyILM": [
@@ -384,7 +382,6 @@
         "htmlTable",
         "viridis",
         "restfulr",
-        "BiocFileCache",
         "checkmate"
     ],
     "airpart": [
@@ -468,7 +465,6 @@
         "biovizBase",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "AnnotationFilter",
@@ -507,7 +503,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "restfulr"
     ],
     "AlpsNMR": [
@@ -552,7 +547,6 @@
     "AMARETTO": [
         "ComplexHeatmap",
         "callr",
-        "BiocFileCache",
         "MultiAssayExperiment",
         "curatedTCGAData",
         "glmnet",
@@ -762,7 +756,6 @@
         "GenomeInfoDb"
     ],
     "AnnotationHub": [
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -788,7 +781,6 @@
         "AnnotationForge",
         "futile.logger",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "RBGL",
         "XVector",
@@ -813,7 +805,6 @@
         "reshape2",
         "rtracklayer",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "XVector",
         "Biostrings",
@@ -908,7 +899,6 @@
         "BSgenome",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "survival"
     ],
     "apComplex": [
@@ -963,7 +953,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -1001,7 +990,6 @@
         "ShortRead",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "survival",
@@ -1042,7 +1030,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "survival",
@@ -1158,7 +1145,6 @@
         "mGSZ",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "Biostrings",
         "XVector",
         "BiocIO",
@@ -1208,7 +1194,6 @@
         "ggplot2",
         "scales",
         "futile.logger",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -1275,7 +1260,6 @@
         "multtest",
         "regioneR",
         "BiocParallel",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -1305,7 +1289,6 @@
     ],
     "atSNP": [
         "BSgenome",
-        "BiocFileCache",
         "BiocParallel",
         "ggplot2",
         "motifStack",
@@ -1362,7 +1345,6 @@
     ],
     "autonomics": [
         "assertive",
-        "BiocFileCache",
         "ggplot2",
         "ggrepel",
         "MultiAssayExperiment",
@@ -1428,7 +1410,6 @@
         "biomaRt",
         "GenomicRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -1486,7 +1467,6 @@
         "biomaRt",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "restfulr"
     ],
     "bamsignals": [
@@ -1674,7 +1654,6 @@
         "xgboost",
         "ggplot2",
         "scales",
-        "BiocFileCache",
         "BiocSingular",
         "RcppDist",
         "DelayedArray",
@@ -1736,8 +1715,7 @@
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
-        "restfulr",
-        "BiocFileCache"
+        "restfulr"
     ],
     "BCRANK": [
         "Biostrings",
@@ -1906,7 +1884,6 @@
         "reshape",
         "GEOquery",
         "HDF5Array",
-        "BiocFileCache",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -1920,7 +1897,6 @@
         "sjmisc",
         "rhdf5",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -2018,7 +1994,6 @@
         "rhdf5",
         "affy",
         "multtest",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -2147,7 +2122,6 @@
         "RBGL"
     ],
     "BiocDockerManager": [],
-    "BiocFileCache": [],
     "biocGraph": [
         "Rgraphviz",
         "geneplotter",
@@ -2197,7 +2171,6 @@
         "rstatix",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "rhdf5",
         "nloptr",
@@ -2226,7 +2199,6 @@
         "futile.logger"
     ],
     "BiocPkgTools": [
-        "BiocFileCache",
         "biocViews",
         "rvest",
         "igraph",
@@ -2280,44 +2252,37 @@
         "gert"
     ],
     "biodb": [
-        "BiocFileCache",
         "testthat",
         "callr"
     ],
     "biodbChebi": [
         "biodb",
-        "BiocFileCache",
         "testthat",
         "callr"
     ],
     "biodbHmdb": [
         "biodb",
         "testthat",
-        "BiocFileCache",
         "callr"
     ],
     "biodbKegg": [
         "biodb",
-        "BiocFileCache",
         "testthat",
         "callr"
     ],
     "biodbLipidmaps": [
         "biodb",
-        "BiocFileCache",
         "testthat",
         "callr"
     ],
     "biodbUniprot": [
         "biodb",
-        "BiocFileCache",
         "testthat",
         "callr"
     ],
     "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -2375,7 +2340,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -2481,7 +2445,6 @@
     ],
     "BioPlex": [
         "SummarizedExperiment",
-        "BiocFileCache",
         "GEOquery",
         "GenomicRanges",
         "IRanges",
@@ -2575,7 +2538,6 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "BiocFileCache",
         "checkmate",
         "restfulr"
     ],
@@ -2628,7 +2590,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "regioneR",
         "reshape2",
@@ -2719,7 +2680,6 @@
         "randomcoloR",
         "IRanges",
         "AnnotationHub",
-        "BiocFileCache",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -2833,7 +2793,6 @@
         "AnnotationHub",
         "org.Hs.eg.db",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "futile.logger",
         "SummarizedExperiment",
@@ -2858,7 +2817,6 @@
     "BrainSABER": [
         "biomaRt",
         "SummarizedExperiment",
-        "BiocFileCache",
         "shiny",
         "AnnotationDbi",
         "GenomicRanges",
@@ -2882,7 +2840,6 @@
         "GenomeInfoDb",
         "IRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "BSgenome",
         "pROC",
@@ -2923,7 +2880,6 @@
     ],
     "brendaDb": [
         "BiocParallel",
-        "BiocFileCache",
         "futile.logger"
     ],
     "BRGenomics": [
@@ -3020,13 +2976,10 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "BiocFileCache",
         "checkmate",
         "restfulr"
     ],
-    "bugsigdbr": [
-        "BiocFileCache"
-    ],
+    "bugsigdbr": [],
     "BUMHMM": [
         "devtools",
         "SummarizedExperiment",
@@ -3060,7 +3013,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -3094,7 +3046,6 @@
         "IRanges",
         "plyranges",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -3161,7 +3112,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "checkmate"
     ],
     "CAGEfightR": [
@@ -3194,7 +3144,6 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "AnnotationFilter",
@@ -3264,7 +3213,6 @@
         "restfulr",
         "DelayedArray",
         "GO.db",
-        "BiocFileCache",
         "checkmate",
         "broom",
         "car",
@@ -3344,7 +3292,6 @@
         "hgu133a.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "rrcov",
         "RBGL",
         "scales",
@@ -3406,7 +3353,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -3516,7 +3462,6 @@
         "igraph"
     ],
     "cbaf": [
-        "BiocFileCache",
         "cgdsr",
         "genefilter",
         "AnnotationDbi",
@@ -3530,7 +3475,6 @@
     "cBioPortalData": [
         "AnVIL",
         "MultiAssayExperiment",
-        "BiocFileCache",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -3683,7 +3627,6 @@
     ],
     "CellBench": [
         "SingleCellExperiment",
-        "BiocFileCache",
         "BiocParallel",
         "futile.logger",
         "SummarizedExperiment",
@@ -4210,7 +4153,6 @@
         "beachmat",
         "sparseMatrixStats",
         "AnnotationHub",
-        "BiocFileCache",
         "rtracklayer",
         "BiocIO",
         "biomaRt",
@@ -4294,7 +4236,6 @@
         "BSgenome",
         "biovizBase",
         "futile.logger",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "VariantAnnotation",
@@ -4408,7 +4349,6 @@
         "htmlTable",
         "DelayedArray",
         "BSgenome",
-        "BiocFileCache",
         "checkmate",
         "restfulr"
     ],
@@ -4432,7 +4372,6 @@
         "multtest",
         "regioneR",
         "rtracklayer",
-        "BiocFileCache",
         "XVector",
         "AnnotationFilter",
         "BiocParallel",
@@ -4480,7 +4419,6 @@
         "scales",
         "KEGGREST",
         "RcppNumerical",
-        "BiocFileCache",
         "genefilter",
         "geneplotter",
         "BSgenome",
@@ -4519,7 +4457,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocFileCache",
         "BiocParallel",
         "DO.db",
         "fgsea",
@@ -4627,7 +4564,6 @@
         "biomaRt",
         "GenomicRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -4691,7 +4627,6 @@
         "biomaRt",
         "reticulate",
         "AnnotationDbi",
-        "BiocFileCache",
         "sparseMatrixStats",
         "RcppTOML",
         "selectr",
@@ -4770,7 +4705,6 @@
         "igraph",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -4805,7 +4739,6 @@
         "biocViews",
         "KEGGREST",
         "RBGL",
-        "BiocFileCache",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -4859,7 +4792,6 @@
         "Biostrings",
         "gwascat",
         "BSgenome",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "XVector",
@@ -4978,7 +4910,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -5279,7 +5210,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "BiocFileCache",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -5332,7 +5262,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "survival",
         "htmlTable",
         "viridis",
@@ -5397,8 +5326,7 @@
         "biomaRt",
         "GenomicAlignments",
         "restfulr",
-        "DelayedArray",
-        "BiocFileCache"
+        "DelayedArray"
     ],
     "CoCiteStats": [
         "org.Hs.eg.db",
@@ -5510,7 +5438,6 @@
         "rtracklayer",
         "biomaRt",
         "scales",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -5556,7 +5483,6 @@
         "IRanges",
         "GenomicRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "GenomicFeatures",
@@ -5643,7 +5569,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "factoextra",
-        "BiocFileCache",
         "SummarizedExperiment",
         "biomaRt",
         "AnnotationDbi",
@@ -5811,7 +5736,6 @@
         "rtracklayer",
         "BiocIO",
         "DelayedArray",
-        "BiocFileCache",
         "survival",
         "scales",
         "restfulr"
@@ -5836,7 +5760,6 @@
         "ScaledMatrix",
         "beachmat",
         "AnnotationDbi",
-        "BiocFileCache",
         "rhdf5",
         "pamr",
         "GenomicRanges",
@@ -5892,8 +5815,7 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "biomaRt",
-        "BiocFileCache"
+        "biomaRt"
     ],
     "conumee": [
         "minfi",
@@ -5930,8 +5852,7 @@
         "rhdf5",
         "multtest",
         "KEGGREST",
-        "biomaRt",
-        "BiocFileCache"
+        "biomaRt"
     ],
     "convert": [],
     "copa": [],
@@ -5973,7 +5894,6 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "BiocFileCache",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -6099,7 +6019,6 @@
         "scales",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "viper",
         "Biostrings",
         "mixtools",
@@ -6172,7 +6091,6 @@
         "biomaRt",
         "scales",
         "KEGGREST",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -6242,7 +6160,6 @@
         "ChIPpeakAnno",
         "GenomicAlignments",
         "futile.logger",
-        "BiocFileCache",
         "ensembldb",
         "RBGL",
         "SummarizedExperiment",
@@ -6377,14 +6294,12 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "ctc": [],
     "CTDquerier": [
         "ggplot2",
         "igraph",
-        "BiocFileCache",
         "scales"
     ],
     "ctgGEM": [
@@ -6431,7 +6346,6 @@
         "shinycssloaders",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "BiocParallel",
         "broom",
@@ -6475,7 +6389,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -6491,7 +6404,6 @@
     "customCMPdb": [
         "AnnotationHub",
         "ChemmineR",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "ggplot2",
@@ -6516,7 +6428,6 @@
         "VariantAnnotation",
         "rtracklayer",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "SummarizedExperiment",
         "BiocParallel",
@@ -6858,7 +6769,6 @@
         "biomaRt",
         "motifStack",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -6891,8 +6801,7 @@
         "futile.logger",
         "BiocIO",
         "biomaRt",
-        "restfulr",
-        "BiocFileCache"
+        "restfulr"
     ],
     "DaMiRseq": [
         "SummarizedExperiment",
@@ -6934,7 +6843,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "XVector",
         "pbkrtest",
         "quantreg",
@@ -7056,7 +6964,6 @@
     ],
     "dasper": [
         "basilisk",
-        "BiocFileCache",
         "BiocParallel",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -7360,7 +7267,6 @@
         "DelayedArray",
         "Rsamtools",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -7474,8 +7380,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "DEFormats": [
         "checkmate",
@@ -7524,7 +7429,6 @@
         "egg",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "restfulr",
         "TSP",
         "DelayedArray",
@@ -7715,7 +7619,6 @@
         "viridis",
         "reshape2",
         "restfulr",
-        "BiocFileCache",
         "scales",
         "checkmate",
         "DelayedArray",
@@ -7758,7 +7661,6 @@
         "AnnotationFilter",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "reshape",
         "survival",
         "htmlTable",
@@ -7795,7 +7697,6 @@
         "XVector",
         "BiocIO",
         "restfulr",
-        "BiocFileCache",
         "AnnotationFilter",
         "scales",
         "survival",
@@ -7933,7 +7834,6 @@
         "genefilter",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "ggplot2",
         "survival",
         "GenomeInfoDb",
@@ -8096,7 +7996,6 @@
         "IRanges",
         "rtracklayer",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "scales",
         "Biostrings",
@@ -8148,7 +8047,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "survival"
     ],
     "diggit": [
@@ -8368,7 +8266,6 @@
         "rhdf5",
         "beachmat",
         "AnnotationHub",
-        "BiocFileCache",
         "XVector",
         "rtracklayer",
         "biomaRt",
@@ -8429,7 +8326,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -8464,7 +8360,6 @@
         "AnnotationHub",
         "rtracklayer",
         "GenomeInfoDb",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicFeatures",
@@ -8514,7 +8409,6 @@
         "IRanges",
         "GenomicRanges",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "DelayedArray",
         "Rsamtools",
@@ -8653,7 +8547,6 @@
         "UniProt.ws",
         "biomaRt",
         "ensembldb",
-        "BiocFileCache",
         "AnnotationFilter",
         "GenomicRanges",
         "AnnotationDbi",
@@ -8684,7 +8577,6 @@
         "hgu133plus2.db",
         "AnnotationDbi",
         "oligo",
-        "BiocFileCache",
         "org.Hs.eg.db",
         "ggplot2",
         "reshape2",
@@ -8774,7 +8666,6 @@
         "scales",
         "broom",
         "car",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "pbkrtest",
@@ -8796,7 +8687,6 @@
         "shiny"
     ],
     "easyRNASeq": [
-        "BiocFileCache",
         "BiocParallel",
         "biomaRt",
         "Biostrings",
@@ -8857,7 +8747,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "BiocIO",
@@ -9034,7 +8923,6 @@
         "rtracklayer",
         "DelayedArray",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "Biostrings",
         "BiocIO",
@@ -9088,7 +8976,6 @@
         "Biostrings",
         "BSgenome",
         "BiocParallel",
-        "BiocFileCache",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -9157,7 +9044,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -9171,7 +9057,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "genefilter",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "survival",
@@ -9211,7 +9096,6 @@
     "EnrichmentBrowser": [
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BiocFileCache",
         "GSEABase",
         "GO.db",
         "KEGGREST",
@@ -9352,7 +9236,6 @@
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -9376,8 +9259,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "epialleleR": [
         "GenomicRanges",
@@ -9399,8 +9281,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -9575,7 +9456,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "GenomeInfoDb",
-        "BiocFileCache",
         "IRanges",
         "Biostrings",
         "tRNAdbImport",
@@ -9618,7 +9498,6 @@
         "biomaRt",
         "RBGL",
         "DelayedArray",
-        "BiocFileCache",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -9645,7 +9524,6 @@
         "RBGL",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -9671,7 +9549,6 @@
         "RBGL",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -9694,7 +9571,6 @@
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
-        "BiocFileCache",
         "SummarizedExperiment",
         "OrganismDbi",
         "ensembldb",
@@ -9744,8 +9620,7 @@
         "DelayedArray",
         "biomaRt",
         "RBGL",
-        "BSgenome",
-        "BiocFileCache"
+        "BSgenome"
     ],
     "ERSSA": [
         "DESeq2",
@@ -9804,7 +9679,6 @@
         "CNEr",
         "DirichletMultinomial",
         "futile.logger",
-        "BiocFileCache",
         "reshape2",
         "DO.db",
         "fgsea",
@@ -9921,7 +9795,6 @@
         "GenomicAlignments",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "scales",
         "future.apply",
@@ -9940,7 +9813,6 @@
         "ggdendro",
         "scales",
         "SummarizedExperiment",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicRanges",
@@ -10012,12 +9884,10 @@
         "scales",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "BiocFileCache"
+        "KEGGREST"
     ],
     "ExperimentHub": [
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -10044,7 +9914,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "futile.logger",
-        "BiocFileCache",
         "KEGGREST",
         "interactiveDisplayBase",
         "RBGL",
@@ -10065,7 +9934,6 @@
         "TreeSummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "BiocFileCache",
         "DropletUtils",
         "IRanges",
         "GenomeInfoDb",
@@ -10320,8 +10188,7 @@
         "KEGGREST",
         "BiocParallel",
         "biomaRt",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "FEAST": [
         "BiocParallel",
@@ -10397,7 +10264,6 @@
         "HDF5Array",
         "BiocParallel",
         "futile.logger",
-        "BiocFileCache",
         "sparseMatrixStats",
         "rhdf5",
         "Rsamtools",
@@ -10408,7 +10274,6 @@
     "fgga": [
         "RBGL",
         "gRbase",
-        "BiocFileCache",
         "Rgraphviz",
         "igraph"
     ],
@@ -10459,8 +10324,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "BiocFileCache"
+        "KEGGREST"
     ],
     "fishpond": [
         "qvalue",
@@ -10894,7 +10758,6 @@
         "KEGGREST",
         "checkmate",
         "futile.logger",
-        "BiocFileCache",
         "Biostrings",
         "rtracklayer",
         "XVector",
@@ -11009,7 +10872,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -11034,8 +10896,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "GA4GHshiny": [
         "GA4GHclient",
@@ -11054,7 +10915,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -11086,7 +10946,6 @@
         "GOSemSim",
         "GEOquery",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -11145,7 +11004,6 @@
         "callr",
         "futile.logger",
         "KEGGREST",
-        "BiocFileCache",
         "pbkrtest",
         "quantreg",
         "BiocIO",
@@ -11237,7 +11095,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "enrichplot",
         "GO.db",
         "GOSemSim",
@@ -11332,7 +11189,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "DelayedArray",
         "futile.logger"
@@ -11343,7 +11199,6 @@
         "ggpubr",
         "reshape2",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "ggrepel",
         "ggsci",
@@ -11391,7 +11246,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -11427,7 +11281,6 @@
         "biomaRt",
         "iC10",
         "AnnotationDbi",
-        "BiocFileCache",
         "pamr",
         "survival",
         "prodlim",
@@ -11549,7 +11402,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -11710,7 +11562,6 @@
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -11739,8 +11590,7 @@
         "BSgenome",
         "GenomicFeatures",
         "KEGGREST",
-        "biomaRt",
-        "BiocFileCache"
+        "biomaRt"
     ],
     "genomicInstability": [
         "checkmate",
@@ -11779,7 +11629,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -11797,7 +11646,6 @@
         "IRanges",
         "GenomeInfoDb",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "scales",
         "reshape2",
@@ -11835,7 +11683,6 @@
     ],
     "GenomicScores": [
         "GenomicRanges",
-        "BiocFileCache",
         "IRanges",
         "Biostrings",
         "GenomeInfoDb",
@@ -11855,7 +11702,6 @@
         "ggplot2",
         "ggpubr",
         "plotly",
-        "BiocFileCache",
         "IRanges",
         "scales",
         "ggrepel",
@@ -11905,8 +11751,7 @@
         "GenomicFeatures",
         "KEGGREST",
         "biomaRt",
-        "DelayedArray",
-        "BiocFileCache"
+        "DelayedArray"
     ],
     "genphen": [
         "rstan",
@@ -11940,7 +11785,6 @@
         "GenomeInfoDb",
         "VariantAnnotation",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "rtracklayer",
         "BiocIO",
@@ -12069,7 +11913,6 @@
         "biomaRt",
         "reshape2",
         "AnnotationDbi",
-        "BiocFileCache",
         "genefilter",
         "vsn",
         "GSEABase",
@@ -12141,7 +11984,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "checkmate"
     ],
     "ggcyto": [
@@ -12191,7 +12033,6 @@
         "scales",
         "GenomicRanges",
         "DelayedArray",
-        "BiocFileCache",
         "DropletUtils",
         "IRanges",
         "GenomeInfoDb",
@@ -12317,7 +12158,6 @@
         "reshape2",
         "loose.rock",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "survival",
         "GenomicRanges",
@@ -12391,7 +12231,6 @@
         "biomaRt",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "GmicR": [
@@ -12445,7 +12284,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "GMRP": [
@@ -12474,7 +12312,6 @@
         "biomaRt",
         "ggplot2",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -12544,7 +12381,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -12568,7 +12404,6 @@
         "GO.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -12642,7 +12477,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "GenomicFeatures",
@@ -12816,7 +12650,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocFileCache",
         "BiocParallel",
         "EnrichmentBrowser",
         "ExperimentHub",
@@ -12862,7 +12695,6 @@
         "yeastExpData",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -12890,7 +12722,6 @@
         "OrganismDbi",
         "GO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "BiocFileCache",
         "RBGL",
         "Rsamtools",
         "GenomicAlignments",
@@ -12972,7 +12803,6 @@
         "DelayedArray",
         "keras",
         "mltools",
-        "BiocFileCache",
         "AnnotationFilter",
         "BiocIO",
         "scales",
@@ -13000,7 +12830,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -13022,7 +12851,6 @@
         "GenomicAlignments",
         "GenomeInfoDb",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -13060,7 +12888,6 @@
         "GenomicFeatures",
         "Biostrings",
         "AnnotationDbi",
-        "BiocFileCache",
         "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
@@ -13118,7 +12945,6 @@
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "broom",
         "ggplot2",
         "scales"
@@ -13178,9 +13004,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "hca": [
-        "BiocFileCache"
-    ],
+    "hca": [],
     "HDF5Array": [
         "DelayedArray",
         "rhdf5",
@@ -13213,8 +13037,7 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "HELP": [],
     "HEM": [],
@@ -13294,7 +13117,6 @@
         "DelayedArray",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -13338,7 +13160,6 @@
         "biomaRt",
         "rjags",
         "KEGGREST",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -13354,7 +13175,6 @@
         "SummarizedExperiment",
         "coin",
         "DelayedArray",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "survival",
@@ -13474,8 +13294,7 @@
         "BSgenome",
         "restfulr",
         "DelayedArray",
-        "KEGGREST",
-        "BiocFileCache"
+        "KEGGREST"
     ],
     "HTSFilter": [
         "DESeq2",
@@ -13605,7 +13424,6 @@
         "DelayedArray",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "survival"
     ],
     "iCheck": [
@@ -13632,7 +13450,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "survival",
@@ -13731,7 +13548,6 @@
         "threejs",
         "biomaRt",
         "DelayedArray",
-        "BiocFileCache",
         "GSEABase",
         "survival",
         "rtracklayer",
@@ -13827,8 +13643,7 @@
         "KEGGREST",
         "futile.logger",
         "biomaRt",
-        "DelayedArray",
-        "BiocFileCache"
+        "DelayedArray"
     ],
     "IHW": [],
     "illuminaio": [],
@@ -13898,7 +13713,6 @@
         "biomaRt",
         "scales",
         "nloptr",
-        "BiocFileCache",
         "testthat",
         "restfulr",
         "DelayedArray",
@@ -13935,7 +13749,6 @@
         "DelayedMatrixStats",
         "beachmat",
         "classInt",
-        "BiocFileCache",
         "DropletUtils",
         "IRanges",
         "GenomeInfoDb",
@@ -14058,7 +13871,6 @@
         "biomaRt",
         "scales",
         "GenomicAlignments",
-        "BiocFileCache",
         "SummarizedExperiment",
         "restfulr",
         "DelayedArray"
@@ -14090,7 +13902,6 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "survival",
         "scales"
     ],
@@ -14166,7 +13977,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "checkmate"
     ],
     "interacCircos": [],
@@ -14230,7 +14040,6 @@
         "biomaRt",
         "igraph",
         "AnnotationDbi",
-        "BiocFileCache",
         "miniUI",
         "shinyjs",
         "IRanges",
@@ -14286,7 +14095,6 @@
         "rtracklayer",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "survival",
         "scales",
         "restfulr"
@@ -14379,7 +14187,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "XVector",
         "GenomeInfoDb",
@@ -14571,7 +14378,6 @@
         "biomaRt",
         "ggplot2",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -14617,7 +14423,6 @@
         "restfulr",
         "GenomicFeatures",
         "ensembldb",
-        "BiocFileCache",
         "AnnotationHub",
         "KEGGREST",
         "interactiveDisplayBase",
@@ -14725,7 +14530,6 @@
         "biomaRt",
         "scales",
         "nloptr",
-        "BiocFileCache",
         "testthat",
         "Rsamtools",
         "GenomicAlignments",
@@ -14809,7 +14613,6 @@
         "BiocParallel",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "survival",
         "ggplot2",
         "htmlTable",
@@ -14965,8 +14768,7 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "DelayedArray",
-        "BiocFileCache"
+        "DelayedArray"
     ],
     "LedPred": [
         "ggplot2",
@@ -15213,7 +15015,6 @@
         "BiocParallel",
         "ggplot2",
         "ggrepel",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "futile.logger",
@@ -15247,7 +15048,6 @@
         "SummarizedExperiment",
         "genefilter",
         "illuminaio",
-        "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
         "survival",
@@ -15326,7 +15126,6 @@
         "GenomeInfoDb",
         "Rsamtools",
         "AnnotationHub",
-        "BiocFileCache",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -15417,7 +15216,6 @@
         "basilisk",
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "RcppTOML",
@@ -15461,8 +15259,7 @@
         "vegan",
         "KEGGREST",
         "futile.logger",
-        "biomaRt",
-        "BiocFileCache"
+        "biomaRt"
     ],
     "maftools": [
         "survival"
@@ -15513,7 +15310,6 @@
         "GEOquery",
         "BiocParallel",
         "futile.logger",
-        "BiocFileCache",
         "sparseMatrixStats",
         "Rsamtools",
         "GenomicAlignments",
@@ -15726,7 +15522,6 @@
         "BiocIO",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -15871,7 +15666,6 @@
     ],
     "MBQN": [
         "SummarizedExperiment",
-        "BiocFileCache",
         "ggplot2",
         "PairedData",
         "scales",
@@ -15916,7 +15710,6 @@
         "IRanges",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BiocFileCache",
         "BiocParallel",
         "GenomeInfoDb",
         "XVector",
@@ -16013,7 +15806,6 @@
         "sva",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -16071,7 +15863,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -16093,7 +15884,6 @@
         "biomaRt",
         "rtracklayer",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "BiocParallel",
@@ -16195,7 +15985,6 @@
         "MeSHDbi",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "BiocParallel",
         "DO.db",
@@ -16333,7 +16122,6 @@
         "MWASTools",
         "mygene",
         "IRanges",
-        "BiocFileCache",
         "ensembldb",
         "Rgraphviz",
         "Biostrings",
@@ -16443,7 +16231,6 @@
         "scales",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "metagene2": [
@@ -16547,7 +16334,6 @@
         "vsn",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "geneplotter",
         "ggplot2",
@@ -16619,7 +16405,6 @@
         "RBGL",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -16711,7 +16496,6 @@
         "rstatix",
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "broom",
@@ -16789,7 +16573,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -16833,8 +16616,7 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "multtest",
-        "BiocFileCache"
+        "multtest"
     ],
     "methylclock": [
         "methylclockData",
@@ -16853,7 +16635,6 @@
         "rcmdcheck",
         "testthat",
         "AnnotationHub",
-        "BiocFileCache",
         "scales",
         "ggpp",
         "quantreg",
@@ -16990,7 +16771,6 @@
         "treeio",
         "rhdf5",
         "multtest",
-        "BiocFileCache",
         "tweenr",
         "Rsamtools",
         "GenomicAlignments",
@@ -17143,7 +16923,6 @@
         "HDF5Array",
         "BiocParallel",
         "futile.logger",
-        "BiocFileCache",
         "sparseMatrixStats",
         "rhdf5",
         "Rsamtools",
@@ -17210,7 +16989,6 @@
     "MGFR": [
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -17665,7 +17443,6 @@
         "lumiHumanAll.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "Category",
         "GO.db",
         "RBGL",
@@ -17736,7 +17513,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -17854,7 +17630,6 @@
         "biomaRt",
         "rvest",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "scales",
         "checkmate",
@@ -18059,7 +17834,6 @@
         "biomaRt",
         "rhdf5",
         "multtest",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -18124,8 +17898,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "mixOmics": [
         "ggplot2",
@@ -18215,8 +17988,7 @@
         "BiocIO",
         "biomaRt",
         "restfulr",
-        "DelayedArray",
-        "BiocFileCache"
+        "DelayedArray"
     ],
     "MMDiff2": [
         "Rsamtools",
@@ -18439,7 +18211,6 @@
         "rvest",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "aplot",
         "ggraph",
         "igraph",
@@ -18516,7 +18287,6 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "AnnotationFilter",
@@ -18590,7 +18360,6 @@
         "biomaRt",
         "IRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "KEGGREST",
         "Biostrings"
@@ -18690,7 +18459,6 @@
         "Biostrings",
         "rtracklayer",
         "XVector",
-        "BiocFileCache",
         "BiocParallel",
         "biomaRt",
         "genomeIntervals",
@@ -18803,7 +18571,6 @@
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "bookdown",
         "XVector",
@@ -19116,7 +18883,6 @@
         "RcppTOML",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "SummarizedExperiment",
         "ensembldb",
@@ -19345,8 +19111,7 @@
         "BiocParallel",
         "biomaRt",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "muscat": [
         "BiocParallel",
@@ -19456,7 +19221,6 @@
         "rvest",
         "dqrng",
         "KEGGREST",
-        "BiocFileCache",
         "viridis",
         "car",
         "ggsci",
@@ -19505,8 +19269,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "MWASTools": [
         "qvalue",
@@ -19552,7 +19315,6 @@
         "htmlTable",
         "viridis",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "checkmate",
         "Rsamtools",
@@ -19590,8 +19352,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "mzR": [],
     "NADfinder": [
@@ -19635,7 +19396,6 @@
         "ggplot2",
         "multtest",
         "regioneR",
-        "BiocFileCache",
         "AnnotationHub",
         "HDF5Array",
         "biovizBase",
@@ -19849,7 +19609,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "biomaRt",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "Nebulosa": [
@@ -19974,7 +19733,6 @@
         "igraph",
         "reshape2",
         "MultiAssayExperiment",
-        "BiocFileCache",
         "GenomicRanges",
         "GenomeInfoDb",
         "IRanges",
@@ -20047,7 +19805,6 @@
         "GO.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "TSP",
         "Hmisc",
         "ggplot2",
@@ -20175,7 +19932,6 @@
         "GenomicRanges",
         "GenomicFeatures",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -20310,7 +20066,6 @@
         "fst",
         "ggplot2",
         "AnnotationHub",
-        "BiocFileCache",
         "BiocParallel",
         "Biostrings",
         "BSgenome",
@@ -20345,7 +20100,6 @@
         "survival"
     ],
     "ODER": [
-        "BiocFileCache",
         "dasper",
         "derfinder",
         "IRanges",
@@ -20590,7 +20344,6 @@
         "callr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "nloptr",
         "broom",
         "survival",
@@ -20630,7 +20383,6 @@
     "OncoScore": [
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -20670,7 +20422,6 @@
     ],
     "ontoProc": [
         "AnnotationDbi",
-        "BiocFileCache",
         "shiny",
         "Rgraphviz",
         "ontologyPlot",
@@ -20778,7 +20529,6 @@
         "ape",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -20894,7 +20644,6 @@
         "reshape",
         "restfulr",
         "DelayedArray",
-        "BiocFileCache",
         "survival"
     ],
     "Organism.dplyr": [
@@ -20904,7 +20653,6 @@
         "GenomicRanges",
         "GenomicFeatures",
         "AnnotationDbi",
-        "BiocFileCache",
         "KEGGREST",
         "XVector",
         "Biostrings",
@@ -20932,7 +20680,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -21025,7 +20772,6 @@
         "egg",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "survival",
         "Rsamtools",
         "GenomicAlignments",
@@ -21320,7 +21066,6 @@
         "biomaRt",
         "pheatmap",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "geneplotter",
         "survival",
@@ -21414,7 +21159,6 @@
         "ggtext",
         "fields",
         "AnnotationDbi",
-        "BiocFileCache",
         "viridis",
         "XVector",
         "ggrepel",
@@ -21764,7 +21508,6 @@
         "hgu133a.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "rrcov",
         "RBGL",
         "scales",
@@ -21876,7 +21619,6 @@
         "GenomeInfoDb",
         "miniUI",
         "AnnotationHub",
-        "BiocFileCache",
         "scales",
         "GenomicRanges",
         "topGO",
@@ -22032,7 +21774,6 @@
         "biovizBase",
         "GenomicAlignments",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -22270,7 +22011,6 @@
         "ggplot2",
         "scales",
         "AnnotationDbi",
-        "BiocFileCache",
         "Rgraphviz",
         "ontologyPlot",
         "igraph",
@@ -22380,7 +22120,6 @@
         "STRINGdb",
         "yeastExpData",
         "AnnotationDbi",
-        "BiocFileCache",
         "BiocParallel",
         "scales",
         "IRanges",
@@ -22484,7 +22223,6 @@
         "scales",
         "hardhat",
         "ipred",
-        "BiocFileCache",
         "prodlim",
         "Rsamtools",
         "GenomicAlignments",
@@ -22509,7 +22247,6 @@
         "shinyBS",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -22546,7 +22283,6 @@
         "XVector",
         "GenomeInfoDb",
         "BSgenome",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -22625,7 +22361,6 @@
         "rtracklayer",
         "biomaRt",
         "DelayedArray",
-        "BiocFileCache",
         "survival",
         "restfulr"
     ],
@@ -22644,7 +22379,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -22761,7 +22495,6 @@
         "chipseq",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "ShortRead",
         "aplot",
         "DOSE",
@@ -22827,7 +22560,6 @@
         "biomaRt",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "pROC",
         "recipes",
         "reshape2",
@@ -22884,7 +22616,6 @@
         "waiter",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "pROC",
         "recipes",
         "reshape2",
@@ -23061,7 +22792,6 @@
         "Rsamtools",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "GenomicAlignments",
         "restfulr",
         "DelayedArray"
@@ -23073,7 +22803,6 @@
         "MSnbase",
         "Biostrings",
         "GenomeInfoDb",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -23109,7 +22838,6 @@
         "ggplot2",
         "ggrepel",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -23123,7 +22851,6 @@
         "shinyBS",
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocFileCache",
         "colourpicker",
         "ggplot2",
         "ggrepel",
@@ -23178,7 +22905,6 @@
         "IRanges",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -23193,7 +22919,6 @@
         "topGO",
         "GO.db",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -23297,8 +23022,7 @@
         "restfulr",
         "DelayedArray",
         "BSgenome",
-        "KEGGREST",
-        "BiocFileCache"
+        "KEGGREST"
     ],
     "pvac": [
         "affy"
@@ -23335,7 +23059,6 @@
         "biomaRt",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "BiocIO",
         "survival",
@@ -23362,7 +23085,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "GenomeInfoDb",
         "XVector",
@@ -23383,7 +23105,6 @@
         "IRanges",
         "KEGGREST",
         "AnnotationHub",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "Biostrings",
         "XVector",
@@ -23440,7 +23161,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -23496,7 +23216,6 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "BiocFileCache",
         "checkmate",
         "restfulr"
     ],
@@ -23594,7 +23313,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -23638,7 +23356,6 @@
         "GenomicAlignments",
         "VariantAnnotation",
         "restfulr",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "QUBIC": [
@@ -23689,8 +23406,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "r3Cseq": [
         "GenomicRanges",
@@ -23724,7 +23440,6 @@
         "Rsamtools",
         "ShortRead",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "rtracklayer",
         "BiocParallel",
@@ -23795,7 +23510,6 @@
         "biomaRt",
         "Biostrings",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -23835,7 +23549,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -23923,7 +23636,6 @@
         "biomaRt",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -23958,7 +23670,6 @@
         "rtracklayer",
         "biomaRt",
         "scales",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -24047,7 +23758,6 @@
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "BiocFileCache",
         "BiocParallel",
         "batchtools",
         "DiagrammeR",
@@ -24188,14 +23898,12 @@
         "htmlTable",
         "viridis",
         "reshape2",
-        "BiocFileCache",
         "scales",
         "checkmate",
         "BSgenome"
     ],
     "recount3": [
         "SummarizedExperiment",
-        "BiocFileCache",
         "rtracklayer",
         "GenomicRanges",
         "IRanges",
@@ -24214,7 +23922,6 @@
         "minfi",
         "HDF5Array",
         "rhdf5",
-        "BiocFileCache",
         "IlluminaHumanMethylation450kmanifest",
         "DelayedArray",
         "IRanges",
@@ -24258,7 +23965,6 @@
         "Rsamtools",
         "rtracklayer",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "SummarizedExperiment",
         "BiocParallel",
@@ -24297,7 +24003,6 @@
         "InteractionSet",
         "regioneR",
         "survival",
-        "BiocFileCache",
         "AnnotationFilter",
         "BiocParallel",
         "BiocIO",
@@ -24405,7 +24110,6 @@
         "viridis",
         "reshape2",
         "restfulr",
-        "BiocFileCache",
         "BSgenome"
     ],
     "regsplice": [
@@ -24426,7 +24130,6 @@
         "Gviz",
         "IRanges",
         "RCy3",
-        "BiocFileCache",
         "KEGGREST",
         "interactiveDisplayBase",
         "XVector",
@@ -24470,7 +24173,6 @@
         "BSgenome",
         "AnnotationHub",
         "org.Hs.eg.db",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "futile.logger",
@@ -24579,7 +24281,6 @@
         "viridis",
         "restfulr",
         "DelayedArray",
-        "BiocFileCache",
         "checkmate"
     ],
     "RepViz": [
@@ -24588,7 +24289,6 @@
         "IRanges",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -24622,7 +24322,6 @@
         "AnnotationHub",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -24704,7 +24403,6 @@
         "igraph",
         "RcppTOML",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -24750,7 +24448,6 @@
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "GenomicRanges",
         "BiocParallel",
         "genefilter",
@@ -24793,7 +24490,6 @@
         "GenomicAlignments",
         "igraph",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "restfulr",
         "DelayedArray",
@@ -24826,7 +24522,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "KEGGREST",
-        "BiocFileCache",
         "genefilter",
         "geneplotter",
         "reshape",
@@ -24844,7 +24539,6 @@
         "qvalue",
         "DESeq2",
         "ggplot2",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "genefilter",
@@ -24901,7 +24595,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "reshape",
         "survival",
         "htmlTable",
@@ -24954,7 +24647,6 @@
         "BiocIO",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "RImmPort": [
@@ -24983,7 +24675,6 @@
         "regioneR",
         "rtracklayer",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -25097,7 +24788,6 @@
         "ggprism",
         "RLHub",
         "pheatmap",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "caret",
@@ -25188,7 +24878,6 @@
         "downlit",
         "ragg",
         "gert",
-        "BiocFileCache",
         "GenomicAlignments",
         "restfulr"
     ],
@@ -25244,7 +24933,6 @@
         "htmlTable",
         "viridis",
         "reshape2",
-        "BiocFileCache",
         "checkmate",
         "BSgenome"
     ],
@@ -25273,7 +24961,6 @@
         "rtracklayer",
         "biomaRt",
         "broom",
-        "BiocFileCache",
         "ggplot2",
         "Rsamtools",
         "GenomicAlignments",
@@ -25333,7 +25020,6 @@
         "biovizBase",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -25367,7 +25053,6 @@
         "ROCR",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -25409,7 +25094,6 @@
         "biovizBase",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -25443,7 +25127,6 @@
         "ROCR",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -25542,7 +25225,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocFileCache",
         "ggforce",
         "tidygraph",
         "graphlayouts",
@@ -25559,7 +25241,6 @@
         "biomaRt",
         "KEGGREST",
         "AnnotationDbi",
-        "BiocFileCache",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -25600,7 +25281,6 @@
         "HDF5Array",
         "BiocParallel",
         "futile.logger",
-        "BiocFileCache",
         "sparseMatrixStats",
         "rhdf5",
         "Rsamtools",
@@ -25693,9 +25373,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "rpx": [
-        "BiocFileCache"
-    ],
+    "rpx": [],
     "Rqc": [
         "BiocParallel",
         "ShortRead",
@@ -25732,7 +25410,6 @@
         "restfulr",
         "DelayedArray",
         "BSgenome",
-        "BiocFileCache",
         "checkmate"
     ],
     "rqt": [
@@ -25888,7 +25565,6 @@
         "rtracklayer",
         "biomaRt",
         "selectr",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -26071,7 +25747,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "BiocIO",
@@ -26121,7 +25796,6 @@
         "biomaRt",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -26324,7 +25998,6 @@
         "shinydashboard",
         "waiter",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "futile.logger",
         "XVector",
@@ -26347,7 +26020,6 @@
         "pROC",
         "ape",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "recipes",
@@ -26431,7 +26103,6 @@
         "ExperimentHub",
         "futile.logger",
         "AnnotationHub",
-        "BiocFileCache",
         "DelayedArray",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -26953,7 +26624,6 @@
         "GenomeInfoDb",
         "Biostrings",
         "HDF5Array",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicFeatures",
@@ -27014,7 +26684,6 @@
         "GenomicFeatures",
         "XVector",
         "KEGGREST",
-        "BiocFileCache",
         "BiocIO",
         "rtracklayer",
         "GenomicAlignments",
@@ -27071,8 +26740,7 @@
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
-        "restfulr",
-        "BiocFileCache"
+        "restfulr"
     ],
     "scp": [
         "QFeatures",
@@ -27117,7 +26785,6 @@
         "testthat",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -27236,7 +26903,6 @@
         "AnnotationFilter",
         "restfulr",
         "DelayedArray",
-        "BiocFileCache",
         "reshape",
         "survival",
         "htmlTable",
@@ -27287,7 +26953,6 @@
         "ggplot2",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "bookdown",
         "RBGL",
@@ -27490,7 +27155,6 @@
         "spatstat.random",
         "spatstat.sparse",
         "KEGGREST",
-        "BiocFileCache",
         "GenomicAlignments",
         "restfulr"
     ],
@@ -27569,7 +27233,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "BiocFileCache",
         "BiocParallel",
         "DO.db",
         "fgsea",
@@ -27622,7 +27285,6 @@
         "biomaRt",
         "rjags",
         "KEGGREST",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -27651,7 +27313,6 @@
         "biomaRt",
         "GenomicRanges",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -27702,8 +27363,7 @@
         "KEGGREST",
         "BiocParallel",
         "biomaRt",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "seqCNA": [
         "GLAD"
@@ -27730,7 +27390,6 @@
         "DESeq2",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -27783,7 +27442,6 @@
         "rbokeh",
         "reshape2",
         "AnnotationHub",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "reshape",
@@ -27829,7 +27487,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "DelayedArray",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "KEGGREST",
@@ -27896,8 +27553,7 @@
         "biomaRt",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "shinyepico": [
         "GenomicRanges",
@@ -27947,8 +27603,7 @@
         "multtest",
         "callr",
         "KEGGREST",
-        "biomaRt",
-        "BiocFileCache"
+        "biomaRt"
     ],
     "shinyMethyl": [
         "shiny",
@@ -27981,7 +27636,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -28109,7 +27763,6 @@
         "GOSemSim",
         "DO.db",
         "AnnotationHub",
-        "BiocFileCache",
         "GenomicRanges",
         "GenomeInfoDb",
         "interactiveDisplayBase",
@@ -28163,8 +27816,7 @@
         "restfulr",
         "DelayedArray",
         "callr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "SigsPack": [
         "BSgenome",
@@ -28186,8 +27838,7 @@
         "KEGGREST",
         "BiocParallel",
         "biomaRt",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "sigsquared": [
         "survival"
@@ -28365,7 +28016,6 @@
         "HDF5Array",
         "rhdf5",
         "dqrng",
-        "BiocFileCache",
         "viridis",
         "qvalue",
         "aplot",
@@ -28450,7 +28100,6 @@
         "GenomicAlignments",
         "VariantAnnotation",
         "restfulr",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "SingleR": [
@@ -28526,7 +28175,6 @@
         "Rsamtools",
         "rtracklayer",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "BiocIO",
         "BiocParallel",
@@ -28592,7 +28240,6 @@
         "rhdf5",
         "affy",
         "multtest",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -28673,7 +28320,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -28745,8 +28391,7 @@
         "BiocIO",
         "biomaRt",
         "GenomicAlignments",
-        "restfulr",
-        "BiocFileCache"
+        "restfulr"
     ],
     "snpStats": [
         "survival"
@@ -28825,7 +28470,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "checkmate"
     ],
     "SpacePAC": [
@@ -28978,7 +28622,6 @@
         "scales",
         "RcppTOML",
         "SingleCellExperiment",
-        "BiocFileCache",
         "DropletUtils",
         "GenomicRanges",
         "IRanges",
@@ -29024,7 +28667,6 @@
     ],
     "SpatialExperiment": [
         "SingleCellExperiment",
-        "BiocFileCache",
         "DropletUtils",
         "SummarizedExperiment",
         "IRanges",
@@ -29043,7 +28685,6 @@
         "XVector"
     ],
     "spatialHeatmap": [
-        "BiocFileCache",
         "DESeq2",
         "distinct",
         "WGCNA",
@@ -29118,7 +28759,6 @@
         "DirichletMultinomial",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "GenomicAlignments",
         "reshape2",
         "GO.db",
@@ -29216,7 +28856,6 @@
         "GenomicRanges",
         "rvest",
         "SummarizedExperiment",
-        "BiocFileCache",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -29323,7 +28962,6 @@
         "rtracklayer",
         "biomaRt",
         "KEGGREST",
-        "BiocFileCache",
         "restfulr",
         "DelayedArray"
     ],
@@ -29350,7 +28988,6 @@
         "GenomeInfoDb",
         "BSgenome.Mmusculus.UCSC.mm9",
         "AnnotationDbi",
-        "BiocFileCache",
         "XVector",
         "BSgenome",
         "SummarizedExperiment",
@@ -29477,7 +29114,6 @@
         "restfulr",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "VariantAnnotation",
@@ -29571,7 +29207,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "KEGGREST",
-        "BiocFileCache",
         "scales",
         "Hmisc",
         "SummarizedExperiment",
@@ -29632,7 +29267,6 @@
         "GenomicRanges",
         "rvest",
         "SummarizedExperiment",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "DOSE",
@@ -29693,7 +29327,6 @@
         "rtracklayer",
         "biomaRt",
         "DelayedArray",
-        "BiocFileCache",
         "restfulr"
     ],
     "Streamer": [
@@ -29751,7 +29384,6 @@
         "DelayedArray",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "futile.logger"
     ],
@@ -29844,7 +29476,6 @@
         "testthat",
         "msa",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -29898,7 +29529,6 @@
     "Sushi": [
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -29936,7 +29566,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "DelayedArray",
         "futile.logger"
@@ -29960,7 +29589,6 @@
         "SummarizedExperiment",
         "BSgenome",
         "KEGGREST",
-        "BiocFileCache",
         "BiocParallel",
         "DelayedArray",
         "futile.logger"
@@ -29970,7 +29598,6 @@
         "ggplot2",
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "IRanges",
         "KEGGREST",
@@ -30202,7 +29829,6 @@
         "BiocIO",
         "biomaRt",
         "KEGGREST",
-        "BiocFileCache",
         "restfulr",
         "DelayedArray"
     ],
@@ -30323,7 +29949,6 @@
         "rvest",
         "SummarizedExperiment",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "scales",
@@ -30385,7 +30010,6 @@
         "illuminaio",
         "fgsea",
         "futile.logger",
-        "BiocFileCache",
         "DO.db",
         "aplot",
         "ggraph",
@@ -30459,7 +30083,6 @@
         "biomaRt",
         "selectr",
         "DelayedArray",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -30495,7 +30118,6 @@
         "org.Mm.eg.db",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "Rgraphviz",
         "ontologyPlot",
         "igraph",
@@ -30568,7 +30190,6 @@
         "GenomicFeatures",
         "org.Hs.eg.db",
         "AnnotationDbi",
-        "BiocFileCache",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -30594,7 +30215,6 @@
         "shiny",
         "Rsamtools",
         "GSEABase",
-        "BiocFileCache",
         "readxl",
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -30720,7 +30340,6 @@
         "rWikiPathways",
         "scales",
         "AnnotationDbi",
-        "BiocFileCache",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -30817,8 +30436,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "tkWidgets": [],
     "tLOH": [
@@ -30843,8 +30461,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "TMixClust": [
         "BiocParallel",
@@ -31040,7 +30657,6 @@
         "biovizBase",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -31089,7 +30705,6 @@
         "RedeR",
         "topGO",
         "AnnotationDbi",
-        "BiocFileCache",
         "scales",
         "GO.db",
         "IRanges",
@@ -31124,7 +30739,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "hardhat",
         "ipred",
         "DelayedArray",
@@ -31360,7 +30974,6 @@
         "WGCNA",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "XVector",
         "GenomeInfoDb",
         "rtracklayer",
@@ -31410,7 +31023,6 @@
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31573,7 +31185,6 @@
         "Rsamtools",
         "rtracklayer",
         "SummarizedExperiment",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "futile.logger",
@@ -31652,7 +31263,6 @@
         "GenomicAlignments",
         "DelayedArray",
         "KEGGREST",
-        "BiocFileCache",
         "Hmisc",
         "BiocIO",
         "restfulr",
@@ -31689,7 +31299,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -31700,7 +31309,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "ensembldb",
-        "BiocFileCache",
         "AnnotationHub",
         "Biostrings",
         "GenomeInfoDb",
@@ -31739,7 +31347,6 @@
         "Sushi",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "XVector",
         "rtracklayer",
@@ -31774,7 +31381,6 @@
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "GenomicFeatures",
-        "BiocFileCache",
         "fda",
         "AnnotationDbi",
         "XVector",
@@ -31806,7 +31412,6 @@
         "condformat",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "BiocFileCache",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
@@ -31852,7 +31457,6 @@
     ],
     "UniProt.ws": [
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -31879,8 +31483,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "universalmotif": [
         "ggplot2",
@@ -32031,8 +31634,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "VariantExperiment": [
         "SummarizedExperiment",
@@ -32077,7 +31679,6 @@
         "rtracklayer",
         "BiocIO",
         "biomaRt",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -32116,7 +31717,6 @@
         "restfulr",
         "SummarizedExperiment",
         "KEGGREST",
-        "BiocFileCache",
         "DelayedArray"
     ],
     "VaSP": [
@@ -32136,7 +31736,6 @@
         "biomaRt",
         "futile.logger",
         "AnnotationDbi",
-        "BiocFileCache",
         "BiocIO",
         "restfulr",
         "DelayedArray",
@@ -32165,13 +31764,11 @@
         "futile.logger",
         "BiocIO",
         "biomaRt",
-        "restfulr",
-        "BiocFileCache"
+        "restfulr"
     ],
     "VegaMC": [
         "biomaRt",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -32258,7 +31855,6 @@
         "UpSetR",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "viridis",
         "influenceR",
         "BiocParallel",
@@ -32302,7 +31898,6 @@
         "textclean",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "syuzhet",
         "shiny",
@@ -32341,7 +31936,6 @@
         "GenomicFeatures",
         "Biostrings",
         "AnnotationDbi",
-        "BiocFileCache",
         "snpStats",
         "VariantAnnotation",
         "AnnotationHub",
@@ -32398,7 +31992,6 @@
         "mixtools",
         "RcppNumerical",
         "futile.logger",
-        "BiocFileCache",
         "AnnotationFilter",
         "survival",
         "BiocIO",
@@ -32411,7 +32004,6 @@
     "waddR": [
         "arm",
         "eva",
-        "BiocFileCache",
         "BiocParallel",
         "SingleCellExperiment",
         "lme4",
@@ -32465,7 +32057,6 @@
         "HDF5Array",
         "BiocParallel",
         "futile.logger",
-        "BiocFileCache",
         "sparseMatrixStats",
         "rhdf5",
         "Rsamtools",
@@ -32497,7 +32088,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "checkmate",
         "DelayedArray"
@@ -32718,7 +32308,6 @@
         "restfulr",
         "DelayedArray",
         "futile.logger",
-        "BiocFileCache",
         "reshape",
         "survival",
         "htmlTable",
@@ -32729,7 +32318,6 @@
         "biomaRt",
         "quantro",
         "AnnotationDbi",
-        "BiocFileCache",
         "minfi",
         "ggplot2",
         "IRanges",
@@ -32945,7 +32533,6 @@
     "adductData": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -33059,7 +32646,6 @@
         "ExperimentHub",
         "HDF5Array",
         "SummarizedExperiment",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "DelayedArray",
@@ -33197,7 +32783,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -33223,7 +32808,6 @@
         "rtracklayer",
         "biomaRt",
         "RBGL",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -33280,7 +32864,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -33306,7 +32889,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -33332,7 +32914,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -33368,8 +32949,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "VariantAnnotation",
@@ -33391,8 +32971,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "VariantAnnotation",
@@ -33414,8 +32993,7 @@
         "GenomicAlignments",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "BiocFileCache"
+        "futile.logger"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -33444,7 +33022,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -33758,7 +33335,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -33985,7 +33561,6 @@
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -34012,7 +33587,6 @@
         "rtracklayer",
         "biomaRt",
         "RBGL",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34041,7 +33615,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34098,7 +33671,6 @@
         "IRanges",
         "org.Hs.eg.db",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "GenomicRanges",
         "BiocParallel",
@@ -34363,7 +33935,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -34397,7 +33968,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -34431,7 +34001,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -34458,7 +34027,6 @@
         "GenomicAlignments",
         "restfulr",
         "KEGGREST",
-        "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
         "futile.logger",
@@ -34569,7 +34137,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34590,7 +34157,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34611,7 +34177,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34632,7 +34197,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34653,7 +34217,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -34858,7 +34421,6 @@
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -34895,7 +34457,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -35330,7 +34891,6 @@
         "ExperimentHub",
         "AnnotationHub",
         "SummarizedExperiment",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomicRanges",
@@ -35390,7 +34950,6 @@
     "ewceData": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -35591,7 +35150,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -35651,7 +35209,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -35752,7 +35309,6 @@
         "GenomicAlignments",
         "restfulr",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -35898,7 +35454,6 @@
     "sesameData": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -35937,7 +35492,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -35946,7 +35500,6 @@
         "ExperimentHubData",
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationHubData",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -36213,7 +35766,6 @@
     "qpcR": [],
     "NxtIRFdata": [
         "ExperimentHub",
-        "BiocFileCache",
         "rtracklayer",
         "AnnotationHub",
         "GenomicRanges",
@@ -36274,7 +35826,6 @@
         "biomaRt",
         "Biostrings",
         "AnnotationDbi",
-        "BiocFileCache",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -36385,7 +35936,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -36427,7 +35977,6 @@
     "pwrEWAS.data": [
         "ExperimentHub",
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -36447,7 +35996,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "BiocFileCache",
         "AnnotationHub",
         "rhdf5",
         "DelayedArray",
@@ -36494,7 +36042,6 @@
     "RefManageR": [],
     "rGenomeTracksData": [
         "AnnotationHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -36548,7 +36095,6 @@
     "RLHub": [
         "AnnotationHub",
         "ExperimentHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "IRanges",
@@ -36586,7 +36132,6 @@
         "restfulr",
         "KEGGREST",
         "futile.logger",
-        "BiocFileCache",
         "SummarizedExperiment",
         "DelayedArray"
     ],
@@ -36630,7 +36175,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "AnnotationHub",
-        "BiocFileCache",
         "IRanges",
         "GenomeInfoDb",
         "SummarizedExperiment",
@@ -36722,7 +36266,6 @@
         "DelayedMatrixStats",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "sparseMatrixStats",
         "GenomicRanges",
@@ -36753,7 +36296,6 @@
         "GenomicFeatures",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "AnnotationFilter",
         "GenomeInfoDb",
@@ -36775,7 +36317,6 @@
         "HDF5Array",
         "AnnotationHub",
         "ExperimentHub",
-        "BiocFileCache",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "DelayedArray",
@@ -36905,7 +36446,6 @@
         "AnnotationHub",
         "IRanges",
         "KEGGREST",
-        "BiocFileCache",
         "interactiveDisplayBase",
         "shiny",
         "Biostrings",
