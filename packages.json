@@ -2449,7 +2449,6 @@
         "Biostrings"
     ],
     "clipper": [
-        "gRbase",
         "qpgraph",
         "AnnotationDbi",
         "GenomicRanges",
@@ -5118,9 +5117,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "fgga": [
-        "gRbase"
-    ],
+    "fgga": [],
     "fgsea": [],
     "FilterFFPE": [
         "GenomicRanges",
@@ -6058,7 +6055,6 @@
     "GmicR": [
         "AnnotationDbi",
         "Category",
-        "gRbase",
         "GSEABase",
         "gRain",
         "GOstats",
@@ -12452,8 +12448,7 @@
         "SummarizedExperiment"
     ],
     "RVS": [
-        "gRain",
-        "gRbase"
+        "gRain"
     ],
     "safe": [
         "AnnotationDbi",
@@ -13959,9 +13954,7 @@
         "AnnotationFilter",
         "viridis"
     ],
-    "SPONGE": [
-        "gRbase"
-    ],
+    "SPONGE": [],
     "spqn": [
         "SummarizedExperiment",
         "GenomicRanges"
@@ -16327,7 +16320,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "gRbase": [],
     "phylobase": [],
     "cobs": [],
     "colortools": [],
@@ -16622,9 +16614,7 @@
     ],
     "sparsebn": [],
     "loose.rock": [],
-    "gRain": [
-        "gRbase"
-    ],
+    "gRain": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures",
         "AnnotationDbi",
