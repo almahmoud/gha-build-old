@@ -1739,7 +1739,6 @@
         "SingleCellExperiment",
         "cowplot",
         "drc",
-        "flowCore",
         "FlowSOM",
         "ggrepel",
         "ggridges",
@@ -2016,7 +2015,6 @@
         "mice",
         "multcomp",
         "SummarizedExperiment",
-        "flowCore",
         "FlowSOM",
         "nloptr",
         "GenomicRanges",
@@ -2677,7 +2675,6 @@
         "GenomicRanges"
     ],
     "cmapR": [
-        "flowCore",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -2979,7 +2976,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowCore",
         "flowClust",
         "flowMeans",
         "flowMerge",
@@ -3369,7 +3365,6 @@
         "BSgenome"
     ],
     "cyanoFilter": [
-        "flowCore",
         "flowDensity",
         "flowClust",
         "cytometree",
@@ -3395,13 +3390,10 @@
         "SingleCellExperiment",
         "viridis",
         "SummarizedExperiment",
-        "flowCore",
         "BiocNeighbors",
         "GenomicRanges"
     ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
@@ -3411,7 +3403,6 @@
         "mbest",
         "ggrepel",
         "caret",
-        "flowCore",
         "FlowSOM",
         "lme4",
         "multcomp",
@@ -3477,7 +3468,6 @@
         "GenomicRanges"
     ],
     "CytoML": [
-        "flowCore",
         "flowWorkspace",
         "openCyto",
         "ggcyto",
@@ -3494,7 +3484,6 @@
         "FlowSOM",
         "destiny",
         "flowUtils",
-        "flowCore",
         "sva",
         "BiocNeighbors",
         "scatterpie",
@@ -3712,7 +3701,6 @@
     ],
     "dcGSA": [],
     "ddPCRclust": [
-        "flowCore",
         "flowDensity",
         "flowViz",
         "car",
@@ -4116,7 +4104,6 @@
         "Biostrings"
     ],
     "diffcyt": [
-        "flowCore",
         "FlowSOM",
         "SummarizedExperiment",
         "lme4",
@@ -5476,36 +5463,24 @@
         "ggrepel",
         "ScaledMatrix"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowcatchR": [
         "plotly"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
+    "flowCHIC": [],
     "flowCL": [
         "SPARQL"
     ],
-    "flowClean": [
-        "flowCore"
-    ],
+    "flowClean": [],
     "flowClust": [
-        "flowViz",
-        "flowCore"
+        "flowViz"
     ],
-    "flowCore": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "flowViz",
         "car",
@@ -5520,7 +5495,6 @@
         "viridis"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz",
         "car",
         "RFOC",
@@ -5534,26 +5508,19 @@
         "viridis"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGraph": [
         "ggiraph",
         "ggrepel"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
     "flowPloidy": [
-        "flowCore",
         "car",
         "pbkrtest",
         "lme4",
@@ -5561,7 +5528,6 @@
     ],
     "FlowSOM": [
         "CytoML",
-        "flowCore",
         "flowWorkspace",
         "ggforce",
         "ggnewscale",
@@ -5588,11 +5554,8 @@
         "rainbow",
         "hdrcde"
     ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowSpecs": [],
     "flowStats": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow",
         "flowViz",
@@ -5601,22 +5564,14 @@
         "rainbow",
         "hdrcde"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
-        "flowCore",
         "flowViz",
         "flowClust"
     ],
-    "flowUtils": [
-        "flowCore"
-    ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowUtils": [],
+    "flowViz": [],
     "flowVS": [
-        "flowCore",
         "flowViz",
         "flowStats",
         "flowWorkspace",
@@ -5627,7 +5582,6 @@
         "hdrcde"
     ],
     "flowWorkspace": [
-        "flowCore",
         "ncdfFlow"
     ],
     "fmcsR": [
@@ -5806,7 +5760,6 @@
         "GenomicAlignments"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -6300,7 +6253,6 @@
         "viridis"
     ],
     "ggcyto": [
-        "flowCore",
         "ncdfFlow",
         "flowWorkspace"
     ],
@@ -7223,16 +7175,13 @@
     "ImmuneSpaceR": [
         "plotly",
         "heatmaply",
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow",
         "viridis",
         "dendextend",
         "egg"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "immunotation": [],
     "INDEED": [
         "devtools",
@@ -7246,9 +7195,7 @@
         "multcomp",
         "GenomicRanges"
     ],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "GenomicRanges",
         "AnnotationDbi",
@@ -8387,7 +8334,6 @@
         "GenomicAlignments"
     ],
     "MetaCyto": [
-        "flowCore",
         "FlowSOM",
         "CytoML",
         "flowWorkspace",
@@ -10128,9 +10074,7 @@
         "lme4",
         "nloptr"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "xcms",
         "MSnbase",
@@ -10548,8 +10492,7 @@
         "nloptr"
     ],
     "oneSENSE": [
-        "plotly",
-        "flowCore"
+        "plotly"
     ],
     "onlineFDR": [],
     "ontoProc": [
@@ -10559,7 +10502,6 @@
         "Biostrings"
     ],
     "openCyto": [
-        "flowCore",
         "flowViz",
         "ncdfFlow",
         "flowWorkspace",
@@ -10622,8 +10564,7 @@
         "rcmdcheck"
     ],
     "optimalFlow": [
-        "flowMeans",
-        "flowCore"
+        "flowMeans"
     ],
     "OPWeight": [
         "qvalue"
@@ -10916,7 +10857,6 @@
         "SummarizedExperiment"
     ],
     "PeacoQC": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -13470,7 +13410,6 @@
     "scDataviz": [
         "SingleCellExperiment",
         "ggrepel",
-        "flowCore",
         "umap",
         "Seurat",
         "cowplot",
@@ -13635,9 +13574,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "Sconify": [],
     "SCOPE": [
         "GenomicRanges",
         "Rsamtools",
@@ -15815,7 +15752,6 @@
         "diffcyt",
         "lme4",
         "multcomp",
-        "flowCore",
         "FlowSOM",
         "SummarizedExperiment",
         "aplot",
