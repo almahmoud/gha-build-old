@@ -4200,7 +4200,6 @@
         "IRkernel",
         "IRdisplay",
         "survival",
-        "repr",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -4865,7 +4864,6 @@
         "ggtree",
         "survival",
         "XVector",
-        "repr",
         "broom",
         "car",
         "ggfun",
@@ -9035,8 +9033,7 @@
         "pcaPP",
         "base64url",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "DEGreport": [
         "broom",
@@ -12376,8 +12373,7 @@
         "scales",
         "base64url",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "FELLA": [
         "igraph",
@@ -22045,8 +22041,7 @@
         "futile.logger",
         "base64url",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "mogsa": [
         "graphite",
@@ -23819,8 +23814,7 @@
         "Rgraphviz",
         "base64url",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "ncRNAtools": [
         "ggplot2",
@@ -28984,8 +28978,7 @@
     "RCy3": [
         "base64url",
         "IRkernel",
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
     "RCyjs": [
         "BrowserViz",
@@ -29454,7 +29447,6 @@
         "BiocIO",
         "shiny",
         "DT",
-        "repr",
         "interp",
         "restfulr",
         "futile.logger",
@@ -36944,7 +36936,6 @@
         "ggtree",
         "GenomeInfoDb",
         "XVector",
-        "repr",
         "httpuv",
         "DelayedArray",
         "ggfun",
@@ -37481,8 +37472,7 @@
         "IRdisplay",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "repr"
+        "GenomeInfoDb"
     ],
     "TransView": [
         "GenomicRanges",
@@ -41283,13 +41273,9 @@
     ],
     "base64url": [],
     "IRkernel": [
-        "repr",
         "IRdisplay"
     ],
-    "IRdisplay": [
-        "repr"
-    ],
-    "repr": [],
+    "IRdisplay": [],
     "rapportools": [
         "reshape2"
     ],
