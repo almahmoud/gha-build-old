@@ -551,7 +551,6 @@
         "reshape",
         "scales",
         "igraph",
-        "rARPACK",
         "cellranger",
         "Rfast",
         "rvest",
@@ -8101,7 +8100,6 @@
         "scales",
         "igraph",
         "tidyr",
-        "rARPACK",
         "ggrepel",
         "BiocParallel",
         "futile.logger"
@@ -19194,7 +19192,6 @@
         "dplyr",
         "tidyr",
         "reshape2",
-        "rARPACK",
         "ggrepel",
         "BiocParallel",
         "futile.logger",
@@ -20385,7 +20382,6 @@
         "TFisher",
         "mutoss",
         "qqconf",
-        "rARPACK",
         "ggrepel",
         "reactome.db",
         "graphite",
@@ -23623,7 +23619,6 @@
         "tidygraph",
         "graphlayouts",
         "survival",
-        "rARPACK",
         "BiocParallel",
         "mzR",
         "MsCoreUtils",
@@ -28593,7 +28588,6 @@
         "mixtools",
         "rhdf5",
         "RUVSeq",
-        "rARPACK",
         "SingleCellExperiment",
         "futile.logger",
         "survival",
@@ -31261,7 +31255,6 @@
         "ggforce",
         "labelled",
         "survival",
-        "rARPACK",
         "dplyr",
         "tidyr",
         "tweenr",
@@ -32500,7 +32493,6 @@
         "scales",
         "igraph",
         "reshape2",
-        "rARPACK",
         "BiocParallel",
         "futile.logger"
     ],
@@ -35026,7 +35018,6 @@
         "selectr"
     ],
     "pcaPP": [],
-    "rARPACK": [],
     "cellranger": [],
     "itertools": [],
     "ptw": [
@@ -39096,12 +39087,9 @@
         "survival"
     ],
     "dml": [
-        "lfda",
-        "rARPACK"
+        "lfda"
     ],
-    "lfda": [
-        "rARPACK"
-    ],
+    "lfda": [],
     "MLmetrics": [
         "ROCR"
     ],
