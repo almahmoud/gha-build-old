@@ -691,7 +691,6 @@
         "GOSemSim",
         "DO.db",
         "car",
-        "ggraph",
         "graphite",
         "pbkrtest",
         "scatterpie",
@@ -1263,7 +1262,6 @@
         "Hmisc",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -1289,9 +1287,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "ceRNAnetsim": [
-        "ggraph"
-    ],
+    "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
         "DESeq2",
@@ -1306,7 +1302,6 @@
         "rstatix",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "car",
@@ -1494,7 +1489,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "KEGGREST",
         "DOSE",
-        "ggraph",
         "scatterpie",
         "GOSemSim",
         "ggtree",
@@ -1594,9 +1588,7 @@
         "VariantAnnotation",
         "AnnotationFilter"
     ],
-    "CIMICE": [
-        "ggraph"
-    ],
+    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "rtracklayer",
@@ -1619,7 +1611,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "scran",
-        "ggraph",
         "scuttle",
         "bluster"
     ],
@@ -1671,7 +1662,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -1857,7 +1847,6 @@
         "scuttle",
         "bluster",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "car",
@@ -2295,7 +2284,6 @@
         "missMDA",
         "pbkrtest",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "rstatix",
@@ -2318,7 +2306,6 @@
     ],
     "dce": [
         "tidyverse",
-        "ggraph",
         "CombinePValue",
         "epiNEM",
         "metap",
@@ -2356,7 +2343,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "dendextend"
@@ -2856,7 +2842,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -2960,7 +2945,6 @@
     ],
     "enrichplot": [
         "DOSE",
-        "ggraph",
         "scatterpie",
         "GOSemSim",
         "ggtree",
@@ -2988,7 +2972,6 @@
         "CNEr",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "car",
@@ -3062,7 +3045,6 @@
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "reactome.db",
         "graphite",
         "Hmisc",
@@ -3193,7 +3175,6 @@
         "GenomicAlignments",
         "CNEr",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -3297,7 +3278,6 @@
         "enrichplot",
         "GOSemSim",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -3339,7 +3319,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -3469,9 +3448,7 @@
         "fds"
     ],
     "flowWorkspace": [],
-    "fobitools": [
-        "ggraph"
-    ],
+    "fobitools": [],
     "FoldGO": [
         "topGO",
         "GO.db",
@@ -3619,7 +3596,6 @@
         "DO.db",
         "KEGGREST",
         "ggpubr",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "rstatix",
@@ -3897,7 +3873,6 @@
         "flowWorkspace"
     ],
     "ggmsa": [
-        "R4RNA",
         "seqmagick"
     ],
     "GGPA": [],
@@ -4481,7 +4456,6 @@
         "scuttle",
         "cytomapper",
         "SingleCellExperiment",
-        "ggraph",
         "DropletUtils"
     ],
     "IMMAN": [
@@ -4625,7 +4599,6 @@
         "SingleCellExperiment",
         "clusterProfiler",
         "ggpubr",
-        "ggraph",
         "scater",
         "scran",
         "KEGGREST",
@@ -4940,7 +4913,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "KEGGREST",
@@ -5146,7 +5118,6 @@
         "MeSHDbi",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "GO.db"
@@ -5379,7 +5350,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "FDb.InfiniumMethylation.hg19",
@@ -5465,7 +5435,6 @@
     "miaViz": [
         "TreeSummarizedExperiment",
         "mia",
-        "ggraph",
         "scater",
         "ggtree",
         "SingleCellExperiment",
@@ -5511,7 +5480,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "KEGGREST",
@@ -5537,8 +5505,7 @@
         "genefilter"
     ],
     "miloR": [
-        "SingleCellExperiment",
-        "ggraph"
+        "SingleCellExperiment"
     ],
     "mimager": [
         "affyPLM",
@@ -5659,7 +5626,6 @@
         "enrichplot",
         "GOSemSim",
         "DO.db",
-        "ggraph",
         "reactome.db",
         "graphite",
         "scatterpie",
@@ -5675,7 +5641,6 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "ggraph",
         "reactome.db",
         "graphite",
         "KEGGREST",
@@ -5817,7 +5782,6 @@
         "DO.db",
         "biomaRt",
         "KEGGREST",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -6027,7 +5991,6 @@
         "GOSemSim",
         "genefilter",
         "geneplotter",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "reactome.db",
@@ -6234,7 +6197,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -6679,7 +6641,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -6758,7 +6719,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "ggraph",
         "reactome.db",
         "graphite",
         "Hmisc",
@@ -6845,7 +6805,6 @@
     "polyester": [],
     "POMA": [
         "caret",
-        "ggraph",
         "recipes"
     ],
     "PoTRA": [
@@ -7002,7 +6961,6 @@
         "KEGGREST",
         "ShortRead",
         "DOSE",
-        "ggraph",
         "scatterpie",
         "GOSemSim",
         "ggtree",
@@ -7068,7 +7026,6 @@
         "missMDA",
         "pbkrtest",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "rstatix",
@@ -7238,7 +7195,6 @@
         "KEGGREST"
     ],
     "QSutils": [],
-    "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
         "minfi",
@@ -7304,7 +7260,6 @@
         "GenomicFeatures",
         "KEGGREST"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
@@ -7401,7 +7356,6 @@
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
-        "ggraph",
         "reactome.db",
         "graphite",
         "KEGGREST",
@@ -7948,7 +7902,6 @@
         "ShortRead",
         "GenomicFeatures",
         "pbkrtest",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "biomaRt",
@@ -8217,7 +8170,6 @@
         "recipes"
     ],
     "scClassify": [
-        "ggraph",
         "Cepo",
         "GSEABase",
         "SingleCellExperiment",
@@ -8397,7 +8349,6 @@
         "AnnotationForge",
         "dendextend",
         "enrichplot",
-        "ggraph",
         "graphite",
         "scatterpie",
         "ggtree"
@@ -8415,7 +8366,6 @@
         "clustree",
         "scran",
         "epivizrData",
-        "ggraph",
         "scater",
         "SingleCellExperiment",
         "bumphunter",
@@ -8447,7 +8397,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "KEGGREST",
         "DOSE",
-        "ggraph",
         "scatterpie",
         "GOSemSim",
         "ggtree",
@@ -8476,7 +8425,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "SELEX": [],
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
@@ -8618,7 +8566,6 @@
         "GOSemSim",
         "DO.db",
         "AnnotationHub",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -8962,7 +8909,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "DO.db"
@@ -9091,7 +9037,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "DO.db"
@@ -9306,7 +9251,6 @@
         "KEGGREST",
         "sesameData",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree",
         "rstatix",
@@ -9420,7 +9364,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "ggraph",
         "scatterpie",
         "ggtree"
     ],
@@ -9922,7 +9865,6 @@
     "vissE": [
         "GSEABase",
         "msigdb",
-        "ggraph",
         "AnnotationDbi",
         "ExperimentHub",
         "org.Mm.eg.db",
@@ -10299,7 +10241,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "ggraph": [],
     "scatterpie": [],
     "rms": [
         "Hmisc"
@@ -10907,9 +10848,7 @@
     ],
     "nnTensor": [],
     "ccTensor": [],
-    "clustree": [
-        "ggraph"
-    ],
+    "clustree": [],
     "celldex": [
         "ExperimentHub",
         "AnnotationHub",
