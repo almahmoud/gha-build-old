@@ -513,9 +513,7 @@
         "KEGGREST"
     ],
     "bamsignals": [],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "banocc": [],
     "barcodetrackR": [],
     "basecallQC": [
@@ -2733,7 +2731,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "scuttle"
@@ -4620,7 +4617,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "BSgenome",
-        "DRIMSeq",
         "rtracklayer",
         "tximeta",
         "Rsamtools",
