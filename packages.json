@@ -974,7 +974,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -1933,7 +1932,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix"
     ],
@@ -2996,7 +2994,6 @@
         "caret",
         "GenomicRanges",
         "recipes",
-        "spatstat.core",
         "spatstat.linnet",
         "ipred",
         "prodlim"
@@ -4251,7 +4248,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "BiocNeighbors"
     ],
@@ -7543,7 +7539,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix",
         "DO.db",
@@ -7848,7 +7843,6 @@
     ],
     "lisaClust": [
         "concaveman",
-        "spatstat.core",
         "spicyR",
         "lmerTest",
         "lme4",
@@ -10273,7 +10267,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges"
     ],
     "nempi": [
@@ -11150,7 +11143,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "car",
         "pbkrtest",
@@ -11331,7 +11323,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ScaledMatrix"
     ],
@@ -13428,7 +13419,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges",
         "tfruns"
@@ -13482,7 +13472,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "KEGGREST",
         "ipred",
@@ -13546,7 +13535,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -13567,8 +13555,7 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "scClassifR": [
         "Seurat",
@@ -13583,7 +13570,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "GenomicRanges",
         "ipred",
         "prodlim"
@@ -13618,7 +13604,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13697,7 +13682,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -13715,8 +13699,7 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -13955,7 +13938,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ggfun",
         "ggplotify",
         "treeio"
@@ -13981,7 +13963,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "Biostrings"
     ],
     "scTHI": [],
@@ -14017,7 +13998,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ScaledMatrix",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14511,7 +14491,6 @@
         "patchwork",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
@@ -14776,7 +14755,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "spatstat.core",
         "ScaledMatrix"
     ],
     "sparrow": [
@@ -14919,7 +14897,6 @@
     "SPIA": [],
     "spicyR": [
         "concaveman",
-        "spatstat.core",
         "lmerTest",
         "lme4",
         "nloptr"
@@ -17114,13 +17091,11 @@
         "patchwork",
         "plotly",
         "scattermore",
-        "sctransform",
-        "spatstat.core"
+        "sctransform"
     ],
     "patchwork": [],
     "scattermore": [],
     "sctransform": [],
-    "spatstat.core": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
@@ -17583,18 +17558,14 @@
         "spatstat",
         "caret",
         "recipes",
-        "spatstat.core",
         "spatstat.linnet",
         "ipred",
         "prodlim"
     ],
     "spatstat": [
-        "spatstat.core",
         "spatstat.linnet"
     ],
-    "spatstat.linnet": [
-        "spatstat.core"
-    ],
+    "spatstat.linnet": [],
     "contrast": [
         "rms",
         "Hmisc",
