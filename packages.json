@@ -174,7 +174,6 @@
         "GenomeInfoDb"
     ],
     "ADImpute": [
-        "checkmate",
         "BiocParallel",
         "SAVER",
         "SingleCellExperiment",
@@ -269,8 +268,7 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "restfulr",
-        "checkmate"
+        "restfulr"
     ],
     "affyILM": [
         "gcrma",
@@ -369,8 +367,7 @@
         "biomaRt",
         "htmlTable",
         "viridis",
-        "restfulr",
-        "checkmate"
+        "restfulr"
     ],
     "airpart": [
         "SingleCellExperiment",
@@ -383,7 +380,6 @@
         "forestplot",
         "GenomicRanges",
         "IRanges",
-        "checkmate",
         "scales",
         "scuttle",
         "DelayedArray",
@@ -457,8 +453,7 @@
         "survival",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "AlphaBeta": [
         "expm",
@@ -959,7 +954,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "scales",
-        "checkmate",
         "DelayedArray"
     ],
     "arrayMvout": [
@@ -1023,8 +1017,7 @@
         "XVector",
         "Biostrings",
         "GenomeInfoDb",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "artMS": [
         "AnnotationDbi",
@@ -1042,7 +1035,6 @@
         "IRanges",
         "KEGGREST",
         "MSstatsConvert",
-        "checkmate",
         "lme4",
         "survival",
         "futile.logger",
@@ -1113,7 +1105,6 @@
         "htmlTable",
         "viridis",
         "testthat",
-        "checkmate",
         "callr"
     ],
     "ASpli": [
@@ -1149,8 +1140,7 @@
         "DelayedArray",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "AssessORF": [
         "DECIPHER",
@@ -1436,7 +1426,6 @@
         "loo",
         "pkgbuild",
         "scales",
-        "checkmate",
         "callr"
     ],
     "barcodetrackR": [
@@ -1941,8 +1930,7 @@
         "viridis",
         "GenomicRanges",
         "GenomeInfoDb",
-        "XVector",
-        "checkmate"
+        "XVector"
     ],
     "BindingSiteFinder": [
         "GenomicRanges",
@@ -2022,7 +2010,6 @@
         "ggrepel",
         "tidygraph",
         "graphlayouts",
-        "checkmate",
         "Biostrings",
         "ggfun",
         "ggplotify",
@@ -2229,7 +2216,6 @@
         "IRanges",
         "KEGGREST",
         "viridis",
-        "checkmate",
         "TH.data",
         "Biostrings",
         "XVector",
@@ -2268,8 +2254,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "BioNERO": [
         "WGCNA",
@@ -2315,7 +2300,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "checkmate",
         "Biostrings",
         "nloptr",
         "testthat",
@@ -2350,7 +2334,6 @@
         "org.Hs.eg.db",
         "KEGGREST",
         "IRanges",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -2392,8 +2375,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "biotmle": [
         "ggplot2",
@@ -2446,7 +2428,6 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "checkmate",
         "restfulr"
     ],
     "BiRewire": [
@@ -2706,7 +2687,6 @@
         "htmlTable",
         "viridis",
         "restfulr",
-        "checkmate",
         "RBGL",
         "DelayedArray"
     ],
@@ -2868,7 +2848,6 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "checkmate",
         "restfulr"
     ],
     "BUMHMM": [
@@ -2998,8 +2977,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "CAGEfightR": [
         "GenomicRanges",
@@ -3036,8 +3014,7 @@
         "AnnotationFilter",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "cageminer": [
         "ggplot2",
@@ -3098,7 +3075,6 @@
         "restfulr",
         "DelayedArray",
         "GO.db",
-        "checkmate",
         "broom",
         "car",
         "pbkrtest",
@@ -3149,7 +3125,6 @@
         "MsFeatures",
         "futile.logger",
         "scales",
-        "checkmate",
         "vsn",
         "affy",
         "pcaMethods",
@@ -3181,7 +3156,6 @@
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
-        "checkmate",
         "Biostrings",
         "pcaPP",
         "XVector",
@@ -3603,7 +3577,6 @@
         "quantreg",
         "lme4",
         "scales",
-        "checkmate",
         "nloptr",
         "broom",
         "testthat",
@@ -3718,7 +3691,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
@@ -4011,7 +3983,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "checkmate",
         "affy",
         "FDb.InfiniumMethylation.hg19",
         "multtest",
@@ -4054,8 +4025,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "chimeraviz": [
         "Biostrings",
@@ -4072,7 +4042,6 @@
         "org.Mm.eg.db",
         "Rgraphviz",
         "BiocStyle",
-        "checkmate",
         "KEGGREST",
         "XVector",
         "GenomicFeatures",
@@ -4161,7 +4130,6 @@
         "BiocParallel",
         "scales",
         "viridis",
-        "checkmate",
         "TH.data",
         "futile.logger",
         "DelayedArray"
@@ -4196,7 +4164,6 @@
         "htmlTable",
         "DelayedArray",
         "BSgenome",
-        "checkmate",
         "restfulr"
     ],
     "ChIPpeakAnno": [
@@ -4586,8 +4553,7 @@
         "futile.logger",
         "survival",
         "htmlTable",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "CIMICE": [
         "ggplot2",
@@ -5041,8 +5007,7 @@
         "survival",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "CNVgears": [
         "ggplot2",
@@ -5091,8 +5056,7 @@
         "futile.logger",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "CNVPanelizer": [
         "GenomicRanges",
@@ -5324,8 +5288,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "compartmap": [
         "SummarizedExperiment",
@@ -5503,7 +5466,6 @@
         "htmlTable",
         "pcaPP",
         "viridis",
-        "checkmate",
         "TH.data"
     ],
     "consensus": [],
@@ -5697,8 +5659,7 @@
         "survival",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "CopywriteR": [
         "BiocParallel",
@@ -5732,7 +5693,6 @@
         "piano",
         "BiocParallel",
         "BumpyMatrix",
-        "checkmate",
         "futile.logger",
         "IRanges",
         "GenomicRanges",
@@ -6061,7 +6021,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -6182,8 +6141,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -6615,7 +6573,6 @@
         "quantreg",
         "BiocIO",
         "rtracklayer",
-        "checkmate",
         "nloptr",
         "hardhat",
         "ipred",
@@ -6792,7 +6749,6 @@
         "viridis",
         "graphlayouts",
         "AnnotationDbi",
-        "checkmate",
         "TFisher",
         "mutoss",
         "Linnorm",
@@ -7123,7 +7079,6 @@
         "futile.logger"
     ],
     "DEFormats": [
-        "checkmate",
         "DESeq2",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -7351,7 +7306,6 @@
         "viridis",
         "restfulr",
         "scales",
-        "checkmate",
         "DelayedArray",
         "BSgenome"
     ],
@@ -7396,8 +7350,7 @@
         "viridis",
         "RBGL",
         "restfulr",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "DEScan2": [
         "GenomicRanges",
@@ -7631,7 +7584,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings"
     ],
     "diffcyt": [
@@ -7732,7 +7684,6 @@
         "DelayedArray"
     ],
     "diffuStats": [
-        "checkmate",
         "expm",
         "igraph",
         "precrec",
@@ -8016,8 +7967,7 @@
         "multtest",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "DMRforPairs": [
         "Gviz",
@@ -8049,8 +7999,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "DMRScan": [
         "GenomicRanges",
@@ -8634,7 +8583,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "checkmate",
         "nloptr",
         "testthat",
         "callr"
@@ -8715,7 +8663,6 @@
         "sparseMatrixStats",
         "rhdf5",
         "viridis",
-        "checkmate",
         "TH.data",
         "multtest",
         "KEGGREST",
@@ -8781,7 +8728,6 @@
         "pathview",
         "safe",
         "IRanges",
-        "checkmate",
         "Biostrings",
         "org.Hs.eg.db",
         "GenomicRanges",
@@ -9087,7 +9033,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "checkmate",
         "htmlTable",
         "ggfun",
         "ggplotify",
@@ -9700,7 +9645,6 @@
         "KEGGREST",
         "broom",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -10005,8 +9949,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "checkmate"
+        "XVector"
     ],
     "FLAMES": [
         "basilisk",
@@ -10382,7 +10325,6 @@
         "rhdf5",
         "Rsubread",
         "KEGGREST",
-        "checkmate",
         "futile.logger",
         "Biostrings",
         "rtracklayer",
@@ -10622,7 +10564,6 @@
         "quantreg",
         "BiocIO",
         "rtracklayer",
-        "checkmate",
         "nloptr",
         "hardhat",
         "ipred",
@@ -11017,8 +10958,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "geNetClassifier": [],
     "GeneticsPed": [],
@@ -11187,7 +11127,6 @@
         "biomaRt"
     ],
     "genomicInstability": [
-        "checkmate",
         "mixtools",
         "SummarizedExperiment",
         "survival",
@@ -11229,8 +11168,7 @@
         "DelayedArray",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "GenomicOZone": [
         "GenomicRanges",
@@ -11265,8 +11203,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "GenomicRanges": [
         "IRanges",
@@ -11356,7 +11293,6 @@
         "loo",
         "pkgbuild",
         "scales",
-        "checkmate",
         "callr"
     ],
     "GenVisR": [
@@ -11558,8 +11494,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "ggcyto": [
         "ggplot2",
@@ -11675,7 +11610,6 @@
         "viridis",
         "TH.data",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -11831,8 +11765,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "gmoviz": [
         "GenomicRanges",
@@ -12093,7 +12026,6 @@
     ],
     "graphite": [
         "AnnotationDbi",
-        "checkmate",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -12231,7 +12163,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "checkmate",
         "Biostrings",
         "org.Hs.eg.db"
     ],
@@ -12422,8 +12353,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "GWAS.BAYES": [
         "caret",
@@ -12525,7 +12455,6 @@
         "XVector",
         "htmlTable",
         "viridis",
-        "checkmate",
         "Biostrings"
     ],
     "h5vc": [
@@ -12539,7 +12468,6 @@
         "BatchJobs",
         "GenomeInfoDb",
         "BBmisc",
-        "checkmate",
         "futile.logger",
         "XVector",
         "scales"
@@ -12672,8 +12600,7 @@
         "AnnotationFilter",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "hierGWAS": [
         "glmnet",
@@ -12928,8 +12855,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "Icens": [
         "survival"
@@ -13148,7 +13074,6 @@
         "DelayedArray",
         "XVector",
         "scales",
-        "checkmate",
         "callr"
     ],
     "igvR": [
@@ -13491,8 +13416,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "interacCircos": [],
     "InteractionSet": [
@@ -13631,7 +13555,6 @@
         "htmlTable",
         "scales",
         "viridis",
-        "checkmate",
         "TH.data"
     ],
     "IONiseR": [
@@ -13722,8 +13645,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "checkmate"
+        "XVector"
     ],
     "IRanges": [],
     "IRISFGM": [
@@ -14107,8 +14029,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "KCsmart": [
         "siggenes",
@@ -14207,7 +14128,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "checkmate",
         "hardhat",
         "ipred",
         "IRanges",
@@ -14426,8 +14346,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "checkmate"
+        "XVector"
     ],
     "loci2path": [
         "pheatmap",
@@ -14579,7 +14498,6 @@
         "rstan",
         "rstantools",
         "scales",
-        "checkmate",
         "loo",
         "pkgbuild",
         "callr"
@@ -14880,7 +14798,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "checkmate",
         "prodlim",
         "miniUI",
         "styler",
@@ -14975,8 +14892,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "maSigPro": [],
     "maskBAD": [
@@ -15027,7 +14943,6 @@
         "reticulate",
         "affy",
         "XVector",
-        "checkmate",
         "RcppTOML"
     ],
     "MatrixRider": [
@@ -15136,8 +15051,7 @@
         "viridis",
         "Biostrings",
         "XVector",
-        "GenomeInfoDb",
-        "checkmate"
+        "GenomeInfoDb"
     ],
     "mCSEA": [
         "Homo.sapiens",
@@ -15176,8 +15090,7 @@
         "restfulr",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "mdp": [
         "ggplot2",
@@ -15254,8 +15167,7 @@
         "multtest",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "MEAT": [
         "glmnet",
@@ -15573,7 +15485,6 @@
         "htmlTable",
         "viridis",
         "DelayedArray",
-        "checkmate",
         "nloptr",
         "broom",
         "BiocParallel",
@@ -15704,8 +15615,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "checkmate"
+        "XVector"
     ],
     "MetaNeighbor": [
         "SummarizedExperiment",
@@ -16793,8 +16703,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "expm",
-        "checkmate"
+        "expm"
     ],
     "MineICA": [
         "ggplot2",
@@ -16828,7 +16737,6 @@
         "Biostrings",
         "BiocIO",
         "rtracklayer",
-        "checkmate",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
         "SummarizedExperiment",
@@ -16992,7 +16900,6 @@
         "KEGGREST",
         "XVector",
         "scales",
-        "checkmate",
         "partykit",
         "selectr",
         "Biostrings"
@@ -17071,7 +16978,6 @@
         "XVector",
         "scales",
         "htmlTable",
-        "checkmate",
         "fields",
         "ggraph",
         "reactome.db",
@@ -17129,7 +17035,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "checkmate",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -17415,7 +17320,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -17456,7 +17360,6 @@
         "GSEABase",
         "AnnotationDbi",
         "survival",
-        "checkmate",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -17619,8 +17522,7 @@
         "AnnotationFilter",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "motifcounter": [
         "Biostrings",
@@ -17804,8 +17706,7 @@
         "htmlTable",
         "viridis",
         "RBGL",
-        "restfulr",
-        "checkmate"
+        "restfulr"
     ],
     "MSGFgui": [
         "mzR",
@@ -17964,7 +17865,6 @@
     ],
     "MSstats": [
         "MSstatsConvert",
-        "checkmate",
         "lme4",
         "survival",
         "ggplot2",
@@ -17974,16 +17874,13 @@
         "testthat",
         "callr"
     ],
-    "MSstatsConvert": [
-        "checkmate"
-    ],
+    "MSstatsConvert": [],
     "MSstatsLiP": [
         "ggplot2",
         "MSstats",
         "MSstatsConvert",
         "Biostrings",
         "MSstatsPTM",
-        "checkmate",
         "factoextra",
         "ggpubr",
         "tidyverse",
@@ -18027,7 +17924,6 @@
         "MSstatsConvert",
         "MSstats",
         "Biostrings",
-        "checkmate",
         "ggrepel",
         "IRanges",
         "XVector",
@@ -18087,7 +17983,6 @@
         "recipes",
         "scales",
         "MSstatsConvert",
-        "checkmate",
         "lme4",
         "survival",
         "ggrepel",
@@ -18105,7 +18000,6 @@
         "ggplot2",
         "MSstats",
         "MSstatsConvert",
-        "checkmate",
         "scales",
         "nloptr",
         "survival",
@@ -18200,8 +18094,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "tfautograph",
-        "checkmate"
+        "tfautograph"
     ],
     "MultiDataSet": [
         "GenomicRanges",
@@ -18223,7 +18116,6 @@
         "KEGGREST",
         "BiocParallel",
         "ggplot2",
-        "checkmate",
         "TFisher",
         "mutoss",
         "futile.logger",
@@ -18341,7 +18233,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "checkmate",
         "multtest",
         "multcomp",
         "hardhat",
@@ -18517,7 +18408,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "checkmate",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -18604,7 +18494,6 @@
         "viridis",
         "KEGGREST",
         "scales",
-        "checkmate",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -18635,7 +18524,6 @@
         "BiocIO",
         "biomaRt",
         "scales",
-        "checkmate",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -18696,8 +18584,7 @@
         "TH.data",
         "quantreg",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "NanoMethViz": [
         "ggplot2",
@@ -18955,7 +18842,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -19082,8 +18968,7 @@
         "Biostrings",
         "XVector",
         "GenomeInfoDb",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "netSmooth": [
         "scater",
@@ -19165,7 +19050,6 @@
     "ngsReports": [
         "ggplot2",
         "Biostrings",
-        "checkmate",
         "ggdendro",
         "plotly",
         "scales",
@@ -19237,7 +19121,6 @@
         "viridis",
         "nloptr",
         "broom",
-        "checkmate",
         "testthat",
         "callr"
     ],
@@ -19406,7 +19289,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "checkmate",
         "callr",
         "gert",
         "BSgenome",
@@ -19530,7 +19412,6 @@
         "KEGGREST",
         "pbkrtest",
         "quantreg",
-        "checkmate",
         "testthat",
         "Biostrings",
         "callr"
@@ -19614,7 +19495,6 @@
         "scales"
     ],
     "OmnipathR": [
-        "checkmate",
         "igraph",
         "readxl"
     ],
@@ -19718,8 +19598,7 @@
         "GenomeInfoDb",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "openPrimeRui": [
         "openPrimeR",
@@ -19740,8 +19619,7 @@
         "GenomeInfoDb",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "OpenStats": [
         "Hmisc",
@@ -19756,7 +19634,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "checkmate",
         "pryr",
         "rapportools",
         "scales",
@@ -19988,7 +19865,6 @@
         "plotly",
         "pcaMethods",
         "scales",
-        "checkmate",
         "futile.logger",
         "genefilter",
         "geneplotter",
@@ -20168,8 +20044,7 @@
     ],
     "parglms": [
         "BatchJobs",
-        "BBmisc",
-        "checkmate"
+        "BBmisc"
     ],
     "PAST": [
         "qvalue",
@@ -20359,7 +20234,6 @@
         "futile.logger",
         "recipes",
         "BumpyMatrix",
-        "checkmate",
         "biomaRt",
         "iC10",
         "GenomicRanges",
@@ -20614,7 +20488,6 @@
         "BiocParallel",
         "ggplot2",
         "magicaxis",
-        "checkmate",
         "futile.logger",
         "piano",
         "BumpyMatrix",
@@ -20720,7 +20593,6 @@
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
-        "checkmate",
         "Biostrings",
         "pcaPP",
         "XVector",
@@ -20932,7 +20804,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "checkmate",
         "htmlTable",
         "ggfun",
         "ggplotify",
@@ -20982,8 +20853,7 @@
         "viridis",
         "pcaPP",
         "hdrcde",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "pipeComp": [
         "BiocParallel",
@@ -21121,7 +20991,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "checkmate",
         "broom",
         "car",
         "pbkrtest",
@@ -21251,7 +21120,6 @@
         "igraph",
         "graphite",
         "AnnotationDbi",
-        "checkmate",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -21287,7 +21155,6 @@
         "ggdist",
         "posterior",
         "distributional",
-        "checkmate",
         "callr"
     ],
     "PPInfer": [
@@ -21481,8 +21348,7 @@
         "GO.db",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "PrInCE": [
         "forecast",
@@ -21502,7 +21368,6 @@
         "pcaMethods",
         "scales",
         "futile.logger",
-        "checkmate",
         "quantmod",
         "xts",
         "TTR"
@@ -21576,7 +21441,6 @@
         "htmlTable",
         "nloptr",
         "affy",
-        "checkmate",
         "Biostrings",
         "testthat",
         "XVector",
@@ -21924,7 +21788,6 @@
     "ProteoDisco": [
         "BiocParallel",
         "Biostrings",
-        "checkmate",
         "cleaver",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -22041,7 +21904,6 @@
         "VariantAnnotation",
         "htmlTable",
         "viridis",
-        "checkmate",
         "BSgenome"
     ],
     "PSICQUIC": [
@@ -22093,7 +21955,6 @@
         "affy",
         "pcaMethods",
         "futile.logger",
-        "checkmate",
         "broom",
         "car",
         "pbkrtest",
@@ -22207,8 +22068,7 @@
         "viridis",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "PWMEnrich": [
         "Biostrings",
@@ -22351,7 +22211,6 @@
         "DelayedArray",
         "BSgenome",
         "futile.logger",
-        "checkmate",
         "restfulr"
     ],
     "qsea": [
@@ -22389,7 +22248,6 @@
         "AnnotationDbi",
         "XVector",
         "scales",
-        "checkmate",
         "KEGGREST",
         "Biostrings"
     ],
@@ -22531,7 +22389,6 @@
         "BiocParallel",
         "BiocIO",
         "biomaRt",
-        "checkmate",
         "RBGL",
         "restfulr",
         "DelayedArray",
@@ -22595,7 +22452,6 @@
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
-        "checkmate",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -22863,7 +22719,6 @@
         "basilisk",
         "reticulate",
         "base64url",
-        "checkmate",
         "futile.logger",
         "igraph",
         "influenceR",
@@ -22880,7 +22735,6 @@
         "basilisk",
         "reticulate",
         "base64url",
-        "checkmate",
         "futile.logger",
         "igraph",
         "influenceR",
@@ -22926,7 +22780,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "checkmate",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -23007,7 +22860,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "BSgenome"
     ],
     "recount3": [
@@ -23155,8 +23007,7 @@
         "XVector",
         "htmlTable",
         "viridis",
-        "Biostrings",
-        "checkmate"
+        "Biostrings"
     ],
     "regioneR": [
         "GenomicRanges",
@@ -23184,7 +23035,6 @@
         "GenomicRanges",
         "RefManageR",
         "SummarizedExperiment",
-        "checkmate",
         "AnnotationDbi",
         "BiocParallel",
         "bumphunter",
@@ -23259,8 +23109,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "REMP": [
         "SummarizedExperiment",
@@ -23375,8 +23224,7 @@
         "htmlTable",
         "viridis",
         "restfulr",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "RepViz": [
         "GenomicRanges",
@@ -23443,7 +23291,6 @@
         "broom",
         "pbkrtest",
         "quantreg",
-        "checkmate",
         "testthat",
         "callr"
     ],
@@ -23648,7 +23495,6 @@
         "DelayedArray",
         "loo",
         "pkgbuild",
-        "checkmate",
         "callr"
     ],
     "RiboProfiling": [
@@ -23684,8 +23530,7 @@
         "htmlTable",
         "viridis",
         "RBGL",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "ribor": [
         "ggplot2",
@@ -23780,8 +23625,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "Risa": [
         "biocViews",
@@ -24005,7 +23849,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "checkmate",
         "BSgenome"
     ],
     "RNAdecay": [
@@ -24097,8 +23940,7 @@
         "DelayedArray",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
@@ -24133,8 +23975,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
@@ -24169,8 +24010,7 @@
         "DelayedArray",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
@@ -24205,8 +24045,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "RNAsense": [
         "ggplot2",
@@ -24465,8 +24304,7 @@
         "viridis",
         "restfulr",
         "DelayedArray",
-        "BSgenome",
-        "checkmate"
+        "BSgenome"
     ],
     "rqt": [
         "SummarizedExperiment",
@@ -24727,8 +24565,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "rTRM": [
         "igraph",
@@ -25607,7 +25444,6 @@
         "densEstBayes",
         "rstan",
         "rstantools",
-        "checkmate",
         "loo",
         "pkgbuild",
         "callr"
@@ -25898,8 +25734,7 @@
         "survival",
         "htmlTable",
         "viridis",
-        "RBGL",
-        "checkmate"
+        "RBGL"
     ],
     "scry": [
         "DelayedArray",
@@ -25939,7 +25774,6 @@
         "GOstats",
         "ReactomePA",
         "DOSE",
-        "checkmate",
         "schex",
         "ggplot2",
         "IRanges",
@@ -26077,7 +25911,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggplot2",
-        "checkmate",
         "viridis",
         "tidygraph",
         "ggrepel",
@@ -26301,7 +26134,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings"
     ],
     "SeqArray": [
@@ -26626,7 +26458,6 @@
         "scales",
         "survival",
         "BBmisc",
-        "checkmate",
         "ggplot2",
         "parallelMap",
         "ape",
@@ -27020,7 +26851,6 @@
         "quantreg",
         "rstan",
         "rstantools",
-        "checkmate",
         "loo",
         "pkgbuild",
         "callr"
@@ -27258,7 +27088,6 @@
         "Biostrings",
         "BiocIO",
         "biomaRt",
-        "checkmate",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -27308,7 +27137,6 @@
     "SNPhood": [
         "GenomicRanges",
         "Rsamtools",
-        "checkmate",
         "DESeq2",
         "ggplot2",
         "GenomeInfoDb",
@@ -27404,8 +27232,7 @@
         "RBGL",
         "restfulr",
         "DelayedArray",
-        "futile.logger",
-        "checkmate"
+        "futile.logger"
     ],
     "SpacePAC": [
         "iPAC",
@@ -27470,7 +27297,6 @@
     "sparrow": [
         "BiocParallel",
         "BiocSet",
-        "checkmate",
         "ComplexHeatmap",
         "DelayedMatrixStats",
         "ggplot2",
@@ -27544,7 +27370,6 @@
     "spatialDE": [
         "reticulate",
         "basilisk",
-        "checkmate",
         "SpatialExperiment",
         "SummarizedExperiment",
         "ggplot2",
@@ -27653,7 +27478,6 @@
         "ggrepel",
         "ScaledMatrix",
         "sparseMatrixStats",
-        "checkmate",
         "Biostrings"
     ],
     "spatzie": [
@@ -27694,8 +27518,7 @@
         "AnnotationFilter",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "specL": [
         "seqinr"
@@ -27831,7 +27654,6 @@
     "splatter": [
         "SingleCellExperiment",
         "BiocParallel",
-        "checkmate",
         "fitdistrplus",
         "ggplot2",
         "scales",
@@ -27927,8 +27749,7 @@
         "DelayedArray",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "SPONGE": [
         "expm",
@@ -27976,8 +27797,7 @@
         "KEGGREST",
         "rhdf5",
         "XVector",
-        "GenomeInfoDb",
-        "checkmate"
+        "GenomeInfoDb"
     ],
     "sRACIPE": [
         "SummarizedExperiment",
@@ -28037,8 +27857,7 @@
         "downlit",
         "gert",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "sscore": [
         "affy"
@@ -28123,8 +27942,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "DelayedArray",
-        "checkmate"
+        "DelayedArray"
     ],
     "staRank": [
         "cellHTS2",
@@ -28155,7 +27973,6 @@
         "IRanges",
         "KEGGREST",
         "scales",
-        "checkmate",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
@@ -28533,7 +28350,6 @@
         "scales",
         "tweenr",
         "spacetime",
-        "checkmate",
         "fields",
         "broom",
         "googlesheets4",
@@ -28760,7 +28576,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "checkmate",
         "DelayedArray"
     ],
     "TBSignatureProfiler": [
@@ -28934,7 +28749,6 @@
         "tweenr",
         "htmlTable",
         "lava",
-        "checkmate",
         "nloptr",
         "testthat",
         "callr"
@@ -29187,7 +29001,6 @@
         "futile.logger",
         "AnnotationDbi",
         "XVector",
-        "checkmate",
         "KEGGREST",
         "Biostrings"
     ],
@@ -29260,7 +29073,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -29339,7 +29151,6 @@
         "ggplot2",
         "ggpubr",
         "survival",
-        "checkmate",
         "scales",
         "ggrepel",
         "ggsci",
@@ -29449,7 +29260,6 @@
         "MultiAssayExperiment",
         "piano",
         "BumpyMatrix",
-        "checkmate",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -29518,8 +29328,7 @@
         "survival",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "tradeSeq": [
         "SingleCellExperiment",
@@ -29840,7 +29649,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "scales",
-        "checkmate",
         "DelayedArray"
     ],
     "Trendy": [
@@ -30104,8 +29912,7 @@
         "restfulr",
         "survival",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "tweeDEseq": [
         "cqn",
@@ -30273,7 +30080,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "BiocIO",
-        "checkmate",
         "restfulr",
         "survival",
         "ggplot2",
@@ -30517,8 +30323,7 @@
         "survival",
         "ggplot2",
         "htmlTable",
-        "viridis",
-        "checkmate"
+        "viridis"
     ],
     "VariantTools": [
         "IRanges",
@@ -30899,7 +30704,6 @@
         "KEGGREST",
         "futile.logger",
         "SummarizedExperiment",
-        "checkmate",
         "DelayedArray"
     ],
     "webbioc": [
@@ -30973,7 +30777,6 @@
     "wppi": [
         "igraph",
         "OmnipathR",
-        "checkmate",
         "readxl"
     ],
     "Wrench": [],
@@ -31016,7 +30819,6 @@
         "ComplexHeatmap",
         "Rmisc",
         "PharmacoGx",
-        "checkmate",
         "IRanges",
         "CoreGx",
         "SummarizedExperiment",
@@ -31112,8 +30914,7 @@
         "futile.logger",
         "survival",
         "htmlTable",
-        "RBGL",
-        "checkmate"
+        "RBGL"
     ],
     "yarn": [
         "biomaRt",
@@ -31162,7 +30963,6 @@
         "XVector"
     ],
     "zFPKM": [
-        "checkmate",
         "ggplot2",
         "SummarizedExperiment",
         "scales",
@@ -31344,7 +31144,6 @@
         "xts"
     ],
     "xts": [],
-    "checkmate": [],
     "SAVER": [
         "glmnet",
         "survival"
@@ -31365,16 +31164,13 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "GGally": [
         "ggplot2",
         "scales"
     ],
-    "htmlTable": [
-        "checkmate"
-    ],
+    "htmlTable": [],
     "viridis": [
         "ggplot2",
         "scales"
@@ -31384,9 +31180,7 @@
         "glmnet",
         "survival"
     ],
-    "forestplot": [
-        "checkmate"
-    ],
+    "forestplot": [],
     "ggbeeswarm": [
         "ggplot2",
         "scales"
@@ -31862,12 +31656,9 @@
         "loo",
         "pkgbuild",
         "scales",
-        "checkmate",
         "callr"
     ],
-    "loo": [
-        "checkmate"
-    ],
+    "loo": [],
     "pkgbuild": [
         "callr"
     ],
@@ -32185,7 +31976,6 @@
         "htmlTable",
         "scales",
         "viridis",
-        "checkmate",
         "TH.data"
     ],
     "precrec": [
@@ -32215,7 +32005,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -32403,7 +32192,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "DelayedArray",
         "BSgenome"
     ],
@@ -33050,7 +32838,6 @@
         "htmlTable",
         "scales",
         "viridis",
-        "checkmate",
         "TH.data"
     ],
     "feature": [],
@@ -33545,8 +33332,7 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "partykit": [
         "survival"
@@ -33587,9 +33373,7 @@
         "prodlim",
         "lava"
     ],
-    "BBmisc": [
-        "checkmate"
-    ],
+    "BBmisc": [],
     "NHPoisson": [
         "car",
         "pbkrtest",
@@ -33719,8 +33503,7 @@
         "htmlTable",
         "viridis",
         "TH.data",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "sparsebn": [],
     "loose.rock": [],
@@ -33776,8 +33559,7 @@
     ],
     "yeastExpData": [],
     "BatchJobs": [
-        "BBmisc",
-        "checkmate"
+        "BBmisc"
     ],
     "R2jags": [
         "rjags"
@@ -33832,7 +33614,6 @@
         "htmlTable",
         "scales",
         "viridis",
-        "checkmate",
         "TH.data"
     ],
     "MCL": [
@@ -33907,7 +33688,6 @@
         "loo",
         "pkgbuild",
         "scales",
-        "checkmate",
         "callr"
     ],
     "densEstBayes": [
@@ -33917,7 +33697,6 @@
         "loo",
         "pkgbuild",
         "scales",
-        "checkmate",
         "callr"
     ],
     "rstantools": [],
@@ -34178,12 +33957,10 @@
         "ggwordcloud",
         "metR",
         "scales",
-        "checkmate",
         "fields",
         "viridis"
     ],
     "metR": [
-        "checkmate",
         "fields",
         "ggplot2",
         "scales",
@@ -34249,13 +34026,10 @@
         "DelayedArray"
     ],
     "sortable": [
-        "learnr",
-        "checkmate"
+        "learnr"
     ],
     "shinyjqui": [],
-    "learnr": [
-        "checkmate"
-    ],
+    "learnr": [],
     "ggalluvial": [
         "ggplot2",
         "scales"
@@ -34300,7 +34074,6 @@
         "htmlTable",
         "viridis",
         "scales",
-        "checkmate",
         "nloptr",
         "broom",
         "testthat",
@@ -34350,7 +34123,6 @@
         "callr"
     ],
     "summarytools": [
-        "checkmate",
         "pryr",
         "rapportools"
     ],
@@ -34442,8 +34214,7 @@
         "ggplot2",
         "posterior",
         "scales",
-        "distributional",
-        "checkmate"
+        "distributional"
     ],
     "ggdist": [
         "ggplot2",
@@ -34451,7 +34222,6 @@
         "distributional"
     ],
     "posterior": [
-        "checkmate",
         "distributional",
         "ggplot2",
         "scales"
@@ -34535,8 +34305,7 @@
     ],
     "rcellminerData": [],
     "batchtools": [
-        "base64url",
-        "checkmate"
+        "base64url"
     ],
     "neo4r": [
         "igraph"
@@ -34725,7 +34494,6 @@
     "tagcloud": [],
     "clustree": [
         "ggraph",
-        "checkmate",
         "igraph",
         "ggplot2",
         "viridis",
@@ -34749,19 +34517,16 @@
     "mlr": [
         "ParamHelpers",
         "BBmisc",
-        "checkmate",
         "ggplot2",
         "parallelMap",
         "survival",
         "scales"
     ],
     "ParamHelpers": [
-        "BBmisc",
-        "checkmate"
+        "BBmisc"
     ],
     "parallelMap": [
-        "BBmisc",
-        "checkmate"
+        "BBmisc"
     ],
     "celldex": [
         "SummarizedExperiment",
@@ -34923,8 +34688,7 @@
     ],
     "condformat": [
         "htmlTable",
-        "scales",
-        "checkmate"
+        "scales"
     ],
     "gradDescent": [],
     "msigdb": [
