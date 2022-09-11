@@ -265,7 +265,6 @@
         "Biostrings",
         "ShortRead",
         "GenomicRanges",
-        "waffle",
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -2795,7 +2794,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "cqn": [],
     "CRImage": [
         "aCGH"
     ],
@@ -3391,10 +3389,8 @@
     "DEGseq": [
         "qvalue"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
-        "BiocSingular",
-        "DelayedRandomArray"
+        "BiocSingular"
     ],
     "deltaCaptureC": [
         "GenomicRanges",
@@ -3494,7 +3490,6 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "DEsingle": [],
     "destiny": [
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -4504,7 +4499,6 @@
     ],
     "exomePeak2": [
         "SummarizedExperiment",
-        "cqn",
         "Rsamtools",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5986,7 +5980,6 @@
         "AnnotationFilter",
         "viridis"
     ],
-    "hierinf": [],
     "HilbertCurve": [
         "GenomicRanges"
     ],
@@ -6453,7 +6446,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "AdaptGauss",
-        "DEsingle",
         "Seurat",
         "SingleCellExperiment",
         "clusterProfiler",
@@ -6653,7 +6645,6 @@
         "GenomicAlignments"
     ],
     "KnowSeq": [
-        "cqn",
         "caret",
         "sva",
         "Hmisc",
@@ -13727,9 +13718,7 @@
         "Hmisc",
         "viridis"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "txcutr": [
         "AnnotationDbi",
         "GenomicFeatures",
@@ -14317,7 +14306,6 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "waffle": [],
     "caret": [
         "recipes",
         "ipred"
