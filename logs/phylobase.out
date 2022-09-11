@@ -1,0 +1,31 @@
+* installing *source* package ‘phylobase’ ...
+** package ‘phylobase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ancestors.c -o ancestors.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c checkPhylo4.cpp -o checkPhylo4.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c descendants.c -o descendants.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c phyloXX.c -o phyloXX.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c phylobase_init.c -o phylobase_init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c reorderBinary.c -o reorderBinary.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c reorderRobust.c -o reorderRobust.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o phylobase.so RcppExports.o ancestors.o checkPhylo4.o descendants.o phyloXX.o phylobase_init.o reorderBinary.o reorderRobust.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-phylobase/00new/phylobase/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘edges’ in package ‘phylobase’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘phylobase’ as ‘phylobase_0.8.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phylobase)
