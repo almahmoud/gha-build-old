@@ -1779,7 +1779,6 @@
         "DelayedArray",
         "rhdf5",
         "XVector",
-        "ROI.plugin.lpsolve",
         "survival",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -31740,7 +31739,6 @@
         "detectseparation",
         "scales",
         "phyloseq",
-        "ROI.plugin.lpsolve",
         "Rvmmin",
         "Rcgmin",
         "ape",
@@ -31785,9 +31783,7 @@
         "Rvmmin",
         "Rcgmin"
     ],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "leiden": [
         "reticulate",
         "igraph",
@@ -31816,7 +31812,6 @@
         "dqrng"
     ],
     "ROI": [],
-    "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
     "Rcgmin": [],
     "spatstat.random": [
