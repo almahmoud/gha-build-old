@@ -545,7 +545,6 @@
         "Rsamtools",
         "biomaRt",
         "Gviz",
-        "fgsea",
         "rtracklayer",
         "mGSZ",
         "AnnotationDbi",
@@ -982,7 +981,6 @@
         "qvalue",
         "viridis",
         "DO.db",
-        "fgsea",
         "car",
         "plotly",
         "ggraph",
@@ -1712,7 +1710,6 @@
         "SingleCellExperiment",
         "scater",
         "SummarizedExperiment",
-        "fgsea",
         "scuttle",
         "BiocNeighbors",
         "BiocSingular",
@@ -1767,7 +1764,6 @@
         "ggpmisc",
         "ggthemes",
         "clusterProfiler",
-        "fgsea",
         "ggdendro",
         "AnnotationDbi",
         "DOSE",
@@ -1845,7 +1841,6 @@
         "rstatix",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -2091,7 +2086,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "DO.db",
-        "fgsea",
         "qvalue",
         "SummarizedExperiment",
         "viridis",
@@ -2347,7 +2341,6 @@
         "qvalue",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -2360,7 +2353,6 @@
         "GenomicRanges"
     ],
     "clustifyr": [
-        "fgsea",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -2606,7 +2598,6 @@
         "bluster",
         "GenomicRanges",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -2769,8 +2760,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "GenomicRanges",
-        "fgsea"
+        "GenomicRanges"
     ],
     "corral": [
         "ggthemes",
@@ -2956,7 +2946,6 @@
     "cTRAP": [
         "AnnotationDbi",
         "AnnotationHub",
-        "fgsea",
         "highcharter",
         "KEGGREST",
         "Biostrings"
@@ -3223,7 +3212,6 @@
         "modelr",
         "pbkrtest",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -3316,7 +3304,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -3889,7 +3876,6 @@
     "DOSE": [
         "AnnotationDbi",
         "DO.db",
-        "fgsea",
         "GOSemSim",
         "qvalue",
         "KEGGREST",
@@ -4050,7 +4036,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -4207,7 +4192,6 @@
         "ggtree",
         "AnnotationDbi",
         "DO.db",
-        "fgsea",
         "qvalue",
         "viridis",
         "GO.db",
@@ -4238,7 +4222,6 @@
         "CNEr",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -4347,7 +4330,6 @@
         "GO.db",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "GOSemSim",
         "aplot",
         "scatterpie",
@@ -4505,7 +4487,6 @@
         "GenomicAlignments",
         "CNEr",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -4658,7 +4639,6 @@
         "qvalue",
         "Biostrings",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -4721,7 +4701,6 @@
         "GenomicRanges",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -4780,7 +4759,6 @@
         "GenomicAlignments"
     ],
     "fgga": [],
-    "fgsea": [],
     "FilterFFPE": [
         "GenomicRanges",
         "Rsamtools",
@@ -4935,7 +4913,6 @@
     ],
     "fmcsR": [],
     "fobitools": [
-        "fgsea",
         "ggraph",
         "RecordLinkage",
         "viridis",
@@ -5134,7 +5111,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "fgsea",
         "KEGGREST",
         "ggpubr",
         "aplot",
@@ -5866,7 +5842,6 @@
         "viridis"
     ],
     "gsean": [
-        "fgsea",
         "PPInfer",
         "biomaRt",
         "STRINGdb",
@@ -6591,7 +6566,6 @@
         "sctransform",
         "GenomicRanges",
         "DO.db",
-        "fgsea",
         "aplot",
         "scatterpie",
         "ggtree",
@@ -6836,7 +6810,6 @@
     ],
     "lipidr": [
         "SummarizedExperiment",
-        "fgsea",
         "ropls",
         "MultiDataSet",
         "GenomicRanges"
@@ -7034,7 +7007,6 @@
         "ggtree",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "viridis",
         "Biostrings"
     ],
@@ -7172,7 +7144,6 @@
     "mCSEA": [
         "Homo.sapiens",
         "biomaRt",
-        "fgsea",
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
@@ -7316,7 +7287,6 @@
         "MeSHDbi",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "qvalue",
         "aplot",
         "ggraph",
@@ -7644,7 +7614,6 @@
         "methylumi",
         "SummarizedExperiment",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -7852,7 +7821,6 @@
         "ggtree",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "viridis",
         "Biostrings"
     ],
@@ -8062,7 +8030,6 @@
         "GOSemSim",
         "qvalue",
         "DO.db",
-        "fgsea",
         "fields",
         "ggraph",
         "reactome.db",
@@ -8083,7 +8050,6 @@
         "GOSemSim",
         "qvalue",
         "DO.db",
-        "fgsea",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -8280,7 +8246,6 @@
         "GOSemSim",
         "qvalue",
         "DO.db",
-        "fgsea",
         "GenomicRanges",
         "biomaRt",
         "KEGGREST",
@@ -8569,7 +8534,6 @@
     "multiGSEA": [
         "graphite",
         "AnnotationDbi",
-        "fgsea",
         "metap",
         "KEGGREST",
         "TFisher",
@@ -8628,7 +8592,6 @@
         "KEGGREST",
         "rcmdcheck",
         "DO.db",
-        "fgsea",
         "viridis",
         "ipred",
         "Biostrings"
@@ -8839,9 +8802,7 @@
         "modelr",
         "Biostrings"
     ],
-    "NanoTube": [
-        "fgsea"
-    ],
+    "NanoTube": [],
     "NBAMSeq": [
         "SummarizedExperiment",
         "DESeq2",
@@ -8918,7 +8879,6 @@
         "qvalue",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -9519,7 +9479,6 @@
         "recipes",
         "biomaRt",
         "GenomicRanges",
-        "fgsea",
         "ipred",
         "ggpubr",
         "fields",
@@ -9594,7 +9553,6 @@
         "qvalue",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -9603,7 +9561,6 @@
         "Biostrings"
     ],
     "phantasus": [
-        "fgsea",
         "AnnotationDbi",
         "DESeq2",
         "KEGGREST",
@@ -9618,8 +9575,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "GenomicRanges",
-        "fgsea"
+        "GenomicRanges"
     ],
     "phemd": [
         "monocle",
@@ -9705,9 +9661,7 @@
         "recipes",
         "ipred"
     ],
-    "piano": [
-        "fgsea"
-    ],
+    "piano": [],
     "PICS": [
         "GenomicRanges",
         "Rsamtools",
@@ -9731,7 +9685,6 @@
         "Hmisc",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "scatterpie",
         "ggtree",
@@ -9884,7 +9837,6 @@
     ],
     "PPInfer": [
         "biomaRt",
-        "fgsea",
         "STRINGdb",
         "AnnotationDbi",
         "KEGGREST",
@@ -10077,7 +10029,6 @@
         "GOSemSim",
         "ggtree",
         "DO.db",
-        "fgsea",
         "qvalue",
         "viridis",
         "GO.db"
@@ -10166,7 +10117,6 @@
         "modelr",
         "pbkrtest",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -10514,8 +10464,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "GenomicRanges",
-        "fgsea"
+        "GenomicRanges"
     ],
     "RaggedExperiment": [
         "GenomicRanges",
@@ -10653,7 +10602,6 @@
         "graphite",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "GOSemSim",
         "qvalue",
         "aplot",
@@ -10758,7 +10706,6 @@
     "RegEnrich": [
         "BiocSet",
         "SummarizedExperiment",
-        "fgsea",
         "DOSE",
         "DESeq2",
         "WGCNA",
@@ -11359,7 +11306,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "fgsea",
         "dendextend",
         "ggpubr",
         "car",
@@ -12065,7 +12011,6 @@
         "genefilter",
         "fields",
         "DO.db",
-        "fgsea",
         "GOSemSim",
         "qvalue",
         "GO.db",
@@ -12168,7 +12113,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "DO.db",
-        "fgsea",
         "qvalue",
         "viridis",
         "GO.db"
@@ -12290,7 +12234,6 @@
         "sesameData",
         "GenomicRanges",
         "SummarizedExperiment",
-        "fgsea",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
@@ -12406,7 +12349,6 @@
         "SummarizedExperiment",
         "AnnotationDbi",
         "ExperimentHub",
-        "fgsea",
         "qvalue",
         "reactome.db",
         "clusterProfiler",
@@ -12914,7 +12856,6 @@
         "ggtree",
         "Biostrings",
         "DO.db",
-        "fgsea",
         "viridis"
     ],
     "spiky": [
@@ -13101,7 +13042,6 @@
         "scatterpie",
         "ggtree",
         "DO.db",
-        "fgsea",
         "viridis"
     ],
     "strandCheckR": [
@@ -13420,7 +13360,6 @@
         "org.Hs.eg.db",
         "KEGGREST",
         "sesameData",
-        "fgsea",
         "DO.db",
         "aplot",
         "ggraph",
@@ -13590,7 +13529,6 @@
         "GenomicRanges",
         "KEGGREST",
         "DO.db",
-        "fgsea",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -13691,8 +13629,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "GenomicRanges",
-        "fgsea"
+        "GenomicRanges"
     ],
     "TPP": [
         "biobroom"
@@ -14295,7 +14232,6 @@
         "biomaRt",
         "dendextend",
         "DiagrammeR",
-        "fgsea",
         "GOSemSim",
         "GO.db",
         "heatmaply",
@@ -14464,8 +14400,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "piano",
-        "GenomicRanges",
-        "fgsea"
+        "GenomicRanges"
     ],
     "XINA": [
         "STRINGdb"
