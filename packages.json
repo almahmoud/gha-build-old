@@ -816,9 +816,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -5148,7 +5146,6 @@
         "SeqArray",
         "SeqVarTools",
         "logistf",
-        "quantsmooth",
         "Biostrings",
         "mice"
     ],
@@ -5872,7 +5869,6 @@
     ],
     "GWASTools": [
         "logistf",
-        "quantsmooth",
         "mice"
     ],
     "gwasurvivr": [
@@ -5880,7 +5876,6 @@
         "VariantAnnotation",
         "SummarizedExperiment",
         "logistf",
-        "quantsmooth",
         "GenomicRanges",
         "Rsamtools",
         "Biostrings",
@@ -7012,7 +7007,6 @@
         "oligoClasses",
         "GWASTools",
         "logistf",
-        "quantsmooth",
         "GenomicRanges",
         "SummarizedExperiment",
         "Biostrings",
@@ -10215,7 +10209,6 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "iPAC",
         "GraphPAC",
@@ -12189,7 +12182,6 @@
     ],
     "SIM": [
         "globaltest",
-        "quantsmooth",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
