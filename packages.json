@@ -855,7 +855,6 @@
         "methylumi",
         "SingleCellExperiment",
         "Biostrings",
-        "sctransform",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -1691,7 +1690,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "viridis",
-        "sctransform",
         "GenomicRanges"
     ],
     "cellity": [
@@ -3661,7 +3659,6 @@
         "scran",
         "scuttle",
         "bluster",
-        "sctransform",
         "GenomicRanges",
         "BiocNeighbors"
     ],
@@ -6491,7 +6488,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "bluster",
-        "sctransform",
         "GenomicRanges",
         "DO.db",
         "aplot",
@@ -8536,7 +8532,6 @@
         "lme4",
         "scater",
         "scuttle",
-        "sctransform",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "variancePartition",
@@ -8753,7 +8748,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "sctransform",
         "GenomicRanges"
     ],
     "nempi": [
@@ -9474,7 +9468,6 @@
         "smoother",
         "densityClust",
         "viridis",
-        "sctransform",
         "GenomicRanges",
         "car",
         "pbkrtest",
@@ -9610,7 +9603,6 @@
         "BiocSingular",
         "viridis",
         "bluster",
-        "sctransform",
         "GenomicRanges"
     ],
     "pipeFrame": [
@@ -11487,7 +11479,6 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -11531,7 +11522,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "recipes",
-        "sctransform",
         "GenomicRanges",
         "KEGGREST",
         "ipred",
@@ -11580,7 +11570,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "sctransform",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -11591,8 +11580,7 @@
         "DropletUtils",
         "Seurat",
         "GenomicRanges",
-        "scuttle",
-        "sctransform"
+        "scuttle"
     ],
     "scClassifR": [
         "Seurat",
@@ -11600,7 +11588,6 @@
         "SummarizedExperiment",
         "caret",
         "recipes",
-        "sctransform",
         "GenomicRanges",
         "ipred"
     ],
@@ -11619,7 +11606,6 @@
     "scDataviz": [
         "SingleCellExperiment",
         "Seurat",
-        "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -11678,7 +11664,6 @@
         "SingleCellExperiment",
         "Seurat",
         "concaveman",
-        "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -11688,8 +11673,7 @@
         "GenomicRanges"
     ],
     "scMAGeCK": [
-        "Seurat",
-        "sctransform"
+        "Seurat"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -11886,8 +11870,7 @@
         "aplot",
         "scatterpie",
         "ggtree",
-        "Biostrings",
-        "sctransform"
+        "Biostrings"
     ],
     "scTGIF": [
         "GSEABase",
@@ -11902,7 +11885,6 @@
         "GenomicRanges",
         "KEGGREST",
         "viridis",
-        "sctransform",
         "Biostrings"
     ],
     "scTreeViz": [
@@ -11925,7 +11907,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "bluster",
-        "sctransform",
         "AnnotationDbi",
         "AnnotationFilter",
         "rtracklayer",
@@ -12344,7 +12325,6 @@
         "M3Drop",
         "ensembldb",
         "GenomicFeatures",
-        "sctransform",
         "AnnotationFilter",
         "rtracklayer",
         "Rsamtools",
@@ -12569,8 +12549,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "viridis",
-        "bluster",
-        "sctransform"
+        "bluster"
     ],
     "sparrow": [
         "BiocSet",
@@ -14570,10 +14549,7 @@
         "phyloseq",
         "Biostrings"
     ],
-    "Seurat": [
-        "sctransform"
-    ],
-    "sctransform": [],
+    "Seurat": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
