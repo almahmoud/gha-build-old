@@ -1660,7 +1660,6 @@
         "geNetClassifier",
         "phenoTest",
         "AnnotationDbi",
-        "BMA",
         "Hmisc",
         "Category",
         "biomaRt",
@@ -7295,12 +7294,8 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "iterativeBMA": [
-        "BMA"
-    ],
-    "iterativeBMAsurv": [
-        "BMA"
-    ],
+    "iterativeBMA": [],
+    "iterativeBMAsurv": [],
     "iteremoval": [
         "GenomicRanges",
         "SummarizedExperiment"
@@ -9866,9 +9861,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "networkBMA": [
-        "BMA"
-    ],
+    "networkBMA": [],
     "NeuCA": [
         "keras",
         "SingleCellExperiment",
@@ -10611,7 +10604,6 @@
         "GenomicRanges"
     ],
     "phenoTest": [
-        "BMA",
         "Hmisc",
         "Category",
         "AnnotationDbi",
@@ -14496,7 +14488,6 @@
         "SummarizedExperiment",
         "survminer",
         "clustvarsel",
-        "BMA",
         "GenomicRanges",
         "ggpubr",
         "ggtext",
@@ -16452,7 +16443,6 @@
     ],
     "rcmdcheck": [],
     "ggtext": [],
-    "BMA": [],
     "NMF": [],
     "iCluster": [],
     "drc": [
@@ -17496,9 +17486,7 @@
         "Biostrings"
     ],
     "MLmetrics": [],
-    "clustvarsel": [
-        "BMA"
-    ],
+    "clustvarsel": [],
     "gstat": [],
     "SpatialExtremes": [
         "fields",
