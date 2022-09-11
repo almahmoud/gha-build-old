@@ -389,7 +389,6 @@
     "altcdfenvs": [
         "makecdfenv",
         "Biostrings",
-        "hypergraph",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -1403,8 +1402,7 @@
         "XVector"
     ],
     "BiGGR": [
-        "hyperdraw",
-        "hypergraph"
+        "hyperdraw"
     ],
     "bigmelon": [
         "wateRmelon",
@@ -9452,7 +9450,6 @@
         "altcdfenvs",
         "makecdfenv",
         "Biostrings",
-        "hypergraph",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -9705,10 +9702,7 @@
         "rvest",
         "webshot"
     ],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "iasva": [
         "SummarizedExperiment",
         "GenomicRanges",
@@ -11058,7 +11052,6 @@
         "SummarizedExperiment",
         "GenomeInfoDb",
         "rtracklayer",
-        "vcfR",
         "XVector",
         "BiocIO",
         "DelayedArray",
@@ -18192,7 +18185,6 @@
         "GenomeInfoDb"
     ],
     "RpsiXML": [
-        "hypergraph",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings",
@@ -25124,7 +25116,6 @@
     "cplm": [
         "ggplot2"
     ],
-    "vcfR": [],
     "bigstatsr": [
         "cowplot",
         "ggplot2"
