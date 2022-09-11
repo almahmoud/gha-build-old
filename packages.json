@@ -3044,8 +3044,7 @@
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -3472,13 +3471,10 @@
         "BSgenome",
         "GenomicAlignments"
     ],
-    "GWASTools": [
-        "logistf"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
         "VariantAnnotation",
-        "logistf",
         "AnnotationDbi",
         "rtracklayer",
         "BSgenome",
@@ -4129,8 +4125,7 @@
     ],
     "mBPCR": [
         "oligoClasses",
-        "GWASTools",
-        "logistf"
+        "GWASTools"
     ],
     "MBQN": [],
     "MCbiclust": [
@@ -5518,7 +5513,6 @@
     ],
     "PhenStat": [
         "car",
-        "logistf",
         "pbkrtest"
     ],
     "philr": [],
@@ -6415,7 +6409,6 @@
     ],
     "rnaEditr": [
         "bumphunter",
-        "logistf",
         "GenomicFeatures",
         "AnnotationDbi",
         "rtracklayer",
@@ -6988,9 +6981,7 @@
         "AnnotationHub",
         "AnnotationDbi"
     ],
-    "SeqVarTools": [
-        "logistf"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "sesameData",
         "ExperimentHub",
@@ -8060,8 +8051,7 @@
     ],
     "VariantExperiment": [
         "GDSArray",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "VariantFiltering": [
         "VariantAnnotation",
@@ -8715,7 +8705,6 @@
         "car",
         "pbkrtest"
     ],
-    "logistf": [],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
         "rtracklayer",
