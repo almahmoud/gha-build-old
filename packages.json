@@ -10794,8 +10794,7 @@
         "rstan",
         "tidybayes",
         "ggdist",
-        "posterior",
-        "distributional"
+        "posterior"
     ],
     "PPInfer": [
         "biomaRt",
@@ -17134,16 +17133,10 @@
     "SmoothWin": [],
     "tidybayes": [
         "ggdist",
-        "posterior",
-        "distributional"
+        "posterior"
     ],
-    "ggdist": [
-        "distributional"
-    ],
-    "posterior": [
-        "distributional"
-    ],
-    "distributional": [],
+    "ggdist": [],
+    "posterior": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "GenomicRanges",
