@@ -3010,7 +3010,6 @@
     ],
     "EpiTxDb": [
         "AnnotationDbi",
-        "Modstrings",
         "GenomicFeatures",
         "tRNAdbImport",
         "KEGGREST",
@@ -5652,7 +5651,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "Modstrings": [],
     "mogsa": [
         "graphite",
         "genefilter",
@@ -7667,7 +7665,6 @@
         "KEGGREST"
     ],
     "RNAmodR": [
-        "Modstrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -7694,14 +7691,12 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "Modstrings",
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
-        "Modstrings",
         "GenomicFeatures",
         "GenomicAlignments",
         "rtracklayer",
@@ -7728,7 +7723,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "Modstrings",
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation"
@@ -9412,11 +9406,9 @@
     "trio": [],
     "triplex": [],
     "tRNA": [
-        "Structstrings",
-        "Modstrings"
+        "Structstrings"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
@@ -9426,8 +9418,7 @@
         "rtracklayer",
         "BSgenome",
         "Rsamtools",
-        "GenomicAlignments",
-        "Modstrings"
+        "GenomicAlignments"
     ],
     "TRONCO": [
         "cgdsr"
