@@ -530,7 +530,6 @@
         "AnnotationDbi",
         "XVector",
         "ipred",
-        "RcppTOML",
         "KEGGREST",
         "prodlim",
         "Biostrings",
@@ -1216,7 +1215,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -1236,8 +1234,7 @@
         "DelayedArray"
     ],
     "basilisk": [
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "batchelor": [
         "SingleCellExperiment",
@@ -1295,7 +1292,6 @@
         "viridis",
         "ggrepel",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -1446,9 +1442,7 @@
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
-        "RcppTOML",
         "spatstat.random",
-        "dqrng",
         "NADA",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1725,7 +1719,6 @@
         "reticulate",
         "SummarizedExperiment",
         "basilisk",
-        "RcppTOML",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -2718,8 +2711,7 @@
         "reticulate",
         "shinyBS",
         "shinycssloaders",
-        "rintrojs",
-        "RcppTOML"
+        "rintrojs"
     ],
     "ccfindR": [
         "SummarizedExperiment",
@@ -2776,7 +2768,6 @@
         "ggbeeswarm",
         "viridis",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
@@ -2841,7 +2832,6 @@
         "BiocParallel",
         "SummarizedExperiment",
         "fgsea",
-        "RcppTOML",
         "scuttle",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2868,8 +2858,7 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "XVector",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -3600,13 +3589,11 @@
         "ggbeeswarm",
         "ggrepel",
         "bluster",
-        "dqrng",
         "fresh",
         "waiter",
         "biomaRt",
         "reticulate",
         "AnnotationDbi",
-        "RcppTOML",
         "KEGGREST"
     ],
     "chromstaR": [
@@ -3773,7 +3760,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -4345,7 +4331,6 @@
         "ggbeeswarm",
         "viridis",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
@@ -4747,7 +4732,6 @@
         "Rsamtools",
         "tensorflow",
         "tfruns",
-        "RcppTOML",
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
@@ -4786,7 +4770,6 @@
         "regioneR",
         "tensorflow",
         "tfruns",
-        "RcppTOML",
         "AnnotationFilter",
         "tfautograph"
     ],
@@ -5209,7 +5192,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "RcppTOML",
         "GenomicRanges",
         "TTR",
         "GenomeInfoDb",
@@ -5425,7 +5407,6 @@
         "cmdfun",
         "GenomicAlignments",
         "Rsamtools",
-        "RcppTOML",
         "DelayedArray",
         "KEGGREST",
         "testthat",
@@ -5688,7 +5669,6 @@
         "ttgsea",
         "reticulate",
         "tfruns",
-        "RcppTOML",
         "tfautograph",
         "text2vec",
         "textstem",
@@ -5801,8 +5781,7 @@
         "DelayedArray"
     ],
     "DelayedRandomArray": [
-        "DelayedArray",
-        "dqrng"
+        "DelayedArray"
     ],
     "DelayedTensor": [
         "DelayedArray",
@@ -5811,8 +5790,7 @@
         "DelayedRandomArray",
         "BiocParallel",
         "ScaledMatrix",
-        "beachmat",
-        "dqrng"
+        "beachmat"
     ],
     "deltaCaptureC": [
         "GenomicRanges",
@@ -5845,8 +5823,7 @@
     ],
     "densvis": [
         "basilisk",
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "DEP": [
         "ggplot2",
@@ -6072,8 +6049,7 @@
     "DIAlignR": [
         "reticulate",
         "ggplot2",
-        "phangorn",
-        "RcppTOML"
+        "phangorn"
     ],
     "DiffBind": [
         "GenomicRanges",
@@ -6247,7 +6223,6 @@
         "scuttle",
         "DelayedMatrixStats",
         "bluster",
-        "dqrng",
         "cowplot",
         "fitdistrplus",
         "ggplot2",
@@ -6268,7 +6243,6 @@
         "GenomeInfoDb",
         "BiocNeighbors",
         "XVector",
-        "RcppTOML",
         "spatstat.random"
     ],
     "DirichletMultinomial": [],
@@ -6608,7 +6582,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "GenomeInfoDb",
@@ -7741,7 +7714,6 @@
         "XVector",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "tidytree"
@@ -8068,7 +8040,6 @@
         "Rsamtools",
         "scater",
         "scuttle",
-        "RcppTOML",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -9219,7 +9190,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "RcppTOML",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -9360,7 +9330,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector"
@@ -9971,7 +9940,6 @@
         "BiocIO",
         "tensorflow",
         "tfruns",
-        "RcppTOML",
         "tfautograph"
     ],
     "Guitar": [
@@ -10275,8 +10243,7 @@
         "DelayedArray",
         "reticulate",
         "GenomeInfoDb",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "hiReadsProcessor": [
         "Biostrings",
@@ -10575,8 +10542,7 @@
         "GenomicRanges",
         "ggplot2",
         "reticulate",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "IgGeneUsage": [
         "SummarizedExperiment",
@@ -10625,8 +10591,7 @@
         "DelayedArray",
         "GenomeInfoDb",
         "reticulate",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "imageHTS": [
         "cellHTS2",
@@ -10692,7 +10657,6 @@
         "beachmat",
         "DropletUtils",
         "GenomeInfoDb",
-        "dqrng",
         "XVector"
     ],
     "IMMAN": [
@@ -10750,14 +10714,12 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "TH.data",
-        "RcppTOML"
+        "TH.data"
     ],
     "infinityFlow": [
         "flowCore",
         "uwot",
-        "cytolib",
-        "dqrng"
+        "cytolib"
     ],
     "InPAS": [
         "GenomicRanges",
@@ -10920,7 +10882,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "RcppTOML",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -11088,7 +11049,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "bluster",
-        "dqrng",
         "fitdistrplus",
         "ggridges",
         "leiden",
@@ -11113,7 +11073,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "RcppTOML",
         "broom",
         "car",
         "spatstat.random",
@@ -11711,8 +11670,7 @@
     "M3C": [
         "ggplot2",
         "umap",
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "M3Drop": [
         "reldist",
@@ -11803,7 +11761,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "interactiveDisplayBase",
-        "RcppTOML",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -12062,8 +12019,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "MatrixRider": [
         "TFBSTools",
@@ -13969,9 +13925,7 @@
         "HDF5Array",
         "DelayedArray",
         "uwot",
-        "basilisk",
-        "RcppTOML",
-        "dqrng"
+        "basilisk"
     ],
     "MOGAMUN": [
         "RCy3",
@@ -14272,7 +14226,6 @@
     "msImpute": [
         "reticulate",
         "scran",
-        "RcppTOML",
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
@@ -14281,7 +14234,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -14538,7 +14490,6 @@
         "bamsignals",
         "VariantAnnotation",
         "GenomicAlignments",
-        "RcppTOML",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -14695,7 +14646,6 @@
         "uwot",
         "ResidualMatrix",
         "bluster",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -14810,7 +14760,6 @@
         "learnr",
         "DelayedArray",
         "rvest",
-        "dqrng",
         "KEGGREST",
         "viridis",
         "car",
@@ -15135,9 +15084,7 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "nempi": [
         "mnem",
@@ -15306,7 +15253,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
         "tfautograph"
     ],
     "NewWave": [
@@ -15507,7 +15453,6 @@
         "VariantAnnotation",
         "htmlTable",
         "viridis",
-        "RcppTOML",
         "broom",
         "car",
         "DelayedArray",
@@ -16228,7 +16173,6 @@
         "DelayedArray",
         "BiocSingular",
         "BiocParallel",
-        "dqrng",
         "beachmat",
         "ScaledMatrix"
     ],
@@ -16478,7 +16422,6 @@
         "densityClust",
         "viridis",
         "biocViews",
-        "RcppTOML",
         "fitdistrplus",
         "ggrepel",
         "ggridges",
@@ -16499,7 +16442,6 @@
         "XVector",
         "TTR",
         "spatstat.random",
-        "dqrng",
         "car",
         "pbkrtest",
         "quantreg",
@@ -16762,7 +16704,6 @@
         "viridis",
         "ggrepel",
         "bluster",
-        "dqrng",
         "fitdistrplus",
         "ggridges",
         "leiden",
@@ -16779,7 +16720,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "XVector",
-        "RcppTOML",
         "spatstat.random"
     ],
     "pipeFrame": [
@@ -18207,8 +18147,7 @@
     "RCSL": [
         "ggplot2",
         "umap",
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "Rcwl": [
         "BiocParallel",
@@ -18218,7 +18157,6 @@
         "reticulate",
         "influenceR",
         "viridis",
-        "RcppTOML",
         "ggplot2"
     ],
     "RcwlPipelines": [
@@ -18230,7 +18168,6 @@
         "reticulate",
         "influenceR",
         "viridis",
-        "RcppTOML",
         "ggplot2"
     ],
     "RCy3": [],
@@ -18716,7 +18653,6 @@
         "imager",
         "reticulate",
         "rGenomeTracksData",
-        "RcppTOML",
         "AnnotationHub",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -19337,7 +19273,6 @@
         "car",
         "KEGGgraph",
         "KEGGREST",
-        "RcppTOML",
         "ShortRead",
         "GenomicFeatures",
         "pbkrtest",
@@ -19900,9 +19835,7 @@
         "tfautograph",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -19987,9 +19920,7 @@
         "KEGGREST",
         "XVector",
         "ipred",
-        "RcppTOML",
         "spatstat.random",
-        "dqrng",
         "prodlim",
         "Biostrings",
         "lava"
@@ -20086,9 +20017,7 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "XVector",
-        "RcppTOML",
         "spatstat.random",
-        "dqrng",
         "KEGGREST",
         "Biostrings"
     ],
@@ -20102,7 +20031,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "cowplot",
@@ -20123,7 +20051,6 @@
         "uwot",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
         "spatstat.random"
     ],
     "scClassifR": [
@@ -20153,9 +20080,7 @@
         "GenomeInfoDb",
         "XVector",
         "ipred",
-        "RcppTOML",
         "spatstat.random",
-        "dqrng",
         "prodlim",
         "lava"
     ],
@@ -20212,9 +20137,7 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scDblFinder": [
         "BiocParallel",
@@ -20234,7 +20157,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "dqrng",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -20256,7 +20178,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -20284,8 +20205,7 @@
         "glmnet",
         "reticulate",
         "tfruns",
-        "tfautograph",
-        "RcppTOML"
+        "tfautograph"
     ],
     "scFeatureFilter": [
         "ggplot2"
@@ -20339,9 +20259,7 @@
         "DelayedArray",
         "GenomeInfoDb",
         "XVector",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -20372,9 +20290,7 @@
         "SeuratObject",
         "spatstat.core",
         "uwot",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -20572,7 +20488,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -20596,8 +20511,7 @@
         "BiocParallel",
         "reticulate",
         "ggplot2",
-        "glmnet",
-        "RcppTOML"
+        "glmnet"
     ],
     "scRepertoire": [
         "ggplot2",
@@ -20732,9 +20646,7 @@
         "ggplotify",
         "tidytree",
         "treeio",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scTGIF": [
         "GSEABase",
@@ -20772,9 +20684,7 @@
         "spatstat.core",
         "uwot",
         "Biostrings",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "scTHI": [
         "BiocParallel"
@@ -20810,7 +20720,6 @@
         "BiocParallel",
         "ggbeeswarm",
         "bluster",
-        "dqrng",
         "cowplot",
         "fitdistrplus",
         "ggridges",
@@ -20835,7 +20744,6 @@
         "BiocIO",
         "biomaRt",
         "RBGL",
-        "RcppTOML",
         "spatstat.random",
         "KEGGREST",
         "GenomicAlignments"
@@ -21444,7 +21352,6 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "bluster",
-        "dqrng",
         "beachmat",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -21513,7 +21420,6 @@
         "genefilter",
         "geneplotter",
         "HDF5Array",
-        "dqrng",
         "viridis",
         "qvalue",
         "aplot",
@@ -21523,7 +21429,6 @@
         "hgu95a.db",
         "TFisher",
         "mutoss",
-        "RcppTOML",
         "ggbeeswarm",
         "bluster",
         "M3Drop",
@@ -21782,8 +21687,7 @@
     ],
     "snifter": [
         "basilisk",
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "snm": [
         "lme4",
@@ -21890,7 +21794,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "BiocNeighbors",
@@ -21916,7 +21819,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "XVector",
-        "RcppTOML",
         "spatstat.random"
     ],
     "sparrow": [
@@ -21982,7 +21884,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggrepel",
-        "RcppTOML",
         "SingleCellExperiment",
         "DropletUtils",
         "GenomicRanges",
@@ -21991,7 +21892,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "XVector"
@@ -22025,7 +21925,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "HDF5Array",
-        "dqrng",
         "beachmat",
         "scuttle",
         "GenomeInfoDb",
@@ -22326,8 +22225,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "srnadiff": [
         "devtools",
@@ -23477,8 +23375,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "XVector",
-        "RcppTOML"
+        "XVector"
     ],
     "topconfects": [
         "ggplot2"
@@ -23681,7 +23578,6 @@
         "ggplot2",
         "glmnet",
         "vbsr",
-        "dqrng",
         "SummarizedExperiment",
         "BiocParallel",
         "GenomicRanges",
@@ -23994,7 +23890,6 @@
         "mlapi",
         "koRpus.lang.en",
         "quanteda",
-        "RcppTOML",
         "tfautograph",
         "ggplot2"
     ],
@@ -24258,7 +24153,6 @@
         "tfautograph",
         "ScaledMatrix",
         "XVector",
-        "RcppTOML",
         "text2vec",
         "textstem",
         "rvest",
@@ -24459,7 +24353,6 @@
         "BiocSingular",
         "ScaledMatrix",
         "beachmat",
-        "RcppTOML",
         "GenomicRanges",
         "DelayedMatrixStats",
         "GenomeInfoDb",
@@ -24887,7 +24780,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DelayedArray",
-        "RcppTOML",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -25094,8 +24986,7 @@
         "ggplot2"
     ],
     "umap": [
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "GUniFrac": [
         "ggplot2",
@@ -25108,14 +24999,11 @@
         "lava"
     ],
     "modeest": [],
-    "reticulate": [
-        "RcppTOML"
-    ],
+    "reticulate": [],
     "ipred": [
         "prodlim",
         "lava"
     ],
-    "RcppTOML": [],
     "prodlim": [
         "lava"
     ],
@@ -25443,7 +25331,6 @@
         "shinyjs"
     ],
     "miniUI": [],
-    "dqrng": [],
     "MCMCpack": [
         "quantreg"
     ],
@@ -25496,15 +25383,12 @@
         "SeuratObject",
         "spatstat.core",
         "uwot",
-        "RcppTOML",
-        "spatstat.random",
-        "dqrng"
+        "spatstat.random"
     ],
     "optimr": [],
     "detectseparation": [],
     "leiden": [
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "patchwork": [
         "ggplot2"
@@ -25519,9 +25403,7 @@
     "spatstat.core": [
         "spatstat.random"
     ],
-    "uwot": [
-        "dqrng"
-    ],
+    "uwot": [],
     "ROI": [],
     "spatstat.random": [],
     "sjmisc": [],
@@ -26366,22 +26248,18 @@
         "reticulate",
         "tensorflow",
         "tfruns",
-        "RcppTOML",
         "tfautograph"
     ],
     "tensorflow": [
         "reticulate",
         "tfruns",
-        "tfautograph",
-        "RcppTOML"
+        "tfautograph"
     ],
     "tfruns": [
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "tfautograph": [
-        "reticulate",
-        "RcppTOML"
+        "reticulate"
     ],
     "shinypanel": [
         "shinyjs",
@@ -27288,8 +27166,7 @@
     "genlasso": [],
     "phateR": [
         "reticulate",
-        "ggplot2",
-        "RcppTOML"
+        "ggplot2"
     ],
     "SmoothWin": [
         "Rfast"
@@ -27512,8 +27389,7 @@
     "origami": [],
     "Rmagic": [
         "reticulate",
-        "ggplot2",
-        "RcppTOML"
+        "ggplot2"
     ],
     "nnTensor": [
         "fields",
