@@ -755,7 +755,6 @@
         "scuttle",
         "SummarizedExperiment",
         "viridis",
-        "colourpicker",
         "BiocSingular",
         "bluster",
         "GenomicRanges",
@@ -2167,7 +2166,6 @@
         "Biostrings"
     ],
     "ChromSCape": [
-        "colourpicker",
         "rtracklayer",
         "shinydashboardPlus",
         "plotly",
@@ -3333,7 +3331,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "colourpicker",
         "plotly",
         "heatmaply",
         "pathview",
@@ -3764,7 +3761,6 @@
         "viridis",
         "plotly",
         "SummarizedExperiment",
-        "colourpicker",
         "dendextend",
         "egg",
         "GenomicRanges"
@@ -5335,7 +5331,6 @@
     "GeneTonic": [
         "AnnotationDbi",
         "bs4Dash",
-        "colourpicker",
         "dendextend",
         "DESeq2",
         "GO.db",
@@ -6549,7 +6544,6 @@
         "Biostrings"
     ],
     "InterCellar": [
-        "colourpicker",
         "dendextend",
         "factoextra",
         "plotly",
@@ -6679,14 +6673,12 @@
     "iSEE": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "colourpicker",
         "GenomicRanges"
     ],
     "iSEEu": [
         "iSEE",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "colourpicker",
         "GenomicRanges"
     ],
     "isobar": [
@@ -8597,14 +8589,12 @@
     "MSstatsQC": [
         "plotly",
         "ggExtra",
-        "MSnbase",
-        "colourpicker"
+        "MSnbase"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
         "ggExtra",
         "plotly",
-        "colourpicker",
         "MSnbase"
     ],
     "MSstatsSampleSize": [
@@ -9804,7 +9794,6 @@
     ],
     "PhyloProfile": [
         "Biostrings",
-        "colourpicker",
         "ExperimentHub",
         "OmaDB",
         "AnnotationHub",
@@ -9935,7 +9924,6 @@
         "egg",
         "ggpubr",
         "shinythemes",
-        "colourpicker",
         "Hmisc",
         "ggsignif",
         "rstatix",
@@ -10236,7 +10224,6 @@
         "pRoloc",
         "MSnbase",
         "shinydashboardPlus",
-        "colourpicker",
         "MLInterfaces",
         "caret",
         "dendextend",
@@ -10268,7 +10255,6 @@
         "DAPARdata",
         "highcharter",
         "shinythemes",
-        "colourpicker",
         "MSnbase",
         "cp4p",
         "imp4p",
@@ -10352,7 +10338,6 @@
     "psichomics": [
         "AnnotationDbi",
         "AnnotationHub",
-        "colourpicker",
         "highcharter",
         "recount",
         "SummarizedExperiment",
@@ -12655,7 +12640,6 @@
         "SingleCellExperiment",
         "batchelor",
         "celldex",
-        "colourpicker",
         "DESeq2",
         "ExperimentHub",
         "fields",
@@ -13566,7 +13550,6 @@
         "ELMER",
         "clusterProfiler",
         "TCGAbiolinks",
-        "colourpicker",
         "sesame",
         "recipes",
         "AnnotationDbi",
@@ -14973,10 +14956,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "ggExtra": [
-        "colourpicker"
-    ],
-    "colourpicker": [],
+    "ggExtra": [],
     "MCMCpack": [],
     "heatmaply": [
         "plotly",
