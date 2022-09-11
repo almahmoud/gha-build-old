@@ -1238,7 +1238,6 @@
         "ggplot2",
         "ggrepel",
         "MultiAssayExperiment",
-        "pcaMethods",
         "readxl",
         "scales",
         "SummarizedExperiment",
@@ -3035,7 +3034,6 @@
         "scales",
         "vsn",
         "affy",
-        "pcaMethods",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -4608,7 +4606,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "SummarizedExperiment",
@@ -4636,7 +4633,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "clusterExperiment": [
@@ -5326,7 +5322,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "org.Hs.eg.db",
-        "pcaMethods",
         "Rsamtools",
         "RUVSeq",
         "SummarizedExperiment",
@@ -5592,7 +5587,6 @@
         "futile.logger",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -6225,7 +6219,6 @@
         "scatterpie",
         "umap",
         "BiocParallel",
-        "pcaMethods",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "ggplot.multistats",
@@ -6396,7 +6389,6 @@
     ],
     "DAPAR": [
         "MSnbase",
-        "pcaMethods",
         "ggplot2",
         "cp4p",
         "scales",
@@ -6774,7 +6766,6 @@
         "futile.logger"
     ],
     "DeconRNASeq": [
-        "pcaMethods",
         "ggplot2",
         "scales"
     ],
@@ -7045,7 +7036,6 @@
         "imputeLCMD",
         "IRanges",
         "scales",
-        "pcaMethods",
         "MsCoreUtils",
         "BiocParallel",
         "affy",
@@ -7196,7 +7186,6 @@
         "futile.logger"
     ],
     "destiny": [
-        "pcaMethods",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "ggplot2",
@@ -7348,7 +7337,6 @@
         "SummarizedExperiment",
         "DiffCorr",
         "igraph",
-        "pcaMethods",
         "multtest",
         "GenomicRanges",
         "IRanges",
@@ -9673,7 +9661,6 @@
         "viridis",
         "vsn",
         "affy",
-        "pcaMethods",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -10039,7 +10026,6 @@
         "ggrepel",
         "HDF5Array",
         "OUTRIDER",
-        "pcaMethods",
         "pheatmap",
         "plotly",
         "Rsubread",
@@ -13254,7 +13240,6 @@
         "viridis",
         "vsn",
         "affy",
-        "pcaMethods",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -13870,7 +13855,6 @@
         "imputeLCMD",
         "BiocParallel",
         "scales",
-        "pcaMethods",
         "MultiDataSet",
         "GenomicRanges",
         "IRanges",
@@ -13934,7 +13918,6 @@
         "viridis",
         "vsn",
         "affy",
-        "pcaMethods",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14313,7 +14296,6 @@
     ],
     "MAI": [
         "caret",
-        "pcaMethods",
         "tidyverse",
         "SummarizedExperiment",
         "ggplot2",
@@ -14364,7 +14346,6 @@
         "questionr",
         "vsn",
         "affy",
-        "pcaMethods",
         "hardhat",
         "ipred",
         "GenomicRanges",
@@ -14487,7 +14468,6 @@
         "ggplot2",
         "Hmisc",
         "imputeLCMD",
-        "pcaMethods",
         "proDA",
         "shinydashboard",
         "shinyhelper",
@@ -14958,7 +14938,6 @@
         "futile.logger",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -15152,7 +15131,6 @@
         "viridis",
         "vsn",
         "affy",
-        "pcaMethods",
         "scales",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -15300,7 +15278,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "methimpute": [
@@ -17223,7 +17200,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "futile.logger"
@@ -17237,7 +17213,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "futile.logger"
@@ -17248,7 +17223,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "futile.logger"
@@ -17273,12 +17247,10 @@
         "BiocParallel",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "MSPrep": [
         "SummarizedExperiment",
-        "pcaMethods",
         "VIM",
         "crmn",
         "sva",
@@ -17417,7 +17389,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "MSstatsQCgui": [
@@ -17435,7 +17406,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "MSstatsSampleSize": [
@@ -18165,7 +18135,6 @@
         "MsFeatures",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -18826,7 +18795,6 @@
         "XVector",
         "htmlTable",
         "viridis",
-        "pcaMethods",
         "nloptr",
         "broom",
         "KEGGREST",
@@ -19269,7 +19237,6 @@
         "pheatmap",
         "IRanges",
         "plotly",
-        "pcaMethods",
         "scales",
         "futile.logger",
         "genefilter",
@@ -19440,7 +19407,6 @@
         "RedeR"
     ],
     "PanVizGenerator": [
-        "pcaMethods",
         "FindMyFriends",
         "igraph"
     ],
@@ -19583,7 +19549,6 @@
         "TSP",
         "callr"
     ],
-    "pcaMethods": [],
     "PCAN": [
         "BiocParallel",
         "futile.logger"
@@ -19702,7 +19667,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "PECA": [
@@ -19898,7 +19862,6 @@
         "phateR",
         "reticulate",
         "scales",
-        "pcaMethods",
         "ggplot.multistats",
         "ggthemes",
         "VIM",
@@ -20020,7 +19983,6 @@
     "PhosR": [
         "ruv",
         "dendextend",
-        "pcaMethods",
         "igraph",
         "pheatmap",
         "SummarizedExperiment",
@@ -20392,7 +20354,6 @@
         "callr"
     ],
     "pmp": [
-        "pcaMethods",
         "ggplot2",
         "SummarizedExperiment",
         "scales",
@@ -20471,7 +20432,6 @@
         "MsCoreUtils",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger",
         "tweenr",
         "hardhat",
@@ -20718,7 +20678,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "scales",
         "futile.logger",
         "quantmod",
@@ -20830,7 +20789,6 @@
         "MsFeatures",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -20946,7 +20904,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "KEGGREST",
         "hardhat",
         "ipred",
@@ -20974,7 +20931,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "MLInterfaces",
         "caret",
         "dendextend",
@@ -21039,7 +20995,6 @@
         "ggplot2",
         "miniUI",
         "MSnbase",
-        "pcaMethods",
         "cp4p",
         "scales",
         "imp4p",
@@ -21169,7 +21124,6 @@
         "BiocParallel",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "KEGGREST",
@@ -21286,7 +21240,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger",
         "broom",
         "car",
@@ -21506,7 +21459,6 @@
         "BiocParallel",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "qrqc": [
@@ -22571,7 +22523,6 @@
         "car",
         "htmlTable",
         "viridis",
-        "pcaMethods",
         "nloptr",
         "broom",
         "pbkrtest",
@@ -22917,7 +22868,6 @@
         "MsFeatures",
         "futile.logger",
         "vsn",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -23022,7 +22972,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "futile.logger"
@@ -24488,7 +24437,6 @@
     ],
     "scde": [
         "quantreg",
-        "pcaMethods",
         "BiocParallel",
         "futile.logger"
     ],
@@ -26374,7 +26322,6 @@
         "Biostrings",
         "ggplot2",
         "ggbio",
-        "pcaMethods",
         "XVector",
         "scales",
         "Hmisc",
@@ -28350,7 +28297,6 @@
         "BiocParallel",
         "vsn",
         "affy",
-        "pcaMethods",
         "futile.logger"
     ],
     "topGO": [
@@ -29870,7 +29816,6 @@
         "futile.logger",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -29968,7 +29913,6 @@
         "scales",
         "NMF",
         "ggbio",
-        "pcaMethods",
         "SummarizedExperiment",
         "Rsamtools",
         "AnnotationDbi",
@@ -31888,7 +31832,6 @@
         "futile.logger",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -32042,7 +31985,6 @@
         "IRanges",
         "vsn",
         "affy",
-        "pcaMethods",
         "ggplot2",
         "scales",
         "futile.logger"
@@ -32188,9 +32130,7 @@
         "xts",
         "TTR"
     ],
-    "imputeLCMD": [
-        "pcaMethods"
-    ],
+    "imputeLCMD": [],
     "gamlss": [],
     "NBPSeq": [
         "qvalue",
@@ -32207,7 +32147,6 @@
         "igraph"
     ],
     "DiffCorr": [
-        "pcaMethods",
         "igraph",
         "multtest"
     ],
@@ -32890,9 +32829,7 @@
         "ggplot2",
         "scales"
     ],
-    "crmn": [
-        "pcaMethods"
-    ],
+    "crmn": [],
     "ddpcr": [
         "ggplot2",
         "mixtools",
