@@ -1056,7 +1056,6 @@
         "MultiAssayExperiment",
         "readxl",
         "SummarizedExperiment",
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -2804,7 +2803,6 @@
         "DelayedArray",
         "ComplexHeatmap",
         "multipanelfigure",
-        "assertive.types",
         "scuttle",
         "DelayedMatrixStats",
         "beachmat",
@@ -14751,7 +14749,6 @@
         "plyranges",
         "reticulate",
         "rtracklayer",
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -21877,7 +21874,6 @@
         "org.Hs.eg.db",
         "reldist",
         "Hmisc",
-        "assertive.types",
         "multcomp",
         "spatstat.random",
         "spatstat.sparse",
@@ -25751,7 +25747,6 @@
     ],
     "mixtools": [],
     "assertive": [
-        "assertive.types",
         "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
@@ -25759,28 +25754,18 @@
         "assertive.data.us",
         "assertive.code"
     ],
-    "assertive.types": [],
-    "assertive.strings": [
-        "assertive.types"
-    ],
-    "assertive.datetimes": [
-        "assertive.types"
-    ],
+    "assertive.strings": [],
+    "assertive.datetimes": [],
     "assertive.data": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.uk": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.us": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
-    "assertive.code": [
-        "assertive.types"
-    ],
+    "assertive.code": [],
     "doBy": [
         "broom",
         "ggplot2",
@@ -26287,7 +26272,6 @@
         "ggplot2"
     ],
     "multipanelfigure": [
-        "assertive.types",
         "ggplot2"
     ],
     "SpatialTools": [
