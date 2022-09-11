@@ -3244,7 +3244,6 @@
         "tensorflow",
         "tfruns",
         "GenomicAlignments",
-        "tfautograph",
         "SummarizedExperiment"
     ],
     "crisprseekplus": [
@@ -3269,8 +3268,7 @@
         "regioneR",
         "tensorflow",
         "tfruns",
-        "AnnotationFilter",
-        "tfautograph"
+        "AnnotationFilter"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -3881,7 +3879,6 @@
         "webchem",
         "ttgsea",
         "tfruns",
-        "tfautograph",
         "text2vec",
         "textstem",
         "DiagrammeR",
@@ -6814,8 +6811,7 @@
         "keras",
         "AnnotationFilter",
         "tensorflow",
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -9891,8 +9887,7 @@
         "AnnotationFilter",
         "tensorflow",
         "tfruns",
-        "viridis",
-        "tfautograph"
+        "viridis"
     ],
     "MultiDataSet": [
         "GenomicRanges",
@@ -10399,8 +10394,7 @@
         "tensorflow",
         "tfruns",
         "SummarizedExperiment",
-        "GenomicRanges",
-        "tfautograph"
+        "GenomicRanges"
     ],
     "NewWave": [
         "SummarizedExperiment",
@@ -13445,8 +13439,7 @@
         "spatstat.core",
         "SummarizedExperiment",
         "GenomicRanges",
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -13682,8 +13675,7 @@
     "SCFA": [
         "keras",
         "tensorflow",
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "scFeatureFilter": [],
     "scGPS": [
@@ -16179,8 +16171,7 @@
         "DiagrammeR",
         "viridis",
         "tensorflow",
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "TTMap": [
         "SummarizedExperiment",
@@ -16365,7 +16356,6 @@
         "ggbeeswarm",
         "ggrepel",
         "GenomicRanges",
-        "tfautograph",
         "ScaledMatrix",
         "text2vec",
         "textstem"
@@ -17672,15 +17662,12 @@
     ],
     "keras": [
         "tensorflow",
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "tensorflow": [
-        "tfruns",
-        "tfautograph"
+        "tfruns"
     ],
     "tfruns": [],
-    "tfautograph": [],
     "shinypanel": [],
     "fields": [
         "viridis"
