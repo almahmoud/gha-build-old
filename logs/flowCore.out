@@ -1,0 +1,117 @@
+* installing *source* package ‘flowCore’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FastLogicle.cpp -o FastLogicle.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Hyperlog.cpp -o Hyperlog.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Logicle.cpp -o Logicle.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function.hpp:30,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:23,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/transformation.hpp:18,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/compensation.hpp:15,
+                 from pairVectorRcppWrap.h:10,
+                 from flowCore_types.h:12,
+                 from RcppExports.cpp:4:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/google/protobuf/stubs/common.h:41,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/google/protobuf/io/coded_stream.h:135,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/cytolib/GatingSet.pb.h:23,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/calibrationTable.hpp:19,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/transformation.hpp:17,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/compensation.hpp:15,
+                 from pairVectorRcppWrap.h:10,
+                 from flowCore_types.h:12,
+                 from RcppExports.cpp:4:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c biexponential.cpp -o biexponential.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c convertRawBytes.cpp -o convertRawBytes.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fcsTextParse.cpp -o fcsTextParse.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function.hpp:30,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:23,
+                 from fcsTextParse.cpp:8:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/classification.hpp:15,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/trim.hpp:23,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:19,
+                 from fcsTextParse.cpp:8:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hyperlogTransform.cpp -o hyperlogTransform.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c inPolygon.cpp -o inPolygon.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c inPolytope.cpp -o inPolytope.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c logicleTransform.cpp -o logicleTransform.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pairVectorRcppWrap.cpp -o pairVectorRcppWrap.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function.hpp:30,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:23,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/transformation.hpp:18,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/compensation.hpp:15,
+                 from pairVectorRcppWrap.h:10,
+                 from pairVectorRcppWrap.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/google/protobuf/stubs/common.h:41,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/google/protobuf/io/coded_stream.h:135,
+                 from /__w/gha-build/gha-build/built/RProtoBufLib/include/cytolib/GatingSet.pb.h:23,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/calibrationTable.hpp:19,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/transformation.hpp:17,
+                 from /__w/gha-build/gha-build/built/cytolib/include/cytolib/compensation.hpp:15,
+                 from pairVectorRcppWrap.h:10,
+                 from pairVectorRcppWrap.cpp:7:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c poly_centroid.cpp -o poly_centroid.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sortBytes.cpp -o sortBytes.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c uint2double.cpp -o uint2double.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c zeroin.cpp -o zeroin.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o flowCore.so FastLogicle.o Hyperlog.o Logicle.o RcppExports.o biexponential.o convertRawBytes.o fcsTextParse.o hyperlogTransform.o inPolygon.o inPolytope.o logicleTransform.o pairVectorRcppWrap.o poly_centroid.o sortBytes.o uint2double.o zeroin.o /__w/gha-build/gha-build/built/cytolib/lib/libcytolib.a -L/usr/local/lib/R/lib -lR
+if [ `uname -s` = 'Darwin' ]; then install_name_tool -change /usr/local/clang4/lib/libc++.1.dylib /usr/lib/libc++.1.dylib flowCore.so; fi
+installing to /__w/gha-build/gha-build/built/00LOCK-flowCore/00new/flowCore/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘flowCore’ as ‘flowCore_2.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flowCore)
