@@ -1,0 +1,109 @@
+* installing *source* package ‘BitSeq’ ...
+** using staged installation
+configure: Version def: -DBS_VERSION=\"1.40.0\"
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ -std=gnu++14 accepts -g... yes
+checking for g++ -std=gnu++14 option to support OpenMP... -fopenmp
+configure: creating ./config.status
+config.status: creating src/Makevars
+config.status: creating src/Makevars.win
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ArgumentParser.cpp -o ArgumentParser.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CollapsedSampler.cpp -o CollapsedSampler.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FileHeader.cpp -o FileHeader.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c GibbsParameters.cpp -o GibbsParameters.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c GibbsSampler.cpp -o GibbsSampler.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MyTimer.cpp -o MyTimer.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c PosteriorSamples.cpp -o PosteriorSamples.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_BitSeq.cpp -o R_init_BitSeq.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ReadDistribution.cpp -o ReadDistribution.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rhtslib_bam_plbuf.c -o Rhtslib_bam_plbuf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rhtslib_sam.c -o Rhtslib_sam.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Sampler.cpp -o Sampler.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SimpleSparse.cpp -o SimpleSparse.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c TagAlignments.cpp -o TagAlignments.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c TranscriptExpression.cpp -o TranscriptExpression.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c TranscriptInfo.cpp -o TranscriptInfo.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c TranscriptSequence.cpp -o TranscriptSequence.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c VariationalBayes.cpp -o VariationalBayes.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c common.cpp -o common.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c estimateDE.cpp -o estimateDE.o
+estimateDE.cpp:57:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+   57 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+estimateDE.cpp:57:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+   57 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c estimateExpression.cpp -o estimateExpression.o
+estimateExpression.cpp:532:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+  532 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+estimateExpression.cpp:532:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+  532 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c estimateHyperPar.cpp -o estimateHyperPar.o
+estimateHyperPar.cpp:62:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+   62 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+estimateHyperPar.cpp:62:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+   62 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c estimateVBExpression.cpp -o estimateVBExpression.o
+estimateVBExpression.cpp:126:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+  126 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+estimateVBExpression.cpp:126:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+  126 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c getGeneExpression.cpp -o getGeneExpression.o
+getGeneExpression.cpp:33:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+   33 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+getGeneExpression.cpp:33:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+   33 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c getVariance.cpp -o getVariance.o
+getVariance.cpp:28:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+   28 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+getVariance.cpp:28:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+   28 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c getWithinGeneExpression.cpp -o getWithinGeneExpression.o
+getWithinGeneExpression.cpp:54:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+   54 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+getWithinGeneExpression.cpp:54:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+   54 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lowess.cpp -o lowess.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c misc.cpp -o misc.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c parseAlignment.cpp -o parseAlignment.o
+parseAlignment.cpp:102:38: warning: macro "__DATE__" might prevent reproducible builds [-Wdate-time]
+  102 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                      ^~~~~~~~
+parseAlignment.cpp:102:47: warning: macro "__TIME__" might prevent reproducible builds [-Wdate-time]
+  102 |    if(args.verbose)buildTime(argv[0],__DATE__,__TIME__);
+      |                                               ^~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -DPACKAGE_NAME=\"BitSeq\" -DPACKAGE_TARNAME=\"bitseq\" -DPACKAGE_VERSION=\"1.10.x\" -DPACKAGE_STRING=\"BitSeq\ 1.10.x\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DBS_VERSION=\"1.40.0\" -DSUPPORT_OPENMP=1 -DBIOC_BUILD=1 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include  -I. -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c transposeFiles.cpp -o transposeFiles.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BitSeq.so ArgumentParser.o CollapsedSampler.o FileHeader.o GibbsParameters.o GibbsSampler.o MyTimer.o PosteriorSamples.o R_init_BitSeq.o ReadDistribution.o Rhtslib_bam_plbuf.o Rhtslib_sam.o Sampler.o SimpleSparse.o TagAlignments.o TranscriptExpression.o TranscriptInfo.o TranscriptSequence.o VariationalBayes.o common.o estimateDE.o estimateExpression.o estimateHyperPar.o estimateVBExpression.o getGeneExpression.o getVariance.o getWithinGeneExpression.o lowess.o misc.o parseAlignment.o transposeFiles.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -fopenmp -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BitSeq/00new/BitSeq/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BitSeq’ as ‘BitSeq_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BitSeq)
