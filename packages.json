@@ -461,7 +461,6 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -1374,9 +1373,7 @@
         "DO.db",
         "scatterpie"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "clustifyr": [
         "SingleCellExperiment"
     ],
@@ -4305,7 +4302,6 @@
     "metapone": [],
     "metaseqR2": [
         "DESeq2",
-        "baySeq",
         "biomaRt",
         "DSS",
         "EDASeq",
@@ -6020,7 +6016,6 @@
     ],
     "Rbowtie2": [],
     "Rcade": [
-        "baySeq",
         "GenomicAlignments"
     ],
     "RCAS": [
@@ -6309,9 +6304,7 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "AnnotationDbi",
         "BSgenome",
@@ -6929,7 +6922,6 @@
         "GO.db"
     ],
     "segmentSeq": [
-        "baySeq",
         "ShortRead",
         "GenomicAlignments"
     ],
@@ -7389,7 +7381,6 @@
     "srnadiff": [
         "rtracklayer",
         "DESeq2",
-        "baySeq",
         "GenomicFeatures",
         "GenomicAlignments",
         "Gviz",
@@ -7590,7 +7581,6 @@
     ],
     "TCC": [
         "DESeq2",
-        "baySeq",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
