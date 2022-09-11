@@ -811,7 +811,6 @@
         "Biostrings",
         "Rsamtools"
     ],
-    "basilisk": [],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1113,7 +1112,6 @@
     "BiocSingular": [],
     "BiocSklearn": [
         "SummarizedExperiment",
-        "basilisk",
         "GenomicRanges"
     ],
     "biocthis": [],
@@ -1756,9 +1754,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "cbpManager": [
-        "basilisk"
-    ],
+    "cbpManager": [],
     "ccfindR": [
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -3490,7 +3486,6 @@
         "treeio"
     ],
     "dasper": [
-        "basilisk",
         "GenomicFeatures",
         "GenomicRanges",
         "ggpubr",
@@ -3756,9 +3751,7 @@
         "SummarizedExperiment",
         "GenomicRanges"
     ],
-    "densvis": [
-        "basilisk"
-    ],
+    "densvis": [],
     "DEP": [
         "SummarizedExperiment",
         "MSnbase",
@@ -5219,7 +5212,6 @@
         "GenomicRanges"
     ],
     "FLAMES": [
-        "basilisk",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Rsamtools",
@@ -7559,7 +7551,6 @@
         "ggrepel"
     ],
     "MACSr": [
-        "basilisk",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
@@ -8956,8 +8947,7 @@
     ],
     "MOFA2": [
         "cowplot",
-        "ggrepel",
-        "basilisk"
+        "ggrepel"
     ],
     "MOGAMUN": [],
     "mogsa": [
@@ -9891,7 +9881,6 @@
         "ggrepel",
         "rtracklayer",
         "megadepth",
-        "basilisk",
         "GenomicFeatures",
         "plyranges",
         "SummarizedExperiment",
@@ -11587,13 +11576,11 @@
     "RCSL": [],
     "Rcwl": [
         "DiagrammeR",
-        "basilisk",
         "viridis"
     ],
     "RcwlPipelines": [
         "Rcwl",
         "DiagrammeR",
-        "basilisk",
         "viridis"
     ],
     "ReactomeGraph4R": [],
@@ -13807,9 +13794,7 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "snifter": [
-        "basilisk"
-    ],
+    "snifter": [],
     "snm": [
         "lme4",
         "nloptr"
@@ -13922,7 +13907,6 @@
         "GenomicRanges"
     ],
     "spatialDE": [
-        "basilisk",
         "SpatialExperiment",
         "SummarizedExperiment",
         "ggrepel",
@@ -15513,7 +15497,6 @@
     ],
     "velociraptor": [
         "SummarizedExperiment",
-        "basilisk",
         "zellkonverter",
         "scuttle",
         "SingleCellExperiment",
@@ -15789,7 +15772,6 @@
         "GenomicAlignments"
     ],
     "zellkonverter": [
-        "basilisk",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges"
