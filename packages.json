@@ -2131,7 +2131,6 @@
         "Biostrings",
         "GenomicAlignments",
         "bluster",
-        "fresh",
         "biomaRt",
         "AnnotationDbi",
         "KEGGREST"
@@ -5199,7 +5198,6 @@
         "SummarizedExperiment",
         "viridis",
         "KEGGREST",
-        "fresh",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -9936,7 +9934,6 @@
         "caret",
         "dendextend",
         "biomaRt",
-        "fresh",
         "AnnotationDbi",
         "recipes",
         "viridis",
@@ -13052,8 +13049,7 @@
         "GenomicAlignments"
     ],
     "systemPipeShiny": [
-        "shinydashboardPlus",
-        "fresh"
+        "shinydashboardPlus"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -14890,11 +14886,8 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "shinydashboardPlus": [
-        "fresh"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [],
-    "fresh": [],
     "densityClust": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -15130,9 +15123,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "bs4Dash": [
-        "fresh"
-    ],
+    "bs4Dash": [],
     "FField": [],
     "lmerTest": [
         "lme4"
