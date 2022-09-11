@@ -156,9 +156,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "affyContam": [
-        "affydata"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "GOstats",
         "gcrma",
@@ -695,7 +693,6 @@
     "arrayMvout": [
         "affyContam",
         "lumi",
-        "affydata",
         "methylumi",
         "GenomicFeatures",
         "GenomicRanges",
@@ -22090,7 +22087,6 @@
     ],
     "TTR": [],
     "SAVER": [],
-    "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST",
