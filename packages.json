@@ -1135,8 +1135,7 @@
         "flowStats",
         "flowClust",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "Category": [
         "AnnotationDbi",
@@ -1282,8 +1281,7 @@
         "car",
         "pbkrtest",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "Cepo": [
         "GSEABase",
@@ -2180,8 +2178,7 @@
         "flowStats",
         "flowClust",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "CytoGLMM": [
         "factoextra",
@@ -2206,8 +2203,7 @@
         "flowStats",
         "flowClust",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "CytoTree": [
         "FlowSOM",
@@ -2230,8 +2226,7 @@
         "flowStats",
         "flowClust",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "dada2": [
         "ShortRead",
@@ -2589,8 +2584,7 @@
         "car",
         "pbkrtest",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "diffHic": [
         "InteractionSet",
@@ -3332,8 +3326,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "seqPattern",
-        "rtracklayer",
-        "rainbow"
+        "rtracklayer"
     ],
     "fCI": [],
     "fcoex": [
@@ -3460,14 +3453,12 @@
         "car",
         "pbkrtest",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowStats": [
         "flowWorkspace",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowTrans": [
         "flowClust"
@@ -3476,8 +3467,7 @@
         "flowStats",
         "flowWorkspace",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowWorkspace": [],
     "fobitools": [
@@ -3512,8 +3502,7 @@
     ],
     "FRGEpistasis": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "frma": [
         "oligo",
@@ -3523,8 +3512,7 @@
         "fda",
         "GenomicAlignments",
         "Rsamtools",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "funtooNorm": [
         "minfi",
@@ -4730,8 +4718,7 @@
     ],
     "IWTomics": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "karyoploteR": [
         "regioneR",
@@ -5221,8 +5208,7 @@
         "car",
         "pbkrtest",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "metagene": [
         "rtracklayer",
@@ -6454,8 +6440,7 @@
         "flowStats",
         "flowClust",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "openPrimeR": [
         "DECIPHER",
@@ -6801,8 +6786,7 @@
         "KEGGREST",
         "Hmisc",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "rainbow"
+        "AnnotationFilter"
     ],
     "pipeComp": [
         "SingleCellExperiment",
@@ -9606,8 +9590,7 @@
         "car",
         "pbkrtest",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
@@ -9766,8 +9749,7 @@
         "geneplotter",
         "fds",
         "biomaRt",
-        "KEGGREST",
-        "rainbow"
+        "KEGGREST"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -10403,13 +10385,9 @@
         "pbkrtest"
     ],
     "fda": [
-        "fds",
-        "rainbow"
+        "fds"
     ],
-    "fds": [
-        "rainbow"
-    ],
-    "rainbow": [],
+    "fds": [],
     "FactoMineR": [
         "car",
         "pbkrtest"
