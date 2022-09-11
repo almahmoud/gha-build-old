@@ -4,7 +4,7 @@ git pull origin main || git reset --hard origin/main
 
 PKGTOMARK=$1
 TAR=$2
-cat "$TAR" > "lists/$PKGTOMARK"
+echo "$TAR" > "lists/$PKGTOMARK"
 sed -i "s/    \"$PKGTOMARK\": \[\],\?//g" packages.json
 sed -i "s/        \"$PKGTOMARK\",\?//g" packages.json
 sed -i -z 's/,\n\n\+}/}/g' packages.json
