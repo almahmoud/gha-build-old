@@ -1,0 +1,21 @@
+* installing *source* package ‘iBBiG’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_iBBiG.c -o R_init_iBBiG.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c iBBiG.c -o iBBiG.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o iBBiG.so R_init_iBBiG.o iBBiG.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-iBBiG/00new/iBBiG/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iBBiG’ as ‘iBBiG_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iBBiG)
