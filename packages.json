@@ -2848,7 +2848,6 @@
         "GenomicRanges",
         "DelayedArray",
         "callr",
-        "downlit",
         "gert"
     ],
     "bumphunter": [
@@ -2965,7 +2964,6 @@
         "GenomicRanges",
         "rtracklayer",
         "SummarizedExperiment",
-        "pryr",
         "IRanges",
         "GenomeInfoDb",
         "GenomicFeatures",
@@ -3595,7 +3593,6 @@
         "scales"
     ],
     "cellscape": [],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
@@ -5170,7 +5167,6 @@
         "testthat",
         "scales",
         "callr",
-        "downlit",
         "gert"
     ],
     "Cogito": [
@@ -10556,7 +10552,6 @@
         "rcmdcheck",
         "testthat",
         "callr",
-        "downlit",
         "gert"
     ],
     "GDCRNATools": [
@@ -11920,7 +11915,6 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "pryr",
         "expm",
         "gld",
         "readxl"
@@ -13172,7 +13166,6 @@
         "rcmdcheck",
         "testthat",
         "callr",
-        "downlit",
         "gert"
     ],
     "infercnv": [
@@ -15879,7 +15872,6 @@
         "AnnotationHubData",
         "survival",
         "callr",
-        "downlit",
         "car",
         "selectr",
         "multtest",
@@ -16126,7 +16118,6 @@
         "testthat",
         "scales",
         "callr",
-        "downlit",
         "gert"
     ],
     "MetNet": [
@@ -18109,7 +18100,6 @@
         "Biostrings",
         "TH.data",
         "callr",
-        "downlit",
         "quantreg",
         "lava"
     ],
@@ -19245,7 +19235,6 @@
         "IRanges",
         "made4",
         "FactoMineR",
-        "pryr",
         "imputeLCMD",
         "glmnet",
         "Hmisc",
@@ -19489,7 +19478,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "pryr",
         "rapportools",
         "scales",
         "nloptr",
@@ -19542,7 +19530,6 @@
         "testthat",
         "scales",
         "callr",
-        "downlit",
         "gert"
     ],
     "optimalFlow": [
@@ -19958,7 +19945,6 @@
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
-        "downlit",
         "DelayedArray",
         "gert",
         "KEGGREST"
@@ -23095,7 +23081,6 @@
     "rexposome": [
         "FactoMineR",
         "ggplot2",
-        "pryr",
         "imputeLCMD",
         "glmnet",
         "Hmisc",
@@ -23611,7 +23596,6 @@
         "biomaRt",
         "scales",
         "callr",
-        "downlit",
         "gert",
         "GenomicAlignments",
         "restfulr"
@@ -24761,7 +24745,6 @@
         "XVector"
     ],
     "SCATE": [
-        "splines2",
         "xgboost",
         "SCATEData",
         "GenomicAlignments",
@@ -26059,7 +26042,6 @@
         "GenomeInfoDb",
         "XVector",
         "scales",
-        "pryr",
         "gistr",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -27645,7 +27627,6 @@
         "AnnotationFilter",
         "survival",
         "callr",
-        "downlit",
         "gert",
         "htmlTable",
         "viridis"
@@ -29527,7 +29508,6 @@
         "shinyjs",
         "shinyFiles",
         "plotly",
-        "pryr",
         "golem",
         "usethis",
         "ggplot2",
@@ -31983,19 +31963,15 @@
         "rcmdcheck",
         "testthat",
         "callr",
-        "downlit",
         "gert"
     ],
     "pkgdown": [
-        "callr",
-        "downlit"
+        "callr"
     ],
     "rcmdcheck": [
         "callr",
         "pkgbuild"
     ],
-    "downlit": [],
-    "pryr": [],
     "ggtext": [
         "ggplot2",
         "scales"
@@ -33734,7 +33710,6 @@
         "rcmdcheck",
         "testthat",
         "callr",
-        "downlit",
         "gert"
     ],
     "blme": [
@@ -33857,7 +33832,6 @@
         "callr"
     ],
     "summarytools": [
-        "pryr",
         "rapportools"
     ],
     "unmarked": [
@@ -34179,7 +34153,6 @@
         "XVector",
         "scales"
     ],
-    "splines2": [],
     "SCATEData": [
         "ExperimentHub",
         "GenomicAlignments",
@@ -34234,7 +34207,6 @@
         "tweenr"
     ],
     "rbokeh": [
-        "pryr",
         "scales",
         "gistr",
         "crul"
