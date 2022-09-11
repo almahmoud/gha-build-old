@@ -168,7 +168,6 @@
         "AnnotationDbi"
     ],
     "ANCOMBC": [
-        "phyloseq",
         "microbiome"
     ],
     "AneuFinder": [
@@ -492,7 +491,6 @@
     ],
     "BEclear": [],
     "benchdamic": [
-        "phyloseq",
         "zinbwave",
         "DESeq2",
         "ALDEx2",
@@ -1503,9 +1501,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "biomaRt",
         "Gviz",
@@ -4417,7 +4413,6 @@
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
-        "phyloseq",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -4593,12 +4588,8 @@
         "DECIPHER",
         "scuttle"
     ],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
         "heatmaply",
@@ -4610,7 +4601,6 @@
         "AnnotationDbi"
     ],
     "microbiomeMarker": [
-        "phyloseq",
         "ggtree",
         "DESeq2",
         "ANCOMBC",
@@ -5526,7 +5516,6 @@
         "GenomicAlignments"
     ],
     "PathoStat": [
-        "phyloseq",
         "DESeq2",
         "genefilter",
         "geneplotter",
@@ -5589,9 +5578,7 @@
         "scuttle"
     ],
     "pepStat": [],
-    "PERFect": [
-        "phyloseq"
-    ],
+    "PERFect": [],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer",
@@ -5660,7 +5647,6 @@
         "AnnotationDbi",
         "GO.db"
     ],
-    "phyloseq": [],
     "Pi": [
         "caret"
     ],
@@ -5779,8 +5765,7 @@
     ],
     "prebs": [
         "GenomicAlignments",
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "caret",
@@ -6191,9 +6176,7 @@
         "GSEABase",
         "AnnotationDbi"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "GOSemSim",
         "AnnotationDbi",
@@ -6219,9 +6202,7 @@
         "GO.db"
     ],
     "receptLoss": [],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "derfinder",
         "rtracklayer",
@@ -6686,9 +6667,7 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "RpsiXML": [
         "AnnotationDbi"
     ],
@@ -7195,9 +7174,7 @@
     "ShortRead": [
         "GenomicAlignments"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
@@ -7555,7 +7532,6 @@
     "SPsimSeq": [
         "SingleCellExperiment",
         "WGCNA",
-        "phyloseq",
         "GO.db",
         "AnnotationDbi"
     ],
@@ -8605,9 +8581,7 @@
         "dendextend"
     ],
     "dendextend": [],
-    "corncob": [
-        "phyloseq"
-    ],
+    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
