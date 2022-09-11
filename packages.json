@@ -63,7 +63,6 @@
         "KEGGREST"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -9476,9 +9475,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
-    "scRecover": [
-        "SAVER"
-    ],
+    "scRecover": [],
     "scRepertoire": [
         "SummarizedExperiment"
     ],
@@ -9756,7 +9753,6 @@
         "SummarizedExperiment"
     ],
     "SIAMCAT": [
-        "mlr",
         "phyloseq"
     ],
     "SICtools": [
@@ -10089,7 +10085,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "sparseDOSSA": [],
     "SparseSignatures": [
         "BSgenome",
         "rtracklayer",
@@ -11513,7 +11508,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -12453,7 +12447,6 @@
     "clustree": [
         "ggraph"
     ],
-    "mlr": [],
     "celldex": [
         "SummarizedExperiment",
         "ExperimentHub",
