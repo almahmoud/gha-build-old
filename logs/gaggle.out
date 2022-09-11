@@ -1,0 +1,35 @@
+* installing *source* package ‘gaggle’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+onLoad -- libname: /__w/gha-build/gha-build/built/00LOCK-gaggle/00new pkgname: gaggle 
+path to jar: /__w/gha-build/gha-build/built/00LOCK-gaggle/00new/gaggle/jars/gaggleRShell.jar 
+      script:  gaggle.R $Revision: 4499 $   $Date: 2010-08-10 17:15:03 -0700 (Tue, 10 Aug 2010) $ 
+  os version:  Linux 
+ jvm version:  11.0.16 
+
+   You are using the wrong version of Java.
+   Please see http://gaggle.systemsbiology.org/docs/html/java
+
+** testing if installed package can be loaded from final location
+
+onLoad -- libname: /__w/gha-build/gha-build/built pkgname: gaggle 
+path to jar: /__w/gha-build/gha-build/built/gaggle/jars/gaggleRShell.jar 
+      script:  gaggle.R $Revision: 4499 $   $Date: 2010-08-10 17:15:03 -0700 (Tue, 10 Aug 2010) $ 
+  os version:  Linux 
+ jvm version:  11.0.16 
+
+   You are using the wrong version of Java.
+   Please see http://gaggle.systemsbiology.org/docs/html/java
+
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gaggle’ as ‘gaggle_1.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gaggle)
