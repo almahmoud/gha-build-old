@@ -775,7 +775,6 @@
         "GenomicRanges"
     ],
     "BatchQC": [
-        "MCMCpack",
         "sva",
         "heatmaply",
         "plotly",
@@ -4308,7 +4307,6 @@
     "epigenomix": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "MCMCpack",
         "Rsamtools",
         "beadarray",
         "AnnotationDbi",
@@ -4972,7 +4970,6 @@
         "dendextend"
     ],
     "frenchFISH": [
-        "MCMCpack",
         "NHPoisson",
         "car",
         "pbkrtest",
@@ -5800,9 +5797,7 @@
         "epiR"
     ],
     "graper": [],
-    "GraphAT": [
-        "MCMCpack"
-    ],
+    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "KEGGREST",
@@ -7300,8 +7295,7 @@
     ],
     "Melissa": [
         "BPRMeth",
-        "GenomicRanges",
-        "MCMCpack"
+        "GenomicRanges"
     ],
     "memes": [
         "Biostrings",
@@ -7745,8 +7739,7 @@
         "GenomicRanges"
     ],
     "mfa": [
-        "ggmcmc",
-        "MCMCpack"
+        "ggmcmc"
     ],
     "Mfuzz": [],
     "MGFM": [
@@ -7916,9 +7909,7 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "MIMOSA": [
-        "MCMCpack"
-    ],
+    "MIMOSA": [],
     "mina": [
         "Hmisc",
         "viridis"
@@ -12796,9 +12787,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "sparseDOSSA": [
-        "MCMCpack"
-    ],
+    "sparseDOSSA": [],
     "SparseSignatures": [
         "Biostrings",
         "GenomicRanges",
@@ -14808,7 +14797,6 @@
         "SummarizedExperiment"
     ],
     "ggExtra": [],
-    "MCMCpack": [],
     "heatmaply": [
         "plotly",
         "viridis",
