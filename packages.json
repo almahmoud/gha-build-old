@@ -409,7 +409,6 @@
         "Rsamtools",
         "GenomicFeatures",
         "Gviz",
-        "seqinr",
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
@@ -431,7 +430,6 @@
     "AlphaBeta": [
         "expm",
         "BiocParallel",
-        "igraph",
         "ggplot2",
         "plotly",
         "scales"
@@ -467,7 +465,6 @@
         "BiocParallel",
         "SummarizedExperiment",
         "scales",
-        "igraph",
         "Rfast",
         "rvest",
         "GenomicRanges",
@@ -559,7 +556,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "IRanges",
         "XVector",
@@ -585,9 +581,7 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "ANF": [
-        "igraph"
-    ],
+    "ANF": [],
     "animalcules": [
         "shinyjs",
         "DESeq2",
@@ -836,7 +830,6 @@
         "COSMIC.67",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
-        "seqinr",
         "Rsamtools",
         "GenomicRanges",
         "GenomicFeatures",
@@ -964,7 +957,6 @@
         "pheatmap",
         "plotly",
         "scales",
-        "seqinr",
         "UpSetR",
         "VennDiagram",
         "IRanges",
@@ -1010,7 +1002,6 @@
         "GenomeInfoDb",
         "Gviz",
         "fgsea",
-        "igraph",
         "rtracklayer",
         "scales",
         "ggplot2",
@@ -1045,7 +1036,6 @@
         "Gviz",
         "Rsamtools",
         "BiocStyle",
-        "igraph",
         "UpSetR",
         "KEGGREST",
         "GenomeInfoDb",
@@ -1399,7 +1389,6 @@
         "colourpicker",
         "miniUI",
         "shinyjs",
-        "igraph",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -1433,7 +1422,6 @@
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "igraph",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
@@ -1493,7 +1481,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "igraph",
         "bluster",
         "dqrng",
         "GenomicRanges",
@@ -1650,7 +1637,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "vegan",
         "fitdistrplus",
         "ggrepel",
@@ -1676,7 +1662,6 @@
         "minfi",
         "illuminaio",
         "Rvmmin",
-        "Rcgmin",
         "RcppTOML",
         "RcppZiggurat",
         "spatstat.random",
@@ -1861,7 +1846,6 @@
         "enrichplot",
         "GOSemSim",
         "qvalue",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -1977,7 +1961,6 @@
     "BiocPkgTools": [
         "biocViews",
         "rvest",
-        "igraph",
         "RBGL",
         "selectr"
     ],
@@ -2071,7 +2054,6 @@
         "topGO",
         "xlsx",
         "scales",
-        "igraph",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -2125,7 +2107,6 @@
         "sva",
         "ComplexHeatmap",
         "ggplot2",
-        "igraph",
         "ggnetwork",
         "intergraph",
         "networkD3",
@@ -2167,7 +2148,6 @@
     ],
     "BioNet": [
         "RBGL",
-        "igraph",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -2176,7 +2156,6 @@
         "GenomeInfoDb"
     ],
     "BioNetStat": [
-        "igraph",
         "shinyBS",
         "pathview",
         "BiocParallel",
@@ -2223,7 +2202,6 @@
         "GenomeInfoDb"
     ],
     "BioTIP": [
-        "igraph",
         "GenomicRanges",
         "Hmisc",
         "IRanges",
@@ -2283,9 +2261,7 @@
         "BSgenome",
         "restfulr"
     ],
-    "BiRewire": [
-        "igraph"
-    ],
+    "BiRewire": [],
     "biscuiteer": [
         "biscuiteerData",
         "bsseq",
@@ -2422,7 +2398,6 @@
         "Biostrings"
     ],
     "bluster": [
-        "igraph",
         "BiocParallel",
         "BiocNeighbors"
     ],
@@ -2450,7 +2425,6 @@
         "vsn",
         "RBGL",
         "ggplot2",
-        "igraph",
         "BoolNet",
         "pcalg",
         "Linnorm",
@@ -2821,7 +2795,6 @@
         "biomaRt",
         "VariantAnnotation",
         "ggplot2",
-        "igraph",
         "ensembldb",
         "BSgenome",
         "biovizBase",
@@ -2846,7 +2819,6 @@
         "DESeq2",
         "sva",
         "ComplexHeatmap",
-        "igraph",
         "ggnetwork",
         "intergraph",
         "networkD3",
@@ -2924,7 +2896,6 @@
         "xcms",
         "RBGL",
         "Hmisc",
-        "igraph",
         "ggplot2",
         "htmlTable",
         "viridis",
@@ -2982,7 +2953,6 @@
         "scales"
     ],
     "caOmicsV": [
-        "igraph",
         "bc3net",
         "c3net"
     ],
@@ -2990,9 +2960,7 @@
         "BiocParallel",
         "matter"
     ],
-    "CARNIVAL": [
-        "igraph"
-    ],
+    "CARNIVAL": [],
     "casper": [
         "IRanges",
         "GenomicRanges",
@@ -3030,7 +2998,6 @@
         "car",
         "multcomp",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -3108,9 +3075,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "CausalR": [
-        "igraph"
-    ],
+    "CausalR": [],
     "cbaf": [
         "cgdsr",
         "genefilter",
@@ -3223,7 +3188,6 @@
         "BiocParallel",
         "ggbeeswarm",
         "viridis",
-        "igraph",
         "bluster",
         "dqrng",
         "GenomicRanges",
@@ -3313,7 +3277,6 @@
         "cowplot",
         "fitdistrplus",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -3398,7 +3361,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "cellscape": [],
@@ -3408,7 +3370,6 @@
         "EnvStats",
         "ggplot2",
         "ggrepel",
-        "igraph",
         "SummarizedExperiment",
         "viridis",
         "scales",
@@ -3421,7 +3382,6 @@
     "cellTree": [
         "topGO",
         "topicmodels",
-        "igraph",
         "GO.db",
         "AnnotationDbi",
         "IRanges",
@@ -3440,7 +3400,6 @@
         "sna",
         "clusterProfiler",
         "fgsea",
-        "igraph",
         "intergraph",
         "network",
         "ggdendro",
@@ -3499,7 +3458,6 @@
         "DelayedArray",
         "ggplot2",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -3560,7 +3518,6 @@
         "tidygraph",
         "ggplot2",
         "ggraph",
-        "igraph",
         "scales",
         "ggforce",
         "ggrepel",
@@ -3579,7 +3536,6 @@
         "ggplot2",
         "ggpubr",
         "ggrepel",
-        "igraph",
         "network",
         "RCy3",
         "SummarizedExperiment",
@@ -4001,7 +3957,6 @@
         "aplot",
         "DOSE",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "GOSemSim",
@@ -4147,7 +4102,6 @@
         "SummarizedExperiment",
         "Sushi",
         "DelayedArray",
-        "igraph",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
@@ -4242,7 +4196,6 @@
     ],
     "CHRONOS": [
         "RBGL",
-        "igraph",
         "biomaRt",
         "AnnotationDbi",
         "IRanges",
@@ -4256,7 +4209,6 @@
         "Gviz",
         "GenomicRanges",
         "ggplot2",
-        "igraph",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -4290,7 +4242,6 @@
     ],
     "CIMICE": [
         "ggplot2",
-        "igraph",
         "networkD3",
         "ggcorrplot",
         "ggraph",
@@ -4315,7 +4266,6 @@
         "DESeq2",
         "GenomicRanges",
         "IRanges",
-        "seqinr",
         "ggplot2",
         "GenomeInfoDb",
         "universalmotif",
@@ -4351,7 +4301,6 @@
         "ggplot2",
         "propr",
         "uwot",
-        "igraph",
         "scales",
         "scran",
         "ggridges",
@@ -4393,7 +4342,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "BSgenome",
         "GenomicRanges",
-        "seqinr",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -4414,7 +4362,6 @@
         "GenomeInfoDb"
     ],
     "clipper": [
-        "igraph",
         "gRbase",
         "qpgraph",
         "KEGGgraph",
@@ -4459,7 +4406,6 @@
     "cliqueMS": [
         "xcms",
         "MSnbase",
-        "igraph",
         "MsCoreUtils",
         "BiocParallel",
         "IRanges",
@@ -4537,7 +4483,6 @@
         "ggplot2",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -4638,7 +4583,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "CNORfeeder": [
@@ -4646,7 +4590,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "CNORfuzzy": [
@@ -4655,7 +4598,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "testthat",
         "scales",
         "callr"
@@ -4665,7 +4607,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "CNTools": [
@@ -4919,7 +4860,6 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "skmeans",
@@ -4936,7 +4876,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "GenomicRanges",
         "IRanges",
@@ -5055,7 +4994,6 @@
         "BiocParallel",
         "ggbeeswarm",
         "viridis",
-        "igraph",
         "bluster",
         "dqrng",
         "GenomicRanges",
@@ -5101,7 +5039,6 @@
         "Ecume",
         "BiocParallel",
         "TrajectoryUtils",
-        "igraph",
         "spatstat.geom",
         "spatstat",
         "caret",
@@ -5342,9 +5279,7 @@
         "GenomeInfoDb",
         "scales"
     ],
-    "CoRegNet": [
-        "igraph"
-    ],
+    "CoRegNet": [],
     "CoreGx": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
@@ -5353,7 +5288,6 @@
         "BumpyMatrix",
         "IRanges",
         "GenomicRanges",
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard",
@@ -5424,7 +5358,6 @@
         "dorothea",
         "ggplot2",
         "GSEABase",
-        "igraph",
         "org.Hs.eg.db",
         "scales",
         "IRanges",
@@ -5452,9 +5385,7 @@
         "XVector",
         "Biostrings"
     ],
-    "covEB": [
-        "igraph"
-    ],
+    "covEB": [],
     "CoverageView": [
         "Rsamtools",
         "rtracklayer",
@@ -5510,7 +5441,6 @@
     ],
     "CRISPRseek": [
         "Biostrings",
-        "seqinr",
         "IRanges",
         "BSgenome",
         "reticulate",
@@ -5546,7 +5476,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "seqinr",
         "reticulate",
         "DelayedArray",
         "keras",
@@ -5680,13 +5609,11 @@
     ],
     "CTDquerier": [
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "ctgGEM": [
         "monocle",
         "SummarizedExperiment",
-        "igraph",
         "sincell",
         "TSCAN",
         "ggplot2",
@@ -5724,7 +5651,6 @@
         "BiocParallel",
         "broom",
         "quantmod",
-        "igraph",
         "Biostrings",
         "TTR",
         "XVector",
@@ -5808,7 +5734,6 @@
         "ggplot2",
         "GGally",
         "mrfDepth",
-        "igraph",
         "cowplot",
         "flowViz",
         "cytolib",
@@ -5887,7 +5812,6 @@
         "FactoMineR",
         "ggpubr",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -6007,7 +5931,6 @@
         "hdrcde"
     ],
     "CytoTree": [
-        "igraph",
         "FlowSOM",
         "ggplot2",
         "destiny",
@@ -6162,7 +6085,6 @@
         "scales",
         "htmlTable",
         "viridis",
-        "igraph",
         "GenomeInfoDb",
         "DelayedArray",
         "KEGGREST",
@@ -6199,7 +6121,6 @@
         "FactoMineR",
         "factoextra",
         "multcomp",
-        "igraph",
         "dendextend",
         "Mfuzz",
         "apcluster",
@@ -6267,9 +6188,7 @@
         "treeio",
         "tweenr"
     ],
-    "DART": [
-        "igraph"
-    ],
+    "DART": [],
     "dasper": [
         "basilisk",
         "BiocParallel",
@@ -6313,9 +6232,7 @@
         "gert",
         "nloptr"
     ],
-    "dcanr": [
-        "igraph"
-    ],
+    "dcanr": [],
     "dce": [
         "pcalg",
         "tidyverse",
@@ -6325,7 +6242,6 @@
         "expm",
         "CombinePValue",
         "epiNEM",
-        "igraph",
         "metap",
         "mnem",
         "graphite",
@@ -6427,7 +6343,6 @@
         "AnnotationDbi",
         "DESeq2",
         "DOSE",
-        "igraph",
         "GenomicRanges",
         "IRanges",
         "SummarizedExperiment",
@@ -6614,7 +6529,6 @@
         "textstem",
         "DiagrammeR",
         "rvest",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -6821,7 +6735,6 @@
         "viridis",
         "mixOmics",
         "scales",
-        "igraph",
         "ggrepel",
         "BiocParallel"
     ],
@@ -6975,7 +6888,6 @@
         "callr"
     ],
     "DEsubs": [
-        "igraph",
         "RBGL",
         "EBSeq",
         "NBPSeq",
@@ -7024,7 +6936,6 @@
         "sva",
         "swamp",
         "bnstruct",
-        "igraph",
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
@@ -7060,7 +6971,6 @@
         "ape",
         "phangorn",
         "scales",
-        "igraph",
         "RcppTOML"
     ],
     "DiffBind": [
@@ -7095,7 +7005,6 @@
         "WGCNA",
         "SummarizedExperiment",
         "DiffCorr",
-        "igraph",
         "multtest",
         "GenomicRanges",
         "IRanges",
@@ -7121,7 +7030,6 @@
         "ComplexHeatmap",
         "IRanges",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -7207,7 +7115,6 @@
     ],
     "diffuStats": [
         "expm",
-        "igraph",
         "precrec",
         "ggplot2",
         "scales"
@@ -7257,7 +7164,6 @@
         "ScaledMatrix",
         "beachmat",
         "scuttle",
-        "igraph",
         "DelayedMatrixStats",
         "bluster",
         "dqrng",
@@ -7900,7 +7806,6 @@
     ],
     "eegc": [
         "sna",
-        "igraph",
         "pheatmap",
         "DESeq2",
         "clusterProfiler",
@@ -7946,9 +7851,7 @@
         "treeio",
         "tweenr"
     ],
-    "EGAD": [
-        "igraph"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "gage",
         "AnnotationDbi",
@@ -8204,7 +8107,6 @@
         "DOSE",
         "ggplot2",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "GOSemSim",
@@ -8273,7 +8175,6 @@
         "fgsea",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -8452,7 +8353,6 @@
         "GenomicRanges",
         "IRanges",
         "ggplot2",
-        "igraph",
         "EntropyExplorer",
         "pheatmap",
         "qvalue",
@@ -8495,7 +8395,6 @@
     ],
     "epiNEM": [
         "BoolNet",
-        "igraph",
         "pcalg",
         "mnem",
         "Rgraphviz",
@@ -8706,7 +8605,6 @@
         "Biostrings",
         "ChIPseeker",
         "clusterProfiler",
-        "igraph",
         "BSgenome",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -8817,7 +8715,6 @@
         "SummarizedExperiment",
         "GenomicFeatures",
         "GenomeInfoDb",
-        "igraph",
         "RBGL",
         "prodlim",
         "GenomicRanges",
@@ -8999,7 +8896,6 @@
     ],
     "FamAgg": [
         "kinship2",
-        "igraph",
         "gap",
         "survey",
         "ggplot2",
@@ -9033,7 +8929,6 @@
         "fgsea",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -9136,7 +9031,6 @@
         "FCBF",
         "ggplot2",
         "ggrepel",
-        "igraph",
         "intergraph",
         "clusterProfiler",
         "network",
@@ -9214,7 +9108,6 @@
         "IRanges",
         "GenomeInfoDb",
         "TrajectoryUtils",
-        "igraph",
         "XVector",
         "scales",
         "pcaPP"
@@ -9226,7 +9119,6 @@
         "scales"
     ],
     "FELLA": [
-        "igraph",
         "KEGGREST",
         "Biostrings",
         "IRanges",
@@ -9273,12 +9165,9 @@
     "fgga": [
         "RBGL",
         "gRbase",
-        "Rgraphviz",
-        "igraph"
+        "Rgraphviz"
     ],
-    "FGNet": [
-        "igraph"
-    ],
+    "FGNet": [],
     "fgsea": [
         "BiocParallel",
         "ggplot2",
@@ -9336,7 +9225,6 @@
         "CAMERA",
         "RBGL",
         "Hmisc",
-        "igraph",
         "BiocParallel",
         "MSnbase",
         "IRanges",
@@ -9492,7 +9380,6 @@
         "ggiraph",
         "ggrepel",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "flowMap": [
@@ -9534,7 +9421,6 @@
         "callr"
     ],
     "FlowSOM": [
-        "igraph",
         "CytoML",
         "flowCore",
         "flowWorkspace",
@@ -9668,7 +9554,6 @@
         "BiocParallel",
         "scales",
         "ggforce",
-        "igraph",
         "ggrepel",
         "viridis",
         "graphlayouts",
@@ -9875,7 +9760,6 @@
     ],
     "gaggle": [],
     "GAPGOM": [
-        "igraph",
         "RBGL",
         "GO.db",
         "org.Hs.eg.db",
@@ -9931,7 +9815,6 @@
         "XVector",
         "htmlTable",
         "viridis",
-        "igraph",
         "callr",
         "KEGGREST",
         "pbkrtest",
@@ -10035,7 +9918,6 @@
         "ggtext",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -10133,7 +10015,6 @@
         "callr"
     ],
     "GeneAnswers": [
-        "igraph",
         "KEGGREST",
         "RBGL",
         "AnnotationDbi",
@@ -10198,13 +10079,10 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "snpStats",
         "Rsamtools",
-        "igraph",
         "FactoMineR",
         "IRanges",
         "GenomicRanges",
@@ -10238,7 +10116,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [
-        "igraph",
         "ape"
     ],
     "geneplotter": [
@@ -10269,7 +10146,6 @@
         "IRanges",
         "SeqArray",
         "SeqVarTools",
-        "igraph",
         "GenomeInfoDb",
         "XVector",
         "logistf",
@@ -10327,7 +10203,6 @@
         "ggplot2",
         "ggrepel",
         "GO.db",
-        "igraph",
         "plotly",
         "rintrojs",
         "scales",
@@ -10362,7 +10237,6 @@
         "org.Rn.eg.db",
         "IRanges",
         "KEGGREST",
-        "igraph",
         "GenomicRanges",
         "XVector",
         "GenomeInfoDb",
@@ -10488,7 +10362,6 @@
         "IRanges",
         "GenomeInfoDb",
         "ggplot2",
-        "igraph",
         "Gviz",
         "XVector",
         "scales",
@@ -10625,7 +10498,6 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "igraph",
         "ggplot2",
         "loo",
         "pkgbuild",
@@ -10663,7 +10535,6 @@
         "testthat",
         "GeomxTools",
         "NanoStringNCTools",
-        "roptim",
         "readxl",
         "EnvStats",
         "lmerTest",
@@ -11070,7 +10941,6 @@
         "GO.db",
         "AnnotationForge",
         "Rgraphviz",
-        "igraph",
         "Hmisc",
         "ggplot2",
         "htmlTable",
@@ -11111,7 +10981,6 @@
         "xgboost",
         "DiagrammeR",
         "SummarizedExperiment",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -11277,7 +11146,6 @@
     "gpart": [
         "Homo.sapiens",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "igraph",
         "biomaRt",
         "OrganismDbi",
         "AnnotationDbi",
@@ -11339,7 +11207,6 @@
     ],
     "GraphPAC": [
         "iPAC",
-        "igraph",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -11408,9 +11275,7 @@
         "glmnet"
     ],
     "GSALightning": [],
-    "GSAR": [
-        "igraph"
-    ],
+    "GSAR": [],
     "GSCA": [
         "ggplot2",
         "scales"
@@ -11475,7 +11340,6 @@
         "BiocParallel",
         "ggplot2",
         "biomaRt",
-        "igraph",
         "STRINGdb",
         "AnnotationDbi",
         "scales",
@@ -11572,7 +11436,6 @@
         "KEGGREST",
         "multtest",
         "regioneR",
-        "seqinr",
         "reticulate",
         "DelayedArray",
         "keras",
@@ -11710,7 +11573,6 @@
         "WGCNA",
         "ggplot2",
         "gprofiler2",
-        "igraph",
         "SummarizedExperiment",
         "scales",
         "plotly",
@@ -11841,7 +11703,6 @@
         "XVector",
         "Rsamtools",
         "ggplot2",
-        "igraph",
         "Gviz",
         "SummarizedExperiment",
         "GenomicAlignments",
@@ -11902,7 +11763,6 @@
         "DelayedArray"
     ],
     "hipathia": [
-        "igraph",
         "AnnotationHub",
         "MultiAssayExperiment",
         "SummarizedExperiment",
@@ -11980,7 +11840,6 @@
     "HPiP": [
         "caret",
         "ggplot2",
-        "igraph",
         "recipes",
         "scales",
         "ipred",
@@ -12061,7 +11920,6 @@
         "ggforce",
         "scales",
         "kableExtra",
-        "igraph",
         "tweenr",
         "rvest",
         "webshot",
@@ -12242,7 +12100,6 @@
         "GenomicFeatures",
         "Biostrings",
         "pkgmaker",
-        "igraph",
         "callr",
         "BiocIO",
         "Rsamtools",
@@ -12401,7 +12258,6 @@
         "cytomapper",
         "BiocParallel",
         "viridis",
-        "igraph",
         "SingleCellExperiment",
         "BiocNeighbors",
         "ggraph",
@@ -12432,8 +12288,6 @@
     "IMMAN": [
         "STRINGdb",
         "Biostrings",
-        "igraph",
-        "seqinr",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -12471,7 +12325,6 @@
     ],
     "INDEED": [
         "devtools",
-        "igraph",
         "usethis",
         "miniUI",
         "pkgbuild",
@@ -12494,7 +12347,6 @@
         "multcomp",
         "scales",
         "reticulate",
-        "igraph",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -12527,7 +12379,6 @@
         "rtracklayer",
         "Rsamtools",
         "BSgenome.Drerio.UCSC.danRer7",
-        "seqinr",
         "BiocIO",
         "biomaRt",
         "scales",
@@ -12679,7 +12530,6 @@
         "scales",
         "ComplexHeatmap",
         "biomaRt",
-        "igraph",
         "AnnotationDbi",
         "miniUI",
         "shinyjs",
@@ -12716,7 +12566,6 @@
         "Biostrings",
         "GenomicFeatures",
         "IRanges",
-        "seqinr",
         "GenomicAlignments",
         "BiocParallel",
         "DEXSeq",
@@ -12737,7 +12586,6 @@
     ],
     "InterMineR": [
         "Biostrings",
-        "igraph",
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -12746,7 +12594,6 @@
         "DelayedArray"
     ],
     "IntramiRExploreR": [
-        "igraph",
         "FGNet"
     ],
     "inveRsion": [
@@ -12824,7 +12671,6 @@
         "BiocParallel",
         "RBGL",
         "Hmisc",
-        "igraph",
         "MSnbase",
         "IRanges",
         "SummarizedExperiment",
@@ -12856,7 +12702,6 @@
         "clusterProfiler",
         "ggpubr",
         "ggraph",
-        "igraph",
         "mixtools",
         "scater",
         "scran",
@@ -12952,7 +12797,6 @@
         "ggplot2",
         "ggrepel",
         "colourpicker",
-        "igraph",
         "shinyWidgets",
         "ComplexHeatmap",
         "miniUI",
@@ -12977,7 +12821,6 @@
         "shinydashboard",
         "rintrojs",
         "ggrepel",
-        "igraph",
         "shinyWidgets",
         "ComplexHeatmap",
         "GenomicRanges",
@@ -13228,7 +13071,6 @@
         "org.Hs.eg.db",
         "AnnotationDbi",
         "KEGGgraph",
-        "igraph",
         "KEGGREST",
         "IRanges",
         "Rgraphviz",
@@ -13308,7 +13150,6 @@
         "GenomeInfoDb"
     ],
     "LACE": [
-        "igraph",
         "Rfast",
         "SummarizedExperiment",
         "RcppZiggurat",
@@ -13366,7 +13207,6 @@
     ],
     "levi": [
         "ggplot2",
-        "igraph",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -13418,7 +13258,6 @@
         "vegan",
         "apcluster",
         "ggplot2",
-        "igraph",
         "ggdendro",
         "scales"
     ],
@@ -13486,7 +13325,6 @@
         "CAMERA",
         "RBGL",
         "Hmisc",
-        "igraph",
         "BiocParallel",
         "MSnbase",
         "IRanges",
@@ -13622,7 +13460,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "igraph",
         "ggplotify",
         "patchwork"
     ],
@@ -13785,7 +13622,6 @@
         "RnBeads",
         "snpStats",
         "crlmm",
-        "igraph",
         "bigstatsr",
         "UpSetR",
         "RnBeads.hg19",
@@ -13838,7 +13674,6 @@
         "qvalue",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -13897,7 +13732,6 @@
         "klaR",
         "RBGL",
         "Hmisc",
-        "igraph",
         "ggplot2",
         "recipes",
         "fields",
@@ -13932,7 +13766,6 @@
         "multtest",
         "apcluster",
         "AnnotationDbi",
-        "igraph",
         "reactome.db",
         "IRanges",
         "KEGGREST",
@@ -13971,7 +13804,6 @@
         "XVector"
     ],
     "martini": [
-        "igraph",
         "snpStats"
     ],
     "maser": [
@@ -14363,7 +14195,6 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "Melissa": [
@@ -14422,7 +14253,6 @@
         "qvalue",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -14472,8 +14302,7 @@
         "KEGGREST",
         "XVector",
         "GenomeInfoDb",
-        "scales",
-        "igraph"
+        "scales"
     ],
     "messina": [
         "ggplot2",
@@ -14526,7 +14355,6 @@
     ],
     "MetaboSignal": [
         "KEGGgraph",
-        "igraph",
         "KEGGREST",
         "EnsDb.Hsapiens.v75",
         "org.Hs.eg.db",
@@ -14572,7 +14400,6 @@
         "ggplot2",
         "FlowSOM",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -14664,7 +14491,6 @@
         "xcms",
         "RBGL",
         "Hmisc",
-        "igraph",
         "BiocParallel",
         "MSnbase",
         "IRanges",
@@ -14685,7 +14511,6 @@
     "MetaNeighbor": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "igraph",
         "ggplot2",
         "scales",
         "GenomicRanges",
@@ -14778,7 +14603,6 @@
         "biomformat",
         "Biostrings",
         "ggplot2",
-        "igraph",
         "multtest",
         "scales",
         "XVector",
@@ -14905,7 +14729,6 @@
         "BiocParallel"
     ],
     "MethTargetedNGS": [
-        "seqinr",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -15078,7 +14901,6 @@
         "fgsea",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -15164,7 +14986,6 @@
         "shinyjs",
         "seriation",
         "BiocParallel",
-        "seqinr",
         "Biostrings",
         "Rfast",
         "shinyFiles",
@@ -15254,7 +15075,6 @@
     ],
     "MetID": [
         "devtools",
-        "igraph",
         "ChemmineR",
         "ggplot2",
         "usethis",
@@ -15370,7 +15190,6 @@
         "IRanges",
         "scales",
         "ggforce",
-        "igraph",
         "ggrepel",
         "graphlayouts",
         "aplot",
@@ -15405,7 +15224,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "IRanges",
         "XVector",
@@ -15421,7 +15239,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "IRanges",
@@ -15508,7 +15325,6 @@
         "treeio",
         "glmnet",
         "Wrench",
-        "igraph",
         "vegan",
         "ggplotify",
         "AnnotationDbi",
@@ -15537,7 +15353,6 @@
         "qvalue",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -15644,7 +15459,6 @@
     "miloR": [
         "BiocNeighbors",
         "SingleCellExperiment",
-        "igraph",
         "cowplot",
         "BiocParallel",
         "BiocSingular",
@@ -15707,7 +15521,6 @@
         "scales",
         "biomaRt",
         "GOstats",
-        "igraph",
         "Rgraphviz",
         "Hmisc",
         "AnnotationDbi",
@@ -15876,7 +15689,6 @@
         "htmlTable",
         "viridis",
         "mboost",
-        "igraph",
         "ggm",
         "GenomicRanges",
         "IRanges",
@@ -15918,7 +15730,6 @@
     ],
     "miRSM": [
         "WGCNA",
-        "igraph",
         "linkcomm",
         "MCL",
         "NMF",
@@ -15986,7 +15797,6 @@
         "treeio"
     ],
     "miRspongeR": [
-        "igraph",
         "MCL",
         "clusterProfiler",
         "ReactomePA",
@@ -16127,7 +15937,6 @@
     ],
     "mixOmics": [
         "ggplot2",
-        "igraph",
         "ggrepel",
         "BiocParallel",
         "scales"
@@ -16138,7 +15947,6 @@
         "gbm",
         "threejs",
         "AnnotationDbi",
-        "igraph",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -16223,7 +16031,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "igraph",
         "ggplot2",
         "cowplot",
         "scales",
@@ -16253,7 +16060,6 @@
         "scales",
         "vegan",
         "apcluster",
-        "igraph",
         "ggdendro"
     ],
     "moanin": [
@@ -16275,7 +16081,6 @@
     ],
     "MODA": [
         "WGCNA",
-        "igraph",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -16313,8 +16118,7 @@
     ],
     "MOGAMUN": [
         "RCy3",
-        "BiocParallel",
-        "igraph"
+        "BiocParallel"
     ],
     "mogsa": [
         "graphite",
@@ -16369,7 +16173,6 @@
     ],
     "monocle": [
         "ggplot2",
-        "igraph",
         "densityClust",
         "pheatmap",
         "viridis",
@@ -16401,7 +16204,6 @@
         "KEGGREST",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -16435,7 +16237,6 @@
         "DelayedArray"
     ],
     "mosbi": [
-        "igraph",
         "biclust",
         "QUBIC",
         "ggplot2",
@@ -16667,7 +16468,6 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocParallel",
-        "igraph",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -16777,7 +16577,6 @@
         "IRanges",
         "AnnotationFilter",
         "MsCoreUtils",
-        "igraph",
         "plotly",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -16976,7 +16775,6 @@
         "IRanges",
         "XVector",
         "Rsamtools",
-        "seqinr",
         "DelayedArray",
         "keras",
         "AnnotationDbi",
@@ -17082,7 +16880,6 @@
         "ReactomePA",
         "enrichplot",
         "metap",
-        "igraph",
         "networkD3",
         "devtools",
         "ropls",
@@ -17149,7 +16946,6 @@
     "multtest": [],
     "mumosa": [
         "SingleCellExperiment",
-        "igraph",
         "BiocParallel",
         "IRanges",
         "DelayedArray",
@@ -17341,7 +17137,6 @@
         "qvalue",
         "car",
         "ggplot2",
-        "igraph",
         "SummarizedExperiment",
         "KEGGgraph",
         "KEGGREST",
@@ -17615,9 +17410,7 @@
         "XVector",
         "scales"
     ],
-    "ndexr": [
-        "igraph"
-    ],
+    "ndexr": [],
     "nearBynding": [
         "plyranges",
         "Rsamtools",
@@ -17653,7 +17446,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "plotly",
@@ -17679,7 +17471,6 @@
         "mnem",
         "epiNEM",
         "BoolNet",
-        "igraph",
         "pcalg",
         "Rgraphviz",
         "Linnorm",
@@ -17691,9 +17482,7 @@
         "RBGL",
         "ggm"
     ],
-    "netbiov": [
-        "igraph"
-    ],
+    "netbiov": [],
     "netboost": [
         "WGCNA",
         "Hmisc",
@@ -17710,7 +17499,6 @@
         "GenomeInfoDb"
     ],
     "netboxr": [
-        "igraph",
         "clusterProfiler",
         "AnnotationDbi",
         "DOSE",
@@ -17750,7 +17538,6 @@
         "ROCR",
         "ggplot2",
         "glmnet",
-        "igraph",
         "MultiAssayExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -17761,7 +17548,6 @@
         "DelayedArray"
     ],
     "nethet": [
-        "GeneNet",
         "huge",
         "ggm",
         "multtest",
@@ -17769,14 +17555,12 @@
         "glmnet",
         "network",
         "ggplot2",
-        "igraph",
         "scales",
         "ICS",
         "survey"
     ],
     "netOmics": [
         "ggplot2",
-        "igraph",
         "AnnotationDbi",
         "GO.db",
         "RandomWalkRestartMH",
@@ -17793,9 +17577,7 @@
         "GenomeInfoDb",
         "ape"
     ],
-    "NetPathMiner": [
-        "igraph"
-    ],
+    "NetPathMiner": [],
     "netprioR": [
         "ggplot2",
         "scales"
@@ -17805,13 +17587,11 @@
         "Rgraphviz",
         "dmt",
         "ggplot2",
-        "igraph",
         "qvalue",
         "scales"
     ],
     "NetSAM": [
         "seriation",
-        "igraph",
         "WGCNA",
         "biomaRt",
         "AnnotationDbi",
@@ -17924,7 +17704,6 @@
         "SummarizedExperiment",
         "reactome.db",
         "ggplot2",
-        "igraph",
         "GO.db",
         "biomaRt",
         "rtracklayer",
@@ -18324,7 +18103,6 @@
         "scales"
     ],
     "OmnipathR": [
-        "igraph",
         "readxl"
     ],
     "oncomix": [
@@ -18349,7 +18127,6 @@
     ],
     "OncoSimulR": [
         "Rgraphviz",
-        "igraph",
         "car",
         "ggplot2",
         "ggrepel",
@@ -18380,7 +18157,6 @@
         "AnnotationDbi",
         "Rgraphviz",
         "ontologyPlot",
-        "igraph",
         "AnnotationHub",
         "IRanges",
         "KEGGREST",
@@ -18413,7 +18189,6 @@
     "openPrimeR": [
         "Biostrings",
         "scales",
-        "seqinr",
         "IRanges",
         "GenomicRanges",
         "ggplot2",
@@ -18432,7 +18207,6 @@
         "shinyBS",
         "Biostrings",
         "scales",
-        "seqinr",
         "IRanges",
         "GenomicRanges",
         "ggplot2",
@@ -18465,7 +18239,6 @@
         "callr"
     ],
     "oposSOM": [
-        "igraph",
         "ape",
         "biomaRt",
         "AnnotationDbi",
@@ -18707,7 +18480,6 @@
         "mRMRe",
         "ROCR",
         "sva",
-        "igraph",
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
@@ -18761,7 +18533,6 @@
     ],
     "pageRank": [
         "GenomicRanges",
-        "igraph",
         "motifmatchr",
         "IRanges",
         "GenomeInfoDb",
@@ -18803,7 +18574,6 @@
     "pairkat": [
         "KEGGREST",
         "SummarizedExperiment",
-        "igraph",
         "Biostrings",
         "GenomicRanges",
         "IRanges",
@@ -18812,7 +18582,6 @@
         "XVector"
     ],
     "pandaR": [
-        "igraph",
         "ggplot2",
         "scales"
     ],
@@ -18831,12 +18600,10 @@
         "affy"
     ],
     "PANR": [
-        "igraph",
         "RedeR"
     ],
     "PanVizGenerator": [
-        "FindMyFriends",
-        "igraph"
+        "FindMyFriends"
     ],
     "parglms": [
         "BatchJobs",
@@ -18860,9 +18627,7 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "Path2PPI": [
-        "igraph"
-    ],
+    "Path2PPI": [],
     "PathoStat": [
         "scales",
         "ggplot2",
@@ -18892,7 +18657,6 @@
         "testthat",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "callr",
         "XVector",
@@ -18927,9 +18691,7 @@
         "GenomeInfoDb"
     ],
     "pathwayPCA": [],
-    "paxtoolsr": [
-        "igraph"
-    ],
+    "paxtoolsr": [],
     "pcaExplorer": [
         "DESeq2",
         "SummarizedExperiment",
@@ -18968,7 +18730,6 @@
         "egg",
         "pkgmaker",
         "DelayedArray",
-        "igraph",
         "GSEABase",
         "Biostrings",
         "callr"
@@ -18998,7 +18759,6 @@
     "PDATK": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "igraph",
         "ggplotify",
         "CoreGx",
         "caret",
@@ -19108,7 +18868,6 @@
         "scater",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "igraph",
         "scuttle",
         "ggplot2",
         "DelayedArray",
@@ -19156,7 +18915,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "quantreg",
@@ -19184,7 +18942,6 @@
         "DelayedArray"
     ],
     "PFP": [
-        "igraph",
         "KEGGgraph",
         "clusterProfiler",
         "ggplot2",
@@ -19257,7 +19014,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard"
@@ -19266,7 +19022,6 @@
         "monocle",
         "Seurat",
         "SingleCellExperiment",
-        "igraph",
         "destiny",
         "ggplot2",
         "pheatmap",
@@ -19316,9 +19071,7 @@
         "testthat",
         "callr"
     ],
-    "PhenoGeneRanker": [
-        "igraph"
-    ],
+    "PhenoGeneRanker": [],
     "phenopath": [
         "SummarizedExperiment",
         "ggplot2",
@@ -19380,7 +19133,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "igraph",
         "ggplotify",
         "patchwork"
     ],
@@ -19395,7 +19147,6 @@
     "PhosR": [
         "ruv",
         "dendextend",
-        "igraph",
         "pheatmap",
         "SummarizedExperiment",
         "ggplot2",
@@ -19455,7 +19206,6 @@
         "biomformat",
         "Biostrings",
         "ggplot2",
-        "igraph",
         "multtest",
         "scales",
         "vegan",
@@ -19464,7 +19214,6 @@
         "GenomeInfoDb"
     ],
     "Pi": [
-        "igraph",
         "dnet",
         "ggplot2",
         "GenomicRanges",
@@ -19490,7 +19239,6 @@
         "lava"
     ],
     "piano": [
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard",
@@ -19530,7 +19278,6 @@
         "scales",
         "ggraph",
         "reactome.db",
-        "igraph",
         "graphite",
         "Hmisc",
         "IRanges",
@@ -19618,7 +19365,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "igraph",
         "bluster",
         "dqrng",
         "fitdistrplus",
@@ -19794,7 +19540,6 @@
         "AnnotationDbi",
         "Rgraphviz",
         "ontologyPlot",
-        "igraph",
         "AnnotationHub",
         "IRanges",
         "KEGGREST",
@@ -19826,7 +19571,6 @@
         "IRanges",
         "scales",
         "ggforce",
-        "igraph",
         "viridis",
         "tidygraph",
         "graphlayouts",
@@ -19841,7 +19585,6 @@
     ],
     "PoTRA": [
         "org.Hs.eg.db",
-        "igraph",
         "graphite",
         "AnnotationDbi",
         "IRanges",
@@ -19885,7 +19628,6 @@
         "biomaRt",
         "fgsea",
         "ggplot2",
-        "igraph",
         "STRINGdb",
         "AnnotationDbi",
         "BiocParallel",
@@ -19947,7 +19689,6 @@
         "ape",
         "biomformat",
         "ggplot2",
-        "igraph",
         "multtest",
         "scales",
         "vegan",
@@ -20013,7 +19754,6 @@
         "GenomeInfoDb"
     ],
     "predictionet": [
-        "igraph",
         "penalized",
         "RBGL"
     ],
@@ -20221,7 +19961,6 @@
         "aplot",
         "DOSE",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "GOSemSim",
@@ -20289,7 +20028,6 @@
         "affy",
         "KEGGREST",
         "ipred",
-        "igraph",
         "prodlim",
         "Biostrings",
         "XVector",
@@ -20329,7 +20067,6 @@
         "threejs",
         "KEGGREST",
         "ipred",
-        "igraph",
         "prodlim",
         "Biostrings",
         "XVector",
@@ -20387,7 +20124,6 @@
         "FactoMineR",
         "factoextra",
         "multcomp",
-        "igraph",
         "dendextend",
         "Mfuzz",
         "apcluster",
@@ -20542,7 +20278,6 @@
         "scales",
         "broom",
         "quantmod",
-        "igraph",
         "BiocParallel",
         "derfinder",
         "GenomeInfoDb",
@@ -20579,7 +20314,6 @@
         "GenomeInfoDb"
     ],
     "psygenet2r": [
-        "igraph",
         "ggplot2",
         "biomaRt",
         "BgeeDB",
@@ -20624,7 +20358,6 @@
     ],
     "PubScore": [
         "ggplot2",
-        "igraph",
         "ggrepel",
         "intergraph",
         "network",
@@ -20731,7 +20464,6 @@
         "GenomeInfoDb"
     ],
     "pwOmics": [
-        "igraph",
         "STRINGdb",
         "AnnotationDbi",
         "biomaRt",
@@ -20782,7 +20514,6 @@
         "SummarizedExperiment",
         "AnnotationFilter",
         "MsCoreUtils",
-        "igraph",
         "plotly",
         "GenomicRanges",
         "ggplot2",
@@ -20954,7 +20685,6 @@
         "iPAC",
         "GraphPAC",
         "SpacePAC",
-        "igraph",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -20996,7 +20726,6 @@
     "R3CPET": [
         "ggplot2",
         "pheatmap",
-        "igraph",
         "Hmisc",
         "IRanges",
         "GenomeInfoDb",
@@ -21087,7 +20816,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard",
@@ -21130,7 +20858,6 @@
         "DelayedArray"
     ],
     "RandomWalkRestartMH": [
-        "igraph",
         "dnet",
         "supraHex",
         "Rgraphviz",
@@ -21291,7 +21018,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "quantmod",
@@ -21315,7 +21041,6 @@
         "scales"
     ],
     "RCSL": [
-        "igraph",
         "ggplot2",
         "umap",
         "scales",
@@ -21328,7 +21053,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -21342,7 +21066,6 @@
         "DiagrammeR",
         "basilisk",
         "reticulate",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -21351,8 +21074,7 @@
     ],
     "RCy3": [],
     "ReactomeGraph4R": [
-        "neo4r",
-        "igraph"
+        "neo4r"
     ],
     "ReactomeGSA": [
         "ggplot2",
@@ -21365,7 +21087,6 @@
         "ggplot2",
         "ggraph",
         "reactome.db",
-        "igraph",
         "graphite",
         "IRanges",
         "KEGGREST",
@@ -21421,7 +21142,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "IRanges",
@@ -21525,9 +21245,7 @@
         "KEGGREST",
         "DelayedArray"
     ],
-    "RedeR": [
-        "igraph"
-    ],
+    "RedeR": [],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
         "multtest",
@@ -21902,7 +21620,6 @@
         "imager",
         "reticulate",
         "rGenomeTracksData",
-        "igraph",
         "RcppTOML",
         "AnnotationHub",
         "AnnotationDbi",
@@ -21984,7 +21701,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "GenomicAlignments",
-        "igraph",
         "KEGGREST",
         "BiocParallel",
         "restfulr",
@@ -22198,7 +21914,6 @@
         "STRINGdb",
         "MCL",
         "linkcomm",
-        "igraph",
         "BgeeDB",
         "topGO",
         "scales",
@@ -22233,8 +21948,7 @@
         "DelayedArray"
     ],
     "RLassoCox": [
-        "glmnet",
-        "igraph"
+        "glmnet"
     ],
     "RLSeq": [
         "ggplot2",
@@ -22623,7 +22337,6 @@
         "viridis",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -22755,7 +22468,6 @@
         "biomformat",
         "Biostrings",
         "ggplot2",
-        "igraph",
         "multtest",
         "scales",
         "vegan",
@@ -22860,7 +22572,6 @@
         "IRanges",
         "KEGGREST",
         "scales",
-        "igraph",
         "Biostrings",
         "XVector",
         "GenomeInfoDb"
@@ -22874,7 +22585,6 @@
         "BiocParallel"
     ],
     "rScudo": [
-        "igraph",
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
@@ -22882,9 +22592,7 @@
         "DelayedArray",
         "XVector"
     ],
-    "rsemmed": [
-        "igraph"
-    ],
+    "rsemmed": [],
     "Rsubread": [],
     "RSVSim": [
         "Biostrings",
@@ -22956,7 +22664,6 @@
         "viper",
         "mixtools",
         "IRanges",
-        "igraph",
         "SummarizedExperiment",
         "car",
         "pheatmap",
@@ -22980,7 +22687,6 @@
         "viper",
         "mixtools",
         "IRanges",
-        "igraph",
         "SummarizedExperiment",
         "car",
         "pheatmap",
@@ -23009,7 +22715,6 @@
         "viper",
         "mixtools",
         "IRanges",
-        "igraph",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -23053,7 +22758,6 @@
         "scales"
     ],
     "rTRM": [
-        "igraph",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -23071,7 +22775,6 @@
         "Biostrings",
         "rtracklayer",
         "AnnotationDbi",
-        "igraph",
         "KEGGREST",
         "XVector",
         "GenomeInfoDb",
@@ -23128,7 +22831,6 @@
         "kinship2",
         "gRbase",
         "Rgraphviz",
-        "igraph",
         "RBGL"
     ],
     "safe": [
@@ -23172,13 +22874,11 @@
         "shinycssloaders",
         "ggdendro",
         "shinyWidgets",
-        "seqinr",
         "BiocStyle",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "sangerseqR": [
@@ -23187,9 +22887,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "SANTA": [
-        "igraph"
-    ],
+    "SANTA": [],
     "sarks": [
         "Biostrings",
         "IRanges",
@@ -23214,7 +22912,6 @@
     "SBGNview": [
         "pathview",
         "SBGNview.data",
-        "igraph",
         "SummarizedExperiment",
         "AnnotationDbi",
         "KEGGREST",
@@ -23265,7 +22962,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23367,7 +23063,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23485,7 +23180,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23528,7 +23222,6 @@
         "ggplot2",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23563,7 +23256,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23590,7 +23282,6 @@
     ],
     "scClassify": [
         "ggraph",
-        "igraph",
         "mixtools",
         "BiocParallel",
         "ggplot2",
@@ -23631,7 +23322,6 @@
         "cowplot",
         "fitdistrplus",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23656,7 +23346,6 @@
         "dqrng"
     ],
     "scDblFinder": [
-        "igraph",
         "BiocParallel",
         "BiocNeighbors",
         "BiocSingular",
@@ -23697,7 +23386,6 @@
         "viridis",
         "scales",
         "scuttle",
-        "igraph",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -23732,7 +23420,6 @@
         "keras",
         "tensorflow",
         "BiocParallel",
-        "igraph",
         "glmnet",
         "reticulate",
         "tfruns",
@@ -23780,7 +23467,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23811,7 +23497,6 @@
         "IRanges",
         "BiocParallel",
         "ggplot2",
-        "igraph",
         "ggforce",
         "scales",
         "tweenr",
@@ -23828,7 +23513,6 @@
         "fitdistrplus",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -23862,7 +23546,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "igraph",
         "M3Drop",
         "ruv",
         "SingleCellExperiment",
@@ -24013,7 +23696,6 @@
         "GenomicRanges",
         "IRanges",
         "AnnotationFilter",
-        "igraph",
         "plotly",
         "DelayedArray",
         "GenomeInfoDb",
@@ -24070,7 +23752,6 @@
         "scuttle",
         "SummarizedExperiment",
         "BiocParallel",
-        "igraph",
         "DelayedArray",
         "DelayedMatrixStats",
         "BiocSingular",
@@ -24112,7 +23793,6 @@
         "vegan",
         "powerTCR",
         "SummarizedExperiment",
-        "igraph",
         "SeuratObject",
         "scales",
         "GenomicRanges",
@@ -24176,7 +23856,6 @@
         "BiocParallel"
     ],
     "scTensor": [
-        "igraph",
         "plotly",
         "reactome.db",
         "AnnotationDbi",
@@ -24272,7 +23951,6 @@
         "scales",
         "schex",
         "ggplot2",
-        "igraph",
         "AnnotationDbi",
         "fields",
         "Seurat",
@@ -24315,7 +23993,6 @@
     "scTreeViz": [
         "epivizr",
         "SummarizedExperiment",
-        "igraph",
         "clustree",
         "scran",
         "epivizrData",
@@ -24438,7 +24115,6 @@
         "aplot",
         "DOSE",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "GOSemSim",
@@ -24584,7 +24260,6 @@
         "Biostrings",
         "cowplot",
         "ggplot2",
-        "igraph",
         "IRanges",
         "XVector",
         "GenomeInfoDb",
@@ -24741,7 +24416,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomeInfoDb",
-        "igraph",
         "rtracklayer",
         "KEGGREST",
         "XVector",
@@ -24846,7 +24520,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "IRanges",
@@ -24870,7 +24543,6 @@
         "gbm",
         "threejs",
         "AnnotationDbi",
-        "igraph",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -24933,7 +24605,6 @@
         "interactiveDisplayBase",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -25054,7 +24725,6 @@
         "GenomeInfoDb"
     ],
     "sincell": [
-        "igraph",
         "ggplot2",
         "fields",
         "viridis",
@@ -25069,7 +24739,6 @@
         "XVector"
     ],
     "SingleCellSignalR": [
-        "igraph",
         "pheatmap",
         "multtest",
         "scran",
@@ -25113,7 +24782,6 @@
         "ggtree",
         "GSVA",
         "GSVAdata",
-        "igraph",
         "MAST",
         "multtest",
         "plotly",
@@ -25320,7 +24988,6 @@
         "ggplot2",
         "ggrepel",
         "ggtree",
-        "seqinr",
         "tidytree",
         "ggfun",
         "ggplotify",
@@ -25394,7 +25061,6 @@
     ],
     "slingshot": [
         "TrajectoryUtils",
-        "igraph",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -25423,7 +25089,6 @@
         "BioNet",
         "goseq",
         "IRanges",
-        "igraph",
         "geneLenDataBase",
         "RBGL",
         "rtracklayer",
@@ -25583,7 +25248,6 @@
         "ggplot2",
         "scater",
         "scran",
-        "igraph",
         "DropletUtils",
         "IRanges",
         "GenomicRanges",
@@ -25651,8 +25315,7 @@
     "sparseMatrixStats": [],
     "sparsenetgls": [
         "glmnet",
-        "huge",
-        "igraph"
+        "huge"
     ],
     "SparseSignatures": [
         "NMF",
@@ -25679,7 +25342,6 @@
         "ggiraph",
         "ggplot2",
         "ggrepel",
-        "igraph",
         "shinycssloaders",
         "shinyjs",
         "shinyWidgets",
@@ -25763,7 +25425,6 @@
         "genefilter",
         "ggplot2",
         "ggdendro",
-        "igraph",
         "HDF5Array",
         "ggplotify",
         "plotly",
@@ -25816,7 +25477,6 @@
         "BiocIO",
         "biomaRt",
         "InteractionSet",
-        "igraph",
         "Gviz",
         "scales",
         "DelayedArray",
@@ -25835,9 +25495,7 @@
         "htmlTable",
         "viridis"
     ],
-    "specL": [
-        "seqinr"
-    ],
+    "specL": [],
     "SpeCond": [
         "fields",
         "viridis",
@@ -25893,7 +25551,6 @@
         "callr"
     ],
     "SpidermiR": [
-        "igraph",
         "miRNAtap",
         "miRNAtap.db",
         "AnnotationDbi",
@@ -25995,7 +25652,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "Rgraphviz",
-        "igraph",
         "BiocParallel",
         "IRanges",
         "GenomeInfoDb",
@@ -26013,9 +25669,7 @@
         "DelayedArray"
     ],
     "splineTimeR": [
-        "igraph",
         "GSEABase",
-        "GeneNet",
         "AnnotationDbi",
         "IRanges",
         "KEGGREST",
@@ -26058,7 +25712,6 @@
         "expm",
         "gRbase",
         "glmnet",
-        "igraph",
         "RBGL",
         "Rgraphviz"
     ],
@@ -26085,7 +25738,6 @@
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "scales",
         "vegan",
@@ -26161,7 +25813,6 @@
     ],
     "sscu": [
         "Biostrings",
-        "seqinr",
         "IRanges",
         "XVector",
         "GenomeInfoDb"
@@ -26260,7 +25911,6 @@
         "AnnotationDbi",
         "ROCR",
         "MLmetrics",
-        "igraph",
         "ggplot2",
         "IRanges",
         "KEGGREST",
@@ -26340,9 +25990,7 @@
     "Streamer": [
         "RBGL"
     ],
-    "STRINGdb": [
-        "igraph"
-    ],
+    "STRINGdb": [],
     "STROMA4": [
         "BiocParallel"
     ],
@@ -26404,7 +26052,6 @@
         "KEGGREST",
         "recipes",
         "scales",
-        "igraph",
         "Biostrings",
         "ipred",
         "XVector",
@@ -26458,12 +26105,10 @@
         "lava"
     ],
     "supraHex": [
-        "ape",
-        "igraph"
+        "ape"
     ],
     "surfaltr": [
         "biomaRt",
-        "seqinr",
         "ggplot2",
         "Biostrings",
         "testthat",
@@ -26657,7 +26302,6 @@
         "callr"
     ],
     "SynMut": [
-        "seqinr",
         "Biostrings",
         "IRanges",
         "XVector",
@@ -26768,7 +26412,6 @@
         "ggfun",
         "tidytree",
         "treeio",
-        "igraph",
         "ggplotify",
         "patchwork"
     ],
@@ -26952,7 +26595,6 @@
         "DO.db",
         "aplot",
         "ggraph",
-        "igraph",
         "scatterpie",
         "shadowtext",
         "ggtree",
@@ -27052,7 +26694,6 @@
         "KEGGREST",
         "Rgraphviz",
         "ontologyPlot",
-        "igraph",
         "AnnotationHub",
         "DelayedArray",
         "GO.db",
@@ -27074,7 +26715,6 @@
         "BiocParallel"
     ],
     "ternarynet": [
-        "igraph",
         "BiocParallel"
     ],
     "TFARM": [
@@ -27216,7 +26856,6 @@
         "ggrepel",
         "propr",
         "scales",
-        "igraph",
         "BiocParallel"
     ],
     "TimeSeriesExperiment": [
@@ -27249,7 +26888,6 @@
         "ggdendro",
         "gghighlight",
         "ggplot2",
-        "igraph",
         "RCy3",
         "readxl",
         "scales",
@@ -27487,7 +27125,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard"
@@ -27551,7 +27188,6 @@
         "SummarizedExperiment",
         "slingshot",
         "BiocParallel",
-        "igraph",
         "ggplot2",
         "TrajectoryUtils",
         "viridis",
@@ -27568,7 +27204,6 @@
     ],
     "TrajectoryUtils": [
         "SingleCellExperiment",
-        "igraph",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -27579,7 +27214,6 @@
     "transcriptogramer": [
         "biomaRt",
         "ggplot2",
-        "igraph",
         "RedeR",
         "topGO",
         "AnnotationDbi",
@@ -27682,7 +27316,6 @@
     ],
     "TraRe": [
         "ggplot2",
-        "igraph",
         "glmnet",
         "vbsr",
         "dqrng",
@@ -27722,14 +27355,12 @@
         "GenomicRanges",
         "DelayedArray",
         "TrajectoryUtils",
-        "igraph",
         "IRanges",
         "GenomeInfoDb",
         "XVector"
     ],
     "TreeAndLeaf": [
         "RedeR",
-        "igraph",
         "ape"
     ],
     "treeio": [
@@ -27763,7 +27394,6 @@
         "ggplotify",
         "IRanges",
         "cytolib",
-        "igraph",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -27990,14 +27620,12 @@
     "TRONCO": [
         "Rgraphviz",
         "cgdsr",
-        "igraph",
         "scales"
     ],
     "TSCAN": [
         "SingleCellExperiment",
         "TrajectoryUtils",
         "ggplot2",
-        "igraph",
         "SummarizedExperiment",
         "DelayedArray",
         "IRanges",
@@ -28041,7 +27669,6 @@
         "text2vec",
         "textstem",
         "DiagrammeR",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -28306,7 +27933,6 @@
         "scales"
     ],
     "uSORT": [
-        "igraph",
         "monocle",
         "ggplot2",
         "densityClust",
@@ -28329,7 +27955,6 @@
         "webchem",
         "ttgsea",
         "reticulate",
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
@@ -28584,9 +28209,7 @@
         "sparseMatrixStats",
         "XVector"
     ],
-    "veloviz": [
-        "igraph"
-    ],
+    "veloviz": [],
     "VennDetail": [
         "ggplot2",
         "UpSetR",
@@ -28631,7 +28254,6 @@
         "ggplot2",
         "GO.db",
         "heatmaply",
-        "igraph",
         "plotly",
         "topGO",
         "scales",
@@ -28650,7 +28272,6 @@
         "GenomeInfoDb"
     ],
     "vissE": [
-        "igraph",
         "ggplot2",
         "scico",
         "ggwordcloud",
@@ -28832,7 +28453,6 @@
         "ggplot2",
         "Hmisc",
         "rtracklayer",
-        "seqinr",
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -28914,7 +28534,6 @@
         "gert"
     ],
     "wppi": [
-        "igraph",
         "OmnipathR",
         "readxl"
     ],
@@ -28965,14 +28584,12 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "igraph",
         "fgsea",
         "shinyjs",
         "shinydashboard"
     ],
     "XINA": [
         "ggplot2",
-        "igraph",
         "STRINGdb",
         "scales"
     ],
@@ -29295,9 +28912,7 @@
     "RcppZiggurat": [],
     "NADA": [],
     "shinydashboard": [],
-    "seqinr": [],
     "expm": [],
-    "igraph": [],
     "readxl": [],
     "speaq": [
         "Rfast",
@@ -29794,11 +29409,9 @@
         "scales",
         "phyloseq",
         "Rvmmin",
-        "Rcgmin",
         "ape",
         "biomformat",
         "Biostrings",
-        "igraph",
         "multtest",
         "vegan",
         "IRanges",
@@ -29811,7 +29424,6 @@
         "ggplot2",
         "ggrepel",
         "ggridges",
-        "igraph",
         "leiden",
         "miniUI",
         "patchwork",
@@ -29831,13 +29443,11 @@
         "dqrng"
     ],
     "optimr": [
-        "Rvmmin",
-        "Rcgmin"
+        "Rvmmin"
     ],
     "detectseparation": [],
     "leiden": [
         "reticulate",
-        "igraph",
         "RcppTOML"
     ],
     "patchwork": [
@@ -29864,7 +29474,6 @@
     ],
     "ROI": [],
     "Rvmmin": [],
-    "Rcgmin": [],
     "spatstat.random": [
         "spatstat.geom"
     ],
@@ -29936,15 +29545,12 @@
         "GenomeInfoDb"
     ],
     "DiagrammeR": [
-        "igraph",
         "influenceR",
         "scales",
         "viridis",
         "ggplot2"
     ],
-    "influenceR": [
-        "igraph"
-    ],
+    "influenceR": [],
     "DO.db": [
         "AnnotationDbi",
         "IRanges",
@@ -29958,7 +29564,6 @@
     "ggraph": [
         "ggplot2",
         "ggforce",
-        "igraph",
         "scales",
         "ggrepel",
         "viridis",
@@ -29984,12 +29589,8 @@
         "ggplot2",
         "scales"
     ],
-    "tidygraph": [
-        "igraph"
-    ],
-    "graphlayouts": [
-        "igraph"
-    ],
+    "tidygraph": [],
+    "graphlayouts": [],
     "ggfun": [
         "ggplot2",
         "scales"
@@ -30020,9 +29621,7 @@
         "ggplot2",
         "scales"
     ],
-    "imager": [
-        "igraph"
-    ],
+    "imager": [],
     "xlsx": [],
     "multcomp": [
         "TH.data"
@@ -30046,17 +29645,13 @@
         "ggplot2",
         "ggrepel",
         "network",
-        "igraph",
         "sna",
         "scales"
     ],
     "intergraph": [
-        "network",
-        "igraph"
+        "network"
     ],
-    "networkD3": [
-        "igraph"
-    ],
+    "networkD3": [],
     "ggnewscale": [
         "ggplot2",
         "scales"
@@ -30174,18 +29769,13 @@
     "randomcoloR": [
         "scales"
     ],
-    "BoolNet": [
-        "igraph"
-    ],
+    "BoolNet": [],
     "pcalg": [
         "RBGL",
-        "igraph",
         "ggm"
     ],
     "apcluster": [],
-    "ggm": [
-        "igraph"
-    ],
+    "ggm": [],
     "GenomicState": [
         "AnnotationHub",
         "GenomicFeatures",
@@ -30273,12 +29863,9 @@
     "iCluster": [],
     "pkgmaker": [],
     "bc3net": [
-        "c3net",
-        "igraph"
+        "c3net"
     ],
-    "c3net": [
-        "igraph"
-    ],
+    "c3net": [],
     "drc": [
         "car",
         "multcomp",
@@ -30704,7 +30291,6 @@
     ],
     "propr": [
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "BSgenome.Drerio.UCSC.danRer7": [
@@ -30725,8 +30311,7 @@
     ],
     "gRbase": [
         "RBGL",
-        "Rgraphviz",
-        "igraph"
+        "Rgraphviz"
     ],
     "phylobase": [
         "ape",
@@ -30929,7 +30514,6 @@
     "highcharter": [
         "broom",
         "quantmod",
-        "igraph",
         "ggplot2",
         "TTR",
         "scales"
@@ -30939,7 +30523,6 @@
     ],
     "cytometree": [
         "ggplot2",
-        "igraph",
         "cowplot",
         "scales"
     ],
@@ -30984,9 +30567,7 @@
         "scales",
         "callr"
     ],
-    "kknn": [
-        "igraph"
-    ],
+    "kknn": [],
     "FSelector": [
         "RWeka"
     ],
@@ -31183,15 +30764,11 @@
     ],
     "DExMAdata": [],
     "swamp": [],
-    "bnstruct": [
-        "igraph"
-    ],
+    "bnstruct": [],
     "phangorn": [
-        "ape",
-        "igraph"
+        "ape"
     ],
     "DiffCorr": [
-        "igraph",
         "multtest"
     ],
     "MetaCycle": [],
@@ -31355,23 +30932,18 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "backbone": [
-        "igraph"
-    ],
+    "backbone": [],
     "bs4Dash": [
         "fresh",
         "waiter"
     ],
     "tippy": [],
-    "rPref": [
-        "igraph"
-    ],
+    "rPref": [],
     "FField": [],
     "robust": [
         "rrcov",
         "pcaPP"
     ],
-    "roptim": [],
     "lmerTest": [
         "lme4",
         "ggplot2",
@@ -31418,7 +30990,6 @@
     "gRain": [
         "gRbase",
         "Rgraphviz",
-        "igraph",
         "RBGL"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
@@ -31490,9 +31061,7 @@
         "BiocParallel",
         "DelayedArray"
     ],
-    "threejs": [
-        "igraph"
-    ],
+    "threejs": [],
     "concaveman": [
         "sf",
         "classInt"
@@ -31810,9 +31379,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "linkcomm": [
-        "igraph"
-    ],
+    "linkcomm": [],
     "s4vd": [
         "biclust",
         "ggplot2",
@@ -31830,7 +31397,6 @@
         "ggvis"
     ],
     "SOMbrero": [
-        "igraph",
         "ggplot2",
         "ggwordcloud",
         "metR",
@@ -31912,10 +31478,7 @@
     ],
     "VarfromPDB": [],
     "mppa": [],
-    "GeneNet": [],
-    "huge": [
-        "igraph"
-    ],
+    "huge": [],
     "ICSNP": [
         "ICS",
         "survey"
@@ -31924,7 +31487,6 @@
         "survey"
     ],
     "dnet": [
-        "igraph",
         "supraHex",
         "Rgraphviz",
         "ape"
@@ -32004,9 +31566,7 @@
         "KEGGREST"
     ],
     "Matrix.utils": [],
-    "mRMRe": [
-        "igraph"
-    ],
+    "mRMRe": [],
     "kmer": [
         "phylogram",
         "ape"
@@ -32036,9 +31596,7 @@
     "R.filesets": [],
     "R.rsp": [],
     "PSCBS": [],
-    "genlasso": [
-        "igraph"
-    ],
+    "genlasso": [],
     "phateR": [
         "reticulate",
         "ggplot2",
@@ -32147,9 +31705,7 @@
         "SummarizedExperiment"
     ],
     "batchtools": [],
-    "neo4r": [
-        "igraph"
-    ],
+    "neo4r": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "IRanges",
@@ -32262,7 +31818,6 @@
     ],
     "treemap": [
         "ggplot2",
-        "igraph",
         "scales"
     ],
     "GENLIB": [
@@ -32315,14 +31870,12 @@
     ],
     "ccTensor": [
         "fields",
-        "igraph",
         "viridis",
         "ggplot2",
         "scales"
     ],
     "clustree": [
         "ggraph",
-        "igraph",
         "ggplot2",
         "viridis",
         "tidygraph",
