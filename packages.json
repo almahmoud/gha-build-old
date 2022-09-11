@@ -6,7 +6,6 @@
         "annaffy",
         "genefilter",
         "multtest",
-        "glmnet",
         "pamr",
         "GO.db",
         "AnnotationDbi",
@@ -20,7 +19,6 @@
         "annaffy",
         "genefilter",
         "multtest",
-        "glmnet",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -30,12 +28,9 @@
     ],
     "a4Classif": [
         "a4Core",
-        "pamr",
-        "glmnet"
+        "pamr"
     ],
-    "a4Core": [
-        "glmnet"
-    ],
+    "a4Core": [],
     "ABAEnrichment": [
         "ABAData",
         "GOfuncR",
@@ -141,7 +136,6 @@
         "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "glmnet",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -312,7 +306,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "glmnet",
         "GenomeInfoDb",
         "ScaledMatrix",
         "XVector"
@@ -404,7 +397,6 @@
         "ComplexHeatmap",
         "MultiAssayExperiment",
         "curatedTCGAData",
-        "glmnet",
         "ggplot2",
         "AnnotationHub",
         "ExperimentHub",
@@ -483,7 +475,6 @@
         "ggplot2",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "glmnet",
         "plotROC",
         "biomformat",
         "umap",
@@ -802,7 +793,6 @@
     ],
     "ASICS": [
         "ggplot2",
-        "glmnet",
         "PepsNMR",
         "ropls",
         "SummarizedExperiment",
@@ -1332,7 +1322,6 @@
         "lumi",
         "methylumi",
         "SingleCellExperiment",
-        "glmnet",
         "biomformat",
         "Biostrings",
         "ggrepel",
@@ -1663,7 +1652,6 @@
     ],
     "biomformat": [],
     "BioMM": [
-        "glmnet",
         "rms",
         "precrec",
         "ggplot2",
@@ -4714,7 +4702,6 @@
         "XVector"
     ],
     "CytoDx": [
-        "glmnet",
         "flowCore"
     ],
     "CyTOFpower": [
@@ -5035,7 +5022,6 @@
         "Biostrings",
         "geepack",
         "ggformula",
-        "glmnet",
         "mice",
         "testthat",
         "TTR",
@@ -6520,7 +6506,6 @@
         "AnnotationDbi"
     ],
     "EnMCB": [
-        "glmnet",
         "rms",
         "mboost",
         "survivalsvm",
@@ -7123,7 +7108,6 @@
         "cobs",
         "BSgenome",
         "Biostrings",
-        "glmnet",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -7509,7 +7493,6 @@
         "ggrepel",
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "glmnet",
         "AnnotationDbi",
         "XVector",
         "Biostrings",
@@ -7944,9 +7927,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "GAprediction": [
-        "glmnet"
-    ],
+    "GAprediction": [],
     "GARS": [
         "ggplot2",
         "DaMiRseq",
@@ -8657,7 +8638,6 @@
     ],
     "gespeR": [
         "ggplot2",
-        "glmnet",
         "cellHTS2",
         "biomaRt",
         "AnnotationDbi",
@@ -8834,7 +8814,6 @@
     ],
     "glmSparseNet": [
         "MultiAssayExperiment",
-        "glmnet",
         "SummarizedExperiment",
         "biomaRt",
         "sparsebn",
@@ -9192,8 +9171,7 @@
         "DelayedArray"
     ],
     "GRridge": [
-        "penalized",
-        "glmnet"
+        "penalized"
     ],
     "GSAR": [],
     "GSCA": [
@@ -9568,12 +9546,8 @@
         "htmlTable",
         "viridis"
     ],
-    "hierGWAS": [
-        "glmnet"
-    ],
-    "hierinf": [
-        "glmnet"
-    ],
+    "hierGWAS": [],
+    "hierinf": [],
     "HilbertCurve": [
         "GenomicRanges",
         "GenomeInfoDb",
@@ -11025,7 +10999,6 @@
         "pbkrtest",
         "quantreg",
         "nloptr",
-        "glmnet",
         "testthat",
         "broom"
     ],
@@ -11483,7 +11456,6 @@
         "viridis"
     ],
     "MEAT": [
-        "glmnet",
         "minfi",
         "SummarizedExperiment",
         "wateRmelon",
@@ -11796,9 +11768,7 @@
         "BiocIO",
         "DelayedArray"
     ],
-    "metagenomeSeq": [
-        "glmnet"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "xcms",
@@ -11886,7 +11856,6 @@
         "OrganismDbi",
         "GenomicFeatures",
         "ensembldb",
-        "glmnet",
         "biomformat",
         "Biostrings",
         "ggplot2",
@@ -12396,7 +12365,6 @@
         "ggplot2",
         "phyloseq",
         "metagenomeSeq",
-        "glmnet",
         "biomformat",
         "Biostrings",
         "multtest",
@@ -12425,7 +12393,6 @@
         "dendextend",
         "webshot",
         "egg",
-        "glmnet",
         "AnnotationDbi",
         "GenomeInfoDb",
         "XVector",
@@ -12467,7 +12434,6 @@
         "aplot",
         "ggfun",
         "treeio",
-        "glmnet",
         "ggplotify",
         "AnnotationDbi",
         "testthat",
@@ -12741,7 +12707,6 @@
     ],
     "miRLAB": [
         "Hmisc",
-        "glmnet",
         "pcalg",
         "TCGAbiolinks",
         "SummarizedExperiment",
@@ -13062,7 +13027,6 @@
         "pbkrtest",
         "quantreg",
         "nloptr",
-        "glmnet",
         "testthat",
         "broom"
     ],
@@ -13146,7 +13110,6 @@
         "TFBSTools",
         "Biostrings",
         "BSgenome",
-        "glmnet",
         "SummarizedExperiment",
         "ComplexHeatmap",
         "XVector",
@@ -14252,7 +14215,6 @@
     ],
     "netDx": [
         "ggplot2",
-        "glmnet",
         "MultiAssayExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14265,7 +14227,6 @@
         "ggm",
         "multtest",
         "ICSNP",
-        "glmnet",
         "ggplot2",
         "ICS"
     ],
@@ -14623,7 +14584,6 @@
         "made4",
         "FactoMineR",
         "imputeLCMD",
-        "glmnet",
         "Hmisc",
         "lme4",
         "mice",
@@ -15125,7 +15085,6 @@
         "ComplexHeatmap",
         "plotly",
         "webshot",
-        "glmnet",
         "devtools",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15318,9 +15277,7 @@
         "ScaledMatrix",
         "XVector"
     ],
-    "pengls": [
-        "glmnet"
-    ],
+    "pengls": [],
     "PepsNMR": [
         "ggplot2"
     ],
@@ -15583,7 +15540,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "ggrepel",
-        "glmnet",
         "caret",
         "ggnetwork",
         "osfr",
@@ -15854,7 +15810,6 @@
         "ggplot2",
         "ggraph",
         "ggrepel",
-        "glmnet",
         "mixOmics",
         "MSnbase",
         "patchwork",
@@ -16349,7 +16304,6 @@
         "Biostrings",
         "geepack",
         "ggformula",
-        "glmnet",
         "mice",
         "testthat",
         "ggfun",
@@ -16894,7 +16848,6 @@
         "XVector"
     ],
     "ramwas": [
-        "glmnet",
         "GenomicAlignments",
         "Rsamtools",
         "biomaRt",
@@ -17327,7 +17280,6 @@
         "BSgenome"
     ],
     "regsplice": [
-        "glmnet",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -17491,7 +17443,6 @@
         "FactoMineR",
         "ggplot2",
         "imputeLCMD",
-        "glmnet",
         "Hmisc",
         "lme4",
         "ggrepel",
@@ -17791,7 +17742,6 @@
         "GenomeInfoDb"
     ],
     "RIVER": [
-        "glmnet",
         "ggplot2"
     ],
     "RJMCMCNucleosomes": [
@@ -17807,9 +17757,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "RLassoCox": [
-        "glmnet"
-    ],
+    "RLassoCox": [],
     "RLSeq": [
         "ggplot2",
         "regioneR",
@@ -18288,7 +18236,6 @@
         "ropls",
         "car",
         "metap",
-        "glmnet",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -19003,7 +18950,6 @@
     "SCFA": [
         "keras",
         "tensorflow",
-        "glmnet",
         "reticulate",
         "tfruns",
         "tfautograph"
@@ -19014,7 +18960,6 @@
     "scGPS": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "glmnet",
         "caret",
         "ggplot2",
         "DESeq2",
@@ -19291,8 +19236,7 @@
         "SAVER",
         "Rmagic",
         "reticulate",
-        "ggplot2",
-        "glmnet"
+        "ggplot2"
     ],
     "scRepertoire": [
         "ggplot2",
@@ -19885,7 +19829,6 @@
     "SIAMCAT": [
         "mlr",
         "phyloseq",
-        "glmnet",
         "ParamHelpers",
         "BBmisc",
         "ggplot2",
@@ -20550,7 +20493,6 @@
         "quantreg"
     ],
     "sparsenetgls": [
-        "glmnet",
         "huge"
     ],
     "SparseSignatures": [
@@ -20870,8 +20812,7 @@
         "viridis"
     ],
     "SPONGE": [
-        "gRbase",
-        "glmnet"
+        "gRbase"
     ],
     "spqn": [
         "ggplot2",
@@ -20962,7 +20903,6 @@
         "geepack",
         "ggplot2",
         "ggformula",
-        "glmnet",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -22181,7 +22121,6 @@
     ],
     "TraRe": [
         "ggplot2",
-        "glmnet",
         "vbsr",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -22284,7 +22223,6 @@
         "tidytree"
     ],
     "trena": [
-        "glmnet",
         "MotifDb",
         "vbsr",
         "BSgenome",
@@ -23333,7 +23271,6 @@
         "XVector",
         "Biostrings"
     ],
-    "glmnet": [],
     "pamr": [],
     "GO.db": [
         "AnnotationDbi",
@@ -23436,9 +23373,7 @@
         "TTR"
     ],
     "TTR": [],
-    "SAVER": [
-        "glmnet"
-    ],
+    "SAVER": [],
     "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
@@ -23459,9 +23394,7 @@
     "viridis": [
         "ggplot2"
     ],
-    "smurf": [
-        "glmnet"
-    ],
+    "smurf": [],
     "forestplot": [],
     "ggbeeswarm": [
         "ggplot2"
@@ -24736,7 +24669,6 @@
         "geepack",
         "ggplot2",
         "ggformula",
-        "glmnet",
         "broom",
         "ggstance",
         "ggridges",
@@ -24773,7 +24705,6 @@
         "geepack",
         "ggplot2",
         "ggformula",
-        "glmnet",
         "broom",
         "ggstance",
         "ggridges",
@@ -25339,7 +25270,6 @@
         "DelayedArray"
     ],
     "InvariantCausalPrediction": [
-        "glmnet",
         "mboost",
         "partykit"
     ],
