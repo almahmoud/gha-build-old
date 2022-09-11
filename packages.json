@@ -7205,8 +7205,7 @@
     "granulator": [
         "cowplot",
         "epiR",
-        "ggplotify",
-        "sf"
+        "ggplotify"
     ],
     "graper": [
         "cowplot"
@@ -7878,7 +7877,6 @@
         "BiocNeighbors",
         "ggraph",
         "tidygraph",
-        "sf",
         "concaveman",
         "HDF5Array",
         "ggbeeswarm",
@@ -8514,7 +8512,6 @@
         "concaveman",
         "spatstat.core",
         "spicyR",
-        "sf",
         "lmerTest",
         "lme4",
         "nloptr"
@@ -14862,7 +14859,6 @@
         "Seurat",
         "ggforce",
         "concaveman",
-        "sf",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -15136,7 +15132,6 @@
         "ggforce",
         "concaveman",
         "GenomicRanges",
-        "sf",
         "aplot",
         "scatterpie",
         "shadowtext",
@@ -15170,7 +15165,6 @@
         "concaveman",
         "GenomicRanges",
         "KEGGREST",
-        "sf",
         "viridis",
         "XVector",
         "cowplot",
@@ -16195,7 +16189,6 @@
         "spatstat.core",
         "lmerTest",
         "lme4",
-        "sf",
         "nloptr"
     ],
     "SpidermiR": [
@@ -19464,10 +19457,7 @@
     ],
     "gptk": [],
     "DescTools": [],
-    "epiR": [
-        "sf"
-    ],
-    "sf": [],
+    "epiR": [],
     "ggwordcloud": [],
     "BatchJobs": [],
     "R2jags": [],
@@ -19485,9 +19475,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "concaveman": [
-        "sf"
-    ],
+    "concaveman": [],
     "golem": [],
     "haplo.stats": [
         "rms",
