@@ -513,7 +513,6 @@
         "reshape",
         "scales",
         "igraph",
-        "cellranger",
         "Rfast",
         "rvest",
         "GenomicRanges",
@@ -835,8 +834,7 @@
         "Biostrings"
     ],
     "AnVIL": [
-        "futile.logger",
-        "rapiclient"
+        "futile.logger"
     ],
     "AnVILBilling": [
         "shinytoastr",
@@ -846,8 +844,7 @@
     ],
     "AnVILPublish": [
         "AnVIL",
-        "futile.logger",
-        "rapiclient"
+        "futile.logger"
     ],
     "APAlyzer": [
         "GenomicRanges",
@@ -1336,7 +1333,6 @@
         "assertive.code",
         "GenomicRanges",
         "IRanges",
-        "cellranger",
         "GenomeInfoDb",
         "DelayedArray",
         "XVector"
@@ -2065,7 +2061,6 @@
         "graphlayouts",
         "checkmate",
         "Biostrings",
-        "cellranger",
         "ggfun",
         "ggplotify",
         "XVector",
@@ -3423,7 +3418,6 @@
         "SummarizedExperiment",
         "TCGAutils",
         "futile.logger",
-        "rapiclient",
         "XVector",
         "DelayedArray",
         "survival",
@@ -5479,8 +5473,7 @@
         "shinydashboard",
         "shinyjs",
         "readxl",
-        "futile.logger",
-        "cellranger"
+        "futile.logger"
     ],
     "conclus": [
         "org.Hs.eg.db",
@@ -6138,7 +6131,6 @@
         "ggplot2",
         "oligoClasses",
         "Biostrings",
-        "cellranger",
         "GenomeInfoDb",
         "DelayedArray",
         "futile.logger",
@@ -6257,7 +6249,6 @@
         "xts",
         "quantmod",
         "igraph",
-        "cellranger",
         "futile.logger",
         "Biostrings",
         "TTR",
@@ -6805,7 +6796,6 @@
         "affy",
         "survival",
         "TH.data",
-        "cellranger",
         "googlesheets4",
         "modelr",
         "reprex",
@@ -6940,7 +6930,6 @@
         "IRanges",
         "KEGGREST",
         "tweenr",
-        "cellranger",
         "ids",
         "vegan",
         "apcluster",
@@ -7149,7 +7138,6 @@
         "rtracklayer",
         "biomaRt",
         "scales",
-        "cellranger",
         "DelayedArray",
         "Rsamtools",
         "KEGGREST",
@@ -8320,7 +8308,6 @@
         "scales",
         "survival",
         "lava",
-        "cellranger",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -11636,7 +11623,6 @@
         "XVector",
         "GenomeInfoDb",
         "scales",
-        "cellranger",
         "pcaPP"
     ],
     "GEOexplorer": [
@@ -11666,7 +11652,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "cellranger",
         "RcppTOML",
         "TSP",
         "callr",
@@ -11696,7 +11681,6 @@
         "ggthemes",
         "IRanges",
         "pheatmap",
-        "cellranger",
         "XVector",
         "GenomeInfoDb",
         "scales",
@@ -12310,8 +12294,7 @@
         "pryr",
         "expm",
         "gld",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "granulator": [
         "cowplot",
@@ -13019,7 +13002,6 @@
         "BSgenome",
         "ggplot2",
         "scales",
-        "cellranger",
         "BiocIO",
         "restfulr",
         "DelayedArray"
@@ -13455,7 +13437,6 @@
         "GenomeInfoDb",
         "reticulate",
         "XVector",
-        "cellranger",
         "RcppTOML"
     ],
     "imageHTS": [
@@ -13827,7 +13808,6 @@
         "reshape2",
         "ggrepel",
         "usethis",
-        "cellranger",
         "reticulate",
         "KEGGREST",
         "car",
@@ -14100,8 +14080,7 @@
         "ggrepel",
         "readxl",
         "futile.logger",
-        "scales",
-        "cellranger"
+        "scales"
     ],
     "iSEE": [
         "SummarizedExperiment",
@@ -14158,13 +14137,11 @@
         "GenomeInfoDb"
     ],
     "IsoCorrectoR": [
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -14600,7 +14577,6 @@
         "readxl",
         "GenomeInfoDb",
         "XVector",
-        "cellranger",
         "broom",
         "car",
         "DelayedArray",
@@ -14966,7 +14942,6 @@
         "ggrepel",
         "rvest",
         "scales",
-        "cellranger",
         "selectr"
     ],
     "MACSr": [
@@ -15132,7 +15107,6 @@
         "rvest",
         "XVector",
         "scales",
-        "cellranger",
         "ids",
         "hardhat",
         "ipred",
@@ -16404,7 +16378,6 @@
         "sparseMatrixStats",
         "AnnotationHubData",
         "survival",
-        "cellranger",
         "ids",
         "rhdf5",
         "callr",
@@ -18394,7 +18367,6 @@
         "rvest",
         "viridis",
         "car",
-        "cellranger",
         "ids",
         "nloptr",
         "lmerTest",
@@ -18914,7 +18886,6 @@
         "ggsignif",
         "rstatix",
         "checkmate",
-        "cellranger",
         "BiocParallel",
         "GenomicAlignments",
         "restfulr",
@@ -19178,7 +19149,6 @@
         "reprex",
         "rvest",
         "scales",
-        "cellranger",
         "ids",
         "Biostrings",
         "selectr"
@@ -19650,7 +19620,6 @@
         "viridis",
         "nloptr",
         "broom",
-        "cellranger",
         "checkmate",
         "testthat",
         "callr"
@@ -20036,8 +20005,7 @@
     "OmnipathR": [
         "checkmate",
         "igraph",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "oncomix": [
         "ggplot2",
@@ -21575,7 +21543,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "cellranger",
         "checkmate",
         "broom",
         "car",
@@ -22350,7 +22317,6 @@
         "survival",
         "TH.data",
         "TTR",
-        "cellranger",
         "googlesheets4",
         "modelr",
         "reprex",
@@ -24028,7 +23994,6 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "DESeq2",
         "goseq",
@@ -25302,7 +25267,6 @@
     ],
     "RUVcorr": [
         "BiocParallel",
-        "bladderbatch",
         "reshape2",
         "futile.logger"
     ],
@@ -26253,7 +26217,6 @@
         "readxl",
         "BiocParallel",
         "futile.logger",
-        "cellranger",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -28168,7 +28131,6 @@
         "ggthemes",
         "IRanges",
         "pheatmap",
-        "cellranger",
         "XVector",
         "GenomeInfoDb",
         "scales",
@@ -29146,7 +29108,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "cellranger",
         "ids",
         "survival",
         "TH.data",
@@ -29704,7 +29665,6 @@
         "org.Hs.eg.db",
         "IRanges",
         "KEGGREST",
-        "cellranger",
         "GenomeInfoDb",
         "GenomicRanges",
         "Biostrings",
@@ -29833,7 +29793,6 @@
         "GenomicRanges",
         "IRanges",
         "base64url",
-        "cellranger",
         "KEGGREST",
         "BiocParallel",
         "DO.db",
@@ -30662,7 +30621,6 @@
         "futile.logger",
         "Biostrings",
         "XVector",
-        "cellranger",
         "BiocIO",
         "restfulr",
         "DelayedArray",
@@ -31617,8 +31575,7 @@
         "igraph",
         "OmnipathR",
         "checkmate",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "Wrench": [],
     "xcms": [
@@ -32058,9 +32015,7 @@
     "seqinr": [],
     "expm": [],
     "igraph": [],
-    "readxl": [
-        "cellranger"
-    ],
+    "readxl": [],
     "speaq": [
         "Rfast",
         "ggplot2",
@@ -32071,7 +32026,6 @@
         "selectr"
     ],
     "pcaPP": [],
-    "cellranger": [],
     "itertools": [],
     "ptw": [],
     "curatedTCGAData": [
@@ -32157,7 +32111,6 @@
     "lava": [
         "survival"
     ],
-    "rapiclient": [],
     "shinytoastr": [],
     "repmis": [
         "R.cache"
@@ -32758,7 +32711,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "cellranger",
         "nloptr",
         "survival",
         "testthat",
@@ -33675,8 +33627,7 @@
     ],
     "colortools": [],
     "rio": [
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "factoextra": [
         "ggplot2",
@@ -34009,7 +33960,6 @@
         "reprex",
         "rvest",
         "scales",
-        "cellranger",
         "ids",
         "callr",
         "selectr"
@@ -34045,7 +33995,6 @@
         "callr"
     ],
     "googlesheets4": [
-        "cellranger",
         "ids"
     ],
     "modelr": [
@@ -34226,7 +34175,6 @@
         "TH.data"
     ],
     "jackstraw": [],
-    "wordcloud": [],
     "ELMER.data": [
         "GenomicRanges",
         "IRanges",
@@ -34411,7 +34359,6 @@
         "seriation",
         "webshot",
         "egg",
-        "cellranger",
         "TSP",
         "callr"
     ],
@@ -34470,8 +34417,7 @@
     "DescTools": [
         "expm",
         "gld",
-        "readxl",
-        "cellranger"
+        "readxl"
     ],
     "gld": [],
     "epiR": [
@@ -35030,7 +34976,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "cellranger",
         "scales",
         "checkmate",
         "nloptr",
@@ -35404,7 +35349,6 @@
         "igraph",
         "scales"
     ],
-    "bladderbatch": [],
     "RUVnormalizeData": [],
     "GENLIB": [
         "kinship2"
