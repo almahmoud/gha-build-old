@@ -1873,7 +1873,6 @@
         "SummarizedExperiment"
     ],
     "cfDNAPro": [
-        "quantmod",
         "Rsamtools",
         "GenomicRanges",
         "Biostrings"
@@ -2965,7 +2964,6 @@
         "fgsea",
         "highcharter",
         "KEGGREST",
-        "quantmod",
         "Biostrings"
     ],
     "ctsGE": [],
@@ -3226,7 +3224,6 @@
         "viridis",
         "ggpubr",
         "car",
-        "quantmod",
         "missMDA",
         "modelr",
         "pbkrtest",
@@ -3300,7 +3297,6 @@
     "debCAM": [
         "SummarizedExperiment",
         "DMwR2",
-        "quantmod",
         "GenomicRanges"
     ],
     "debrowser": [
@@ -3480,8 +3476,7 @@
         "Biostrings"
     ],
     "deltaGseg": [
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "DeMixT": [
         "SummarizedExperiment",
@@ -10042,8 +10037,7 @@
         "Hmisc",
         "MSnbase",
         "tseries",
-        "viridis",
-        "quantmod"
+        "viridis"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -10210,7 +10204,6 @@
         "factoextra",
         "dendextend",
         "Mfuzz",
-        "quantmod",
         "KEGGREST",
         "DOSE",
         "enrichplot",
@@ -10284,7 +10277,6 @@
         "recount",
         "SummarizedExperiment",
         "KEGGREST",
-        "quantmod",
         "derfinder",
         "GenomicRanges",
         "rtracklayer",
@@ -10685,8 +10677,7 @@
     "RCM": [
         "tseries",
         "phyloseq",
-        "Biostrings",
-        "quantmod"
+        "Biostrings"
     ],
     "Rcpi": [
         "Biostrings",
@@ -15076,7 +15067,6 @@
         "GenomicTools.fileHandler"
     ],
     "GenomicTools.fileHandler": [],
-    "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
     ],
@@ -15345,9 +15335,7 @@
     "fields": [
         "viridis"
     ],
-    "highcharter": [
-        "quantmod"
-    ],
+    "highcharter": [],
     "cytometree": [],
     "RFOC": [
         "GEOmap",
@@ -15415,9 +15403,7 @@
     ],
     "TFisher": [],
     "mutoss": [],
-    "DMwR2": [
-        "quantmod"
-    ],
+    "DMwR2": [],
     "ggseqlogo": [],
     "rsq": [
         "lme4"
@@ -15425,9 +15411,7 @@
     "webchem": [],
     "textstem": [],
     "lasso2": [],
-    "tseries": [
-        "quantmod"
-    ],
+    "tseries": [],
     "NBPSeq": [
         "qvalue"
     ],
@@ -15813,8 +15797,7 @@
         "SummarizedExperiment"
     ],
     "forecast": [
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "taRifx": [],
     "pwrEWAS.data": [
