@@ -1514,7 +1514,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "TSP",
         "callr",
         "IRanges",
         "KEGGREST",
@@ -5391,7 +5390,6 @@
         "Rsamtools",
         "IRanges",
         "GenomicRanges",
-        "TSP",
         "GenomicFiles",
         "rtracklayer",
         "BiocParallel",
@@ -5875,7 +5873,6 @@
         "pheatmap",
         "viridis",
         "biocViews",
-        "TSP",
         "fields",
         "GenomicRanges",
         "IRanges",
@@ -6681,7 +6678,6 @@
         "tidytree",
         "treeio",
         "Biostrings",
-        "TSP",
         "callr",
         "tweenr"
     ],
@@ -6903,7 +6899,6 @@
         "KEGGREST",
         "futile.logger",
         "restfulr",
-        "TSP",
         "DelayedArray",
         "callr"
     ],
@@ -7556,7 +7551,6 @@
         "webshot",
         "egg",
         "rvest",
-        "gnm",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -7564,7 +7558,6 @@
         "futile.logger",
         "XVector",
         "selectr",
-        "TSP",
         "callr"
     ],
     "distinct": [
@@ -10037,7 +10030,6 @@
         "webshot",
         "egg",
         "restfulr",
-        "TSP",
         "callr"
     ],
     "frenchFISH": [
@@ -11041,7 +11033,6 @@
         "ggsignif",
         "rstatix",
         "RcppTOML",
-        "TSP",
         "callr",
         "pbkrtest",
         "quantreg",
@@ -11113,7 +11104,6 @@
         "DelayedArray",
         "XVector"
     ],
-    "geva": [],
     "GEWIST": [
         "car",
         "pbkrtest",
@@ -11684,7 +11674,6 @@
     "GraphPAC": [
         "iPAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -12616,7 +12605,6 @@
         "GenomicFeatures",
         "Biostrings",
         "pkgmaker",
-        "TSP",
         "igraph",
         "callr",
         "BiocIO",
@@ -12837,7 +12825,6 @@
         "webshot",
         "egg",
         "IRanges",
-        "TSP",
         "callr"
     ],
     "immunoClust": [
@@ -15188,7 +15175,6 @@
         "HDF5Array",
         "beachmat",
         "lava",
-        "TSP",
         "callr",
         "sparseMatrixStats"
     ],
@@ -15621,7 +15607,6 @@
         "XVector",
         "GenomeInfoDb",
         "RcppZiggurat",
-        "TSP",
         "GenomicRanges",
         "DelayedArray"
     ],
@@ -15919,7 +15904,6 @@
         "GenomeInfoDb",
         "XVector",
         "nloptr",
-        "TSP",
         "DelayedArray",
         "callr",
         "KEGGREST",
@@ -18332,7 +18316,6 @@
         "GO.db",
         "IRanges",
         "KEGGREST",
-        "TSP",
         "Hmisc",
         "ggplot2",
         "htmlTable",
@@ -19229,7 +19212,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "TSP",
         "callr"
     ],
     "OVESEG": [
@@ -19517,7 +19499,6 @@
         "futile.logger",
         "GSEABase",
         "Biostrings",
-        "TSP",
         "callr"
     ],
     "PCAN": [
@@ -21557,7 +21538,6 @@
         "GraphPAC",
         "SpacePAC",
         "igraph",
-        "TSP",
         "Biostrings",
         "multtest",
         "IRanges",
@@ -22021,7 +22001,6 @@
         "expm"
     ],
     "rebook": [
-        "CodeDepends",
         "BiocStyle"
     ],
     "receptLoss": [
@@ -24936,7 +24915,6 @@
         "tidygraph",
         "graphlayouts",
         "Biostrings",
-        "TSP",
         "cowplot",
         "fitdistrplus",
         "ggridges",
@@ -25117,7 +25095,6 @@
         "randomcoloR",
         "IRanges",
         "scales",
-        "TSP",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -25421,7 +25398,6 @@
         "geneplotter",
         "ggplot2",
         "scales",
-        "TSP",
         "GenomeInfoDb",
         "DelayedArray",
         "AnnotationDbi",
@@ -25505,7 +25481,6 @@
         "GenomicFeatures",
         "AnnotationDbi",
         "sparseMatrixStats",
-        "TSP",
         "multtest",
         "callr",
         "KEGGREST",
@@ -25782,7 +25757,6 @@
     ],
     "sincell": [
         "igraph",
-        "TSP",
         "ggplot2",
         "fields",
         "viridis",
@@ -29476,7 +29450,6 @@
         "egg",
         "futile.logger",
         "Biostrings",
-        "TSP",
         "callr",
         "XVector",
         "GenomeInfoDb"
@@ -30637,7 +30610,6 @@
         "seriation",
         "webshot",
         "egg",
-        "TSP",
         "callr"
     ],
     "dendextend": [
@@ -30645,9 +30617,7 @@
         "viridis",
         "scales"
     ],
-    "seriation": [
-        "TSP"
-    ],
+    "seriation": [],
     "webshot": [
         "callr"
     ],
@@ -30655,7 +30625,6 @@
         "ggplot2",
         "scales"
     ],
-    "TSP": [],
     "RcppDist": [],
     "fitdistrplus": [],
     "corncob": [
@@ -32098,10 +32067,7 @@
         "igraph",
         "multtest"
     ],
-    "MetaCycle": [
-        "gnm"
-    ],
-    "gnm": [],
+    "MetaCycle": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -32299,7 +32265,6 @@
         "seriation",
         "webshot",
         "egg",
-        "TSP",
         "callr"
     ],
     "shinybusy": [],
@@ -33074,7 +33039,6 @@
     "neo4r": [
         "igraph"
     ],
-    "CodeDepends": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "IRanges",
