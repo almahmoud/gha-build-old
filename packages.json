@@ -681,7 +681,6 @@
         "futile.logger",
         "AnnotationDbi",
         "XVector",
-        "statip",
         "hardhat",
         "ipred",
         "RcppTOML",
@@ -5467,8 +5466,7 @@
         "ROCR",
         "ggplot2",
         "modeest",
-        "scales",
-        "statip"
+        "scales"
     ],
     "ComplexHeatmap": [
         "IRanges"
@@ -16810,7 +16808,6 @@
         "sparseMatrixStats",
         "tweenr"
     ],
-    "MiChip": [],
     "microbiome": [
         "phyloseq",
         "ggplot2",
@@ -17130,7 +17127,6 @@
         "testthat",
         "scales",
         "quantreg",
-        "statip",
         "callr",
         "survival"
     ],
@@ -19740,7 +19736,6 @@
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
-        "fst",
         "ggplot2",
         "AnnotationHub",
         "BiocParallel",
@@ -20294,7 +20289,6 @@
         "BSgenome",
         "cowplot",
         "DESeq2",
-        "fst",
         "GenomeInfoDb",
         "GenomicFeatures",
         "ggplot2",
@@ -24114,7 +24108,6 @@
         "BSgenome",
         "cowplot",
         "DESeq2",
-        "fst",
         "GGally",
         "Rsamtools",
         "SummarizedExperiment",
@@ -25097,7 +25090,6 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "RTCA": [],
     "RTCGA": [
         "rvest",
         "survival",
@@ -25552,7 +25544,6 @@
         "BiocParallel",
         "Biostrings",
         "ensembldb",
-        "fst",
         "GenomeInfoDb",
         "GenomicFeatures",
         "GenomicRanges",
@@ -32136,8 +32127,7 @@
         "ape",
         "ggrepel",
         "modeest",
-        "scales",
-        "statip"
+        "scales"
     ],
     "pROC": [],
     "recipes": [
@@ -32147,14 +32137,11 @@
         "prodlim",
         "lava"
     ],
-    "modeest": [
-        "statip"
-    ],
+    "modeest": [],
     "reticulate": [
         "RcppTOML"
     ],
     "stable": [],
-    "statip": [],
     "hardhat": [],
     "ipred": [
         "survival",
@@ -35072,7 +35059,6 @@
         "futile.logger",
         "DelayedArray"
     ],
-    "fst": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment",
         "SummarizedExperiment",
