@@ -132,7 +132,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "biomaRt",
@@ -194,7 +193,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "biomaRt",
@@ -218,9 +216,7 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "alevinQC": [
-        "GGally"
-    ],
+    "alevinQC": [],
     "AllelicImbalance": [
         "GenomicRanges",
         "SummarizedExperiment",
@@ -257,7 +253,6 @@
         "KEGGREST"
     ],
     "AlpsNMR": [
-        "GGally",
         "mixOmics",
         "speaq",
         "ggrepel",
@@ -985,7 +980,6 @@
         "GenomicAlignments"
     ],
     "bigPint": [
-        "GGally",
         "Hmisc",
         "plotly",
         "SummarizedExperiment",
@@ -1361,7 +1355,6 @@
         "VariantAnnotation",
         "biovizBase",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "viridis"
@@ -1513,7 +1506,6 @@
         "BSgenome",
         "rtracklayer",
         "OrganismDbi",
-        "GGally",
         "KEGGREST",
         "biomaRt",
         "viridis"
@@ -1563,7 +1555,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1930,7 +1921,6 @@
         "DESeq2",
         "GenomicTools",
         "GenomicTools.fileHandler",
-        "GGally",
         "ggnetwork",
         "ggpubr",
         "ggrepel",
@@ -2451,7 +2441,6 @@
     ],
     "clstutils": [],
     "CluMSID": [
-        "GGally",
         "plotly",
         "MSnbase"
     ],
@@ -3161,7 +3150,6 @@
         "flowDensity",
         "flowClust",
         "cytometree",
-        "GGally",
         "flowViz",
         "car",
         "RFOC",
@@ -3725,7 +3713,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
@@ -5717,7 +5704,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
@@ -5857,7 +5843,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -5878,9 +5863,7 @@
         "ggfun",
         "plotly"
     ],
-    "GGPA": [
-        "GGally"
-    ],
+    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "SingleCellExperiment",
@@ -6829,7 +6812,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -7055,7 +7037,6 @@
         "DEGreport",
         "DESeq2",
         "GenomicRanges",
-        "GGally",
         "KEGGREST",
         "ggdendro",
         "ggrepel",
@@ -7591,7 +7572,6 @@
         "AnnotationDbi",
         "GO.db",
         "org.Hs.eg.db",
-        "GGally",
         "WGCNA",
         "KEGGREST",
         "Hmisc",
@@ -8210,8 +8190,7 @@
     ],
     "mfa": [
         "ggmcmc",
-        "MCMCpack",
-        "GGally"
+        "MCMCpack"
     ],
     "Mfuzz": [],
     "MGFM": [
@@ -8650,7 +8629,6 @@
         "ipred"
     ],
     "mitch": [
-        "GGally",
         "echarts4r"
     ],
     "mitoClone2": [
@@ -8944,7 +8922,6 @@
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
@@ -9905,7 +9882,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "GGally",
         "Rsamtools",
         "rtracklayer",
         "SummarizedExperiment",
@@ -10303,7 +10279,6 @@
     "PhosR": [
         "dendextend",
         "SummarizedExperiment",
-        "GGally",
         "ggdendro",
         "ggpubr",
         "ggtext",
@@ -11159,7 +11134,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11588,7 +11562,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "GO.db",
@@ -11712,7 +11685,6 @@
         "biomartr",
         "BSgenome",
         "DESeq2",
-        "GGally",
         "Rsamtools",
         "SummarizedExperiment",
         "KEGGREST",
@@ -11754,7 +11726,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "KEGGREST",
@@ -12725,7 +12696,6 @@
     "scPipe": [
         "SingleCellExperiment",
         "biomaRt",
-        "GGally",
         "SummarizedExperiment",
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -12788,7 +12758,6 @@
         "BSgenome",
         "VariantAnnotation",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter",
         "viridis"
@@ -13050,7 +13019,6 @@
     "SeqSQC": [
         "ExperimentHub",
         "GenomicRanges",
-        "GGally",
         "rbokeh",
         "AnnotationHub",
         "AnnotationDbi",
@@ -13556,7 +13524,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14144,7 +14111,6 @@
     ],
     "systemPipeTools": [
         "DESeq2",
-        "GGally",
         "SummarizedExperiment",
         "ggrepel",
         "ggtree",
@@ -14527,7 +14493,6 @@
     "TNBC.CMS": [
         "SummarizedExperiment",
         "GSVA",
-        "GGally",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -14551,7 +14516,6 @@
     "TOAST": [
         "EpiDISH",
         "SummarizedExperiment",
-        "GGally",
         "GenomicRanges"
     ],
     "tofsims": [
@@ -14888,7 +14852,6 @@
         "ensembldb",
         "ensemblVEP",
         "GenomicRanges",
-        "GGally",
         "Gviz",
         "Rsamtools",
         "SummarizedExperiment",
@@ -15194,7 +15157,6 @@
     ],
     "vidger": [
         "DESeq2",
-        "GGally",
         "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -15430,7 +15392,6 @@
         "biovizBase",
         "GenomicAlignments",
         "OrganismDbi",
-        "GGally",
         "ensembldb",
         "AnnotationFilter"
     ],
@@ -15521,7 +15482,6 @@
     "Hmisc": [
         "viridis"
     ],
-    "GGally": [],
     "viridis": [],
     "ggbeeswarm": [],
     "speaq": [],
@@ -16601,9 +16561,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "ggmcmc": [
-        "GGally"
-    ],
+    "ggmcmc": [],
     "ggstar": [],
     "HardyWeinberg": [
         "mice"
