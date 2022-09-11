@@ -371,7 +371,6 @@
         "viridis"
     ],
     "AlphaBeta": [
-        "expm",
         "BiocParallel",
         "ggplot2",
         "plotly"
@@ -924,14 +923,12 @@
         "GenomeInfoDb"
     ],
     "ASSET": [
-        "msm",
-        "expm"
+        "msm"
     ],
     "ASSIGN": [
         "msm",
         "sva",
         "ggplot2",
-        "expm",
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
@@ -3655,7 +3652,6 @@
         "ggraph",
         "maftools",
         "tidygraph",
-        "expm",
         "ggforce",
         "ggrepel",
         "viridis",
@@ -5368,7 +5364,6 @@
         "ggraph",
         "tidygraph",
         "ggplot2",
-        "expm",
         "CombinePValue",
         "epiNEM",
         "metap",
@@ -6108,7 +6103,6 @@
         "DelayedArray"
     ],
     "diffuStats": [
-        "expm",
         "precrec",
         "ggplot2"
     ],
@@ -8761,7 +8755,6 @@
         "ComplexHeatmap",
         "dendextend",
         "DESeq2",
-        "expm",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -9600,7 +9593,6 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "expm",
         "readxl"
     ],
     "granulator": [
@@ -10475,7 +10467,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "viridis",
-        "expm",
         "readxl",
         "GenomicRanges",
         "DelayedArray",
@@ -10923,7 +10914,6 @@
         "viridis",
         "tidygraph",
         "graphlayouts",
-        "expm",
         "scuttle",
         "SummarizedExperiment",
         "DelayedArray",
@@ -12558,7 +12548,6 @@
         "Rsamtools",
         "fastseg",
         "rtracklayer",
-        "expm",
         "ggplot2",
         "Biostrings",
         "BiocParallel",
@@ -13273,8 +13262,7 @@
         "ggplot2",
         "Hmisc",
         "htmlTable",
-        "viridis",
-        "expm"
+        "viridis"
     ],
     "MineICA": [
         "ggplot2",
@@ -13478,7 +13466,6 @@
         "multtest",
         "ggplot2",
         "AnnotationDbi",
-        "expm",
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
@@ -13534,7 +13521,6 @@
         "DO.db",
         "fgsea",
         "ggplot2",
-        "expm",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -18036,8 +18022,7 @@
     ],
     "REBET": [
         "ASSET",
-        "msm",
-        "expm"
+        "msm"
     ],
     "rebook": [
         "BiocStyle"
@@ -18729,7 +18714,6 @@
         "linkcomm",
         "BgeeDB",
         "topGO",
-        "expm",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -20203,7 +20187,6 @@
         "Biostrings",
         "XVector",
         "rtracklayer",
-        "expm",
         "readxl",
         "BiocParallel",
         "GenomicAlignments",
@@ -21969,7 +21952,6 @@
         "viridis"
     ],
     "SPONGE": [
-        "expm",
         "gRbase",
         "glmnet"
     ],
@@ -22653,7 +22635,6 @@
         "beachmat",
         "AnnotationDbi",
         "XVector",
-        "expm",
         "KEGGREST",
         "Biostrings"
     ],
@@ -24716,7 +24697,6 @@
     "Rfast": [],
     "NADA": [],
     "shinydashboard": [],
-    "expm": [],
     "readxl": [],
     "speaq": [
         "Rfast",
@@ -25023,9 +25003,7 @@
     "ggfortify": [
         "ggplot2"
     ],
-    "msm": [
-        "expm"
-    ],
+    "msm": [],
     "reactome.db": [
         "AnnotationDbi",
         "KEGGREST",
@@ -26420,7 +26398,6 @@
     ],
     "gptk": [],
     "DescTools": [
-        "expm",
         "readxl"
     ],
     "epiR": [
@@ -26474,9 +26451,7 @@
         "viridis",
         "TH.data"
     ],
-    "MCL": [
-        "expm"
-    ],
+    "MCL": [],
     "AdaptGauss": [
         "DataVisualizations",
         "ggplot2"
