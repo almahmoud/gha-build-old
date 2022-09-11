@@ -593,7 +593,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "RSpectra",
         "RcppZiggurat",
         "selectr"
     ],
@@ -778,7 +777,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "RSpectra",
         "futile.logger",
         "AnnotationDbi",
         "XVector",
@@ -4234,7 +4232,6 @@
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
-        "RSpectra",
         "ScaledMatrix",
         "sparseMatrixStats",
         "survival",
@@ -5292,7 +5289,6 @@
         "waiter",
         "biomaRt",
         "reticulate",
-        "RSpectra",
         "AnnotationDbi",
         "BiocFileCache",
         "sparseMatrixStats",
@@ -7635,7 +7631,6 @@
         "scatterpie",
         "umap",
         "BiocParallel",
-        "RSpectra",
         "pcaMethods",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -8680,8 +8675,7 @@
         "rARPACK",
         "ggrepel",
         "BiocParallel",
-        "futile.logger",
-        "RSpectra"
+        "futile.logger"
     ],
     "DEqMS": [
         "ggplot2",
@@ -8842,7 +8836,6 @@
         "survival"
     ],
     "destiny": [
-        "RSpectra",
         "pcaMethods",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -13584,7 +13577,6 @@
         "rmarkdown",
         "readxl",
         "reticulate",
-        "RSpectra",
         "tidyselect",
         "car",
         "ggsci",
@@ -15159,7 +15151,6 @@
         "GenomicRanges",
         "DelayedArray",
         "reticulate",
-        "RSpectra",
         "IRanges",
         "GenomeInfoDb",
         "XVector",
@@ -15677,7 +15668,6 @@
     "ILoReg": [
         "ggplot2",
         "cowplot",
-        "RSpectra",
         "umap",
         "dendextend",
         "DescTools",
@@ -16145,7 +16135,6 @@
         "usethis",
         "cellranger",
         "reticulate",
-        "RSpectra",
         "KEGGREST",
         "dbplyr",
         "car",
@@ -17329,7 +17318,6 @@
         "umap",
         "scales",
         "reticulate",
-        "RSpectra",
         "RcppTOML"
     ],
     "M3Drop": [
@@ -17542,7 +17530,6 @@
         "RnBeads.hg19",
         "cowplot",
         "ggplot2",
-        "RSpectra",
         "rmio",
         "oligoClasses",
         "illuminaio",
@@ -17899,7 +17886,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "RSpectra",
         "affy",
         "XVector",
         "checkmate",
@@ -18149,7 +18135,6 @@
         "ggrepel",
         "qqman",
         "sva",
-        "RSpectra",
         "KEGGREST",
         "futile.logger",
         "BiocFileCache",
@@ -19977,7 +19962,6 @@
     ],
     "mina": [
         "MCL",
-        "RSpectra",
         "apcluster",
         "ggplot2",
         "reshape2",
@@ -20273,7 +20257,6 @@
         "rqubic",
         "subspace",
         "SOMbrero",
-        "ppclust",
         "miRspongeR",
         "SummarizedExperiment",
         "GSEABase",
@@ -20286,7 +20269,6 @@
         "tidyr",
         "ggplot2",
         "AnnotationDbi",
-        "RSpectra",
         "expm",
         "clusterProfiler",
         "ReactomePA",
@@ -20543,8 +20525,7 @@
         "BiocParallel",
         "futile.logger",
         "tidyselect",
-        "scales",
-        "RSpectra"
+        "scales"
     ],
     "MLInterfaces": [
         "genefilter",
@@ -21851,7 +21832,6 @@
         "qqman",
         "multtest",
         "multcomp",
-        "RSpectra",
         "hardhat",
         "ipred",
         "DelayedArray",
@@ -23247,7 +23227,6 @@
         "Hmisc",
         "lme4",
         "mice",
-        "RSpectra",
         "GenomeInfoDb",
         "DelayedArray",
         "genefilter",
@@ -24597,7 +24576,6 @@
         "phateR",
         "reticulate",
         "scales",
-        "RSpectra",
         "pcaMethods",
         "ggplot.multistats",
         "tidyr",
@@ -25319,7 +25297,6 @@
         "pcaMethods",
         "futile.logger",
         "tweenr",
-        "RSpectra",
         "hardhat",
         "ipred",
         "prodlim",
@@ -27247,7 +27224,6 @@
         "umap",
         "scales",
         "reticulate",
-        "RSpectra",
         "RcppTOML"
     ],
     "Rcwl": [
@@ -27307,12 +27283,9 @@
     "RCyjs": [
         "BrowserViz"
     ],
-    "rDGIdb": [],
     "RDRToolbox": [],
-    "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
         "neo4r",
-        "ReactomeContentService4R",
         "igraph",
         "shiny",
         "tidyr",
@@ -29652,7 +29625,6 @@
         "shinydashboard",
         "shinyjs",
         "plotly",
-        "excelR",
         "shinycssloaders",
         "ggdendro",
         "shinyWidgets",
@@ -30229,7 +30201,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "RSpectra",
         "IRanges",
         "survival",
         "GenomeInfoDb",
@@ -30600,7 +30571,6 @@
         "bayesm",
         "flexmix",
         "survival",
-        "RSpectra",
         "EDASeq",
         "GenomicRanges",
         "DelayedArray",
@@ -30710,7 +30680,6 @@
         "dplyr",
         "BiocParallel",
         "origami",
-        "RSpectra",
         "DelayedArray",
         "ScaledMatrix",
         "futile.logger",
@@ -31974,9 +31943,7 @@
         "BiocParallel",
         "futile.logger"
     ],
-    "SIMLR": [
-        "RSpectra"
-    ],
+    "SIMLR": [],
     "simplifyEnrichment": [
         "GOSemSim",
         "ComplexHeatmap",
@@ -32024,7 +31991,6 @@
         "bluster",
         "dqrng",
         "beachmat",
-        "RSpectra",
         "futile.logger",
         "ScaledMatrix",
         "BiocNeighbors",
@@ -33305,7 +33271,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "RSpectra",
         "XVector",
         "RcppTOML"
     ],
@@ -33419,7 +33384,6 @@
         "tweenr",
         "tidyselect",
         "haven",
-        "RSpectra",
         "forcats",
         "readr",
         "vroom"
@@ -34751,8 +34715,7 @@
         "reshape2",
         "rARPACK",
         "BiocParallel",
-        "futile.logger",
-        "RSpectra"
+        "futile.logger"
     ],
     "timescape": [
         "dplyr",
@@ -35046,7 +35009,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "reticulate",
-        "RSpectra",
         "XVector",
         "RcppTOML"
     ],
@@ -36117,7 +36079,6 @@
     ],
     "uSORT": [
         "igraph",
-        "RSpectra",
         "fpc",
         "monocle",
         "flexmix",
@@ -36464,8 +36425,7 @@
         "XVector"
     ],
     "veloviz": [
-        "igraph",
-        "RSpectra"
+        "igraph"
     ],
     "VennDetail": [
         "dplyr",
@@ -37466,12 +37426,9 @@
     ],
     "pcaPP": [],
     "furrr": [],
-    "rARPACK": [
-        "RSpectra"
-    ],
+    "rARPACK": [],
     "cellranger": [],
     "itertools": [],
-    "RSpectra": [],
     "ptw": [
         "RcppDE"
     ],
@@ -37542,7 +37499,6 @@
     ],
     "umap": [
         "reticulate",
-        "RSpectra",
         "RcppTOML"
     ],
     "GUniFrac": [
@@ -40721,7 +40677,6 @@
     "bigstatsr": [
         "cowplot",
         "ggplot2",
-        "RSpectra",
         "rmio",
         "scales"
     ],
@@ -40799,7 +40754,6 @@
     "SmartSVA": [
         "sva",
         "isva",
-        "RSpectra",
         "qvalue",
         "JADE",
         "genefilter",
@@ -41034,10 +40988,7 @@
         "fields",
         "viridis"
     ],
-    "ppclust": [],
-    "MatrixCorrelation": [
-        "RSpectra"
-    ],
+    "MatrixCorrelation": [],
     "metR": [
         "checkmate",
         "fields",
@@ -41691,7 +41642,6 @@
     "GENLIB": [
         "kinship2"
     ],
-    "excelR": [],
     "SBGNview.data": [
         "rmarkdown",
         "bookdown"
@@ -41926,12 +41876,10 @@
     ],
     "dml": [
         "lfda",
-        "rARPACK",
-        "RSpectra"
+        "rARPACK"
     ],
     "lfda": [
-        "rARPACK",
-        "RSpectra"
+        "rARPACK"
     ],
     "MLmetrics": [
         "ROCR"
