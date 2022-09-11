@@ -244,7 +244,6 @@
     ],
     "AlpsNMR": [
         "mixOmics",
-        "speaq",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -2131,7 +2130,6 @@
         "Biostrings",
         "GenomicAlignments",
         "bluster",
-        "fresh",
         "biomaRt",
         "AnnotationDbi",
         "KEGGREST"
@@ -4056,7 +4054,6 @@
         "lme4",
         "viridis"
     ],
-    "EMDomics": [],
     "EnhancedVolcano": [
         "ggalt",
         "ggrastr"
@@ -5199,7 +5196,6 @@
         "SummarizedExperiment",
         "viridis",
         "KEGGREST",
-        "fresh",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -5769,7 +5765,6 @@
     ],
     "GSEAmining": [
         "dendextend",
-        "ggwordcloud",
         "viridis"
     ],
     "gsean": [
@@ -7927,7 +7922,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "ggwordcloud",
         "metR",
         "GenomicRanges",
         "Hmisc",
@@ -9103,7 +9097,6 @@
         "Hmisc",
         "AICcmodavg",
         "car",
-        "summarytools",
         "unmarked",
         "pbkrtest",
         "lme4",
@@ -9936,7 +9929,6 @@
         "caret",
         "dendextend",
         "biomaRt",
-        "fresh",
         "AnnotationDbi",
         "recipes",
         "viridis",
@@ -13052,8 +13044,7 @@
         "GenomicAlignments"
     ],
     "systemPipeShiny": [
-        "shinydashboardPlus",
-        "fresh"
+        "shinydashboardPlus"
     ],
     "systemPipeTools": [
         "DESeq2",
@@ -14053,7 +14044,6 @@
         "Biostrings"
     ],
     "vissE": [
-        "ggwordcloud",
         "GSEABase",
         "msigdb",
         "ggraph",
@@ -14334,7 +14324,6 @@
         "viridis"
     ],
     "viridis": [],
-    "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -14890,11 +14879,8 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "shinydashboardPlus": [
-        "fresh"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [],
-    "fresh": [],
     "densityClust": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -15130,9 +15116,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "bs4Dash": [
-        "fresh"
-    ],
+    "bs4Dash": [],
     "FField": [],
     "lmerTest": [
         "lme4"
@@ -15166,7 +15150,6 @@
     ],
     "gptk": [],
     "epiR": [],
-    "ggwordcloud": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
@@ -15333,7 +15316,6 @@
         "biclust"
     ],
     "SOMbrero": [
-        "ggwordcloud",
         "metR",
         "fields",
         "viridis"
@@ -15392,7 +15374,6 @@
         "unmarked",
         "lme4"
     ],
-    "summarytools": [],
     "unmarked": [
         "lme4"
     ],
