@@ -4006,8 +4006,7 @@
     ],
     "LymphoSeq": [],
     "M3Drop": [
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "m6Aboost": [
         "adabag",
@@ -6307,8 +6306,7 @@
         "geneplotter",
         "AnnotationDbi",
         "rtracklayer",
-        "biomaRt",
-        "densEstBayes"
+        "biomaRt"
     ],
     "RiboProfiling": [
         "GenomicFeatures",
@@ -6784,8 +6782,7 @@
     "scMerge": [
         "M3Drop",
         "SingleCellExperiment",
-        "reldist",
-        "densEstBayes"
+        "reldist"
     ],
     "scmeth": [
         "bsseq",
@@ -7151,7 +7148,6 @@
         "biomaRt",
         "org.Hs.eg.db",
         "reldist",
-        "densEstBayes",
         "GenomicAlignments"
     ],
     "SingleMoleculeFootprinting": [
@@ -8776,10 +8772,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "reldist": [
-        "densEstBayes"
-    ],
-    "densEstBayes": [],
+    "reldist": [],
     "adabag": [
         "caret"
     ],
