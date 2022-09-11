@@ -407,7 +407,6 @@
         "mixOmics",
         "speaq",
         "ggrepel",
-        "pcaPP",
         "ggplot2",
         "BiocParallel",
         "SummarizedExperiment",
@@ -2578,7 +2577,6 @@
         "htmlTable",
         "viridis",
         "Biostrings",
-        "pcaPP",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -2675,7 +2673,6 @@
         "broom",
         "fda",
         "testthat",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -3073,7 +3070,6 @@
         "pbkrtest",
         "quantreg",
         "fda",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -4469,7 +4465,6 @@
         "quantreg",
         "multcomp",
         "htmlTable",
-        "pcaPP",
         "viridis",
         "TH.data"
     ],
@@ -4985,8 +4980,7 @@
     ],
     "ctsGE": [
         "ccaPP",
-        "ggplot2",
-        "pcaPP"
+        "ggplot2"
     ],
     "cummeRbund": [
         "ggplot2",
@@ -5155,7 +5149,6 @@
         "broom",
         "fda",
         "lava",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -5228,7 +5221,6 @@
         "flowClust",
         "rrcov",
         "fda",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -5293,7 +5285,6 @@
         "fda",
         "Biostrings",
         "nloptr",
-        "pcaPP",
         "fds",
         "testthat",
         "rainbow",
@@ -5587,7 +5578,6 @@
         "SummarizedExperiment",
         "NMF",
         "DMwR2",
-        "pcaPP",
         "quantmod",
         "pkgmaker",
         "ggplot2",
@@ -5844,8 +5834,7 @@
         "Rgraphviz",
         "rrcov",
         "NCIgraph",
-        "RCy3",
-        "pcaPP"
+        "RCy3"
     ],
     "DEGreport": [
         "broom",
@@ -6241,7 +6230,6 @@
         "pbkrtest",
         "quantreg",
         "fda",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -7968,7 +7956,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "BiocIO",
-        "pcaPP",
         "hdrcde",
         "DelayedArray"
     ],
@@ -8049,8 +8036,7 @@
         "DelayedArray",
         "GenomeInfoDb",
         "TrajectoryUtils",
-        "XVector",
-        "pcaPP"
+        "XVector"
     ],
     "fedup": [
         "ggplot2",
@@ -8197,8 +8183,7 @@
     "flowBeads": [
         "rrcov",
         "flowCore",
-        "cytolib",
-        "pcaPP"
+        "cytolib"
     ],
     "flowBin": [
         "flowCore",
@@ -8297,8 +8282,7 @@
         "rrcov",
         "feature",
         "flowCore",
-        "cytolib",
-        "pcaPP"
+        "cytolib"
     ],
     "flowMerge": [
         "feature",
@@ -8307,8 +8291,7 @@
         "rrcov",
         "flowCore",
         "flowViz",
-        "cytolib",
-        "pcaPP"
+        "cytolib"
     ],
     "flowPloidy": [
         "flowCore",
@@ -8356,7 +8339,6 @@
         "quantreg",
         "lme4",
         "fda",
-        "pcaPP",
         "fds",
         "nloptr",
         "rainbow",
@@ -8382,7 +8364,6 @@
         "RBGL",
         "Rgraphviz",
         "DelayedArray",
-        "pcaPP",
         "rainbow",
         "hdrcde"
     ],
@@ -8418,7 +8399,6 @@
         "RBGL",
         "Rgraphviz",
         "DelayedArray",
-        "pcaPP",
         "rainbow",
         "hdrcde"
     ],
@@ -8514,7 +8494,6 @@
         "fda",
         "fds",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
@@ -8542,7 +8521,6 @@
         "XVector",
         "rainbow",
         "DelayedArray",
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
@@ -9320,8 +9298,7 @@
         "pheatmap",
         "rrcov",
         "XVector",
-        "GenomeInfoDb",
-        "pcaPP"
+        "GenomeInfoDb"
     ],
     "GEOexplorer": [
         "plotly",
@@ -11411,13 +11388,11 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "iteremoval": [
         "ggplot2",
@@ -11483,7 +11458,6 @@
         "GenomeInfoDb",
         "XVector",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
@@ -11905,7 +11879,6 @@
         "lava"
     ],
     "Maaslin2": [
-        "pcaPP",
         "metagenomeSeq",
         "car",
         "chemometrics",
@@ -12704,7 +12677,6 @@
         "quantreg",
         "lme4",
         "fda",
-        "pcaPP",
         "fds",
         "nloptr",
         "rainbow",
@@ -14097,7 +14069,6 @@
         "Maaslin2",
         "ggplot2",
         "cowplot",
-        "pcaPP",
         "metagenomeSeq",
         "car",
         "chemometrics",
@@ -15501,8 +15472,7 @@
     ],
     "networkBMA": [
         "BMA",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "NeuCA": [
         "keras",
@@ -15961,7 +15931,6 @@
         "ggplot2",
         "Rgraphviz",
         "DelayedArray",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -16054,8 +16023,7 @@
         "rrcov",
         "feature",
         "flowCore",
-        "cytolib",
-        "pcaPP"
+        "cytolib"
     ],
     "OPWeight": [
         "qvalue",
@@ -16661,7 +16629,6 @@
         "AnnotationDbi",
         "DESeq2",
         "KEGGREST",
-        "pcaPP",
         "GenomicRanges",
         "SummarizedExperiment",
         "BiocParallel",
@@ -16763,7 +16730,6 @@
         "htmlTable",
         "viridis",
         "Biostrings",
-        "pcaPP",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -16969,7 +16935,6 @@
         "ggplot2",
         "htmlTable",
         "viridis",
-        "pcaPP",
         "hdrcde",
         "DelayedArray"
     ],
@@ -20114,7 +20079,6 @@
         "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "pcaPP",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -20320,7 +20284,6 @@
         "copula",
         "ggplot2",
         "DESeq2",
-        "pcaPP",
         "GenomicRanges",
         "BiocParallel",
         "genefilter",
@@ -22779,8 +22742,7 @@
         "ggplot2"
     ],
     "statTarget": [
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "strandCheckR": [
         "GenomeInfoDb",
@@ -22942,7 +22904,6 @@
         "ggsignif",
         "rstatix",
         "km.ci",
-        "pcaPP",
         "car",
         "pbkrtest",
         "quantreg",
@@ -24071,7 +24032,6 @@
         "pbkrtest",
         "quantreg",
         "fda",
-        "pcaPP",
         "fds",
         "rainbow",
         "hdrcde"
@@ -24437,7 +24397,6 @@
         "DelayedArray",
         "KEGGREST",
         "rainbow",
-        "pcaPP",
         "hdrcde"
     ],
     "uncoverappLib": [
@@ -25369,7 +25328,6 @@
         "rvest",
         "selectr"
     ],
-    "pcaPP": [],
     "ptw": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
@@ -26143,12 +26101,9 @@
         "ggplot2"
     ],
     "BMA": [
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
-    "rrcov": [
-        "pcaPP"
-    ],
+    "rrcov": [],
     "NMF": [
         "pkgmaker",
         "ggplot2"
@@ -26177,18 +26132,15 @@
     "fda": [
         "fds",
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
     "fds": [
         "rainbow",
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
     "rainbow": [
-        "pcaPP",
         "hdrcde",
         "ggplot2"
     ],
@@ -26724,9 +26676,7 @@
         "ggplot2",
         "TTR"
     ],
-    "ccaPP": [
-        "pcaPP"
-    ],
+    "ccaPP": [],
     "cytometree": [
         "ggplot2",
         "cowplot"
@@ -27080,8 +27030,7 @@
     "rPref": [],
     "FField": [],
     "robust": [
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "lmerTest": [
         "lme4",
@@ -27271,9 +27220,7 @@
         "prodlim",
         "lava"
     ],
-    "chemometrics": [
-        "pcaPP"
-    ],
+    "chemometrics": [],
     "glmmTMB": [
         "lme4",
         "nloptr",
@@ -27852,9 +27799,7 @@
         "DelayedArray",
         "KEGGREST"
     ],
-    "copula": [
-        "pcaPP"
-    ],
+    "copula": [],
     "origami": [],
     "Rmagic": [
         "reticulate",
@@ -27988,8 +27933,7 @@
     ],
     "clustvarsel": [
         "BMA",
-        "rrcov",
-        "pcaPP"
+        "rrcov"
     ],
     "gstat": [
         "spacetime"
