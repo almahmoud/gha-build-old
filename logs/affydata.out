@@ -1,0 +1,24 @@
+* installing *source* package ‘affydata’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+     Package    LibPath                                               
+[1,] "affydata" "/__w/gha-build/gha-build/built/00LOCK-affydata/00new"
+     Item       Title                        
+[1,] "Dilution" "AffyBatch instance Dilution"
+** testing if installed package can be loaded from final location
+     Package    LibPath                          Item      
+[1,] "affydata" "/__w/gha-build/gha-build/built" "Dilution"
+     Title                        
+[1,] "AffyBatch instance Dilution"
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘affydata’ as ‘affydata_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (affydata)
