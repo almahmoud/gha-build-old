@@ -1033,7 +1033,6 @@
         "MultiAssayExperiment",
         "readxl",
         "SummarizedExperiment",
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
@@ -14338,7 +14337,6 @@
         "plyranges",
         "reticulate",
         "rtracklayer",
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
@@ -25041,24 +25039,16 @@
     ],
     "mixtools": [],
     "assertive": [
-        "assertive.strings",
         "assertive.datetimes",
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "assertive.code"
     ],
-    "assertive.strings": [],
     "assertive.datetimes": [],
-    "assertive.data": [
-        "assertive.strings"
-    ],
-    "assertive.data.uk": [
-        "assertive.strings"
-    ],
-    "assertive.data.us": [
-        "assertive.strings"
-    ],
+    "assertive.data": [],
+    "assertive.data.uk": [],
+    "assertive.data.us": [],
     "assertive.code": [],
     "doBy": [
         "broom",
