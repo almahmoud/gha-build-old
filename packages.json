@@ -305,7 +305,6 @@
         "KEGGREST"
     ],
     "AlpsNMR": [
-        "readxl",
         "GGally",
         "mixOmics",
         "speaq",
@@ -786,7 +785,6 @@
         "assertive",
         "ggrepel",
         "MultiAssayExperiment",
-        "readxl",
         "SummarizedExperiment",
         "assertive.data",
         "assertive.data.uk",
@@ -1203,7 +1201,6 @@
         "fgsea",
         "broom",
         "car",
-        "readxl",
         "plotly",
         "patchwork",
         "ggraph",
@@ -3190,8 +3187,7 @@
     "COMPASS": [],
     "compcodeR": [],
     "ComPrAn": [
-        "rio",
-        "readxl"
+        "rio"
     ],
     "conclus": [
         "org.Hs.eg.db",
@@ -3581,7 +3577,6 @@
         "sva",
         "shinypanel",
         "SummarizedExperiment",
-        "readxl",
         "KEGGREST",
         "GenomicRanges",
         "genefilter",
@@ -3647,7 +3642,6 @@
         "fgsea",
         "ggrepel",
         "highcharter",
-        "readxl",
         "KEGGREST",
         "broom",
         "quantmod",
@@ -3956,7 +3950,6 @@
         "DAPARdata",
         "siggenes",
         "lme4",
-        "readxl",
         "highcharter",
         "clusterProfiler",
         "AnnotationDbi",
@@ -4058,7 +4051,6 @@
         "Linnorm",
         "broom",
         "modelr",
-        "readxl",
         "KEGGREST",
         "ggdendro",
         "multtest",
@@ -4171,7 +4163,6 @@
         "VariantAnnotation",
         "SummarizedExperiment",
         "ggseqlogo",
-        "readxl",
         "XVector",
         "BSgenome",
         "AnnotationDbi",
@@ -4824,7 +4815,6 @@
     "Doscheda": [
         "drc",
         "vsn",
-        "readxl",
         "prodlim",
         "car",
         "multcomp",
@@ -6797,7 +6787,6 @@
         "lme4",
         "GeomxTools",
         "NanoStringNCTools",
-        "readxl",
         "EnvStats",
         "lmerTest",
         "nloptr",
@@ -6820,7 +6809,6 @@
         "viridis",
         "webshot",
         "egg",
-        "readxl",
         "car",
         "ggsci",
         "cowplot",
@@ -6834,7 +6822,6 @@
     "GEOfastq": [],
     "GeomxTools": [
         "NanoStringNCTools",
-        "readxl",
         "EnvStats",
         "lmerTest",
         "lme4",
@@ -7222,8 +7209,7 @@
         "gptk"
     ],
     "gpuMagic": [
-        "DescTools",
-        "readxl"
+        "DescTools"
     ],
     "granulator": [
         "cowplot",
@@ -7624,7 +7610,6 @@
         "GenomicAlignments",
         "hiAnnotator",
         "GenomicRanges",
-        "readxl",
         "XVector",
         "SummarizedExperiment",
         "Rsamtools",
@@ -7862,7 +7847,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "viridis",
-        "readxl",
         "GenomicRanges",
         "XVector"
     ],
@@ -8058,7 +8042,6 @@
         "factoextra",
         "plotly",
         "umap",
-        "readxl",
         "biomaRt",
         "AnnotationDbi",
         "viridis",
@@ -8224,8 +8207,7 @@
         "nloptr"
     ],
     "ISAnalytics": [
-        "ggrepel",
-        "readxl"
+        "ggrepel"
     ],
     "iSEE": [
         "SummarizedExperiment",
@@ -8253,12 +8235,9 @@
         "Biostrings",
         "XVector"
     ],
-    "IsoCorrectoR": [
-        "readxl"
-    ],
+    "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
-        "IsoCorrectoR",
-        "readxl"
+        "IsoCorrectoR"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -8512,7 +8491,6 @@
         "rstatix",
         "SummarizedExperiment",
         "GenomicRanges",
-        "readxl",
         "XVector",
         "broom",
         "car",
@@ -8699,7 +8677,6 @@
         "SummarizedExperiment"
     ],
     "MACSQuantifyR": [
-        "readxl",
         "ggrepel"
     ],
     "MACSr": [
@@ -8800,7 +8777,6 @@
         "GenomicRanges",
         "broom",
         "modelr",
-        "readxl",
         "XVector",
         "ipred",
         "prodlim"
@@ -9512,7 +9488,6 @@
         "HDF5Array",
         "broom",
         "modelr",
-        "readxl",
         "AnnotationDbi",
         "XVector",
         "GenomicFeatures",
@@ -10648,7 +10623,6 @@
         "MSstatsTMT",
         "broom",
         "modelr",
-        "readxl",
         "viridis",
         "car",
         "nloptr",
@@ -10944,7 +10918,6 @@
         "rtracklayer",
         "Rsamtools",
         "ggseqlogo",
-        "readxl",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -11107,7 +11080,6 @@
         "XVector",
         "broom",
         "modelr",
-        "readxl",
         "Biostrings"
     ],
     "NanoTube": [
@@ -11352,7 +11324,6 @@
         "pbkrtest",
         "lme4",
         "Hmisc",
-        "readxl",
         "GenomicRanges",
         "XVector",
         "viridis",
@@ -11583,9 +11554,7 @@
         "XVector"
     ],
     "Omixer": [],
-    "OmnipathR": [
-        "readxl"
-    ],
+    "OmnipathR": [],
     "oncomix": [
         "ggrepel",
         "SummarizedExperiment",
@@ -12389,7 +12358,6 @@
         "XVector"
     ],
     "plotGrouper": [
-        "readxl",
         "egg",
         "ggpubr",
         "shinythemes",
@@ -12806,7 +12774,6 @@
         "imp4p",
         "siggenes",
         "lme4",
-        "readxl",
         "clusterProfiler",
         "AnnotationDbi",
         "tidyverse",
@@ -15038,7 +15005,6 @@
         "Biostrings",
         "XVector",
         "rtracklayer",
-        "readxl",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -16163,7 +16129,6 @@
     "SpatialDecon": [
         "GeomxTools",
         "NanoStringNCTools",
-        "readxl",
         "EnvStats",
         "lmerTest",
         "lme4",
@@ -16727,7 +16692,6 @@
         "fields",
         "broom",
         "modelr",
-        "readxl",
         "pbkrtest",
         "lme4",
         "viridis",
@@ -17060,7 +17024,6 @@
     "TFutils": [
         "Rsamtools",
         "GSEABase",
-        "readxl",
         "AnnotationDbi",
         "org.Hs.eg.db",
         "KEGGREST",
@@ -17128,7 +17091,6 @@
         "ggdendro",
         "gghighlight",
         "RCy3",
-        "readxl",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -17611,7 +17573,6 @@
         "AnnotationHub",
         "GenomicAlignments",
         "GenomicRanges",
-        "readxl",
         "Rsamtools",
         "rtracklayer",
         "SummarizedExperiment",
@@ -18185,8 +18146,7 @@
         "XVector"
     ],
     "wppi": [
-        "OmnipathR",
-        "readxl"
+        "OmnipathR"
     ],
     "xcms": [
         "MSnbase",
@@ -18381,7 +18341,6 @@
     "smurf": [],
     "ggbeeswarm": [],
     "zCompositions": [],
-    "readxl": [],
     "speaq": [],
     "curatedTCGAData": [
         "MultiAssayExperiment",
@@ -18700,7 +18659,6 @@
     "radiant.data": [
         "broom",
         "car",
-        "readxl",
         "plotly",
         "patchwork",
         "pbkrtest",
@@ -19161,9 +19119,7 @@
     "benchmarkme": [],
     "cobs": [],
     "colortools": [],
-    "rio": [
-        "readxl"
-    ],
+    "rio": [],
     "factoextra": [
         "dendextend",
         "FactoMineR",
@@ -19332,8 +19288,7 @@
     ],
     "tidyverse": [
         "broom",
-        "modelr",
-        "readxl"
+        "modelr"
     ],
     "MESS": [
         "geepack",
@@ -19512,7 +19467,6 @@
     "shinyHeatmaply": [
         "heatmaply",
         "plotly",
-        "readxl",
         "viridis",
         "dendextend",
         "webshot",
@@ -19547,9 +19501,7 @@
         "SummarizedExperiment"
     ],
     "gptk": [],
-    "DescTools": [
-        "readxl"
-    ],
+    "DescTools": [],
     "epiR": [
         "sf"
     ],
@@ -19810,7 +19762,6 @@
     "RcmdrMisc": [
         "car",
         "Hmisc",
-        "readxl",
         "pbkrtest",
         "lme4",
         "viridis",
