@@ -406,7 +406,6 @@
     ],
     "artMS": [
         "AnnotationDbi",
-        "MSstats",
         "org.Hs.eg.db",
         "KEGGREST"
     ],
@@ -6491,9 +6490,7 @@
         "MultiAssayExperiment",
         "AnnotationFilter"
     ],
-    "MSstats": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
@@ -6508,7 +6505,6 @@
     ],
     "MSstatsPTM": [
         "MSstatsTMT",
-        "MSstats",
         "lmerTest"
     ],
     "MSstatsQC": [],
@@ -6517,12 +6513,10 @@
     ],
     "MSstatsSampleSize": [
         "caret",
-        "MSstats",
         "recipes"
     ],
     "MSstatsTMT": [
-        "lmerTest",
-        "MSstats"
+        "lmerTest"
     ],
     "Mulcom": [
         "fields"
