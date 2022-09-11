@@ -2557,7 +2557,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "GenomicRanges",
@@ -3906,7 +3905,6 @@
     "cliqueMS": [
         "xcms",
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2",
@@ -3925,7 +3923,6 @@
         "plotly",
         "sna",
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -4721,7 +4718,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -5446,7 +5442,6 @@
         "quantmod",
         "missMDA",
         "nloptr",
-        "MsCoreUtils",
         "BiocParallel",
         "TH.data",
         "googlesheets4",
@@ -5959,7 +5954,6 @@
         "ComplexHeatmap",
         "shinydashboard",
         "imputeLCMD",
-        "MsCoreUtils",
         "BiocParallel",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -8183,7 +8177,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "ggplot2",
         "htmlTable",
@@ -11211,7 +11204,6 @@
         "Hmisc",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "ggplot2",
         "htmlTable",
@@ -11787,7 +11779,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "ggplot2",
         "htmlTable",
@@ -12144,7 +12135,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "viridis",
         "htmlTable",
@@ -12642,7 +12632,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -12659,9 +12648,7 @@
         "prodlim",
         "lava"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "struct",
@@ -12803,7 +12790,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "ggplot2",
         "htmlTable",
@@ -12926,7 +12912,6 @@
     "MetCirc": [
         "MSnbase",
         "ggplot2",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -14458,22 +14443,17 @@
     ],
     "MsBackendMassbank": [
         "Spectra",
-        "BiocParallel",
-        "MsCoreUtils"
+        "BiocParallel"
     ],
     "MsBackendMgf": [
         "Spectra",
-        "BiocParallel",
-        "MsCoreUtils"
+        "BiocParallel"
     ],
     "MsBackendRawFileReader": [
         "Spectra",
-        "MsCoreUtils",
         "BiocParallel"
     ],
-    "MsCoreUtils": [],
     "MsFeatures": [
-        "MsCoreUtils",
         "SummarizedExperiment",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14541,7 +14521,6 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2"
@@ -14550,13 +14529,11 @@
         "MSnbase",
         "msmsEDA",
         "qvalue",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2"
     ],
     "MSnbase": [
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2"
@@ -14575,7 +14552,6 @@
         "GenomeInfoDb",
         "msmsEDA",
         "qvalue",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -14616,7 +14592,6 @@
         "nloptr",
         "MultiAssayExperiment",
         "AnnotationFilter",
-        "MsCoreUtils",
         "plotly",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -14694,7 +14669,6 @@
         "colourpicker",
         "miniUI",
         "shinyjs",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -14707,7 +14681,6 @@
         "miniUI",
         "shinyjs",
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -15335,7 +15308,6 @@
         "xcms",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -16604,7 +16576,6 @@
         "MSnbase",
         "shinythemes",
         "shinycssloaders",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -17246,7 +17217,6 @@
         "tidygraph",
         "graphlayouts",
         "BiocParallel",
-        "MsCoreUtils",
         "vsn",
         "tweenr",
         "ipred",
@@ -17446,7 +17416,6 @@
         "tseries",
         "htmlTable",
         "viridis",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "quantmod",
@@ -17537,7 +17506,6 @@
         "MultiDataSet",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -17638,7 +17606,6 @@
         "ggvis",
         "gbm",
         "threejs",
-        "MsCoreUtils",
         "vsn",
         "KEGGREST",
         "ipred",
@@ -17659,7 +17626,6 @@
         "shinyjs",
         "shinydashboard",
         "miniUI",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "MLInterfaces",
@@ -17751,7 +17717,6 @@
         "car",
         "missMDA",
         "nloptr",
-        "MsCoreUtils",
         "BiocParallel",
         "TH.data",
         "TTR",
@@ -17830,7 +17795,6 @@
         "OrganismDbi",
         "AnnotationForge",
         "XVector",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2",
@@ -17928,7 +17892,6 @@
         "rstatix",
         "htmlTable",
         "viridis",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "broom",
@@ -18072,7 +18035,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "AnnotationFilter",
-        "MsCoreUtils",
         "plotly",
         "GenomicRanges",
         "ggplot2",
@@ -18106,7 +18068,6 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -19291,7 +19252,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -19378,7 +19338,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2"
@@ -20873,7 +20832,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "MultiAssayExperiment",
-        "MsCoreUtils",
         "GenomicRanges",
         "AnnotationFilter",
         "plotly",
@@ -22483,8 +22441,7 @@
         "ggplot2"
     ],
     "Spectra": [
-        "BiocParallel",
-        "MsCoreUtils"
+        "BiocParallel"
     ],
     "SpectralTAD": [
         "BiocParallel",
@@ -23886,7 +23843,6 @@
         "ggplot2",
         "XVector",
         "GenomeInfoDb",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn"
     ],
@@ -25161,7 +25117,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -26813,7 +26768,6 @@
         "BiocParallel",
         "MSnbase",
         "SummarizedExperiment",
-        "MsCoreUtils",
         "MsFeatures",
         "vsn",
         "ggplot2",
@@ -26939,7 +26893,6 @@
     ],
     "DAPARdata": [
         "MSnbase",
-        "MsCoreUtils",
         "BiocParallel",
         "vsn",
         "ggplot2"
