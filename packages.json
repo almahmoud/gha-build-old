@@ -681,7 +681,6 @@
         "futile.logger",
         "AnnotationDbi",
         "XVector",
-        "statip",
         "hardhat",
         "ipred",
         "RcppTOML",
@@ -5467,8 +5466,7 @@
         "ROCR",
         "ggplot2",
         "modeest",
-        "scales",
-        "statip"
+        "scales"
     ],
     "ComplexHeatmap": [
         "IRanges"
@@ -17130,7 +17128,6 @@
         "testthat",
         "scales",
         "quantreg",
-        "statip",
         "callr",
         "survival"
     ],
@@ -32136,8 +32133,7 @@
         "ape",
         "ggrepel",
         "modeest",
-        "scales",
-        "statip"
+        "scales"
     ],
     "pROC": [],
     "recipes": [
@@ -32147,14 +32143,11 @@
         "prodlim",
         "lava"
     ],
-    "modeest": [
-        "statip"
-    ],
+    "modeest": [],
     "reticulate": [
         "RcppTOML"
     ],
     "stable": [],
-    "statip": [],
     "hardhat": [],
     "ipred": [
         "survival",
