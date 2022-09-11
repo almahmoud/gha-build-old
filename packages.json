@@ -27,9 +27,7 @@
         "Biostrings"
     ],
     "ABarray": [],
-    "abseqR": [
-        "plotly"
-    ],
+    "abseqR": [],
     "ACE": [
         "QDNAseq",
         "GenomicRanges",
@@ -231,9 +229,7 @@
         "AnnotationFilter",
         "viridis"
     ],
-    "AlphaBeta": [
-        "plotly"
-    ],
+    "AlphaBeta": [],
     "alpine": [
         "Biostrings",
         "GenomicRanges",
@@ -303,7 +299,6 @@
     "animalcules": [
         "DESeq2",
         "caret",
-        "plotly",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "GUniFrac",
@@ -398,9 +393,7 @@
         "Biostrings"
     ],
     "AnVIL": [],
-    "AnVILBilling": [
-        "plotly"
-    ],
+    "AnVILBilling": [],
     "AnVILPublish": [
         "AnVIL"
     ],
@@ -521,7 +514,6 @@
         "AnnotationDbi",
         "MSstats",
         "org.Hs.eg.db",
-        "plotly",
         "KEGGREST",
         "lme4",
         "Biostrings"
@@ -770,7 +762,6 @@
     "BatchQC": [
         "sva",
         "heatmaply",
-        "plotly",
         "viridis",
         "dendextend",
         "genefilter",
@@ -864,7 +855,6 @@
         "methylumi",
         "SingleCellExperiment",
         "Biostrings",
-        "plotly",
         "sctransform",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -938,7 +928,6 @@
     ],
     "bigPint": [
         "Hmisc",
-        "plotly",
         "SummarizedExperiment",
         "viridis",
         "GenomicRanges"
@@ -973,7 +962,6 @@
         "viridis",
         "DO.db",
         "car",
-        "plotly",
         "ggraph",
         "graphite",
         "pbkrtest",
@@ -1703,7 +1691,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "viridis",
-        "plotly",
         "sctransform",
         "GenomicRanges"
     ],
@@ -1878,7 +1865,6 @@
         "qvalue",
         "isva",
         "bumphunter",
-        "plotly",
         "dendextend",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -2131,7 +2117,6 @@
     "ChromSCape": [
         "rtracklayer",
         "shinydashboardPlus",
-        "plotly",
         "kableExtra",
         "viridis",
         "batchelor",
@@ -2174,7 +2159,6 @@
         "Biostrings",
         "TFBSTools",
         "Rsamtools",
-        "plotly",
         "SummarizedExperiment",
         "BSgenome",
         "rtracklayer",
@@ -2301,7 +2285,6 @@
     ],
     "clstutils": [],
     "CluMSID": [
-        "plotly",
         "MSnbase"
     ],
     "clusterExperiment": [
@@ -2408,7 +2391,6 @@
         "GenomicRanges"
     ],
     "CNViz": [
-        "plotly",
         "karyoploteR",
         "CopyNumberPlots",
         "GenomicRanges",
@@ -3274,7 +3256,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "plotly",
         "heatmaply",
         "pathview",
         "apeglm",
@@ -3391,7 +3372,6 @@
         "GenomicAlignments",
         "heatmaply",
         "GenomicRanges",
-        "plotly",
         "viridis",
         "SummarizedExperiment",
         "Biostrings",
@@ -3681,7 +3661,6 @@
         "scran",
         "scuttle",
         "bluster",
-        "plotly",
         "sctransform",
         "GenomicRanges",
         "BiocNeighbors"
@@ -3692,7 +3671,6 @@
         "kableExtra",
         "heatmaply",
         "viridis",
-        "plotly",
         "SummarizedExperiment",
         "dendextend",
         "GenomicRanges"
@@ -4034,7 +4012,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
-        "plotly",
         "KEGGREST",
         "GO.db",
         "SummarizedExperiment",
@@ -4062,7 +4039,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "biomaRt",
-        "plotly",
         "ggpubr",
         "rtracklayer",
         "AnnotationDbi",
@@ -4086,8 +4062,7 @@
     "EMDomics": [],
     "EnhancedVolcano": [
         "ggalt",
-        "ggrastr",
-        "plotly"
+        "ggrastr"
     ],
     "enhancerHomologSearch": [
         "Biostrings",
@@ -4595,8 +4570,7 @@
         "GenomicRanges"
     ],
     "FamAgg": [
-        "gap",
-        "plotly"
+        "gap"
     ],
     "famat": [
         "KEGGREST",
@@ -4604,7 +4578,6 @@
         "gprofiler2",
         "reactome.db",
         "GO.db",
-        "plotly",
         "clusterProfiler",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -4785,9 +4758,7 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [
-        "plotly"
-    ],
+    "flowcatchR": [],
     "flowCHIC": [],
     "flowCL": [
         "SPARQL"
@@ -4908,7 +4879,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OUTRIDER",
-        "plotly",
         "KEGGREST",
         "Biostrings",
         "rtracklayer",
@@ -5229,7 +5199,6 @@
         "dendextend",
         "DESeq2",
         "GO.db",
-        "plotly",
         "SummarizedExperiment",
         "viridis",
         "KEGGREST",
@@ -5360,7 +5329,6 @@
     "GenomicSuperSignature": [
         "SummarizedExperiment",
         "ggpubr",
-        "plotly",
         "ggsignif",
         "rstatix",
         "GenomicRanges",
@@ -5413,7 +5381,6 @@
         "Biostrings"
     ],
     "GEOexplorer": [
-        "plotly",
         "factoextra",
         "heatmaply",
         "shinyHeatmaply",
@@ -5487,8 +5454,7 @@
         "aplot",
         "ggalt",
         "R4RNA",
-        "seqmagick",
-        "plotly"
+        "seqmagick"
     ],
     "GGPA": [],
     "ggspavis": [
@@ -5765,7 +5731,6 @@
     "GRmetrics": [
         "SummarizedExperiment",
         "drc",
-        "plotly",
         "car",
         "GenomicRanges",
         "pbkrtest",
@@ -5955,7 +5920,6 @@
         "WGCNA",
         "gprofiler2",
         "SummarizedExperiment",
-        "plotly",
         "GenomicRanges",
         "Hmisc",
         "GO.db",
@@ -6207,7 +6171,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "heatmaply",
-        "plotly",
         "pcaExplorer",
         "goseq",
         "GOstats",
@@ -6316,7 +6279,6 @@
         "Biostrings"
     ],
     "ImmuneSpaceR": [
-        "plotly",
         "heatmaply",
         "flowWorkspace",
         "ncdfFlow",
@@ -6423,7 +6385,6 @@
     "InterCellar": [
         "dendextend",
         "factoextra",
-        "plotly",
         "biomaRt",
         "AnnotationDbi",
         "viridis",
@@ -6530,7 +6491,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "bluster",
-        "plotly",
         "sctransform",
         "GenomicRanges",
         "DO.db",
@@ -6633,7 +6593,6 @@
     "ivygapSE": [
         "SummarizedExperiment",
         "survminer",
-        "plotly",
         "GenomicRanges",
         "ggpubr",
         "ggsignif",
@@ -7051,7 +7010,6 @@
     ],
     "MatrixQCvis": [
         "SummarizedExperiment",
-        "plotly",
         "Hmisc",
         "proDA",
         "viridis",
@@ -7402,7 +7360,6 @@
         "geneplotter",
         "bsseq",
         "ShortRead",
-        "plotly",
         "viridis",
         "dendextend",
         "ipred",
@@ -7430,7 +7387,6 @@
         "GenomicAlignments"
     ],
     "MetaVolcanoR": [
-        "plotly",
         "metap",
         "TFisher",
         "mutoss"
@@ -7731,7 +7687,6 @@
         "DESeq2",
         "heatmaply",
         "car",
-        "plotly",
         "pbkrtest",
         "lme4",
         "GenomicRanges",
@@ -8381,7 +8336,6 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "AnnotationFilter",
-        "plotly",
         "GenomicRanges"
     ],
     "MSstats": [
@@ -8414,14 +8368,12 @@
         "lmerTest"
     ],
     "MSstatsQC": [
-        "plotly",
         "ggExtra",
         "MSnbase"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
         "ggExtra",
-        "plotly",
         "MSnbase"
     ],
     "MSstatsSampleSize": [
@@ -8617,7 +8569,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
-        "plotly",
         "factoextra",
         "TCGAbiolinks",
         "rtracklayer",
@@ -8802,7 +8753,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "plotly",
         "sctransform",
         "GenomicRanges"
     ],
@@ -8851,7 +8801,6 @@
         "RandomWalkRestartMH",
         "gprofiler2",
         "KEGGREST",
-        "plotly",
         "Biostrings"
     ],
     "netresponse": [
@@ -8900,8 +8849,7 @@
         "GenomicRanges"
     ],
     "ngsReports": [
-        "Biostrings",
-        "plotly"
+        "Biostrings"
     ],
     "nondetects": [
         "arm",
@@ -8974,7 +8922,6 @@
         "BSgenome",
         "genefilter",
         "GenomicRanges",
-        "plotly",
         "rtracklayer",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -9127,9 +9074,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "oneSENSE": [
-        "plotly"
-    ],
+    "oneSENSE": [],
     "ontoProc": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9255,7 +9200,6 @@
         "ggpubr",
         "ggsignif",
         "rstatix",
-        "plotly",
         "car",
         "pbkrtest",
         "lme4"
@@ -9275,7 +9219,6 @@
         "DESeq2",
         "GenomicRanges",
         "heatmaply",
-        "plotly",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -9368,7 +9311,6 @@
     "PathoStat": [
         "phyloseq",
         "DESeq2",
-        "plotly",
         "devtools",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -9396,7 +9338,6 @@
         "GenomicRanges",
         "genefilter",
         "heatmaply",
-        "plotly",
         "topGO",
         "GOstats",
         "GO.db",
@@ -9533,7 +9474,6 @@
         "smoother",
         "densityClust",
         "viridis",
-        "plotly",
         "sctransform",
         "GenomicRanges",
         "car",
@@ -9670,7 +9610,6 @@
         "BiocSingular",
         "viridis",
         "bluster",
-        "plotly",
         "sctransform",
         "GenomicRanges"
     ],
@@ -10151,7 +10090,6 @@
         "ggpubr",
         "Hmisc",
         "MSnbase",
-        "plotly",
         "ggsignif",
         "rstatix",
         "viridis",
@@ -10240,7 +10178,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "AnnotationFilter",
-        "plotly",
         "GenomicRanges"
     ],
     "qpgraph": [
@@ -10467,7 +10404,6 @@
         "Biostrings"
     ],
     "RCAS": [
-        "plotly",
         "GenomicRanges",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -10892,7 +10828,6 @@
         "Biostrings",
         "GenomicFeatures",
         "GenomicRanges",
-        "plotly",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt",
@@ -11518,8 +11453,7 @@
     "sangeranalyseR": [
         "Biostrings",
         "DECIPHER",
-        "sangerseqR",
-        "plotly"
+        "sangerseqR"
     ],
     "sangerseqR": [
         "Biostrings"
@@ -11553,7 +11487,6 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "plotly",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -11581,7 +11514,6 @@
         "ensembldb",
         "GenomicFeatures",
         "GenomicRanges",
-        "plotly",
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
@@ -11599,7 +11531,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "recipes",
-        "plotly",
         "sctransform",
         "GenomicRanges",
         "KEGGREST",
@@ -11649,7 +11580,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "plotly",
         "sctransform",
         "AnnotationDbi",
         "KEGGREST",
@@ -11662,7 +11592,6 @@
         "Seurat",
         "GenomicRanges",
         "scuttle",
-        "plotly",
         "sctransform"
     ],
     "scClassifR": [
@@ -11671,7 +11600,6 @@
         "SummarizedExperiment",
         "caret",
         "recipes",
-        "plotly",
         "sctransform",
         "GenomicRanges",
         "ipred"
@@ -11691,7 +11619,6 @@
     "scDataviz": [
         "SingleCellExperiment",
         "Seurat",
-        "plotly",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -11751,7 +11678,6 @@
         "SingleCellExperiment",
         "Seurat",
         "concaveman",
-        "plotly",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -11763,7 +11689,6 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "plotly",
         "sctransform"
     ],
     "scmap": [
@@ -11852,8 +11777,7 @@
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "GenomicRanges",
-        "AnnotationFilter",
-        "plotly"
+        "AnnotationFilter"
     ],
     "scPCA": [],
     "scPipe": [
@@ -11927,7 +11851,6 @@
         "GenomicRanges"
     ],
     "scTensor": [
-        "plotly",
         "reactome.db",
         "AnnotationDbi",
         "SummarizedExperiment",
@@ -11969,7 +11892,6 @@
     "scTGIF": [
         "GSEABase",
         "SingleCellExperiment",
-        "plotly",
         "SummarizedExperiment",
         "nnTensor",
         "schex",
@@ -12003,7 +11925,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "bluster",
-        "plotly",
         "sctransform",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12213,7 +12134,6 @@
         "GenomicRanges",
         "heatmaply",
         "minfi",
-        "plotly",
         "rtracklayer",
         "viridis",
         "dendextend",
@@ -12389,7 +12309,6 @@
         "GSVA",
         "GSVAdata",
         "MAST",
-        "plotly",
         "scater",
         "scMerge",
         "scran",
@@ -12463,7 +12382,6 @@
     ],
     "singscore": [
         "GSEABase",
-        "plotly",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicRanges",
@@ -12652,13 +12570,11 @@
         "BiocSingular",
         "viridis",
         "bluster",
-        "plotly",
         "sctransform"
     ],
     "sparrow": [
         "BiocSet",
         "GSEABase",
-        "plotly",
         "viridis",
         "AnnotationDbi",
         "KEGGREST",
@@ -12705,7 +12621,6 @@
         "distinct",
         "WGCNA",
         "genefilter",
-        "plotly",
         "SummarizedExperiment",
         "GenomicRanges",
         "geneplotter",
@@ -13129,7 +13044,6 @@
         "tidyverse",
         "gstat",
         "SpatialExtremes",
-        "plotly",
         "mice",
         "metR",
         "car",
@@ -13160,7 +13074,6 @@
         "GenomicAlignments"
     ],
     "systemPipeShiny": [
-        "plotly",
         "shinydashboardPlus",
         "fresh"
     ],
@@ -13168,7 +13081,6 @@
         "DESeq2",
         "SummarizedExperiment",
         "ggtree",
-        "plotly",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -13242,7 +13154,6 @@
         "GSEABase",
         "SingleCellExperiment",
         "BiocSingular",
-        "plotly",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -13267,7 +13178,6 @@
         "Biostrings"
     ],
     "TCGAbiolinksGUI": [
-        "plotly",
         "SummarizedExperiment",
         "caret",
         "pathview",
@@ -13410,12 +13320,10 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "plotly",
         "GenomicRanges"
     ],
     "tidySummarizedExperiment": [
         "SummarizedExperiment",
-        "plotly",
         "GenomicRanges"
     ],
     "tigre": [
@@ -13785,9 +13693,7 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "tripr": [
-        "plotly"
-    ],
+    "tripr": [],
     "tRNA": [
         "GenomicRanges",
         "Structstrings",
@@ -14163,7 +14069,6 @@
         "GOSemSim",
         "GO.db",
         "heatmaply",
-        "plotly",
         "topGO",
         "KEGGREST",
         "viridis",
@@ -14411,7 +14316,6 @@
         "Biostrings"
     ],
     "ABAData": [],
-    "plotly": [],
     "ffbase": [],
     "ggpubr": [
         "ggsignif",
@@ -14656,7 +14560,6 @@
     ],
     "ggExtra": [],
     "heatmaply": [
-        "plotly",
         "viridis",
         "dendextend"
     ],
@@ -14668,7 +14571,6 @@
         "Biostrings"
     ],
     "Seurat": [
-        "plotly",
         "sctransform"
     ],
     "sctransform": [],
@@ -14690,7 +14592,6 @@
     ],
     "radiant.data": [
         "car",
-        "plotly",
         "pbkrtest",
         "lme4"
     ],
@@ -15208,9 +15109,7 @@
     "ELMER.data": [
         "GenomicRanges"
     ],
-    "ggalt": [
-        "plotly"
-    ],
+    "ggalt": [],
     "ggrastr": [],
     "survivalsvm": [
         "Hmisc",
@@ -15224,13 +15123,9 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "gap": [
-        "plotly"
-    ],
+    "gap": [],
     "MPINet": [],
-    "gprofiler2": [
-        "plotly"
-    ],
+    "gprofiler2": [],
     "SPARQL": [],
     "RecordLinkage": [
         "ipred"
@@ -15269,7 +15164,6 @@
     ],
     "shinyHeatmaply": [
         "heatmaply",
-        "plotly",
         "viridis",
         "dendextend"
     ],
