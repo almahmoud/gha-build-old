@@ -27,11 +27,9 @@
         "QDNAseq",
         "Rsamtools"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "ffbase",
         "tilingArray",
-        "aCGH",
         "snapCGH",
         "genefilter",
         "AnnotationDbi",
@@ -2270,9 +2268,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "CRISPRseek": [
         "BSgenome",
         "keras",
@@ -7801,7 +7797,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "aCGH",
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
@@ -8325,7 +8320,6 @@
         "org.Hs.eg.db",
         "GenomicFeatures",
         "AnnotationDbi",
-        "aCGH",
         "KEGGREST",
         "rtracklayer",
         "biomaRt",
@@ -9961,7 +9955,6 @@
         "SummarizedExperiment"
     ],
     "snapCGH": [
-        "aCGH",
         "tilingArray",
         "genefilter",
         "AnnotationDbi",
