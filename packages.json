@@ -598,7 +598,6 @@
         "survival",
         "GenomicRanges",
         "tidyr",
-        "vroom",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "GenomeInfoDb",
@@ -865,7 +864,6 @@
         "BiocIO",
         "biomaRt",
         "scales",
-        "vroom",
         "BSgenome",
         "Rsamtools",
         "GenomicAlignments",
@@ -929,8 +927,7 @@
         "dplyr",
         "futile.logger",
         "rapiclient",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "APAlyzer": [
         "GenomicRanges",
@@ -1127,8 +1124,7 @@
         "readr",
         "tidyr",
         "rhdf5",
-        "multtest",
-        "vroom"
+        "multtest"
     ],
     "arrayQualityMetrics": [
         "affy",
@@ -2018,8 +2014,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "BgeeCall": [
         "GenomicFeatures",
@@ -2133,7 +2128,6 @@
         "biomaRt",
         "rhdf5",
         "affy",
-        "vroom",
         "multtest",
         "BiocFileCache",
         "Rsamtools",
@@ -2255,7 +2249,6 @@
         "graphlayouts",
         "checkmate",
         "Biostrings",
-        "vroom",
         "cellranger",
         "ggfun",
         "ggplotify",
@@ -2277,8 +2270,7 @@
     ],
     "BiocDockerManager": [
         "readr",
-        "dplyr",
-        "vroom"
+        "dplyr"
     ],
     "BiocFileCache": [
         "dbplyr",
@@ -2376,7 +2368,6 @@
         "tidyr",
         "RBGL",
         "dbplyr",
-        "vroom",
         "selectr"
     ],
     "BiocSet": [
@@ -2664,8 +2655,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "vroom"
+        "XVector"
     ],
     "biosigner": [
         "ropls",
@@ -2806,7 +2796,6 @@
         "CGHbase",
         "CGHcall",
         "future.apply",
-        "vroom",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -3228,7 +3217,6 @@
     ],
     "bugsigdbr": [
         "BiocFileCache",
-        "vroom",
         "dbplyr",
         "dplyr"
     ],
@@ -3611,8 +3599,7 @@
     "CARNIVAL": [
         "readr",
         "igraph",
-        "dplyr",
-        "vroom"
+        "dplyr"
     ],
     "casper": [
         "IRanges",
@@ -3780,7 +3767,6 @@
         "rapiclient",
         "dbplyr",
         "XVector",
-        "vroom",
         "DelayedArray",
         "survival",
         "AnnotationDbi",
@@ -3801,7 +3787,6 @@
     "cbpManager": [
         "shiny",
         "shinydashboard",
-        "vroom",
         "dplyr",
         "rapportools",
         "basilisk",
@@ -3852,7 +3837,6 @@
         "scales",
         "SingleCellExperiment",
         "reshape2",
-        "vroom",
         "GenomicRanges",
         "GenomeInfoDb",
         "XVector"
@@ -4377,7 +4361,6 @@
         "futile.logger",
         "SummarizedExperiment",
         "scales",
-        "vroom",
         "DelayedArray"
     ],
     "cfDNAPro": [
@@ -4503,7 +4486,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "vroom",
         "restfulr"
     ],
     "ChemmineOB": [],
@@ -4658,7 +4640,6 @@
         "viridis",
         "checkmate",
         "TH.data",
-        "vroom",
         "futile.logger",
         "DelayedArray"
     ],
@@ -4889,7 +4870,6 @@
         "IRanges",
         "GenomicRanges",
         "SummarizedExperiment",
-        "vroom",
         "XVector",
         "GenomeInfoDb",
         "DelayedArray"
@@ -5072,8 +5052,7 @@
         "KEGGREST",
         "BiocIO",
         "restfulr",
-        "AnnotationDbi",
-        "vroom"
+        "AnnotationDbi"
     ],
     "CHRONOS": [
         "RBGL",
@@ -5192,7 +5171,6 @@
         "GenomicFeatures",
         "snpStats",
         "VariantAnnotation",
-        "vroom",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -5475,7 +5453,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "BiocParallel",
-        "vroom",
         "GenomicRanges",
         "DelayedArray",
         "IRanges",
@@ -5536,7 +5513,6 @@
         "Rsamtools",
         "BiocParallel",
         "scales",
-        "vroom",
         "BiocIO",
         "restfulr",
         "futile.logger",
@@ -6001,8 +5977,7 @@
         "readxl",
         "futile.logger",
         "readr",
-        "cellranger",
-        "vroom"
+        "cellranger"
     ],
     "conclus": [
         "org.Hs.eg.db",
@@ -6067,7 +6042,6 @@
         "ggsignif",
         "rstatix",
         "Biostrings",
-        "vroom",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -6313,7 +6287,6 @@
         "multtest",
         "KEGGREST",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -6494,7 +6467,6 @@
         "KEGGREST",
         "BiocFileCache",
         "viper",
-        "vroom",
         "dbplyr",
         "Biostrings",
         "mixtools",
@@ -6725,8 +6697,7 @@
         "futile.logger",
         "XVector",
         "survival",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "CSAR": [
         "IRanges",
@@ -7322,7 +7293,6 @@
         "AnnotationDbi",
         "scales",
         "BiocParallel",
-        "vroom",
         "DelayedArray",
         "rtracklayer",
         "BSgenome",
@@ -7483,7 +7453,6 @@
         "mice",
         "testthat",
         "TTR",
-        "vroom",
         "callr",
         "selectr",
         "ggfun",
@@ -7541,7 +7510,6 @@
         "cmdfun",
         "GenomicAlignments",
         "Rsamtools",
-        "vroom",
         "RcppTOML",
         "restfulr",
         "DelayedArray",
@@ -7616,7 +7584,6 @@
         "gmodels",
         "multtest",
         "multcomp",
-        "vroom",
         "callr",
         "selectr",
         "sn",
@@ -7691,8 +7658,7 @@
         "DelayedArray",
         "XVector",
         "scales",
-        "TTR",
-        "vroom"
+        "TTR"
     ],
     "debrowser": [
         "shiny",
@@ -7935,7 +7901,6 @@
         "quanteda",
         "textclean",
         "syuzhet",
-        "vroom",
         "MatrixExtra",
         "ggplot2"
     ],
@@ -8159,7 +8124,6 @@
         "MsCoreUtils",
         "BiocParallel",
         "affy",
-        "vroom",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -8427,7 +8391,6 @@
         "BiocParallel",
         "futile.logger",
         "AnnotationDbi",
-        "vroom",
         "IRanges",
         "KEGGREST",
         "Biostrings",
@@ -8623,7 +8586,6 @@
         "BiocFileCache",
         "XVector",
         "scales",
-        "vroom",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -8949,7 +8911,6 @@
         "htmlTable",
         "viridis",
         "shiny",
-        "vroom",
         "checkmate"
     ],
     "DMRforPairs": [
@@ -9032,8 +8993,7 @@
         "KEGGREST",
         "dbplyr",
         "biomaRt",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "DNABarcodeCompatibility": [
         "dplyr",
@@ -9175,8 +9135,7 @@
         "dplyr",
         "readr",
         "tidyr",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "DRIMSeq": [
         "GenomicRanges",
@@ -9257,7 +9216,6 @@
         "scales",
         "oligoClasses",
         "Biostrings",
-        "vroom",
         "XVector",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9528,8 +9486,7 @@
         "igraph",
         "readr",
         "dplyr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "EGSEA": [
         "gage",
@@ -9636,7 +9593,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "vroom",
         "restfulr",
         "selectr",
         "KEGGREST",
@@ -9707,8 +9663,7 @@
         "GO.db",
         "KEGGREST",
         "AnnotationDbi",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "EnMCB": [
         "glmnet",
@@ -9758,7 +9713,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -9804,7 +9758,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -9943,7 +9896,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "vroom",
         "tweenr",
         "nloptr",
         "survival",
@@ -10472,7 +10424,6 @@
         "ape",
         "tidytree",
         "treeio",
-        "vroom",
         "tweenr"
     ],
     "escape": [
@@ -10912,7 +10863,6 @@
         "rainbow",
         "SummarizedExperiment",
         "BiocParallel",
-        "vroom",
         "BiocIO",
         "restfulr",
         "futile.logger",
@@ -11087,8 +11037,7 @@
         "GenomicAlignments",
         "restfulr",
         "multtest",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "fgga": [
         "RBGL",
@@ -11549,7 +11498,6 @@
         "textclean",
         "tidygraph",
         "tidyr",
-        "vroom",
         "BiocParallel",
         "scales",
         "ggforce",
@@ -11733,7 +11681,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -11825,7 +11772,6 @@
         "readr",
         "tidyr",
         "Biostrings",
-        "vroom",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -12021,7 +11967,6 @@
         "rstatix",
         "gridtext",
         "Biostrings",
-        "vroom",
         "DelayedArray",
         "km.ci",
         "ggfun",
@@ -12427,7 +12372,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "scales",
-        "vroom",
         "BiocIO",
         "restfulr",
         "futile.logger",
@@ -12443,8 +12387,7 @@
         "XVector"
     ],
     "genomes": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "GenomicAlignments": [
         "IRanges",
@@ -12466,7 +12409,6 @@
         "SummarizedExperiment",
         "GenomeInfoDb",
         "XVector",
-        "vroom",
         "DelayedArray"
     ],
     "GenomicDistributions": [
@@ -12814,7 +12756,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "cellranger",
         "RcppTOML",
         "TSP",
@@ -12836,8 +12777,7 @@
         "GEOquery",
         "readr",
         "dplyr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "GeomxTools": [
         "NanoStringNCTools",
@@ -12866,8 +12806,7 @@
     "GEOquery": [
         "readr",
         "dplyr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "GEOsubmission": [
         "affy"
@@ -13166,7 +13105,6 @@
         "GenomicRanges",
         "IRanges",
         "tidyr",
-        "vroom",
         "GenomeInfoDb",
         "DelayedArray",
         "ggpubr",
@@ -13322,8 +13260,7 @@
         "IRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "vroom"
+        "XVector"
     ],
     "GOexpress": [
         "biomaRt",
@@ -13962,7 +13899,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "survival",
         "SummarizedExperiment",
         "Rsamtools",
@@ -14083,8 +14019,7 @@
         "tidyr",
         "readr",
         "BiocFileCache",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -14367,7 +14302,6 @@
         "recipes",
         "reshape2",
         "scales",
-        "vroom",
         "hardhat",
         "ipred",
         "survival",
@@ -14592,8 +14526,7 @@
         "readr",
         "tidyr",
         "rhdf5",
-        "multtest",
-        "vroom"
+        "multtest"
     ],
     "iCNV": [
         "CODEX",
@@ -14874,7 +14807,6 @@
         "dplyr",
         "igraph",
         "SingleCellExperiment",
-        "vroom",
         "BiocNeighbors",
         "ggraph",
         "tidygraph",
@@ -14952,7 +14884,6 @@
         "rvest",
         "tidyr",
         "scales",
-        "vroom",
         "selectr",
         "dplyr"
     ],
@@ -15032,7 +14963,6 @@
         "biomaRt",
         "scales",
         "GenomicAlignments",
-        "vroom",
         "BiocFileCache",
         "SummarizedExperiment",
         "restfulr",
@@ -15523,7 +15453,6 @@
         "readxl",
         "futile.logger",
         "scales",
-        "vroom",
         "cellranger"
     ],
     "iSEE": [
@@ -15589,7 +15518,6 @@
         "dplyr",
         "readr",
         "readxl",
-        "vroom",
         "cellranger"
     ],
     "IsoCorrectoRGUI": [
@@ -15597,8 +15525,7 @@
         "readxl",
         "dplyr",
         "readr",
-        "cellranger",
-        "vroom"
+        "cellranger"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -15626,7 +15553,6 @@
         "geneplotter",
         "genefilter",
         "scales",
-        "vroom",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -15685,7 +15611,6 @@
         "geneplotter",
         "GenomeInfoDb",
         "XVector",
-        "vroom",
         "DelayedArray",
         "futile.logger",
         "survival",
@@ -16081,7 +16006,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "vroom",
         "nloptr",
         "survival",
         "testthat",
@@ -16319,8 +16243,7 @@
         "readr",
         "tidyr",
         "rhdf5",
-        "multtest",
-        "vroom"
+        "multtest"
     ],
     "LymphoSeq": [
         "dplyr",
@@ -16467,7 +16390,6 @@
         "tidyr",
         "BiocIO",
         "restfulr",
-        "vroom",
         "DelayedArray"
     ],
     "MACSQuantifyR": [
@@ -16593,8 +16515,7 @@
         "GenomicAlignments",
         "restfulr",
         "multtest",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -16667,7 +16588,6 @@
         "scales",
         "cellranger",
         "ids",
-        "vroom",
         "hardhat",
         "ipred",
         "callr",
@@ -16729,8 +16649,7 @@
         "lava",
         "R.cache",
         "readr",
-        "future.apply",
-        "vroom"
+        "future.apply"
     ],
     "makecdfenv": [
         "affy"
@@ -16913,7 +16832,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "scales",
-        "vroom",
         "DelayedArray"
     ],
     "matter": [
@@ -17138,7 +17056,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "htmlTable",
         "viridis",
-        "vroom",
         "checkmate"
     ],
     "MEAT": [
@@ -17185,7 +17102,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -17256,7 +17172,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "vroom",
         "callr",
         "waldo",
         "gert"
@@ -17303,7 +17218,6 @@
         "GenomeInfoDb",
         "testthat",
         "scales",
-        "vroom",
         "gert",
         "callr",
         "waldo"
@@ -17870,7 +17784,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "vroom",
         "ExperimentHub",
         "AnnotationHub",
         "BiocFileCache",
@@ -17956,7 +17869,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -18007,7 +17919,6 @@
         "restfulr",
         "multtest",
         "BiocFileCache",
-        "vroom",
         "dbplyr"
     ],
     "methylclock": [
@@ -18080,7 +17991,6 @@
         "callr",
         "downlit",
         "ragg",
-        "vroom",
         "car",
         "selectr",
         "multtest",
@@ -18176,7 +18086,6 @@
         "multtest",
         "BiocFileCache",
         "tweenr",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -18339,8 +18248,7 @@
         "GenomicAlignments",
         "restfulr",
         "multtest",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "MetID": [
         "devtools",
@@ -18589,7 +18497,6 @@
         "egg",
         "glmnet",
         "Wrench",
-        "vroom",
         "futile.logger",
         "AnnotationDbi",
         "survival",
@@ -18934,8 +18841,7 @@
         "readr",
         "tidyr",
         "rhdf5",
-        "multtest",
-        "vroom"
+        "multtest"
     ],
     "minfi": [
         "GenomicRanges",
@@ -18968,7 +18874,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -19096,7 +19001,6 @@
         "scales",
         "checkmate",
         "partykit",
-        "vroom",
         "selectr",
         "dbplyr",
         "Biostrings",
@@ -19307,7 +19211,6 @@
         "rhdf5",
         "multtest",
         "BiocFileCache",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -19336,7 +19239,6 @@
         "recipes",
         "reshape2",
         "scales",
-        "vroom",
         "hardhat",
         "ipred",
         "survival",
@@ -19646,7 +19548,6 @@
         "scales",
         "SummarizedExperiment",
         "GenomicRanges",
-        "vroom",
         "GenomeInfoDb",
         "XVector",
         "DelayedArray"
@@ -19679,8 +19580,7 @@
         "BiocIO",
         "restfulr",
         "AnnotationDbi",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "monocle": [
         "ggplot2",
@@ -19732,7 +19632,6 @@
         "ggtree",
         "XVector",
         "scales",
-        "vroom",
         "selectr",
         "ggfun",
         "ggplotify",
@@ -19864,8 +19763,7 @@
         "BiocIO",
         "restfulr",
         "AnnotationDbi",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "motifStack": [
         "Biostrings",
@@ -19928,7 +19826,6 @@
         "ggsci",
         "ggsignif",
         "rstatix",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -20157,7 +20054,6 @@
         "survival",
         "XVector",
         "scales",
-        "vroom",
         "KEGGREST",
         "nloptr",
         "broom",
@@ -20258,7 +20154,6 @@
         "ids",
         "nloptr",
         "lmerTest",
-        "vroom",
         "callr",
         "selectr",
         "pbkrtest",
@@ -20823,7 +20718,6 @@
         "ggsignif",
         "rstatix",
         "checkmate",
-        "vroom",
         "cellranger",
         "BiocParallel",
         "GenomicAlignments",
@@ -21056,7 +20950,6 @@
         "HDF5Array",
         "rhdf5",
         "XVector",
-        "vroom",
         "futile.logger",
         "rtracklayer",
         "sparseMatrixStats",
@@ -21123,7 +21016,6 @@
         "cellranger",
         "ids",
         "Biostrings",
-        "vroom",
         "selectr"
     ],
     "NanoTube": [
@@ -21419,8 +21311,7 @@
         "XVector",
         "GenomeInfoDb",
         "ape",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "NetPathMiner": [
         "igraph"
@@ -21559,8 +21450,7 @@
         "tidyr",
         "IRanges",
         "XVector",
-        "GenomeInfoDb",
-        "vroom"
+        "GenomeInfoDb"
     ],
     "nnNorm": [],
     "NOISeq": [],
@@ -21599,7 +21489,6 @@
         "Biostrings",
         "BiocIO",
         "scales",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -21643,7 +21532,6 @@
         "tidyr",
         "checkmate",
         "testthat",
-        "vroom",
         "callr",
         "waldo"
     ],
@@ -21825,7 +21713,6 @@
         "htmlTable",
         "viridis",
         "reshape2",
-        "vroom",
         "RcppTOML",
         "broom",
         "car",
@@ -22056,8 +21943,7 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "OmnipathR": [
         "checkmate",
@@ -22066,7 +21952,6 @@
         "readr",
         "readxl",
         "tidyr",
-        "vroom",
         "cellranger"
     ],
     "oncomix": [
@@ -22373,7 +22258,6 @@
         "DelayedArray",
         "BiocFileCache",
         "survival",
-        "vroom",
         "dbplyr"
     ],
     "Organism.dplyr": [
@@ -22448,7 +22332,6 @@
         "plotly",
         "readr",
         "R.cache",
-        "vroom",
         "broom",
         "car",
         "pbkrtest",
@@ -22627,8 +22510,7 @@
         "BiocIO",
         "restfulr",
         "AnnotationDbi",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "PAIRADISE": [
         "nloptr",
@@ -22800,8 +22682,7 @@
     ],
     "paxtoolsr": [
         "igraph",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "pcaExplorer": [
         "DESeq2",
@@ -23170,7 +23051,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "vroom",
         "DelayedArray"
     ],
     "PharmacoGx": [
@@ -23469,7 +23349,6 @@
         "sna",
         "survival",
         "crul",
-        "vroom",
         "ape",
         "urltools",
         "hardhat",
@@ -23753,7 +23632,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "vroom",
         "cellranger",
         "checkmate",
         "broom",
@@ -23808,8 +23686,7 @@
         "shiny",
         "shinyjs",
         "readr",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "podkat": [
         "Rsamtools",
@@ -24159,7 +24036,6 @@
         "survival",
         "htmlTable",
         "viridis",
-        "vroom",
         "checkmate"
     ],
     "PrInCE": [
@@ -24633,7 +24509,6 @@
         "kinship2",
         "mice",
         "testthat",
-        "vroom",
         "selectr",
         "ggfun",
         "ggplotify",
@@ -24794,7 +24669,6 @@
         "VariantAnnotation",
         "htmlTable",
         "viridis",
-        "vroom",
         "checkmate",
         "BSgenome"
     ],
@@ -25112,7 +24986,6 @@
         "vsn",
         "affy",
         "pcaMethods",
-        "vroom",
         "futile.logger"
     ],
     "qrqc": [
@@ -25253,7 +25126,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -25492,8 +25364,7 @@
         "ape",
         "readr",
         "tidyr",
-        "dplyr",
-        "vroom"
+        "dplyr"
     ],
     "randPack": [],
     "RankProd": [],
@@ -25542,7 +25413,6 @@
         "IRanges",
         "XVector",
         "scales",
-        "vroom",
         "GenomeInfoDb",
         "BiocParallel",
         "Rsamtools",
@@ -25614,7 +25484,6 @@
         "BiocFileCache",
         "SummarizedExperiment",
         "BiocParallel",
-        "vroom",
         "dbplyr",
         "futile.logger",
         "DelayedArray"
@@ -25739,7 +25608,6 @@
         "scales",
         "tidyr",
         "viridis",
-        "vroom",
         "RcppTOML",
         "ggplot2"
     ],
@@ -25763,7 +25631,6 @@
         "scales",
         "tidyr",
         "viridis",
-        "vroom",
         "RcppTOML",
         "ggplot2"
     ],
@@ -25903,7 +25770,6 @@
         "htmlTable",
         "viridis",
         "reshape2",
-        "vroom",
         "BiocFileCache",
         "scales",
         "checkmate",
@@ -25964,7 +25830,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr"
@@ -26225,7 +26090,6 @@
         "GEOquery",
         "DelayedArray",
         "HDF5Array",
-        "vroom",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -26593,8 +26457,7 @@
         "restfulr",
         "DelayedArray",
         "dbplyr",
-        "survival",
-        "vroom"
+        "survival"
     ],
     "RiboDiPA": [
         "Rsamtools",
@@ -26901,7 +26764,6 @@
         "SummarizedExperiment",
         "BiocParallel",
         "shiny",
-        "vroom",
         "hardhat",
         "ipred",
         "DelayedArray",
@@ -27031,7 +26893,6 @@
         "htmlTable",
         "viridis",
         "reshape2",
-        "vroom",
         "BiocFileCache",
         "checkmate",
         "BSgenome",
@@ -27417,8 +27278,7 @@
         "GenomicAlignments",
         "restfulr",
         "multtest",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "Rnits": [
         "ggplot2",
@@ -27717,7 +27577,6 @@
         "tidyr",
         "selectr",
         "BiocFileCache",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -28145,7 +28004,6 @@
         "survival",
         "GenomicRanges",
         "SummarizedExperiment",
-        "vroom",
         "KEGGREST",
         "DelayedArray"
     ],
@@ -28864,7 +28722,6 @@
         "BiocIO",
         "biomaRt",
         "shiny",
-        "vroom",
         "GenomicAlignments",
         "restfulr"
     ],
@@ -28920,8 +28777,7 @@
         "ggplot2",
         "readr",
         "cytolib",
-        "scales",
-        "vroom"
+        "scales"
     ],
     "SCOPE": [
         "GenomicRanges",
@@ -29810,7 +29666,6 @@
         "readr",
         "XVector",
         "SummarizedExperiment",
-        "vroom",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -29896,7 +29751,6 @@
         "callr",
         "KEGGREST",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "dbplyr"
     ],
@@ -29934,7 +29788,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -30069,7 +29922,6 @@
         "DO.db",
         "AnnotationHub",
         "BiocFileCache",
-        "vroom",
         "GenomicRanges",
         "GenomeInfoDb",
         "interactiveDisplayBase",
@@ -30575,7 +30427,6 @@
         "affy",
         "multtest",
         "BiocFileCache",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -30623,7 +30474,6 @@
         "readr",
         "rhdf5",
         "tidyr",
-        "vroom",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -30969,7 +30819,6 @@
         "tidyr",
         "scales",
         "tweenr",
-        "vroom",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -31149,7 +30998,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "vroom",
         "survival",
         "htmlTable",
         "viridis",
@@ -31258,7 +31106,6 @@
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
-        "vroom",
         "selectr",
         "DelayedArray",
         "ggfun",
@@ -31480,8 +31327,7 @@
         "GEOquery",
         "readr",
         "dplyr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "srnadiff": [
         "devtools",
@@ -31579,8 +31425,7 @@
         "tidyr",
         "tweenr",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ssrch": [
         "shiny"
@@ -31701,7 +31546,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "vroom",
         "selectr",
         "DelayedArray",
         "ggfun",
@@ -31909,8 +31753,7 @@
         "readr",
         "tidyr",
         "dplyr",
-        "igraph",
-        "vroom"
+        "igraph"
     ],
     "surfaltr": [
         "dplyr",
@@ -31927,7 +31770,6 @@
         "XVector",
         "GenomeInfoDb",
         "scales",
-        "vroom",
         "callr",
         "waldo",
         "KEGGREST",
@@ -32129,7 +31971,6 @@
         "ids",
         "survival",
         "TH.data",
-        "vroom",
         "callr",
         "selectr",
         "xts",
@@ -32199,7 +32040,6 @@
         "shinyjs",
         "shinytoastr",
         "styler",
-        "vroom",
         "scales",
         "tidyr",
         "fresh",
@@ -32451,7 +32291,6 @@
         "GenomeInfoDb",
         "XVector",
         "scales",
-        "vroom",
         "selectr",
         "DelayedArray",
         "KEGGREST",
@@ -32509,7 +32348,6 @@
         "Rgraphviz",
         "org.Hs.eg.db",
         "KEGGREST",
-        "vroom",
         "sesameData",
         "BiocParallel",
         "illuminaio",
@@ -32595,7 +32433,6 @@
         "selectr",
         "DelayedArray",
         "BiocFileCache",
-        "vroom",
         "Rsamtools",
         "GenomicAlignments",
         "restfulr",
@@ -32700,7 +32537,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "scales",
-        "vroom",
         "DelayedArray"
     ],
     "TFEA.ChIP": [
@@ -32764,7 +32600,6 @@
         "IRanges",
         "GenomeInfoDb",
         "XVector",
-        "vroom",
         "DelayedArray"
     ],
     "tidySingleCellExperiment": [
@@ -33820,7 +33655,6 @@
         "quanteda",
         "textclean",
         "syuzhet",
-        "vroom",
         "RcppTOML",
         "MatrixExtra",
         "tfautograph",
@@ -34176,7 +34010,6 @@
         "ScaledMatrix",
         "sparseMatrixStats",
         "XVector",
-        "vroom",
         "RcppTOML",
         "text2vec",
         "textstem",
@@ -34529,7 +34362,6 @@
         "dbplyr",
         "futile.logger",
         "Biostrings",
-        "vroom",
         "TSP",
         "callr",
         "XVector",
@@ -34618,7 +34450,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "survival",
         "SummarizedExperiment",
         "Rsamtools",
@@ -34749,8 +34580,7 @@
         "GenomicAlignments",
         "restfulr",
         "multtest",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "wavClusteR": [
         "GenomicRanges",
@@ -34865,7 +34695,6 @@
         "checkmate",
         "readr",
         "readxl",
-        "vroom",
         "cellranger"
     ],
     "Wrench": [],
@@ -35026,7 +34855,6 @@
         "BiocFileCache",
         "minfi",
         "ggplot2",
-        "vroom",
         "IRanges",
         "KEGGREST",
         "dbplyr",
@@ -35407,10 +35235,7 @@
         "shiny",
         "Biostrings"
     ],
-    "readr": [
-        "vroom"
-    ],
-    "vroom": [],
+    "readr": [],
     "ggthemes": [
         "ggplot2",
         "scales"
@@ -36136,7 +35961,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -36170,7 +35994,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "vroom",
         "cellranger",
         "nloptr",
         "survival",
@@ -36198,7 +36021,6 @@
         "scales",
         "tidyr",
         "viridis",
-        "vroom",
         "ggplot2"
     ],
     "influenceR": [
@@ -36786,7 +36608,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -36825,7 +36646,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -36864,7 +36684,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -36963,7 +36782,6 @@
         "rtracklayer",
         "KEGGREST",
         "XVector",
-        "vroom",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -37221,12 +37039,10 @@
         "haven",
         "readxl",
         "readr",
-        "cellranger",
-        "vroom"
+        "cellranger"
     ],
     "haven": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "factoextra": [
         "ggplot2",
@@ -37374,7 +37190,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -37557,8 +37372,7 @@
         "tidyr",
         "tweenr",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "imp4p": [
         "missMDA",
@@ -37610,7 +37424,6 @@
         "scales",
         "cellranger",
         "ids",
-        "vroom",
         "callr",
         "selectr"
     ],
@@ -37632,8 +37445,7 @@
         "tidyr",
         "tweenr",
         "haven",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "missMDA": [
         "FactoMineR",
@@ -37691,8 +37503,7 @@
         "haven",
         "dplyr",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "kinship2": [],
     "ggstance": [
@@ -37707,8 +37518,7 @@
         "haven",
         "dplyr",
         "tidyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "cmdfun": [
         "testthat",
@@ -37755,8 +37565,7 @@
         "quantmod",
         "dplyr",
         "readr",
-        "TTR",
-        "vroom"
+        "TTR"
     ],
     "ggseqlogo": [
         "ggplot2",
@@ -38438,8 +38247,7 @@
         "dplyr",
         "tidyr",
         "R.cache",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "klaR": [
         "questionr",
@@ -38452,8 +38260,7 @@
         "dplyr",
         "tidyr",
         "R.cache",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "questionr": [
         "shiny",
@@ -38465,8 +38272,7 @@
         "dplyr",
         "tidyr",
         "R.cache",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "venn": [],
     "PairedData": [
@@ -38544,7 +38350,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "vroom",
         "BiocFileCache",
         "Rsamtools",
         "GenomicAlignments",
@@ -38729,8 +38534,7 @@
         "shiny",
         "shinyjs",
         "scales",
-        "survival",
-        "vroom"
+        "survival"
     ],
     "anyLib": [
         "devtools",
@@ -38819,8 +38623,7 @@
         "ape",
         "readr",
         "tidyr",
-        "dplyr",
-        "vroom"
+        "dplyr"
     ],
     "dmt": [],
     "RcmdrMisc": [
@@ -38842,7 +38645,6 @@
         "nloptr",
         "broom",
         "dplyr",
-        "vroom",
         "tidyr",
         "testthat",
         "callr",
@@ -38926,14 +38728,12 @@
         "IRanges",
         "XVector",
         "GenomeInfoDb",
-        "vroom",
         "KEGGREST",
         "dbplyr"
     ],
     "homologene": [
         "dplyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "Matrix.utils": [],
     "mRMRe": [
@@ -39185,7 +38985,6 @@
         "rtracklayer",
         "tidyr",
         "scales",
-        "vroom",
         "GenomicRanges",
         "IRanges",
         "XVector",
