@@ -1,0 +1,26 @@
+* installing *source* package ‘MIMOSA’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include  `/usr/local/lib/R/bin/Rscript -e "RcppArmadillo:::CxxFlags()"`   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BetaMix.cpp -o BetaMix.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include  `/usr/local/lib/R/bin/Rscript -e "RcppArmadillo:::CxxFlags()"`   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MCMC.cpp -o MCMC.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MIMOSA_init.c -o MIMOSA_init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c betaintegral.c -o betaintegral.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include  `/usr/local/lib/R/bin/Rscript -e "RcppArmadillo:::CxxFlags()"`   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c betaintegralRcpp.cpp -o betaintegralRcpp.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MIMOSA.so BetaMix.o MCMC.o MIMOSA_init.o betaintegral.o betaintegralRcpp.o -O3 -lm -lstdc++ -I"/__w/gha-build/gha-build/built/RcppArmadillo/include" -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-MIMOSA/00new/MIMOSA/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MIMOSA’ as ‘MIMOSA_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MIMOSA)
