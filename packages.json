@@ -1860,7 +1860,6 @@
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
-        "EnvStats",
         "ggrepel",
         "SummarizedExperiment",
         "viridis",
@@ -4591,7 +4590,6 @@
         "GenomicAlignments"
     ],
     "epidecodeR": [
-        "EnvStats",
         "rtracklayer",
         "GenomicRanges",
         "rstatix",
@@ -5842,7 +5840,6 @@
         "lme4",
         "GeomxTools",
         "NanoStringNCTools",
-        "EnvStats",
         "lmerTest",
         "Biostrings",
         "ggbeeswarm",
@@ -5871,7 +5868,6 @@
     "GEOfastq": [],
     "GeomxTools": [
         "NanoStringNCTools",
-        "EnvStats",
         "lmerTest",
         "lme4",
         "Biostrings",
@@ -11322,8 +11318,7 @@
     ],
     "rain": [],
     "ramr": [
-        "GenomicRanges",
-        "EnvStats"
+        "GenomicRanges"
     ],
     "ramwas": [
         "GenomicAlignments",
@@ -13768,7 +13763,6 @@
     "SpatialDecon": [
         "GeomxTools",
         "NanoStringNCTools",
-        "EnvStats",
         "lmerTest",
         "lme4",
         "Biostrings",
@@ -15446,7 +15440,6 @@
         "eva",
         "SingleCellExperiment",
         "lme4",
-        "EnvStats",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -16112,7 +16105,6 @@
         "pbkrtest",
         "lme4"
     ],
-    "EnvStats": [],
     "ggpmisc": [
         "ggpp"
     ],
@@ -17122,7 +17114,5 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "eva": [
-        "EnvStats"
-    ]
+    "eva": []
 }
