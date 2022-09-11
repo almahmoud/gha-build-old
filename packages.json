@@ -222,7 +222,6 @@
         "KEGGREST"
     ],
     "AlpsNMR": [
-        "mixOmics",
         "SummarizedExperiment"
     ],
     "alsace": [],
@@ -3022,9 +3021,7 @@
     "DEP": [
         "SummarizedExperiment"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "derfinder": [
         "AnnotationDbi",
         "bumphunter",
@@ -7062,7 +7059,6 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "genefilter",
         "AnnotationDbi",
@@ -7441,7 +7437,6 @@
         "anyLib",
         "caret",
         "biosigner",
-        "mixOmics",
         "DESeq2",
         "clusterProfiler",
         "ReactomePA",
@@ -8502,7 +8497,6 @@
     "POMA": [
         "caret",
         "ggraph",
-        "mixOmics",
         "recipes",
         "ipred"
     ],
@@ -11697,9 +11691,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimeSeriesExperiment": [
         "SummarizedExperiment",
         "DESeq2",
