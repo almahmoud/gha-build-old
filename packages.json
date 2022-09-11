@@ -414,7 +414,6 @@
         "geneplotter",
         "ggrepel",
         "DelayedArray",
-        "reticulate",
         "AnnotationDbi",
         "XVector",
         "ipred",
@@ -996,9 +995,7 @@
         "XVector",
         "DelayedArray"
     ],
-    "basilisk": [
-        "reticulate"
-    ],
+    "basilisk": [],
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1154,7 +1151,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -1393,7 +1389,6 @@
         "beachmat"
     ],
     "BiocSklearn": [
-        "reticulate",
         "SummarizedExperiment",
         "basilisk",
         "GenomicRanges",
@@ -2190,7 +2185,6 @@
     "cbpManager": [
         "shinydashboard",
         "basilisk",
-        "reticulate",
         "rintrojs"
     ],
     "ccfindR": [
@@ -2287,7 +2281,6 @@
         "SingleCellExperiment",
         "scater",
         "umap",
-        "reticulate",
         "SummarizedExperiment",
         "fgsea",
         "scuttle",
@@ -2919,7 +2912,6 @@
         "fresh",
         "waiter",
         "biomaRt",
-        "reticulate",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -3834,7 +3826,6 @@
     "CRISPRseek": [
         "Biostrings",
         "BSgenome",
-        "reticulate",
         "XVector",
         "DelayedArray",
         "GenomicRanges",
@@ -3860,7 +3851,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "reticulate",
         "DelayedArray",
         "keras",
         "BiocIO",
@@ -4202,7 +4192,6 @@
         "scattermore",
         "ggfun",
         "genefilter",
-        "reticulate",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -4378,7 +4367,6 @@
         "ggrepel",
         "megadepth",
         "plyranges",
-        "reticulate",
         "rtracklayer",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -4597,7 +4585,6 @@
         "tensorflow",
         "webchem",
         "ttgsea",
-        "reticulate",
         "tfruns",
         "tfautograph",
         "text2vec",
@@ -4723,8 +4710,7 @@
         "XVector"
     ],
     "densvis": [
-        "basilisk",
-        "reticulate"
+        "basilisk"
     ],
     "DEP": [
         "SummarizedExperiment",
@@ -4896,7 +4882,6 @@
         "DelayedArray"
     ],
     "DIAlignR": [
-        "reticulate",
         "phangorn"
     ],
     "DiffBind": [
@@ -5051,7 +5036,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -6543,7 +6527,6 @@
     ],
     "FLAMES": [
         "basilisk",
-        "reticulate",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Rsamtools",
@@ -7464,7 +7447,6 @@
         "webshot",
         "egg",
         "readxl",
-        "reticulate",
         "car",
         "ggsci",
         "cowplot",
@@ -8079,7 +8061,6 @@
         "KEGGREST",
         "multtest",
         "regioneR",
-        "reticulate",
         "DelayedArray",
         "keras",
         "AnnotationFilter",
@@ -8328,7 +8309,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "reticulate",
         "XVector"
     ],
     "hiReadsProcessor": [
@@ -8565,7 +8545,6 @@
     ],
     "idr2d": [
         "GenomicRanges",
-        "reticulate",
         "XVector"
     ],
     "IgGeneUsage": [
@@ -8605,7 +8584,6 @@
         "readxl",
         "GenomicRanges",
         "DelayedArray",
-        "reticulate",
         "XVector"
     ],
     "imageHTS": [
@@ -8697,7 +8675,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "multcomp",
-        "reticulate",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -8829,7 +8806,6 @@
         "FactoMineR",
         "ggpubr",
         "ggrepel",
-        "reticulate",
         "KEGGREST",
         "car",
         "ggsci",
@@ -8975,7 +8951,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -9463,8 +9438,7 @@
         "patchwork"
     ],
     "M3C": [
-        "umap",
-        "reticulate"
+        "umap"
     ],
     "M3Drop": [
         "reldist",
@@ -9531,7 +9505,6 @@
         "ggrepel"
     ],
     "MACSr": [
-        "reticulate",
         "basilisk",
         "ExperimentHub",
         "AnnotationHub",
@@ -9740,7 +9713,6 @@
         "viridis",
         "GenomicRanges",
         "DelayedArray",
-        "reticulate",
         "XVector"
     ],
     "MatrixRider": [
@@ -11295,7 +11267,6 @@
     "MOFA2": [
         "cowplot",
         "ggrepel",
-        "reticulate",
         "HDF5Array",
         "DelayedArray",
         "uwot",
@@ -11542,7 +11513,6 @@
     ],
     "MSGFplus": [],
     "msImpute": [
-        "reticulate",
         "scran",
         "SingleCellExperiment",
         "scuttle",
@@ -11730,7 +11700,6 @@
         "GenomicRanges",
         "karyoploteR",
         "plyranges",
-        "reticulate",
         "rtracklayer",
         "assertive.data",
         "assertive.data.uk",
@@ -12221,7 +12190,6 @@
         "leiden",
         "miniUI",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -12351,7 +12319,6 @@
     "NeuCA": [
         "keras",
         "SingleCellExperiment",
-        "reticulate",
         "tensorflow",
         "tfruns",
         "SummarizedExperiment",
@@ -12501,7 +12468,6 @@
         "basilisk",
         "GenomicFeatures",
         "plyranges",
-        "reticulate",
         "SummarizedExperiment",
         "AnnotationDbi",
         "bumphunter",
@@ -13271,7 +13237,6 @@
         "cowplot",
         "SummarizedExperiment",
         "phateR",
-        "reticulate",
         "ggplot.multistats",
         "ggthemes",
         "VIM",
@@ -13501,7 +13466,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -14653,14 +14617,12 @@
         "KEGGREST"
     ],
     "RCSL": [
-        "umap",
-        "reticulate"
+        "umap"
     ],
     "Rcwl": [
         "batchtools",
         "DiagrammeR",
         "basilisk",
-        "reticulate",
         "influenceR",
         "viridis"
     ],
@@ -14669,7 +14631,6 @@
         "batchtools",
         "DiagrammeR",
         "basilisk",
-        "reticulate",
         "influenceR",
         "viridis"
     ],
@@ -15066,7 +15027,6 @@
     ],
     "RGalaxy": [],
     "rGenomeTracks": [
-        "reticulate",
         "rGenomeTracksData",
         "AnnotationHub",
         "AnnotationDbi",
@@ -15546,7 +15506,6 @@
     "RNASeqR": [
         "pathview",
         "Rsamtools",
-        "reticulate",
         "ballgown",
         "FactoMineR",
         "factoextra",
@@ -16016,7 +15975,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16085,7 +16043,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16164,7 +16121,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16193,7 +16149,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16213,7 +16168,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16257,7 +16211,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16319,7 +16272,6 @@
     "SCFA": [
         "keras",
         "tensorflow",
-        "reticulate",
         "tfruns",
         "tfautograph"
     ],
@@ -16354,7 +16306,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16381,7 +16332,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16566,8 +16516,7 @@
     "scRecover": [
         "penalized",
         "SAVER",
-        "Rmagic",
-        "reticulate"
+        "Rmagic"
     ],
     "scRepertoire": [
         "ggalluvial",
@@ -16669,7 +16618,6 @@
         "leiden",
         "miniUI",
         "patchwork",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16703,7 +16651,6 @@
         "leiden",
         "miniUI",
         "patchwork",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -16744,7 +16691,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -17287,7 +17233,6 @@
         "celda",
         "DropletUtils",
         "scds",
-        "reticulate",
         "fishpond",
         "GSEABase",
         "zinbwave",
@@ -17538,8 +17483,7 @@
         "DelayedArray"
     ],
     "snifter": [
-        "basilisk",
-        "reticulate"
+        "basilisk"
     ],
     "snm": [
         "lme4",
@@ -17640,7 +17584,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
@@ -17688,7 +17631,6 @@
         "XVector"
     ],
     "spatialDE": [
-        "reticulate",
         "basilisk",
         "SpatialExperiment",
         "SummarizedExperiment",
@@ -17971,7 +17913,6 @@
         "umap",
         "GenomicRanges",
         "DelayedArray",
-        "reticulate",
         "XVector"
     ],
     "srnadiff": [
@@ -18906,7 +18847,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
-        "reticulate",
         "XVector"
     ],
     "topconfects": [],
@@ -19312,7 +19252,6 @@
         "DiagrammeR",
         "influenceR",
         "viridis",
-        "reticulate",
         "tensorflow",
         "tfruns",
         "tfautograph"
@@ -19516,7 +19455,6 @@
         "DiagrammeR",
         "webchem",
         "ttgsea",
-        "reticulate",
         "influenceR",
         "viridis",
         "tfruns",
@@ -19689,7 +19627,6 @@
     ],
     "velociraptor": [
         "SummarizedExperiment",
-        "reticulate",
         "DelayedArray",
         "basilisk",
         "zellkonverter",
@@ -20040,7 +19977,6 @@
     ],
     "zellkonverter": [
         "basilisk",
-        "reticulate",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "DelayedArray",
@@ -20173,9 +20109,7 @@
         "prodlim"
     ],
     "plotROC": [],
-    "umap": [
-        "reticulate"
-    ],
+    "umap": [],
     "GUniFrac": [
         "ggrepel"
     ],
@@ -20183,7 +20117,6 @@
         "ipred",
         "prodlim"
     ],
-    "reticulate": [],
     "ipred": [
         "prodlim"
     ],
@@ -20472,16 +20405,13 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reticulate",
         "scattermore",
         "sctransform",
         "spatstat.core",
         "uwot"
     ],
     "detectseparation": [],
-    "leiden": [
-        "reticulate"
-    ],
+    "leiden": [],
     "patchwork": [],
     "scattermore": [],
     "sctransform": [],
@@ -21121,22 +21051,16 @@
         "mixtools"
     ],
     "keras": [
-        "reticulate",
         "tensorflow",
         "tfruns",
         "tfautograph"
     ],
     "tensorflow": [
-        "reticulate",
         "tfruns",
         "tfautograph"
     ],
-    "tfruns": [
-        "reticulate"
-    ],
-    "tfautograph": [
-        "reticulate"
-    ],
+    "tfruns": [],
+    "tfautograph": [],
     "shinypanel": [],
     "fields": [
         "viridis"
@@ -21798,9 +21722,7 @@
     ],
     "R.rsp": [],
     "genlasso": [],
-    "phateR": [
-        "reticulate"
-    ],
+    "phateR": [],
     "SmoothWin": [],
     "osfr": [],
     "C50": [],
@@ -21962,9 +21884,7 @@
         "DelayedArray",
         "KEGGREST"
     ],
-    "Rmagic": [
-        "reticulate"
-    ],
+    "Rmagic": [],
     "nnTensor": [
         "fields",
         "viridis"
