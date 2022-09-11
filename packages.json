@@ -253,7 +253,6 @@
         "SummarizedExperiment"
     ],
     "Anaquin": [
-        "qvalue",
         "DESeq2",
         "SummarizedExperiment",
         "genefilter",
@@ -349,11 +348,8 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "anota": [
-        "qvalue"
-    ],
+    "anota": [],
     "anota2seq": [
-        "qvalue",
         "DESeq2",
         "SummarizedExperiment",
         "genefilter",
@@ -875,7 +871,6 @@
         "KEGGREST",
         "enrichplot",
         "GOSemSim",
-        "qvalue",
         "viridis",
         "DO.db",
         "car",
@@ -1161,7 +1156,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "rtracklayer",
         "ggbio",
@@ -1600,7 +1594,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "Hmisc",
         "KEGGREST",
         "DO.db",
@@ -1656,7 +1649,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "genefilter",
         "geneplotter",
         "rstatix",
@@ -1707,7 +1699,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "qvalue",
         "isva",
         "bumphunter",
         "dendextend",
@@ -1893,7 +1884,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "DO.db",
-        "qvalue",
         "SummarizedExperiment",
         "viridis",
         "GO.db"
@@ -2114,7 +2104,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "KEGGREST",
         "DO.db",
         "aplot",
@@ -2340,7 +2329,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "dendextend",
         "FactoMineR",
         "ggpubr",
@@ -2901,7 +2889,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "MESS",
         "viridis",
         "ggpubr",
@@ -2988,7 +2975,6 @@
         "KEGGREST",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "genefilter",
         "geneplotter",
         "DO.db",
@@ -3038,7 +3024,6 @@
     "deconvR": [
         "methylKit",
         "rsq",
-        "qvalue",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -3111,9 +3096,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "DelayedTensor": [
         "BiocSingular"
     ],
@@ -3147,7 +3130,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "rtracklayer",
         "KEGGREST",
@@ -3167,7 +3149,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "rtracklayer",
         "Biostrings",
@@ -3221,7 +3202,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "qvalue",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -3504,7 +3484,6 @@
         "AnnotationDbi",
         "DO.db",
         "GOSemSim",
-        "qvalue",
         "KEGGREST",
         "GO.db",
         "Biostrings"
@@ -3544,7 +3523,6 @@
     "DrugVsDisease": [
         "biomaRt",
         "ArrayExpress",
-        "qvalue",
         "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
@@ -3625,7 +3603,6 @@
         "sva",
         "snm",
         "jackstraw",
-        "qvalue",
         "lme4",
         "genefilter",
         "AnnotationDbi",
@@ -3643,7 +3620,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
@@ -3786,7 +3762,6 @@
         "ggtree",
         "AnnotationDbi",
         "DO.db",
-        "qvalue",
         "viridis",
         "GO.db",
         "KEGGREST",
@@ -3807,7 +3782,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "rstatix",
         "SummarizedExperiment",
         "GenomicAlignments",
@@ -3900,7 +3874,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "qvalue",
         "WGCNA",
         "ReactomePA",
         "AnnotationDbi",
@@ -4002,9 +3975,7 @@
         "GenomicAlignments",
         "AnnotationFilter"
     ],
-    "erccdashboard": [
-        "qvalue"
-    ],
+    "erccdashboard": [],
     "erma": [
         "Homo.sapiens",
         "GenomicFiles",
@@ -4053,7 +4024,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "biomaRt",
         "SummarizedExperiment",
         "GenomicAlignments",
@@ -4094,7 +4064,6 @@
         "SGSeq",
         "SummarizedExperiment",
         "GenomicFeatures",
-        "qvalue",
         "BSgenome",
         "Biostrings",
         "rtracklayer",
@@ -4192,7 +4161,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "qvalue",
         "Biostrings",
         "DO.db",
         "aplot",
@@ -4247,7 +4215,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "KEGGREST",
         "DO.db",
@@ -4310,7 +4277,6 @@
     "FindIT2": [
         "rtracklayer",
         "GenomicFeatures",
-        "qvalue",
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "AnnotationDbi",
@@ -4321,7 +4287,6 @@
         "KEGGREST"
     ],
     "fishpond": [
-        "qvalue",
         "SummarizedExperiment",
         "SingleCellExperiment"
     ],
@@ -4619,7 +4584,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
@@ -5791,7 +5755,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "rtracklayer",
-        "qvalue",
         "ggpubr",
         "rstatix",
         "Biostrings",
@@ -5924,7 +5887,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "rstatix",
         "viridis",
         "scuttle",
@@ -6326,7 +6288,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -6501,7 +6462,6 @@
         "biovizBase",
         "Rsamtools",
         "GenomicAlignments",
-        "qvalue",
         "bumphunter",
         "siggenes",
         "genefilter",
@@ -6589,7 +6549,6 @@
         "MeSHDbi",
         "KEGGREST",
         "DO.db",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -6638,7 +6597,6 @@
         "mygene",
         "ensembldb",
         "Biostrings",
-        "qvalue",
         "car",
         "SummarizedExperiment",
         "GenomicFeatures",
@@ -6719,7 +6677,6 @@
         "GenomicFeatures",
         "heatmaply",
         "NBPSeq",
-        "qvalue",
         "Rsamtools",
         "rtracklayer",
         "SummarizedExperiment",
@@ -6763,7 +6720,6 @@
     ],
     "methInheritSim": [
         "methylKit",
-        "qvalue",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -6878,7 +6834,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "qvalue",
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
@@ -6904,7 +6859,6 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "qvalue",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -6913,7 +6867,6 @@
         "SummarizedExperiment"
     ],
     "methylKit": [
-        "qvalue",
         "Rsamtools",
         "fastseg",
         "rtracklayer",
@@ -7068,7 +7021,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -7263,7 +7215,6 @@
         "KEGGREST",
         "enrichplot",
         "GOSemSim",
-        "qvalue",
         "DO.db",
         "fields",
         "ggraph",
@@ -7283,7 +7234,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "DO.db",
         "ggraph",
         "reactome.db",
@@ -7435,7 +7385,6 @@
     ],
     "MOMA": [
         "MultiAssayExperiment",
-        "qvalue",
         "SummarizedExperiment"
     ],
     "monaLisa": [
@@ -7464,7 +7413,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "DO.db",
         "biomaRt",
         "KEGGREST",
@@ -7596,8 +7544,7 @@
     ],
     "msmsEDA": [],
     "msmsTests": [
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSnID": [
         "msmsTests",
@@ -7605,8 +7552,7 @@
         "AnnotationHub",
         "AnnotationDbi",
         "KEGGREST",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSPrep": [
         "SummarizedExperiment",
@@ -7758,7 +7704,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
@@ -7868,7 +7813,6 @@
         "GenomicAlignments"
     ],
     "MWASTools": [
-        "qvalue",
         "car",
         "SummarizedExperiment",
         "KEGGREST",
@@ -8025,7 +7969,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "KEGGREST",
         "DO.db",
         "aplot",
@@ -8051,8 +7994,7 @@
         "Biostrings"
     ],
     "netresponse": [
-        "dmt",
-        "qvalue"
+        "dmt"
     ],
     "NetSAM": [
         "WGCNA",
@@ -8123,7 +8065,6 @@
     ],
     "NormqPCR": [],
     "normr": [
-        "qvalue",
         "bamsignals",
         "rtracklayer",
         "Biostrings",
@@ -8183,7 +8124,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "rstatix",
         "Biostrings",
@@ -8234,7 +8174,6 @@
         "SmartSVA",
         "isva",
         "SummarizedExperiment",
-        "qvalue",
         "made4",
         "FactoMineR",
         "Hmisc",
@@ -8358,9 +8297,7 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "ORFhunteR": [
         "Biostrings",
         "rtracklayer",
@@ -8503,7 +8440,6 @@
     ],
     "parglms": [],
     "PAST": [
-        "qvalue",
         "rtracklayer",
         "Biostrings",
         "Rsamtools",
@@ -8628,7 +8564,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "KEGGREST",
         "DO.db",
         "aplot",
@@ -8740,7 +8675,6 @@
         "DOSE",
         "enrichplot",
         "GOSemSim",
-        "qvalue",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -9061,7 +8995,6 @@
         "GOSemSim",
         "ggtree",
         "DO.db",
-        "qvalue",
         "viridis",
         "GO.db"
     ],
@@ -9133,7 +9066,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "MESS",
         "viridis",
         "ggpubr",
@@ -9202,7 +9134,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "Biostrings",
         "biomaRt",
@@ -9403,7 +9334,6 @@
         "VariantAnnotation"
     ],
     "QUBIC": [],
-    "qvalue": [],
     "R3CPET": [
         "Hmisc",
         "ggbio",
@@ -9427,7 +9357,6 @@
     "r3Cseq": [
         "Rsamtools",
         "rtracklayer",
-        "qvalue",
         "Biostrings",
         "GenomicAlignments",
         "SummarizedExperiment"
@@ -9579,7 +9508,6 @@
         "KEGGREST",
         "DO.db",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "scatterpie",
         "ggtree",
@@ -9607,7 +9535,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "Biostrings",
         "KEGGREST",
@@ -9685,7 +9612,6 @@
         "geneplotter",
         "DO.db",
         "GOSemSim",
-        "qvalue",
         "Hmisc",
         "GO.db",
         "viridis",
@@ -9710,7 +9636,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "rtracklayer",
         "genefilter",
@@ -9921,7 +9846,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "reldist",
-        "qvalue",
         "DESeq2",
         "SummarizedExperiment",
         "genefilter",
@@ -10087,7 +10011,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "Biostrings",
         "biomaRt",
@@ -10206,7 +10129,6 @@
     ],
     "RNAsense": [
         "NBPSeq",
-        "qvalue",
         "SummarizedExperiment"
     ],
     "RNASeqR": [
@@ -10229,7 +10151,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
@@ -10278,9 +10199,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "Rnits": [
-        "qvalue"
-    ],
+    "Rnits": [],
     "roar": [
         "SummarizedExperiment",
         "GenomicAlignments",
@@ -10842,7 +10761,6 @@
         "fields",
         "DO.db",
         "GOSemSim",
-        "qvalue",
         "GO.db",
         "AnnotationForge",
         "viridis",
@@ -10901,8 +10819,7 @@
         "SummarizedExperiment"
     ],
     "SDAMS": [
-        "SummarizedExperiment",
-        "qvalue"
+        "SummarizedExperiment"
     ],
     "sechm": [
         "SummarizedExperiment"
@@ -10928,7 +10845,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "DO.db",
-        "qvalue",
         "viridis",
         "GO.db"
     ],
@@ -11132,14 +11048,11 @@
     ],
     "SigFuge": [],
     "siggenes": [],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "SummarizedExperiment",
         "AnnotationDbi",
         "ExperimentHub",
-        "qvalue",
         "reactome.db",
         "clusterProfiler",
         "DOSE",
@@ -11260,7 +11173,6 @@
         "genefilter",
         "geneplotter",
         "viridis",
-        "qvalue",
         "aplot",
         "hgu95a.db",
         "TFisher",
@@ -11595,7 +11507,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -11767,7 +11678,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "aplot",
         "ggraph",
         "scatterpie",
@@ -11820,9 +11730,7 @@
         "Biostrings",
         "ipred"
     ],
-    "subSeq": [
-        "qvalue"
-    ],
+    "subSeq": [],
     "SummarizedBenchmark": [
         "SummarizedExperiment"
     ],
@@ -12042,7 +11950,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "ELMER.data",
         "GenomicFeatures",
         "Gviz",
@@ -12199,7 +12106,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "KEGGREST",
         "DO.db",
@@ -12369,7 +12275,6 @@
         "topGO",
         "org.Hs.eg.db",
         "GOSemSim",
-        "qvalue",
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
@@ -12480,7 +12385,6 @@
         "Biostrings"
     ],
     "trigger": [
-        "qvalue",
         "sva",
         "genefilter",
         "AnnotationDbi",
@@ -12951,7 +12855,6 @@
     "webbioc": [
         "annaffy",
         "gcrma",
-        "qvalue",
         "GO.db",
         "AnnotationDbi",
         "Biostrings",
@@ -13414,7 +13317,6 @@
         "GenomicAlignments",
         "GenomicFiles",
         "Hmisc",
-        "qvalue",
         "Rsamtools",
         "Biostrings",
         "biomaRt",
@@ -13503,9 +13405,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "isva": [
-        "qvalue"
-    ],
+    "isva": [],
     "geneLenDataBase": [
         "rtracklayer",
         "GenomicFeatures",
@@ -13718,7 +13618,6 @@
     ],
     "cp4p": [
         "MESS",
-        "qvalue",
         "geepack",
         "ggformula"
     ],
@@ -13759,9 +13658,7 @@
     ],
     "lasso2": [],
     "tseries": [],
-    "NBPSeq": [
-        "qvalue"
-    ],
+    "NBPSeq": [],
     "DiffCorr": [],
     "hgu133a2.db": [
         "AnnotationDbi",
@@ -13929,7 +13826,6 @@
     "SmartSVA": [
         "sva",
         "isva",
-        "qvalue",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST",
