@@ -106,7 +106,6 @@
         "DelayedArray",
         "XVector",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr"
     ],
@@ -1108,7 +1107,6 @@
         "dendextend",
         "webshot",
         "egg",
-        "quantreg",
         "genefilter",
         "AnnotationDbi",
         "KEGGREST",
@@ -1196,8 +1194,7 @@
         "Biostrings"
     ],
     "beadarraySNP": [
-        "quantsmooth",
-        "quantreg"
+        "quantsmooth"
     ],
     "BEARscc": [
         "SingleCellExperiment",
@@ -1418,7 +1415,6 @@
         "ggraph",
         "graphite",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "aplot",
         "scatterpie",
@@ -1460,7 +1456,6 @@
         "ggpubr",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "MultiAssayExperiment",
         "AnnotationHub",
@@ -1562,7 +1557,6 @@
         "precrec",
         "topGO",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "GO.db",
         "AnnotationDbi",
@@ -1625,7 +1619,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -1692,7 +1685,6 @@
         "DelayedArray",
         "ggdendro",
         "XVector",
-        "quantreg",
         "cvAUC"
     ],
     "biovizBase": [
@@ -2187,7 +2179,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -2300,7 +2291,6 @@
         "GenomeInfoDb",
         "ScaledMatrix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "openCyto",
         "ggcyto",
@@ -2535,7 +2525,6 @@
         "ggrepel",
         "viridis",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -2598,7 +2587,6 @@
         "GOSemSim",
         "qvalue",
         "ggpp",
-        "quantreg",
         "Hmisc",
         "KEGGREST",
         "DO.db",
@@ -2658,7 +2646,6 @@
         "flowClust",
         "car",
         "pbkrtest",
-        "quantreg",
         "fda",
         "fds",
         "rainbow",
@@ -2729,7 +2716,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "viridis",
@@ -2923,7 +2909,6 @@
         "KEGGREST",
         "XVector",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "Biostrings",
         "Rsamtools",
@@ -3718,7 +3703,6 @@
         "phyloseq",
         "cobs",
         "SummarizedExperiment",
-        "quantreg",
         "Biostrings",
         "multtest",
         "GenomicRanges",
@@ -3830,7 +3814,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "tidygraph",
@@ -3868,7 +3851,6 @@
         "rms",
         "flowViz",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis"
     ],
@@ -4148,9 +4130,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "cqn": [
-        "quantreg"
-    ],
+    "cqn": [],
     "CRImage": [
         "aCGH",
         "multtest"
@@ -4389,7 +4369,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ncdfFlow",
         "DelayedArray",
@@ -4460,7 +4439,6 @@
         "testthat",
         "ipred",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "flowViz",
         "flowStats",
@@ -4491,7 +4469,6 @@
         "nloptr",
         "ipred",
         "pbkrtest",
-        "quantreg",
         "prodlim",
         "testthat",
         "broom"
@@ -4573,7 +4550,6 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "XVector",
         "flowViz",
@@ -4660,7 +4636,6 @@
         "KEGGREST",
         "XVector",
         "pbkrtest",
-        "quantreg",
         "BiocIO",
         "rtracklayer",
         "nloptr",
@@ -4706,7 +4681,6 @@
         "nloptr",
         "modelr",
         "pbkrtest",
-        "quantreg",
         "DO.db",
         "fgsea",
         "aplot",
@@ -4768,7 +4742,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr"
     ],
@@ -4800,7 +4773,6 @@
         "multcomp",
         "sn",
         "Biostrings",
-        "quantreg",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -4813,7 +4785,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ncdfFlow",
         "DelayedArray",
@@ -5239,7 +5210,6 @@
         "GenomeInfoDb",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "XVector",
         "nloptr",
@@ -5380,7 +5350,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "fda",
         "fds",
         "rainbow",
@@ -5724,7 +5693,6 @@
         "car",
         "multcomp",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -5869,7 +5837,6 @@
         "car",
         "AnnotationDbi",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomeInfoDb",
         "XVector",
@@ -6023,8 +5990,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "sn",
-        "XVector",
-        "quantreg"
+        "XVector"
     ],
     "eiR": [
         "ChemmineR"
@@ -6072,7 +6038,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "nloptr",
@@ -6122,7 +6087,6 @@
         "DelayedArray",
         "HDF5Array",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "XVector",
         "GenomicFeatures",
@@ -6257,7 +6221,6 @@
         "ggplotify",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ggforce",
         "viridis",
@@ -6340,7 +6303,6 @@
         "GenomicAlignments",
         "BiocIO",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "SummarizedExperiment",
         "nloptr",
@@ -6357,7 +6319,6 @@
         "beadarray",
         "AnnotationDbi",
         "XVector",
-        "quantreg",
         "Biostrings",
         "DelayedArray",
         "KEGGREST"
@@ -6387,7 +6348,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -6690,7 +6650,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "quantreg",
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
@@ -6749,7 +6708,6 @@
         "apeglm",
         "GenomeInfoDb",
         "XVector",
-        "quantreg",
         "geneplotter",
         "AnnotationDbi",
         "BiocIO",
@@ -7138,7 +7096,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ncdfFlow",
         "DelayedArray",
@@ -7156,7 +7113,6 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "ncdfFlow",
         "DelayedArray",
@@ -7191,7 +7147,6 @@
         "flowCore",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -7222,7 +7177,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "fda",
         "fds",
@@ -7336,7 +7290,6 @@
     "frenchFISH": [
         "MCMCpack",
         "NHPoisson",
-        "quantreg",
         "car",
         "pbkrtest",
         "lme4",
@@ -7492,7 +7445,6 @@
         "viridis",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "BiocIO",
         "rtracklayer",
         "nloptr",
@@ -7593,7 +7545,6 @@
         "treeio",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -7641,7 +7592,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "XVector",
@@ -7710,7 +7660,6 @@
         "XVector",
         "Biostrings",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -7752,7 +7701,6 @@
         "quantsmooth",
         "Biostrings",
         "mice",
-        "quantreg",
         "broom"
     ],
     "GeneStructureTools": [
@@ -7993,7 +7941,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -8089,7 +8036,6 @@
         "ggsignif",
         "rstatix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -8144,7 +8090,6 @@
     "GEWIST": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -8307,7 +8252,6 @@
         "Biostrings",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -8563,8 +8507,7 @@
         "cowplot"
     ],
     "GraphAT": [
-        "MCMCpack",
-        "quantreg"
+        "MCMCpack"
     ],
     "graphite": [
         "AnnotationDbi",
@@ -8604,7 +8547,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "XVector",
         "nloptr",
@@ -8831,7 +8773,6 @@
         "logistf",
         "quantsmooth",
         "mice",
-        "quantreg",
         "broom"
     ],
     "gwasurvivr": [
@@ -8854,7 +8795,6 @@
         "BiocIO",
         "biomaRt",
         "mice",
-        "quantreg",
         "GenomicAlignments",
         "broom"
     ],
@@ -9498,7 +9438,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -9580,7 +9519,6 @@
         "ggsignif",
         "rstatix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "broom",
@@ -9624,7 +9562,6 @@
         "haplo.stats",
         "rms",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis"
     ],
@@ -9658,7 +9595,6 @@
         "ggtext",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -9754,7 +9690,6 @@
         "ggfun",
         "ggplotify",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "tidytree",
         "treeio",
@@ -9933,7 +9868,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -10036,7 +9970,6 @@
         "sva",
         "Hmisc",
         "recipes",
-        "quantreg",
         "viridis",
         "genefilter",
         "AnnotationDbi",
@@ -10119,7 +10052,6 @@
         "car",
         "DelayedArray",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -10315,7 +10247,6 @@
         "cplm",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "nloptr",
         "testthat",
         "broom"
@@ -10624,7 +10555,6 @@
         "XVector",
         "GenomeInfoDb",
         "mice",
-        "quantreg",
         "DelayedArray",
         "broom"
     ],
@@ -10799,7 +10729,6 @@
         "car",
         "multcomp",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -10823,8 +10752,7 @@
         "MCMCpack",
         "cowplot",
         "GenomeInfoDb",
-        "XVector",
-        "quantreg"
+        "XVector"
     ],
     "memes": [
         "Biostrings",
@@ -10949,7 +10877,6 @@
         "XVector",
         "GenomeInfoDb",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "AnnotationFilter",
@@ -10989,7 +10916,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "fda",
         "fds",
@@ -11134,8 +11060,7 @@
         "mutoss",
         "multtest",
         "multcomp",
-        "sn",
-        "quantreg"
+        "sn"
     ],
     "MetCirc": [
         "MSnbase",
@@ -11183,7 +11108,6 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -11279,7 +11203,6 @@
         "testthat",
         "AnnotationHub",
         "ggpp",
-        "quantreg",
         "ggrepel",
         "ggsci",
         "cowplot",
@@ -11494,8 +11417,7 @@
     "mfa": [
         "ggmcmc",
         "MCMCpack",
-        "GGally",
-        "quantreg"
+        "GGally"
     ],
     "Mfuzz": [],
     "MGFM": [
@@ -11606,7 +11528,6 @@
         "broom",
         "plotly",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -11785,8 +11706,7 @@
     ],
     "MIMOSA": [
         "MCMCpack",
-        "testthat",
-        "quantreg"
+        "testthat"
     ],
     "mina": [
         "MCL",
@@ -12210,7 +12130,6 @@
         "cplm",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "nloptr",
         "testthat",
         "broom"
@@ -12462,7 +12381,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -12576,7 +12494,6 @@
         "genefilter",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "AnnotationDbi",
         "XVector",
@@ -12633,7 +12550,6 @@
         "nloptr",
         "lmerTest",
         "pbkrtest",
-        "quantreg",
         "testthat"
     ],
     "MSstatsLOBD": [],
@@ -12769,8 +12685,7 @@
         "multcomp",
         "sn",
         "XVector",
-        "GenomeInfoDb",
-        "quantreg"
+        "GenomeInfoDb"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -12861,8 +12776,7 @@
         "DelayedArray",
         "sn",
         "prodlim",
-        "Biostrings",
-        "quantreg"
+        "Biostrings"
     ],
     "multtest": [],
     "mumosa": [
@@ -12991,7 +12905,6 @@
         "rstatix",
         "GenomicAlignments",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -13027,7 +12940,6 @@
         "KEGGREST",
         "ComplexHeatmap",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "GenomicRanges",
@@ -13115,7 +13027,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "quantreg",
         "viridis"
     ],
     "NanoMethViz": [
@@ -13194,7 +13105,6 @@
         "car",
         "mppa",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -13452,7 +13362,6 @@
         "SummarizedExperiment",
         "ggforce",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Hmisc",
         "readxl",
@@ -13582,7 +13491,6 @@
         "car",
         "DelayedArray",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "BSgenome",
         "nloptr"
@@ -13672,7 +13580,6 @@
         "broom",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "testthat",
         "Biostrings"
     ],
@@ -13710,7 +13617,6 @@
         "XVector",
         "BiocIO",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "AnnotationDbi",
@@ -13757,7 +13663,6 @@
         "car",
         "ggrepel",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -13817,7 +13722,6 @@
         "summarytools",
         "unmarked",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "nloptr",
@@ -13954,7 +13858,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -14034,7 +13937,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "XVector",
         "nloptr",
@@ -14244,7 +14146,6 @@
         "KEGGREST",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -14317,7 +14218,6 @@
         "phyloseq",
         "Biostrings",
         "multtest",
-        "quantreg",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -14429,7 +14329,6 @@
         "TTR",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -14465,7 +14364,6 @@
         "logistf",
         "lme4",
         "pbkrtest",
-        "quantreg",
         "nloptr",
         "mice",
         "broom",
@@ -14510,7 +14408,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -14728,7 +14625,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -15240,7 +15136,6 @@
         "TTR",
         "modelr",
         "pbkrtest",
-        "quantreg",
         "DO.db",
         "fgsea",
         "aplot",
@@ -15390,7 +15285,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -15630,9 +15524,7 @@
         "Rsamtools",
         "GenomicAlignments"
     ],
-    "quantsmooth": [
-        "quantreg"
-    ],
+    "quantsmooth": [],
     "QuartPAC": [
         "iPAC",
         "GraphPAC",
@@ -16321,7 +16213,6 @@
         "nloptr",
         "broom",
         "pbkrtest",
-        "quantreg",
         "testthat"
     ],
     "rfaRm": [
@@ -16901,7 +16792,6 @@
         "ShortRead",
         "GenomicFeatures",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "aplot",
@@ -17051,7 +16941,6 @@
         "car",
         "metap",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "TFisher",
         "mutoss",
@@ -17130,7 +17019,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -17162,7 +17050,6 @@
         "car",
         "pheatmap",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -17180,7 +17067,6 @@
         "car",
         "pheatmap",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -17200,7 +17086,6 @@
         "SummarizedExperiment",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -17701,9 +17586,7 @@
         "XVector",
         "nloptr"
     ],
-    "scde": [
-        "quantreg"
-    ],
+    "scde": [],
     "scds": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -17843,7 +17726,6 @@
     "SCnorm": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "quantreg",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -18667,7 +18549,6 @@
         "biomaRt"
     ],
     "SIM": [
-        "quantreg",
         "globaltest",
         "quantsmooth",
         "AnnotationDbi",
@@ -18829,7 +18710,6 @@
         "sn",
         "densEstBayes",
         "GenomicAlignments",
-        "quantreg",
         "rstan",
         "pkgbuild"
     ],
@@ -19168,8 +19048,7 @@
         "GenomeInfoDb"
     ],
     "sparseDOSSA": [
-        "MCMCpack",
-        "quantreg"
+        "MCMCpack"
     ],
     "sparsenetgls": [],
     "SparseSignatures": [
@@ -19796,7 +19675,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -19891,7 +19769,6 @@
         "modelr",
         "readxl",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "nloptr",
@@ -19981,7 +19858,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "DelayedArray",
@@ -20030,7 +19906,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -20175,7 +20050,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -20490,7 +20364,6 @@
         "car",
         "KEGGREST",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "Biostrings",
         "nloptr",
@@ -20773,7 +20646,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "fda",
         "fds",
         "rainbow",
@@ -21004,8 +20876,7 @@
         "viridis"
     ],
     "tweeDEseq": [
-        "cqn",
-        "quantreg"
+        "cqn"
     ],
     "twoddpcr": [],
     "txcutr": [
@@ -21796,7 +21667,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -21809,7 +21679,6 @@
         "broom",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -21817,7 +21686,6 @@
     "broom": [],
     "car": [
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -21829,7 +21697,6 @@
         "nloptr",
         "testthat"
     ],
-    "quantreg": [],
     "lme4": [
         "nloptr",
         "testthat"
@@ -22179,9 +22046,7 @@
         "miniUI"
     ],
     "miniUI": [],
-    "MCMCpack": [
-        "quantreg"
-    ],
+    "MCMCpack": [],
     "ggvis": [],
     "heatmaply": [
         "plotly",
@@ -22260,7 +22125,6 @@
         "plotly",
         "patchwork",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -22312,7 +22176,6 @@
     "usethis": [],
     "rms": [
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis"
     ],
@@ -22340,15 +22203,12 @@
     "drtmle": [
         "SuperLearner",
         "np",
-        "quantreg",
         "cvAUC"
     ],
     "SuperLearner": [
         "cvAUC"
     ],
-    "np": [
-        "quantreg"
-    ],
+    "np": [],
     "cvAUC": [],
     "biscuiteerData": [
         "ExperimentHub",
@@ -22480,7 +22340,6 @@
         "car",
         "multcomp",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -22508,7 +22367,6 @@
         "car",
         "ggrepel",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -22516,8 +22374,7 @@
     ],
     "EnvStats": [],
     "ggpmisc": [
-        "ggpp",
-        "quantreg"
+        "ggpp"
     ],
     "ggpp": [],
     "broom.mixed": [
@@ -22804,9 +22661,7 @@
     "phylobase": [],
     "ClusterR": [],
     "benchmarkme": [],
-    "cobs": [
-        "quantreg"
-    ],
+    "cobs": [],
     "colortools": [],
     "rio": [
         "readxl"
@@ -22823,7 +22678,6 @@
         "ggsignif",
         "rstatix",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "broom",
         "nloptr",
@@ -22848,7 +22702,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis"
     ],
@@ -22970,7 +22823,6 @@
     "VIM": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -23001,7 +22853,6 @@
         "ggrepel",
         "broom",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -23030,7 +22881,6 @@
         "ggrepel",
         "broom",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -23057,20 +22907,16 @@
         "mutoss",
         "multtest",
         "multcomp",
-        "sn",
-        "quantreg"
+        "sn"
     ],
     "TFisher": [
-        "sn",
-        "quantreg"
+        "sn"
     ],
     "mutoss": [
         "multtest",
         "multcomp"
     ],
-    "sn": [
-        "quantreg"
-    ],
+    "sn": [],
     "DMwR2": [
         "quantmod",
         "TTR"
@@ -23163,7 +23009,6 @@
     "NHPoisson": [
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "broom",
@@ -23181,7 +23026,6 @@
         "rstatix",
         "car",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "nloptr",
         "testthat"
@@ -23297,7 +23141,6 @@
     "haplo.stats": [
         "rms",
         "Hmisc",
-        "quantreg",
         "multcomp",
         "viridis"
     ],
@@ -23578,7 +23421,6 @@
         "Hmisc",
         "readxl",
         "pbkrtest",
-        "quantreg",
         "lme4",
         "viridis",
         "nloptr",
