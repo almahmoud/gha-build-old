@@ -2219,7 +2219,6 @@
         "keras",
         "rtracklayer",
         "Rsamtools",
-        "tensorflow",
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
@@ -2240,7 +2239,6 @@
         "SummarizedExperiment",
         "InteractionSet",
         "regioneR",
-        "tensorflow",
         "AnnotationFilter"
     ],
     "CrispRVariants": [
@@ -2621,7 +2619,6 @@
     ],
     "DeepPINCS": [
         "keras",
-        "tensorflow",
         "ttgsea",
         "DiagrammeR"
     ],
@@ -4568,8 +4565,7 @@
         "KEGGREST",
         "regioneR",
         "keras",
-        "AnnotationFilter",
-        "tensorflow"
+        "AnnotationFilter"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -6568,8 +6564,7 @@
         "Hmisc",
         "SummarizedExperiment",
         "ensembldb",
-        "AnnotationFilter",
-        "tensorflow"
+        "AnnotationFilter"
     ],
     "MultiDataSet": [
         "SummarizedExperiment"
@@ -6877,7 +6872,6 @@
     "NeuCA": [
         "keras",
         "SingleCellExperiment",
-        "tensorflow",
         "SummarizedExperiment"
     ],
     "NewWave": [
@@ -8926,7 +8920,6 @@
     ],
     "scAlign": [
         "SingleCellExperiment",
-        "tensorflow",
         "SummarizedExperiment"
     ],
     "SCAN.UPC": [
@@ -9045,8 +9038,7 @@
         "SummarizedExperiment"
     ],
     "SCFA": [
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "scGPS": [
         "SummarizedExperiment",
@@ -10645,8 +10637,7 @@
     ],
     "ttgsea": [
         "keras",
-        "DiagrammeR",
-        "tensorflow"
+        "DiagrammeR"
     ],
     "TTMap": [
         "SummarizedExperiment"
@@ -10780,7 +10771,6 @@
         "keras",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "tensorflow",
         "scater",
         "gradDescent",
         "DeepPINCS",
@@ -11631,10 +11621,7 @@
     "dorothea": [
         "viper"
     ],
-    "keras": [
-        "tensorflow"
-    ],
-    "tensorflow": [],
+    "keras": [],
     "fields": [],
     "RFOC": [
         "GEOmap",
