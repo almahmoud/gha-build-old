@@ -4145,7 +4145,6 @@
     ],
     "EnMCB": [
         "rms",
-        "mboost",
         "survivalsvm",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
@@ -8036,7 +8035,6 @@
         "GO.db",
         "AnnotationForge",
         "viridis",
-        "mboost",
         "GenomicRanges",
         "biomaRt",
         "KEGGREST",
@@ -15404,7 +15402,6 @@
         "plotly"
     ],
     "ggrastr": [],
-    "mboost": [],
     "survivalsvm": [
         "Hmisc",
         "viridis"
@@ -15645,9 +15642,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "KEGGREST",
