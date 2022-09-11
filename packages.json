@@ -59,7 +59,6 @@
     "ADAMgui": [
         "ADAM",
         "GO.db",
-        "ggrepel",
         "ggpubr",
         "ggsignif",
         "KEGGREST",
@@ -209,8 +208,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "ALDEx2": [
         "GenomicRanges",
@@ -255,7 +253,6 @@
     "AlpsNMR": [
         "mixOmics",
         "speaq",
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -307,7 +304,6 @@
         "Biostrings",
         "GenomicAlignments",
         "ggdendro",
-        "ggrepel",
         "SummarizedExperiment"
     ],
     "animalcules": [
@@ -322,7 +318,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "AnnotationDbi",
         "ipred",
         "KEGGREST",
@@ -421,7 +416,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "DESeq2",
-        "ggrepel",
         "SummarizedExperiment",
         "rtracklayer",
         "ensembldb",
@@ -534,7 +528,6 @@
     "artMS": [
         "AnnotationDbi",
         "ggdendro",
-        "ggrepel",
         "MSstats",
         "org.Hs.eg.db",
         "plotly",
@@ -548,8 +541,7 @@
         "ropls",
         "SummarizedExperiment",
         "MultiDataSet",
-        "GenomicRanges",
-        "ggrepel"
+        "GenomicRanges"
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
@@ -675,7 +667,6 @@
     ],
     "autonomics": [
         "assertive",
-        "ggrepel",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -822,7 +813,6 @@
         "BiocNeighbors",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "bluster",
         "GenomicRanges"
     ],
@@ -902,9 +892,7 @@
         "methylumi",
         "SingleCellExperiment",
         "Biostrings",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -1026,7 +1014,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "Biostrings",
         "ggfun",
         "treeio"
@@ -1055,7 +1042,6 @@
         "Biostrings",
         "rtracklayer",
         "biomaRt",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -1107,7 +1093,6 @@
         "rms",
         "topGO",
         "Hmisc",
-        "multcomp",
         "GO.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -1144,7 +1129,6 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -1180,8 +1164,7 @@
         "ropls",
         "MultiDataSet",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "ggrepel"
+        "SummarizedExperiment"
     ],
     "Biostrings": [],
     "BioTIP": [
@@ -1557,7 +1540,6 @@
         "genefilter",
         "geneplotter",
         "biomaRt",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -1604,7 +1586,6 @@
         "Biostrings"
     ],
     "CancerSubtypes": [
-        "NMF",
         "iCluster"
     ],
     "caOmicsV": [],
@@ -1625,16 +1606,13 @@
         "SingleCellExperiment",
         "drc",
         "FlowSOM",
-        "ggrepel",
         "SummarizedExperiment",
         "scater",
         "car",
-        "multcomp",
         "CytoML",
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "scattermore",
         "scuttle",
         "DelayedMatrixStats",
         "BiocNeighbors",
@@ -1726,7 +1704,6 @@
     ],
     "celda": [
         "SummarizedExperiment",
-        "ggrepel",
         "scater",
         "scran",
         "SingleCellExperiment",
@@ -1781,9 +1758,7 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges"
     ],
@@ -1797,11 +1772,9 @@
         "Biostrings"
     ],
     "cellmigRation": [
-        "SpatialTools",
         "FactoMineR",
         "Hmisc",
         "car",
-        "ggrepel",
         "viridis",
         "pbkrtest",
         "lme4"
@@ -1816,13 +1789,11 @@
         "DelayedMatrixStats",
         "BiocSingular",
         "ggbeeswarm",
-        "ggrepel",
         "GenomicRanges"
     ],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
-        "ggrepel",
         "SummarizedExperiment",
         "viridis",
         "GenomicRanges"
@@ -1838,7 +1809,6 @@
         "WGCNA",
         "ggpmisc",
         "ggthemes",
-        "ggrepel",
         "clusterProfiler",
         "fgsea",
         "ggdendro",
@@ -1867,7 +1837,6 @@
         "broom.mixed",
         "lme4",
         "mice",
-        "multcomp",
         "SummarizedExperiment",
         "FlowSOM",
         "GenomicRanges",
@@ -1875,8 +1844,6 @@
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -1904,7 +1871,6 @@
     ],
     "ceRNAnetsim": [
         "ggraph",
-        "ggrepel",
         "viridis"
     ],
     "CeTF": [
@@ -1914,7 +1880,6 @@
         "GenomicTools.fileHandler",
         "ggnetwork",
         "ggpubr",
-        "ggrepel",
         "SummarizedExperiment",
         "AnnotationDbi",
         "DOSE",
@@ -2091,7 +2056,6 @@
         "rtracklayer",
         "KEGGREST",
         "Hmisc",
-        "multcomp",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments",
@@ -2152,7 +2116,6 @@
         "SummarizedExperiment",
         "systemPipeR",
         "DESeq2",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "Biostrings",
@@ -2188,7 +2151,6 @@
         "fgsea",
         "qvalue",
         "SummarizedExperiment",
-        "ggrepel",
         "viridis",
         "treeio",
         "GO.db"
@@ -2267,7 +2229,6 @@
         "Biostrings",
         "GenomicAlignments",
         "ggbeeswarm",
-        "ggrepel",
         "bluster",
         "fresh",
         "biomaRt",
@@ -2284,7 +2245,6 @@
     ],
     "chromswitch": [
         "GenomicRanges",
-        "NMF",
         "rtracklayer",
         "Biostrings",
         "Rsamtools",
@@ -2332,12 +2292,10 @@
         "Hmisc",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "AnnotationFilter",
-        "ggrepel"
+        "AnnotationFilter"
     ],
     "CIMICE": [
         "ggraph",
-        "ggrepel",
         "viridis"
     ],
     "CINdex": [
@@ -2369,7 +2327,6 @@
         "SummarizedExperiment",
         "scran",
         "ggraph",
-        "ggrepel",
         "viridis",
         "scuttle",
         "DelayedMatrixStats",
@@ -2433,7 +2390,6 @@
     "clusterExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "NMF",
         "BiocSingular",
         "zinbwave",
         "phylobase",
@@ -2460,7 +2416,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
@@ -2712,7 +2667,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "scuttle",
         "DelayedMatrixStats",
         "BiocNeighbors",
@@ -2759,7 +2713,6 @@
         "rms",
         "flowViz",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "consensusDE": [
@@ -3076,14 +3029,12 @@
         "fields",
         "GenomicRanges",
         "SingleCellExperiment",
-        "TrajectoryUtils",
-        "ggrepel"
+        "TrajectoryUtils"
     ],
     "cTRAP": [
         "AnnotationDbi",
         "AnnotationHub",
         "fgsea",
-        "ggrepel",
         "highcharter",
         "KEGGREST",
         "quantmod",
@@ -3162,11 +3113,9 @@
         "SummarizedExperiment",
         "factoextra",
         "mbest",
-        "ggrepel",
         "caret",
         "FlowSOM",
         "lme4",
-        "multcomp",
         "GenomicRanges",
         "recipes",
         "dendextend",
@@ -3175,7 +3124,6 @@
         "CytoML",
         "flowWorkspace",
         "ggpointdensity",
-        "scattermore",
         "openCyto",
         "ggcyto",
         "viridis",
@@ -3196,7 +3144,6 @@
     "CytoGLMM": [
         "factoextra",
         "mbest",
-        "ggrepel",
         "caret",
         "recipes",
         "dendextend",
@@ -3250,8 +3197,6 @@
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "ggfun",
         "genefilter",
         "openCyto",
@@ -3326,7 +3271,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
-        "ggrepel",
         "viridis",
         "KEGGREST",
         "pbkrtest",
@@ -3347,7 +3291,6 @@
         "tidyverse",
         "FactoMineR",
         "factoextra",
-        "multcomp",
         "dendextend",
         "Mfuzz",
         "KEGGREST",
@@ -3359,7 +3302,6 @@
         "MESS",
         "viridis",
         "ggpubr",
-        "ggrepel",
         "car",
         "quantmod",
         "missMDA",
@@ -3387,7 +3329,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "ggpubr",
-        "ggrepel",
         "megadepth",
         "plyranges",
         "rtracklayer",
@@ -3415,7 +3356,6 @@
         "mnem",
         "graphite",
         "org.Hs.eg.db",
-        "ggrepel",
         "viridis",
         "AnnotationDbi",
         "TFisher",
@@ -3424,7 +3364,6 @@
         "modelr",
         "KEGGREST",
         "ggdendro",
-        "multcomp",
         "Biostrings"
     ],
     "ddPCRclust": [
@@ -3443,7 +3382,6 @@
     "dearseq": [],
     "debCAM": [
         "SummarizedExperiment",
-        "NMF",
         "DMwR2",
         "quantmod",
         "GenomicRanges"
@@ -3481,7 +3419,6 @@
         "dendextend",
         "egg",
         "ggfun",
-        "ggrepel",
         "treeio",
         "Biostrings"
     ],
@@ -3602,7 +3539,6 @@
     "DEGreport": [
         "DESeq2",
         "ggdendro",
-        "ggrepel",
         "lasso2",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -3644,13 +3580,11 @@
     "DEP": [
         "SummarizedExperiment",
         "MSnbase",
-        "ggrepel",
         "GenomicRanges"
     ],
     "DepecheR": [
         "viridis",
-        "mixOmics",
-        "ggrepel"
+        "mixOmics"
     ],
     "DEqMS": [],
     "derfinder": [
@@ -3785,7 +3719,6 @@
         "systemPipeR",
         "Rsamtools",
         "DESeq2",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "genefilter",
@@ -3813,13 +3746,10 @@
         "FlowSOM",
         "SummarizedExperiment",
         "lme4",
-        "multcomp",
         "CytoML",
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "GenomicRanges",
         "openCyto",
         "ggcyto",
@@ -3866,7 +3796,6 @@
         "DEXSeq",
         "GenomicRanges",
         "rtracklayer",
-        "ggrepel",
         "ensembldb",
         "DESeq2",
         "AnnotationDbi",
@@ -3892,9 +3821,7 @@
         "scuttle",
         "DelayedMatrixStats",
         "bluster",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges",
         "BiocNeighbors"
@@ -3923,11 +3850,9 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges"
     ],
     "dittoSeq": [
-        "ggrepel",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "GenomicRanges"
@@ -3950,7 +3875,6 @@
         "SummarizedExperiment",
         "GenomicRanges",
         "rtracklayer",
-        "multcomp",
         "Biostrings",
         "Rsamtools",
         "GenomicAlignments"
@@ -4071,7 +3995,6 @@
     "Doscheda": [
         "drc",
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -4164,9 +4087,7 @@
         "quantiseqr",
         "DESeq2",
         "rstatix",
-        "ggrepel",
         "coin",
-        "multcomp",
         "GenomicRanges",
         "SummarizedExperiment",
         "genefilter",
@@ -4253,7 +4174,6 @@
         "ggtree",
         "Biostrings",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio"
     ],
@@ -4283,7 +4203,6 @@
         "hgu133plus2.db",
         "hgu133a.db",
         "Biostrings",
-        "multcomp",
         "GenomicRanges"
     ],
     "eiR": [],
@@ -4300,7 +4219,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "biomaRt",
-        "ggrepel",
         "plotly",
         "ggpubr",
         "rtracklayer",
@@ -4325,7 +4243,6 @@
     ],
     "EMDomics": [],
     "EnhancedVolcano": [
-        "ggrepel",
         "ggalt",
         "ggrastr",
         "plotly",
@@ -4360,7 +4277,6 @@
         "DelayedMatrixStats",
         "genefilter",
         "Hmisc",
-        "multcomp",
         "GenomicFeatures",
         "AnnotationDbi",
         "viridis",
@@ -4420,7 +4336,6 @@
         "DO.db",
         "fgsea",
         "qvalue",
-        "ggrepel",
         "viridis",
         "treeio",
         "GO.db",
@@ -4444,7 +4359,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -4512,7 +4426,6 @@
         "GenomicRanges",
         "rstatix",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "car",
@@ -4543,7 +4456,6 @@
         "csaw",
         "ggpubr",
         "GreyListChIP",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -4576,7 +4488,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "viridis",
         "ggfun",
         "treeio",
@@ -4739,7 +4650,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio"
     ],
@@ -4900,7 +4810,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio"
     ],
@@ -4948,7 +4857,6 @@
     "fCI": [],
     "fcoex": [
         "FCBF",
-        "ggrepel",
         "clusterProfiler",
         "SingleCellExperiment",
         "AnnotationDbi",
@@ -5035,7 +4943,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "qvalue",
-        "ggrepel",
         "SummarizedExperiment",
         "MultiAssayExperiment",
         "AnnotationDbi",
@@ -5073,8 +4980,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "flowAI": [],
     "flowBeads": [],
@@ -5122,8 +5028,7 @@
         "flowViz"
     ],
     "flowGraph": [
-        "ggiraph",
-        "ggrepel"
+        "ggiraph"
     ],
     "flowMatch": [],
     "flowMeans": [],
@@ -5141,8 +5046,6 @@
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -5192,7 +5095,6 @@
         "fgsea",
         "ggraph",
         "RecordLinkage",
-        "ggrepel",
         "viridis",
         "ipred"
     ],
@@ -5213,7 +5115,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "ggrepel",
         "OUTRIDER",
         "plotly",
         "KEGGREST",
@@ -5344,7 +5245,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "car",
-        "ggrepel",
         "viridis",
         "KEGGREST",
         "pbkrtest",
@@ -5405,7 +5305,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -5441,7 +5340,6 @@
         "biomaRt",
         "ggpubr",
         "AnnotationDbi",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -5494,7 +5392,6 @@
         "FactoMineR",
         "GenomicRanges",
         "car",
-        "ggrepel",
         "Biostrings",
         "pbkrtest",
         "lme4"
@@ -5554,7 +5451,6 @@
         "colourpicker",
         "dendextend",
         "DESeq2",
-        "ggrepel",
         "GO.db",
         "plotly",
         "SummarizedExperiment",
@@ -5688,7 +5584,6 @@
         "SummarizedExperiment",
         "ggpubr",
         "plotly",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -5752,7 +5647,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "viridis",
         "egg",
         "car",
@@ -5865,15 +5759,12 @@
         "GSEABase",
         "HH",
         "AnnotationDbi",
-        "multcomp",
         "Hmisc",
         "KEGGREST",
         "viridis",
         "Biostrings"
     ],
-    "GladiaTOX": [
-        "ggrepel"
-    ],
+    "GladiaTOX": [],
     "Glimma": [
         "DESeq2",
         "SummarizedExperiment",
@@ -5901,7 +5792,6 @@
         "ggpubr",
         "ggtext",
         "KEGGREST",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6068,9 +5958,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "GPA": [
-        "ggrepel"
-    ],
+    "GPA": [],
     "gpart": [
         "Homo.sapiens",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -6123,7 +6011,6 @@
         "drc",
         "plotly",
         "car",
-        "multcomp",
         "GenomicRanges",
         "pbkrtest",
         "lme4"
@@ -6419,14 +6306,12 @@
         "SummarizedExperiment",
         "coin",
         "AnnotationDbi",
-        "multcomp",
         "GenomicRanges",
         "KEGGREST",
         "Biostrings"
     ],
     "HIPPO": [
         "SingleCellExperiment",
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -6580,7 +6465,6 @@
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "ggrepel",
         "KEGGREST",
         "genefilter",
         "geneplotter",
@@ -6590,7 +6474,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "NMF",
         "biomaRt",
         "GSEABase",
         "rtracklayer",
@@ -6680,7 +6563,6 @@
         "ggraph",
         "concaveman",
         "ggbeeswarm",
-        "ggrepel",
         "GenomicRanges",
         "DelayedMatrixStats",
         "DropletUtils"
@@ -6708,7 +6590,6 @@
         "coin",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "multcomp",
         "GenomicRanges"
     ],
     "infinityFlow": [],
@@ -6751,7 +6632,6 @@
         "rtracklayer",
         "qvalue",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6808,7 +6688,6 @@
         "viridis",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "KEGGREST",
         "car",
         "ggsci",
@@ -6844,7 +6723,6 @@
         "haplo.stats",
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "IONiseR": [
@@ -6861,7 +6739,6 @@
     "iPath": [
         "ggpubr",
         "survminer",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6907,7 +6784,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -6920,7 +6796,6 @@
         "ggbeeswarm",
         "bluster",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges",
         "DO.db",
@@ -6936,13 +6811,10 @@
         "lme4",
         "treeio"
     ],
-    "ISAnalytics": [
-        "ggrepel"
-    ],
+    "ISAnalytics": [],
     "iSEE": [
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "ggrepel",
         "colourpicker",
         "GenomicRanges"
     ],
@@ -6951,7 +6823,6 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "colourpicker",
-        "ggrepel",
         "GenomicRanges"
     ],
     "isobar": [
@@ -7002,7 +6873,6 @@
         "GenomicRanges",
         "KEGGREST",
         "ggdendro",
-        "ggrepel",
         "lasso2",
         "genefilter",
         "geneplotter",
@@ -7044,7 +6914,6 @@
         "GenomicRanges",
         "ggpubr",
         "ggtext",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7159,7 +7028,6 @@
     "lefser": [
         "SummarizedExperiment",
         "coin",
-        "multcomp",
         "GenomicRanges"
     ],
     "levi": [],
@@ -7172,7 +7040,6 @@
         "ggpubr",
         "rio",
         "MultiAssayExperiment",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7194,8 +7061,7 @@
         "fgsea",
         "ropls",
         "MultiDataSet",
-        "GenomicRanges",
-        "ggrepel"
+        "GenomicRanges"
     ],
     "LiquidAssociation": [
         "geepack",
@@ -7244,7 +7110,6 @@
     "LRcell": [
         "ExperimentHub",
         "AnnotationHub",
-        "ggrepel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -7327,9 +7192,7 @@
         "ShortRead",
         "SummarizedExperiment"
     ],
-    "MACSQuantifyR": [
-        "ggrepel"
-    ],
+    "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub",
         "AnnotationHub",
@@ -7388,7 +7251,6 @@
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot",
-        "ggrepel",
         "AnnotationDbi",
         "DOSE",
         "GO.db",
@@ -7603,7 +7465,6 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "org.Hs.eg.db",
-        "ggrepel",
         "sva",
         "KEGGREST",
         "Hmisc",
@@ -7657,7 +7518,6 @@
         "Biostrings",
         "drc",
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -7703,7 +7563,6 @@
         "ggtree",
         "GO.db",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
@@ -7719,7 +7578,6 @@
     ],
     "MesKit": [
         "Biostrings",
-        "ggrepel",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -7773,8 +7631,6 @@
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -7891,8 +7747,7 @@
         "plotly",
         "metap",
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "MetCirc": [
         "MSnbase"
@@ -7918,7 +7773,6 @@
         "SummarizedExperiment",
         "ggpubr",
         "sesameData",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -7995,7 +7849,6 @@
         "rcmdcheck",
         "AnnotationHub",
         "ggpp",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -8061,7 +7914,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "rtracklayer",
         "biomaRt",
-        "ggrepel",
         "viridis",
         "treeio",
         "Rsamtools",
@@ -8177,7 +8029,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "treeio"
     ],
     "miaSim": [
@@ -8192,7 +8043,6 @@
         "scater",
         "ggtree",
         "viridis",
-        "ggrepel",
         "aplot",
         "ggfun",
         "treeio",
@@ -8251,7 +8101,6 @@
         "SummarizedExperiment",
         "microbiome",
         "recipes",
-        "multcomp",
         "genefilter",
         "geneplotter",
         "aplot",
@@ -8278,14 +8127,12 @@
         "ggfun",
         "DO.db",
         "fgsea",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
     ],
     "MicrobiotaProcess": [
         "Biostrings",
-        "ggrepel",
         "ggtree",
         "coin",
         "ggsignif",
@@ -8293,7 +8140,6 @@
         "SummarizedExperiment",
         "treeio",
         "ggtreeExtra",
-        "multcomp",
         "aplot",
         "ggfun",
         "GenomicRanges"
@@ -8328,7 +8174,6 @@
         "BiocSingular",
         "ggraph",
         "SummarizedExperiment",
-        "ggrepel",
         "ggbeeswarm",
         "viridis",
         "GenomicRanges"
@@ -8474,7 +8319,6 @@
     ],
     "miRSM": [
         "WGCNA",
-        "NMF",
         "biclust",
         "iBBiG",
         "BicARE",
@@ -8511,7 +8355,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "Biostrings",
         "ggfun",
         "treeio"
@@ -8536,7 +8379,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "viridis",
         "ggfun",
         "treeio",
@@ -8597,9 +8439,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "mixOmics": [
-        "ggrepel"
-    ],
+    "mixOmics": [],
     "MLInterfaces": [
         "genefilter",
         "AnnotationDbi",
@@ -8686,9 +8526,7 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "MOFA2": [
-        "ggrepel"
-    ],
+    "MOFA2": [],
     "MOGAMUN": [],
     "mogsa": [
         "graphite",
@@ -8720,8 +8558,7 @@
     ],
     "monocle": [
         "densityClust",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "MoonlightR": [
         "SummarizedExperiment",
@@ -8744,7 +8581,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
@@ -8828,7 +8664,6 @@
     ],
     "MQmetrics": [
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -8928,8 +8763,7 @@
         "GenomicRanges"
     ],
     "MSstats": [
-        "lme4",
-        "ggrepel"
+        "lme4"
     ],
     "MSstatsLiP": [
         "MSstats",
@@ -8940,7 +8774,6 @@
         "tidyverse",
         "dendextend",
         "FactoMineR",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -8956,7 +8789,6 @@
         "MSstatsTMT",
         "MSstats",
         "Biostrings",
-        "ggrepel",
         "lme4",
         "lmerTest"
     ],
@@ -8978,14 +8810,12 @@
         "MSstats",
         "recipes",
         "lme4",
-        "ggrepel",
         "ipred"
     ],
     "MSstatsTMT": [
         "lme4",
         "lmerTest",
-        "MSstats",
-        "ggrepel"
+        "MSstats"
     ],
     "Mulcom": [
         "fields",
@@ -9000,8 +8830,7 @@
         "ropls",
         "SummarizedExperiment",
         "GenomicRanges",
-        "MultiDataSet",
-        "ggrepel"
+        "MultiDataSet"
     ],
     "multiClust": [
         "dendextend",
@@ -9036,8 +8865,7 @@
     ],
     "MultiDataSet": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "ggrepel"
+        "SummarizedExperiment"
     ],
     "multiGSEA": [
         "graphite",
@@ -9047,8 +8875,7 @@
         "KEGGREST",
         "TFisher",
         "mutoss",
-        "Biostrings",
-        "multcomp"
+        "Biostrings"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -9098,7 +8925,6 @@
         "ggtree",
         "TFisher",
         "mutoss",
-        "ggrepel",
         "reactome.db",
         "graphite",
         "KEGGREST",
@@ -9108,7 +8934,6 @@
         "fgsea",
         "viridis",
         "treeio",
-        "multcomp",
         "ipred",
         "Biostrings"
     ],
@@ -9158,7 +8983,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "ggrepel",
         "pbkrtest",
         "AnnotationDbi",
         "KEGGREST",
@@ -9168,7 +8992,6 @@
         "Biostrings"
     ],
     "musicatk": [
-        "NMF",
         "SummarizedExperiment",
         "VariantAnnotation",
         "Biostrings",
@@ -9183,7 +9006,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
-        "ggrepel",
         "plotly",
         "factoextra",
         "TCGAbiolinks",
@@ -9207,7 +9029,6 @@
     ],
     "MutationalPatterns": [
         "GenomicRanges",
-        "NMF",
         "BSgenome",
         "VariantAnnotation",
         "Biostrings",
@@ -9289,7 +9110,6 @@
         "regioneR",
         "AnnotationHub",
         "biovizBase",
-        "multcomp",
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
@@ -9319,7 +9139,6 @@
     "NanoStringQCPro": [
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "NMF",
         "KEGGREST",
         "Biostrings"
     ],
@@ -9382,9 +9201,7 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges"
     ],
@@ -9420,7 +9237,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
@@ -9461,7 +9277,6 @@
         "clusterExperiment",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "NMF",
         "BiocSingular",
         "zinbwave",
         "phylobase",
@@ -9471,7 +9286,6 @@
         "BiocNeighbors",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges",
         "genefilter",
         "AnnotationDbi",
@@ -9584,7 +9398,6 @@
         "derfinder",
         "GenomicRanges",
         "ggpubr",
-        "ggrepel",
         "rtracklayer",
         "megadepth",
         "GenomicFeatures",
@@ -9651,7 +9464,6 @@
     "omicRexposome": [
         "rexposome",
         "sva",
-        "ggrepel",
         "omicade4",
         "MultiDataSet",
         "SmartSVA",
@@ -9686,7 +9498,6 @@
         "FactoMineR",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "car",
         "GenomicRanges",
         "Biostrings",
@@ -9715,7 +9526,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "oncomix": [
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -9727,7 +9537,6 @@
     ],
     "OncoSimulR": [
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4"
     ],
@@ -9859,7 +9668,6 @@
         "gprofiler2",
         "ggpubr",
         "DelayedMatrixStats",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -9918,7 +9726,6 @@
         "FactoMineR",
         "MultiAssayExperiment",
         "car",
-        "ggrepel",
         "GenomicRanges",
         "pbkrtest",
         "lme4"
@@ -10009,12 +9816,10 @@
         "genefilter",
         "heatmaply",
         "plotly",
-        "NMF",
         "topGO",
         "GOstats",
         "GO.db",
         "AnnotationDbi",
-        "ggrepel",
         "biomaRt",
         "KEGGREST",
         "geneplotter",
@@ -10027,7 +9832,6 @@
         "Biostrings"
     ],
     "PCAtools": [
-        "ggrepel",
         "DelayedMatrixStats",
         "BiocSingular"
     ],
@@ -10052,7 +9856,6 @@
         "fields",
         "AnnotationDbi",
         "viridis",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -10096,7 +9899,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges"
     ],
     "PepsNMR": [],
@@ -10135,7 +9937,6 @@
         "shadowtext",
         "ggtree",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio",
         "Biostrings"
@@ -10170,9 +9971,7 @@
         "smoother",
         "densityClust",
         "viridis",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges",
         "car",
@@ -10220,7 +10019,6 @@
         "ggpubr",
         "ggtext",
         "viridis",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -10246,7 +10044,6 @@
     ],
     "Pi": [
         "GenomicRanges",
-        "ggrepel",
         "caret",
         "ggnetwork",
         "recipes",
@@ -10283,7 +10080,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "viridis",
         "ggfun",
         "treeio",
@@ -10325,10 +10121,8 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "bluster",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges"
     ],
@@ -10371,7 +10165,6 @@
         "shinythemes",
         "colourpicker",
         "Hmisc",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -10417,7 +10210,6 @@
     "POMA": [
         "caret",
         "ggraph",
-        "ggrepel",
         "mixOmics",
         "MSnbase",
         "recipes",
@@ -10504,7 +10296,6 @@
     "PrecisionTrialDrawer": [
         "cgdsr",
         "biomaRt",
-        "ggrepel",
         "GenomicRanges",
         "AnnotationDbi",
         "KEGGREST",
@@ -10608,8 +10399,7 @@
         "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
-        "GenomicRanges",
-        "ggrepel"
+        "GenomicRanges"
     ],
     "profileplyr": [
         "SummarizedExperiment",
@@ -10646,17 +10436,13 @@
         "DO.db",
         "fgsea",
         "qvalue",
-        "ggrepel",
         "viridis",
         "treeio",
         "GO.db"
     ],
-    "progeny": [
-        "ggrepel"
-    ],
+    "progeny": [],
     "projectR": [
         "CoGAPS",
-        "NMF",
         "ggalluvial",
         "viridis",
         "SingleCellExperiment",
@@ -10724,7 +10510,6 @@
         "tidyverse",
         "FactoMineR",
         "factoextra",
-        "multcomp",
         "dendextend",
         "Mfuzz",
         "quantmod",
@@ -10737,7 +10522,6 @@
         "MESS",
         "viridis",
         "ggpubr",
-        "ggrepel",
         "car",
         "missMDA",
         "modelr",
@@ -10795,7 +10579,6 @@
     ],
     "ProteoMM": [
         "biomaRt",
-        "ggrepel",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -10804,7 +10587,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "colourpicker",
-        "ggrepel",
         "highcharter",
         "recount",
         "SummarizedExperiment",
@@ -10846,7 +10628,6 @@
         "Hmisc",
         "MSnbase",
         "plotly",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -10855,9 +10636,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "PubScore": [
-        "ggrepel"
-    ],
+    "PubScore": [],
     "pulsedSilac": [
         "taRifx",
         "SummarizedExperiment",
@@ -11254,7 +11033,6 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "viridis",
         "ggfun",
         "treeio",
@@ -11528,7 +11306,6 @@
         "FactoMineR",
         "Hmisc",
         "lme4",
-        "ggrepel",
         "mice",
         "car",
         "viridis",
@@ -11682,7 +11459,6 @@
         "Rsamtools",
         "RUVSeq",
         "ggfittext",
-        "ggrepel",
         "KEGGREST",
         "ShortRead",
         "biomaRt",
@@ -11967,7 +11743,6 @@
         "fgsea",
         "dendextend",
         "ggpubr",
-        "ggrepel",
         "car",
         "KEGGREST",
         "ShortRead",
@@ -12040,8 +11815,7 @@
     "ropls": [
         "MultiDataSet",
         "GenomicRanges",
-        "SummarizedExperiment",
-        "ggrepel"
+        "SummarizedExperiment"
     ],
     "RPA": [
         "phyloseq",
@@ -12084,9 +11858,7 @@
         "TFisher",
         "mutoss",
         "MultiDataSet",
-        "GenomicRanges",
-        "ggrepel",
-        "multcomp"
+        "GenomicRanges"
     ],
     "rqubic": [
         "biclust"
@@ -12099,7 +11871,6 @@
         "GOSemSim",
         "AnnotationDbi",
         "GO.db",
-        "ggrepel",
         "KEGGREST",
         "Biostrings"
     ],
@@ -12125,7 +11896,6 @@
         "viridis",
         "ggpubr",
         "ggtext",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -12289,9 +12059,7 @@
         "SingleCellExperiment",
         "Seurat",
         "tensorflow",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -12337,9 +12105,7 @@
         "AnnotationHub",
         "AnnotationDbi",
         "recipes",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges",
         "KEGGREST",
@@ -12381,7 +12147,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges"
     ],
     "scBFA": [
@@ -12393,9 +12158,7 @@
         "GenomicRanges",
         "genefilter",
         "geneplotter",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "AnnotationDbi",
         "KEGGREST",
@@ -12409,9 +12172,7 @@
         "GenomicRanges",
         "DelayedMatrixStats",
         "scuttle",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scClassifR": [
@@ -12420,9 +12181,7 @@
         "SummarizedExperiment",
         "caret",
         "recipes",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "GenomicRanges",
         "ipred"
@@ -12434,7 +12193,6 @@
         "DelayedMatrixStats",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggrepel",
         "viridis",
         "AnnotationDbi",
         "GenomicRanges",
@@ -12443,10 +12201,8 @@
     ],
     "scDataviz": [
         "SingleCellExperiment",
-        "ggrepel",
         "Seurat",
         "plotly",
-        "scattermore",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -12463,7 +12219,6 @@
         "DelayedMatrixStats",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges"
     ],
     "scDD": [
@@ -12510,9 +12265,7 @@
         "SingleCellExperiment",
         "Seurat",
         "concaveman",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform",
         "SummarizedExperiment",
         "GenomicRanges"
@@ -12524,9 +12277,7 @@
     ],
     "scMAGeCK": [
         "Seurat",
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scmap": [
@@ -12640,8 +12391,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "scran": [
         "SingleCellExperiment",
@@ -12736,9 +12486,7 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "ggrepel",
         "Biostrings",
-        "scattermore",
         "sctransform",
         "ggfun",
         "treeio"
@@ -12757,8 +12505,6 @@
         "GenomicRanges",
         "KEGGREST",
         "viridis",
-        "ggrepel",
-        "scattermore",
         "sctransform",
         "Biostrings"
     ],
@@ -12773,7 +12519,6 @@
         "Seurat",
         "SingleCellExperiment",
         "viridis",
-        "ggrepel",
         "GenomicRanges",
         "bumphunter",
         "OrganismDbi",
@@ -12786,7 +12531,6 @@
         "ggbeeswarm",
         "bluster",
         "plotly",
-        "scattermore",
         "sctransform",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12838,7 +12582,6 @@
         "DO.db",
         "fgsea",
         "qvalue",
-        "ggrepel",
         "viridis",
         "treeio",
         "GO.db"
@@ -12962,7 +12705,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "fgsea",
-        "ggrepel",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
@@ -13101,13 +12843,11 @@
         "ggtree",
         "Biostrings",
         "ggfun",
-        "ggrepel",
         "viridis",
         "treeio"
     ],
     "signeR": [
         "VariantAnnotation",
-        "NMF",
         "Biostrings",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -13191,7 +12931,6 @@
         "DESeq2",
         "ExperimentHub",
         "fields",
-        "ggrepel",
         "ggtree",
         "GSVA",
         "GSVAdata",
@@ -13235,7 +12974,6 @@
         "M3Drop",
         "ensembldb",
         "GenomicFeatures",
-        "scattermore",
         "sctransform",
         "AnnotationFilter",
         "rtracklayer",
@@ -13245,7 +12983,6 @@
         "org.Hs.eg.db",
         "reldist",
         "Hmisc",
-        "multcomp",
         "densEstBayes",
         "GenomicAlignments",
         "rstan"
@@ -13275,7 +13012,6 @@
         "GenomicRanges"
     ],
     "singscore": [
-        "ggrepel",
         "GSEABase",
         "plotly",
         "SummarizedExperiment",
@@ -13311,7 +13047,6 @@
     ],
     "sitePath": [
         "aplot",
-        "ggrepel",
         "ggtree",
         "ggfun",
         "treeio"
@@ -13436,7 +13171,6 @@
     "SomaticSignatures": [
         "VariantAnnotation",
         "GenomicRanges",
-        "NMF",
         "Biostrings",
         "ggbio",
         "Hmisc",
@@ -13473,10 +13207,8 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "bluster",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "sparrow": [
@@ -13493,7 +13225,6 @@
         "MCMCpack"
     ],
     "SparseSignatures": [
-        "NMF",
         "Biostrings",
         "GenomicRanges",
         "BSgenome",
@@ -13504,14 +13235,12 @@
     ],
     "SpatialCPie": [
         "ggiraph",
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
     "spatialDE": [
         "SpatialExperiment",
         "SummarizedExperiment",
-        "ggrepel",
         "SingleCellExperiment",
         "DropletUtils",
         "GenomicRanges",
@@ -13559,7 +13288,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "ggrepel",
         "Biostrings"
     ],
     "spatzie": [
@@ -13618,7 +13346,6 @@
         "KEGGREST",
         "clusterProfiler",
         "enrichplot",
-        "ggrepel",
         "biomaRt",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -13657,7 +13384,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "GenomicRanges"
     ],
     "SplicingFactory": [
@@ -13814,7 +13540,6 @@
         "Biostrings",
         "clusterProfiler",
         "enrichplot",
-        "ggrepel",
         "biomaRt",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -13879,7 +13604,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "ggrepel",
         "org.Hs.eg.db",
         "AnnotationDbi",
         "KEGGREST",
@@ -13924,7 +13648,6 @@
         "GenomicRanges",
         "ggpubr",
         "ggtext",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -13991,12 +13714,10 @@
         "tidyverse",
         "gstat",
         "SpatialExtremes",
-        "ggrepel",
         "plotly",
         "mice",
         "metR",
         "car",
-        "multcomp",
         "fields",
         "modelr",
         "pbkrtest",
@@ -14031,7 +13752,6 @@
     "systemPipeTools": [
         "DESeq2",
         "SummarizedExperiment",
-        "ggrepel",
         "ggtree",
         "plotly",
         "GenomicRanges",
@@ -14047,7 +13767,6 @@
     "TADCompare": [
         "HiCcompare",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -14085,7 +13804,6 @@
     ],
     "TargetDecoy": [
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -14117,7 +13835,6 @@
         "SingleCellExperiment",
         "DelayedMatrixStats",
         "BiocSingular",
-        "ggrepel",
         "plotly",
         "AnnotationDbi",
         "KEGGREST",
@@ -14145,7 +13862,6 @@
     "TCGAbiolinksGUI": [
         "plotly",
         "SummarizedExperiment",
-        "ggrepel",
         "caret",
         "pathview",
         "ELMER",
@@ -14315,8 +14031,7 @@
         "Biostrings"
     ],
     "timeOmics": [
-        "mixOmics",
-        "ggrepel"
+        "mixOmics"
     ],
     "TimeSeriesExperiment": [
         "SummarizedExperiment",
@@ -14344,7 +14059,6 @@
         "GO.db",
         "GOSemSim",
         "qvalue",
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges",
         "KEGGREST",
@@ -14411,7 +14125,6 @@
         "SummarizedExperiment",
         "GSVA",
         "ggpubr",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -14439,7 +14152,6 @@
         "alsace"
     ],
     "tomoda": [
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges"
     ],
@@ -14593,7 +14305,6 @@
         "SingleCellExperiment",
         "diffcyt",
         "lme4",
-        "multcomp",
         "FlowSOM",
         "SummarizedExperiment",
         "aplot",
@@ -14604,8 +14315,6 @@
         "flowWorkspace",
         "ggpointdensity",
         "ggpubr",
-        "ggrepel",
-        "scattermore",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -14672,7 +14381,6 @@
         "AnnotationDbi",
         "scater",
         "GenomicRanges",
-        "scattermore",
         "SummarizedExperiment",
         "KEGGREST",
         "scuttle",
@@ -14681,7 +14389,6 @@
         "BiocSingular",
         "ggbeeswarm",
         "viridis",
-        "ggrepel",
         "Biostrings"
     ],
     "trigger": [
@@ -14822,7 +14529,6 @@
         "GenomicFeatures",
         "GenomicAlignments",
         "GenomicRanges",
-        "ggrepel",
         "mirbase.db",
         "Organism.dplyr",
         "Sushi",
@@ -14912,8 +14618,7 @@
     "uSORT": [
         "monocle",
         "densityClust",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "VAExprs": [
         "keras",
@@ -14932,7 +14637,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "ggrepel",
         "GenomicRanges",
         "textstem"
     ],
@@ -15073,7 +14777,6 @@
     ],
     "vidger": [
         "DESeq2",
-        "ggrepel",
         "SummarizedExperiment",
         "GenomicRanges",
         "genefilter",
@@ -15105,7 +14808,6 @@
         "ggwordcloud",
         "GSEABase",
         "msigdb",
-        "ggrepel",
         "textstem",
         "ggraph",
         "viridis",
@@ -15163,7 +14865,6 @@
         "genefilter",
         "geneplotter",
         "systemPipeR",
-        "ggrepel",
         "apeglm",
         "GreyListChIP",
         "AnnotationFilter",
@@ -15295,7 +14996,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
         "viridis",
-        "NMF",
         "ggbio",
         "SummarizedExperiment",
         "Rsamtools",
@@ -15355,9 +15055,7 @@
     "ggdendro": [],
     "plotly": [],
     "ffbase": [],
-    "ggrepel": [],
     "ggpubr": [
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -15417,9 +15115,7 @@
         "ipred"
     ],
     "plotROC": [],
-    "GUniFrac": [
-        "ggrepel"
-    ],
+    "GUniFrac": [],
     "recipes": [
         "ipred"
     ],
@@ -15629,12 +15325,9 @@
         "Biostrings"
     ],
     "Seurat": [
-        "ggrepel",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
-    "scattermore": [],
     "sctransform": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
@@ -15675,7 +15368,6 @@
         "Biostrings"
     ],
     "ggraph": [
-        "ggrepel",
         "viridis"
     ],
     "aplot": [
@@ -15688,10 +15380,8 @@
     "ggfun": [],
     "rms": [
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
-    "multcomp": [],
     "WGCNA": [
         "Hmisc",
         "GO.db",
@@ -15700,9 +15390,7 @@
         "viridis",
         "Biostrings"
     ],
-    "ggnetwork": [
-        "ggrepel"
-    ],
+    "ggnetwork": [],
     "superheat": [
         "ggdendro"
     ],
@@ -15802,11 +15490,9 @@
     ],
     "rcmdcheck": [],
     "ggtext": [],
-    "NMF": [],
     "iCluster": [],
     "drc": [
         "car",
-        "multcomp",
         "pbkrtest",
         "lme4"
     ],
@@ -15819,10 +15505,8 @@
         "rainbow"
     ],
     "rainbow": [],
-    "SpatialTools": [],
     "FactoMineR": [
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4"
     ],
@@ -16017,9 +15701,7 @@
     ],
     "kableExtra": [],
     "fresh": [],
-    "densityClust": [
-        "ggrepel"
-    ],
+    "densityClust": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "GenomicRanges",
@@ -16037,7 +15719,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "ggrepel",
         "viridis",
         "car",
         "ggsci",
@@ -16060,7 +15741,6 @@
     "contrast": [
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "airway": [
@@ -16153,7 +15833,6 @@
         "FactoMineR",
         "mice",
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4"
     ],
@@ -16172,7 +15851,6 @@
         "FactoMineR",
         "mice",
         "car",
-        "ggrepel",
         "pbkrtest",
         "lme4"
     ],
@@ -16186,13 +15864,10 @@
     "CombinePValue": [],
     "metap": [
         "TFisher",
-        "mutoss",
-        "multcomp"
+        "mutoss"
     ],
     "TFisher": [],
-    "mutoss": [
-        "multcomp"
-    ],
+    "mutoss": [],
     "DMwR2": [
         "quantmod"
     ],
@@ -16225,9 +15900,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "coin": [
-        "multcomp"
-    ],
+    "coin": [],
     "jackstraw": [],
     "ELMER.data": [
         "GenomicRanges"
@@ -16271,7 +15944,6 @@
     "survminer": [
         "ggpubr",
         "ggtext",
-        "ggrepel",
         "ggsci",
         "ggsignif",
         "rstatix",
@@ -16310,7 +15982,6 @@
     ],
     "ggside": [],
     "HH": [
-        "multcomp",
         "Hmisc",
         "viridis"
     ],
@@ -16349,7 +16020,6 @@
     "haplo.stats": [
         "rms",
         "Hmisc",
-        "multcomp",
         "viridis"
     ],
     "AdaptGauss": [
@@ -16711,8 +16381,7 @@
     ],
     "clustree": [
         "ggraph",
-        "viridis",
-        "ggrepel"
+        "viridis"
     ],
     "rbokeh": [],
     "mlr": [],
@@ -16784,9 +16453,7 @@
     ],
     "GenKern": [],
     "FreqProf": [],
-    "gghighlight": [
-        "ggrepel"
-    ],
+    "gghighlight": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
