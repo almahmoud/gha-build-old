@@ -571,8 +571,7 @@
         "car",
         "graphite",
         "pbkrtest",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "BiocCheck": [],
     "biocGraph": [
@@ -1044,8 +1043,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "censcyt": [
         "diffcyt",
@@ -1082,7 +1080,6 @@
         "rstatix",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
@@ -1235,7 +1232,6 @@
         "DOSE",
         "scatterpie",
         "GOSemSim",
-        "ggtree",
         "biomaRt",
         "GenomicAlignments",
         "DO.db",
@@ -1379,8 +1375,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "clusterSeq": [
         "baySeq"
@@ -1533,7 +1528,6 @@
         "bluster",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "car",
         "rstatix",
         "pbkrtest"
@@ -1901,7 +1895,6 @@
         "pbkrtest",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "rstatix"
     ],
     "dasper": [
@@ -1953,7 +1946,6 @@
         "geneplotter",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "dendextend"
     ],
     "DECIPHER": [],
@@ -2372,8 +2364,7 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "EGSEA": [
         "gage",
@@ -2461,7 +2452,6 @@
         "DOSE",
         "scatterpie",
         "GOSemSim",
-        "ggtree",
         "AnnotationDbi",
         "DO.db",
         "GO.db"
@@ -2484,7 +2474,6 @@
         "CNEr",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
@@ -2550,8 +2539,7 @@
         "GO.db",
         "DO.db",
         "GOSemSim",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "epiNEM": [
         "mnem",
@@ -2651,8 +2639,7 @@
         "GenomicAlignments",
         "CNEr",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "escape": [
         "GSEABase",
@@ -2737,8 +2724,7 @@
         "enrichplot",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
@@ -2771,8 +2757,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "fcScan": [
         "VariantAnnotation",
@@ -3004,7 +2989,6 @@
         "DO.db",
         "ggpubr",
         "scatterpie",
-        "ggtree",
         "rstatix",
         "car",
         "pbkrtest"
@@ -3230,10 +3214,7 @@
         "DropletUtils",
         "scuttle"
     ],
-    "ggtree": [],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeExtra": [],
     "girafe": [
         "ShortRead",
         "GenomicAlignments"
@@ -3843,7 +3824,6 @@
         "bluster",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "car",
         "pbkrtest"
     ],
@@ -4028,9 +4008,7 @@
         "bumphunter",
         "GenomicAlignments"
     ],
-    "LymphoSeq": [
-        "ggtree"
-    ],
+    "LymphoSeq": [],
     "M3Drop": [
         "reldist",
         "densEstBayes"
@@ -4100,7 +4078,6 @@
         "GO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
         "DO.db"
     ],
     "MAI": [
@@ -4264,7 +4241,6 @@
         "MeSHDbi",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "GO.db"
     ],
     "meshr": [
@@ -4458,7 +4434,6 @@
         "methylumi",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "FDb.InfiniumMethylation.hg19",
         "genefilter",
         "GenomicFeatures",
@@ -4528,7 +4503,6 @@
         "TreeSummarizedExperiment",
         "mia",
         "scater",
-        "ggtree",
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "DECIPHER",
@@ -4547,7 +4521,6 @@
         "AnnotationDbi"
     ],
     "microbiomeMarker": [
-        "ggtree",
         "DESeq2",
         "ANCOMBC",
         "caret",
@@ -4565,11 +4538,9 @@
         "GO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
         "DO.db"
     ],
     "MicrobiotaProcess": [
-        "ggtree",
         "ggtreeExtra"
     ],
     "midasHLA": [
@@ -4691,8 +4662,7 @@
         "DO.db",
         "reactome.db",
         "graphite",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "miRspongeR": [
         "clusterProfiler",
@@ -4706,8 +4676,7 @@
         "DO.db",
         "reactome.db",
         "graphite",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -4822,8 +4791,7 @@
         "GOSemSim",
         "DO.db",
         "biomaRt",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "mosaics": [
         "GenomicAlignments"
@@ -4989,7 +4957,6 @@
         "genefilter",
         "geneplotter",
         "scatterpie",
-        "ggtree",
         "reactome.db",
         "graphite",
         "DO.db"
@@ -5159,8 +5126,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "netDx": [
         "MultiAssayExperiment"
@@ -5532,8 +5498,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "phantasus": [
         "AnnotationDbi",
@@ -5568,9 +5533,7 @@
         "logistf",
         "pbkrtest"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhIPData": [],
     "PhosR": [
         "dendextend",
@@ -5606,8 +5569,7 @@
         "reactome.db",
         "graphite",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "PING": [
         "PICS",
@@ -5805,7 +5767,6 @@
         "DOSE",
         "scatterpie",
         "GOSemSim",
-        "ggtree",
         "DO.db",
         "GO.db"
     ],
@@ -5861,7 +5822,6 @@
         "pbkrtest",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "rstatix"
     ],
     "ProteoDisco": [
@@ -6132,7 +6092,6 @@
         "DO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
         "GO.db"
     ],
     "receptLoss": [],
@@ -6567,7 +6526,6 @@
         "GenomicFeatures",
         "pbkrtest",
         "scatterpie",
-        "ggtree",
         "biomaRt",
         "rstatix",
         "GenomicAlignments"
@@ -6947,8 +6905,7 @@
         "dendextend",
         "enrichplot",
         "graphite",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "scTGIF": [
         "GSEABase",
@@ -6991,7 +6948,6 @@
         "DOSE",
         "scatterpie",
         "GOSemSim",
-        "ggtree",
         "biomaRt",
         "GenomicAlignments",
         "DO.db",
@@ -7123,8 +7079,7 @@
         "GOSemSim",
         "DO.db",
         "AnnotationHub",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -7174,7 +7129,6 @@
         "celldex",
         "DESeq2",
         "ExperimentHub",
-        "ggtree",
         "GSVA",
         "GSVAdata",
         "MAST",
@@ -7240,9 +7194,7 @@
         "AnnotationDbi",
         "GenomicAlignments"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "methylumi",
         "wateRmelon",
@@ -7417,7 +7369,6 @@
         "GO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
         "DO.db"
     ],
     "spiky": [
@@ -7519,7 +7470,6 @@
         "GO.db",
         "GOSemSim",
         "scatterpie",
-        "ggtree",
         "DO.db"
     ],
     "strandCheckR": [
@@ -7623,7 +7573,6 @@
     "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
-        "ggtree",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
@@ -7637,9 +7586,7 @@
         "car",
         "pbkrtest"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "GenomicAlignments",
         "BSgenome",
@@ -7702,7 +7649,6 @@
         "sesameData",
         "DO.db",
         "scatterpie",
-        "ggtree",
         "rstatix",
         "ensembldb",
         "BSgenome",
@@ -7793,8 +7739,7 @@
         "GO.db",
         "GOSemSim",
         "DO.db",
-        "scatterpie",
-        "ggtree"
+        "scatterpie"
     ],
     "TIN": [
         "aroma.affymetrix",
@@ -7919,7 +7864,6 @@
         "TrajectoryUtils"
     ],
     "treekoR": [
-        "ggtree",
         "SingleCellExperiment",
         "diffcyt",
         "FlowSOM",
