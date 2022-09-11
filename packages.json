@@ -2103,7 +2103,6 @@
     "ctgGEM": [
         "sincell",
         "TSCAN",
-        "fields",
         "SingleCellExperiment",
         "TrajectoryUtils"
     ],
@@ -2152,8 +2151,7 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
     "cycle": [
         "Mfuzz"
@@ -2343,8 +2341,7 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
     "debCAM": [],
     "debrowser": [
@@ -2728,9 +2725,7 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "DNAshapeR": [
-        "fields"
-    ],
+    "DNAshapeR": [],
     "DominoEffect": [
         "biomaRt",
         "VariantAnnotation",
@@ -3435,16 +3430,14 @@
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
     "flowDensity": [
         "car",
         "RFOC",
         "flowWorkspace",
         "pbkrtest",
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
     "flowFP": [],
     "flowGraph": [],
@@ -4422,7 +4415,6 @@
     ],
     "iCNV": [
         "CODEX",
-        "fields",
         "Rsamtools",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome",
@@ -4942,7 +4934,6 @@
         "crlmm",
         "RnBeads.hg19",
         "oligoClasses",
-        "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -4984,7 +4975,6 @@
         "caret",
         "Hmisc",
         "recipes",
-        "fields",
         "MsFeatures"
     ],
     "mAPKL": [
@@ -5262,9 +5252,7 @@
     "MetaNeighbor": [
         "SingleCellExperiment"
     ],
-    "metapone": [
-        "fields"
-    ],
+    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "baySeq",
@@ -5688,7 +5676,6 @@
         "enrichplot",
         "GOSemSim",
         "DO.db",
-        "fields",
         "ggraph",
         "reactome.db",
         "graphite",
@@ -5990,9 +5977,7 @@
     "MSstatsTMT": [
         "lmerTest"
     ],
-    "Mulcom": [
-        "fields"
-    ],
+    "Mulcom": [],
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
@@ -6670,7 +6655,6 @@
         "recipes",
         "biomaRt",
         "ggpubr",
-        "fields",
         "AnnotationDbi",
         "rstatix",
         "KEGGREST",
@@ -6696,9 +6680,7 @@
         "SingleCellExperiment",
         "scuttle"
     ],
-    "pepStat": [
-        "fields"
-    ],
+    "pepStat": [],
     "PERFect": [
         "phyloseq"
     ],
@@ -8001,7 +7983,6 @@
         "AnnotationDbi"
     ],
     "RnBeads": [
-        "fields",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
@@ -8276,7 +8257,6 @@
         "bluster"
     ],
     "scDD": [
-        "fields",
         "arm",
         "SingleCellExperiment",
         "scran",
@@ -8433,7 +8413,6 @@
         "KEGGREST",
         "GSEABase",
         "genefilter",
-        "fields",
         "DO.db",
         "GOSemSim",
         "GO.db",
@@ -8451,7 +8430,6 @@
         "nnTensor",
         "schex",
         "AnnotationDbi",
-        "fields",
         "KEGGREST"
     ],
     "scTreeViz": [
@@ -8709,9 +8687,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "sincell": [
-        "fields"
-    ],
+    "sincell": [],
     "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "scran",
@@ -8725,7 +8701,6 @@
         "celldex",
         "DESeq2",
         "ExperimentHub",
-        "fields",
         "ggtree",
         "GSVA",
         "GSVAdata",
@@ -8985,9 +8960,7 @@
         "AnnotationFilter"
     ],
     "specL": [],
-    "SpeCond": [
-        "fields"
-    ],
+    "SpeCond": [],
     "SpectralTAD": [
         "HiCcompare",
         "InteractionSet",
@@ -9248,7 +9221,6 @@
         "SpatialExtremes",
         "metR",
         "car",
-        "fields",
         "pbkrtest"
     ],
     "SynExtend": [
@@ -9406,9 +9378,7 @@
     "TEQC": [
         "Rsamtools"
     ],
-    "TFARM": [
-        "fields"
-    ],
+    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "CNEr",
@@ -10630,14 +10600,10 @@
         "viper"
     ],
     "keras": [],
-    "fields": [],
     "RFOC": [
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
-    "GEOmap": [
-        "fields"
-    ],
+    "GEOmap": [],
     "mbest": [],
     "VIM": [
         "car",
@@ -10779,9 +10745,7 @@
     ],
     "glmmTMB": [],
     "RnBeads.hg19": [],
-    "plsgenomics": [
-        "fields"
-    ],
+    "plsgenomics": [],
     "agricolae": [],
     "SmartSVA": [
         "sva",
@@ -10845,12 +10809,9 @@
         "dendextend"
     ],
     "SOMbrero": [
-        "metR",
-        "fields"
+        "metR"
     ],
-    "metR": [
-        "fields"
-    ],
+    "metR": [],
     "anyLib": [
         "devtools"
     ],
@@ -10891,9 +10852,7 @@
         "KEGGREST"
     ],
     "FindMyFriends": [],
-    "verification": [
-        "fields"
-    ],
+    "verification": [],
     "aroma.affymetrix": [],
     "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
@@ -10975,12 +10934,8 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "nnTensor": [
-        "fields"
-    ],
-    "ccTensor": [
-        "fields"
-    ],
+    "nnTensor": [],
+    "ccTensor": [],
     "clustree": [
         "ggraph"
     ],
@@ -11030,9 +10985,7 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "SpatialExtremes": [
-        "fields"
-    ],
+    "SpatialExtremes": [],
     "GenKern": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
