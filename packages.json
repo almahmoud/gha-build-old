@@ -1283,7 +1283,6 @@
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
         "minfi",
-        "spatstat.random",
         "KEGGREST",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Hs.eg.db",
@@ -2551,8 +2550,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -3909,7 +3907,6 @@
         "GenomeInfoDb",
         "recipes",
         "XVector",
-        "spatstat.random",
         "spatstat.core",
         "spatstat.linnet",
         "ipred",
@@ -5547,8 +5544,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "BiocNeighbors",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "discordant": [],
     "DiscoRhythm": [
@@ -9860,7 +9856,6 @@
         "Biostrings",
         "broom",
         "car",
-        "spatstat.random",
         "ggfun",
         "ggplotify",
         "pbkrtest",
@@ -10275,7 +10270,6 @@
         "spatstat.core",
         "spicyR",
         "sf",
-        "spatstat.random",
         "lmerTest",
         "lme4",
         "pheatmap",
@@ -13411,8 +13405,7 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "nempi": [
         "mnem",
@@ -14590,7 +14583,6 @@
         "GenomeInfoDb",
         "XVector",
         "TTR",
-        "spatstat.random",
         "car",
         "pbkrtest",
         "quantreg",
@@ -14833,8 +14825,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "ScaledMatrix",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -17602,8 +17593,7 @@
         "tfruns",
         "tfautograph",
         "GenomeInfoDb",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "SCAN.UPC": [
         "oligo",
@@ -17680,7 +17670,6 @@
         "KEGGREST",
         "XVector",
         "ipred",
-        "spatstat.random",
         "prodlim",
         "Biostrings"
     ],
@@ -17766,7 +17755,6 @@
         "GenomeInfoDb",
         "AnnotationDbi",
         "XVector",
-        "spatstat.random",
         "KEGGREST",
         "Biostrings"
     ],
@@ -17795,8 +17783,7 @@
         "spatstat.core",
         "uwot",
         "GenomeInfoDb",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "scClassifR": [
         "Seurat",
@@ -17822,7 +17809,6 @@
         "GenomeInfoDb",
         "XVector",
         "ipred",
-        "spatstat.random",
         "prodlim"
     ],
     "scClassify": [
@@ -17871,8 +17857,7 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "scDblFinder": [
         "BiocNeighbors",
@@ -17977,8 +17962,7 @@
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -18003,8 +17987,7 @@
         "sctransform",
         "SeuratObject",
         "spatstat.core",
-        "uwot",
-        "spatstat.random"
+        "uwot"
     ],
     "scmap": [
         "SingleCellExperiment",
@@ -18320,8 +18303,7 @@
         "ggfun",
         "ggplotify",
         "tidytree",
-        "treeio",
-        "spatstat.random"
+        "treeio"
     ],
     "scTGIF": [
         "GSEABase",
@@ -18355,8 +18337,7 @@
         "SeuratObject",
         "spatstat.core",
         "uwot",
-        "Biostrings",
-        "spatstat.random"
+        "Biostrings"
     ],
     "scTHI": [],
     "scTreeViz": [
@@ -18409,7 +18390,6 @@
         "XVector",
         "BiocIO",
         "biomaRt",
-        "spatstat.random",
         "KEGGREST",
         "GenomicAlignments"
     ],
@@ -19061,7 +19041,6 @@
         "reldist",
         "Hmisc",
         "multcomp",
-        "spatstat.random",
         "sn",
         "densEstBayes",
         "GenomicAlignments",
@@ -19387,8 +19366,7 @@
         "uwot",
         "GenomeInfoDb",
         "ScaledMatrix",
-        "XVector",
-        "spatstat.random"
+        "XVector"
     ],
     "sparrow": [
         "BiocSet",
@@ -19581,7 +19559,6 @@
         "pheatmap",
         "sf",
         "nloptr",
-        "spatstat.random",
         "testthat"
     ],
     "SpidermiR": [
@@ -22488,8 +22465,7 @@
         "sctransform",
         "SeuratObject",
         "spatstat.core",
-        "uwot",
-        "spatstat.random"
+        "uwot"
     ],
     "optimr": [],
     "detectseparation": [],
@@ -22500,12 +22476,9 @@
     "scattermore": [],
     "sctransform": [],
     "SeuratObject": [],
-    "spatstat.core": [
-        "spatstat.random"
-    ],
+    "spatstat.core": [],
     "uwot": [],
     "ROI": [],
-    "spatstat.random": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "GenomicRanges",
@@ -23125,19 +23098,16 @@
         "spatstat",
         "caret",
         "recipes",
-        "spatstat.random",
         "spatstat.core",
         "spatstat.linnet",
         "ipred",
         "prodlim"
     ],
     "spatstat": [
-        "spatstat.random",
         "spatstat.core",
         "spatstat.linnet"
     ],
     "spatstat.linnet": [
-        "spatstat.random",
         "spatstat.core"
     ],
     "contrast": [
