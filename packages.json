@@ -958,7 +958,6 @@
         "dplyr",
         "plotly",
         "ggplot2",
-        "gargle",
         "tidyselect",
         "scales",
         "tidyr"
@@ -2401,7 +2400,6 @@
         "ggpubr",
         "car",
         "Rgraphviz",
-        "gargle",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -7831,7 +7829,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "gargle",
         "ids",
         "rematch2",
         "Biostrings",
@@ -7974,7 +7971,6 @@
         "IRanges",
         "KEGGREST",
         "tweenr",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -12522,8 +12518,7 @@
     ],
     "GCSConnection": [
         "googleAuthR",
-        "googleCloudStorageR",
-        "gargle"
+        "googleCloudStorageR"
     ],
     "GCSscore": [
         "devtools",
@@ -17460,7 +17455,6 @@
         "tidyselect",
         "XVector",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -18935,7 +18929,6 @@
         "sparseMatrixStats",
         "AnnotationHubData",
         "survival",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -21213,7 +21206,6 @@
         "rvest",
         "viridis",
         "car",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -21666,7 +21658,6 @@
         "XVector",
         "Rsamtools",
         "tidyselect",
-        "gargle",
         "GenomicAlignments",
         "BiocIO",
         "restfulr",
@@ -22118,7 +22109,6 @@
         "rvest",
         "tidyr",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -25798,7 +25788,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "gargle",
         "ids",
         "rematch2",
         "Biostrings",
@@ -27623,7 +27612,6 @@
         "KEGGREST",
         "BiocFileCache",
         "interactiveDisplayBase",
-        "gargle",
         "tidyselect",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -33621,7 +33609,6 @@
         "quantreg",
         "lme4",
         "viridis",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -34166,7 +34153,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "interactiveDisplayBase",
-        "gargle",
         "dbplyr",
         "tidyselect",
         "XVector",
@@ -37171,13 +37157,10 @@
     ],
     "optparse": [],
     "rapiclient": [],
-    "bigrquery": [
-        "gargle"
-    ],
+    "bigrquery": [],
     "shinytoastr": [
         "shiny"
     ],
-    "gargle": [],
     "repmis": [
         "R.cache"
     ],
@@ -39408,7 +39391,6 @@
         "tidyr",
         "tidyselect",
         "scales",
-        "gargle",
         "cellranger",
         "ids",
         "rematch2",
@@ -39464,12 +39446,9 @@
         "dplyr",
         "tidyselect"
     ],
-    "googledrive": [
-        "gargle"
-    ],
+    "googledrive": [],
     "googlesheets4": [
         "cellranger",
-        "gargle",
         "googledrive",
         "ids",
         "rematch2"
@@ -39833,12 +39812,9 @@
         "waldo",
         "rematch2"
     ],
-    "googleAuthR": [
-        "gargle"
-    ],
+    "googleAuthR": [],
     "googleCloudStorageR": [
-        "googleAuthR",
-        "gargle"
+        "googleAuthR"
     ],
     "dplR": [],
     "survminer": [
