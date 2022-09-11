@@ -1099,8 +1099,7 @@
     ],
     "BUMHMM": [
         "devtools",
-        "SummarizedExperiment",
-        "rcmdcheck"
+        "SummarizedExperiment"
     ],
     "bumphunter": [
         "GenomicFeatures",
@@ -2003,8 +2002,7 @@
         "SummarizedExperiment"
     ],
     "cogena": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "Cogito": [
         "GenomicFeatures",
@@ -4037,8 +4035,7 @@
     ],
     "gcrma": [],
     "GCSscore": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "GDCRNATools": [
         "DESeq2",
@@ -5032,8 +5029,7 @@
     ],
     "immunotation": [],
     "INDEED": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "infercnv": [
         "SummarizedExperiment",
@@ -5988,7 +5984,6 @@
         "tidyverse",
         "ggpubr",
         "minfi",
-        "rcmdcheck",
         "AnnotationHub",
         "rstatix",
         "ExperimentHubData",
@@ -6096,8 +6091,7 @@
         "GenomicAlignments"
     ],
     "MetID": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "MetNet": [
         "SummarizedExperiment"
@@ -6780,7 +6774,6 @@
         "reactome.db",
         "graphite",
         "KEGGREST",
-        "rcmdcheck",
         "DO.db"
     ],
     "mumosa": [
@@ -7281,8 +7274,7 @@
         "KEGGREST"
     ],
     "oppti": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "optimalFlow": [
         "flowMeans"
@@ -7427,7 +7419,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "rcmdcheck",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -8756,7 +8747,6 @@
         "DESeq2",
         "genefilter",
         "geneplotter",
-        "rcmdcheck",
         "AnnotationDbi",
         "Rsamtools",
         "GenomicFeatures",
@@ -10187,7 +10177,6 @@
         "Gviz",
         "genefilter",
         "geneplotter",
-        "rcmdcheck",
         "AnnotationDbi",
         "biomaRt",
         "ensembldb",
@@ -11704,10 +11693,7 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "devtools": [
-        "rcmdcheck"
-    ],
-    "rcmdcheck": [],
+    "devtools": [],
     "iCluster": [],
     "drc": [
         "car",
@@ -12188,8 +12174,7 @@
         "fields"
     ],
     "anyLib": [
-        "devtools",
-        "rcmdcheck"
+        "devtools"
     ],
     "blme": [
         "lme4"
