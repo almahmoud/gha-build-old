@@ -160,8 +160,7 @@
         "SummarizedExperiment",
         "scater",
         "apeglm",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "ALDEx2": [
         "SummarizedExperiment"
@@ -585,7 +584,6 @@
         "scran",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
         "bluster"
     ],
     "BasicSTARRseq": [
@@ -596,7 +594,6 @@
     "batchelor": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocSingular",
         "scuttle"
     ],
     "BatchQC": [
@@ -612,7 +609,6 @@
         "scater",
         "scran",
         "SummarizedExperiment",
-        "BiocSingular",
         "scuttle",
         "bluster"
     ],
@@ -798,7 +794,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "BiocSingular": [],
     "BiocSklearn": [
         "SummarizedExperiment"
     ],
@@ -1237,7 +1232,6 @@
         "flowWorkspace",
         "ggpubr",
         "scuttle",
-        "BiocSingular",
         "pbkrtest",
         "openCyto",
         "ggcyto",
@@ -1312,7 +1306,6 @@
         "scran",
         "SingleCellExperiment",
         "scuttle",
-        "BiocSingular",
         "bluster"
     ],
     "CellaRepertorium": [],
@@ -1340,8 +1333,7 @@
         "SingleCellExperiment",
         "scater",
         "SummarizedExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "cellity": [
         "AnnotationDbi",
@@ -1361,8 +1353,7 @@
         "scater",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "CellTrails": [
         "SingleCellExperiment",
@@ -1688,7 +1679,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Sushi",
-        "BiocSingular",
         "scuttle",
         "GenomicAlignments",
         "bluster",
@@ -1772,7 +1762,6 @@
         "scran",
         "ggraph",
         "scuttle",
-        "BiocSingular",
         "bluster"
     ],
     "ClassifyR": [
@@ -1816,7 +1805,6 @@
     "clusterExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocSingular",
         "zinbwave",
         "mbkmeans",
         "genefilter",
@@ -2008,7 +1996,6 @@
     "compartmap": [
         "SummarizedExperiment",
         "RaggedExperiment",
-        "BiocSingular",
         "rtracklayer",
         "Rsamtools",
         "GenomicAlignments"
@@ -2034,7 +2021,6 @@
         "FactoMineR",
         "ggpubr",
         "scuttle",
-        "BiocSingular",
         "bluster",
         "DO.db",
         "ggraph",
@@ -2092,7 +2078,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -2686,9 +2671,7 @@
         "KEGGREST"
     ],
     "DEGseq": [],
-    "DelayedTensor": [
-        "BiocSingular"
-    ],
+    "DelayedTensor": [],
     "deltaCaptureC": [
         "SummarizedExperiment",
         "DESeq2",
@@ -2888,7 +2871,6 @@
         "viper"
     ],
     "Dino": [
-        "BiocSingular",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "scran",
@@ -2905,8 +2887,7 @@
         "SummarizedExperiment",
         "SingleCellExperiment",
         "scater",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "dittoSeq": [
         "SummarizedExperiment",
@@ -3175,7 +3156,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "hgu133plus2.db",
         "hgu133a.db"
     ],
@@ -3525,7 +3505,6 @@
         "SingleCellExperiment",
         "AnnotationDbi",
         "SummarizedExperiment",
-        "BiocSingular",
         "KEGGREST"
     ],
     "esetVis": [
@@ -3753,8 +3732,7 @@
         "SummarizedExperiment",
         "Rsamtools",
         "scater",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "flowBin": [
         "flowFP"
@@ -4571,7 +4549,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -5098,7 +5075,6 @@
         "rstatix",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
         "bluster",
         "DO.db",
         "scatterpie",
@@ -6010,8 +5986,7 @@
         "MultiAssayExperiment",
         "DECIPHER",
         "scuttle",
-        "scater",
-        "BiocSingular"
+        "scater"
     ],
     "miaSim": [
         "SummarizedExperiment"
@@ -6026,8 +6001,7 @@
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "DECIPHER",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "microbiome": [
         "phyloseq"
@@ -6099,7 +6073,6 @@
     ],
     "miloR": [
         "SingleCellExperiment",
-        "BiocSingular",
         "ggraph",
         "SummarizedExperiment"
     ],
@@ -6502,7 +6475,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
         "bluster"
     ],
     "msmsEDA": [],
@@ -6657,7 +6629,6 @@
     "mumosa": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "BiocSingular",
         "scuttle",
         "scran",
         "batchelor",
@@ -6687,7 +6658,6 @@
         "variancePartition",
         "genefilter",
         "geneplotter",
-        "BiocSingular",
         "pbkrtest",
         "AnnotationDbi",
         "KEGGREST"
@@ -6792,7 +6762,6 @@
     ],
     "NanoMethViz": [
         "SummarizedExperiment",
-        "BiocSingular",
         "bsseq",
         "AnnotationDbi",
         "Rsamtools",
@@ -6901,7 +6870,6 @@
         "clusterExperiment",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "BiocSingular",
         "zinbwave",
         "mbkmeans",
         "scuttle",
@@ -6918,8 +6886,7 @@
     ],
     "NewWave": [
         "SummarizedExperiment",
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "ngsReports": [],
     "nondetects": [
@@ -7132,7 +7099,6 @@
         "AnnotationDbi",
         "SummarizedExperiment",
         "SingleCellExperiment",
-        "BiocSingular",
         "KEGGREST"
     ],
     "oppti": [
@@ -7306,9 +7272,7 @@
         "dendextend",
         "GSEABase"
     ],
-    "PCAtools": [
-        "BiocSingular"
-    ],
+    "PCAtools": [],
     "PDATK": [
         "SummarizedExperiment",
         "MultiAssayExperiment",
@@ -7348,8 +7312,7 @@
         "scater",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "pepStat": [
         "fields"
@@ -7498,7 +7461,6 @@
         "scran",
         "scater",
         "scuttle",
-        "BiocSingular",
         "bluster"
     ],
     "pipeFrame": [
@@ -9028,8 +8990,7 @@
     "scater": [
         "SingleCellExperiment",
         "scuttle",
-        "SummarizedExperiment",
-        "BiocSingular"
+        "SummarizedExperiment"
     ],
     "scBFA": [
         "SingleCellExperiment",
@@ -9067,7 +9028,6 @@
         "SummarizedExperiment"
     ],
     "scDblFinder": [
-        "BiocSingular",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "scran",
@@ -9082,7 +9042,6 @@
         "SummarizedExperiment",
         "scran",
         "scuttle",
-        "BiocSingular",
         "bluster"
     ],
     "scds": [
@@ -9119,7 +9078,6 @@
         "SummarizedExperiment"
     ],
     "scMerge": [
-        "BiocSingular",
         "M3Drop",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -9199,14 +9157,12 @@
         "KEGGREST",
         "Rsamtools",
         "GenomicAlignments",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "scran": [
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
         "bluster"
     ],
     "scReClassify": [
@@ -9239,8 +9195,7 @@
     ],
     "scry": [
         "SingleCellExperiment",
-        "SummarizedExperiment",
-        "BiocSingular"
+        "SummarizedExperiment"
     ],
     "scTensor": [
         "reactome.db",
@@ -9299,7 +9254,6 @@
         "GenomicFeatures",
         "ensembldb",
         "scuttle",
-        "BiocSingular",
         "bluster",
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9578,7 +9532,6 @@
         "SingleCellExperiment",
         "scuttle",
         "SummarizedExperiment",
-        "BiocSingular",
         "bluster"
     ],
     "singleCellTK": [
@@ -9610,7 +9563,6 @@
         "scDblFinder",
         "metap",
         "KEGGREST",
-        "BiocSingular",
         "scuttle",
         "AnnotationHub",
         "genefilter",
@@ -9646,8 +9598,7 @@
         "VariantAnnotation"
     ],
     "SingleR": [
-        "SummarizedExperiment",
-        "BiocSingular"
+        "SummarizedExperiment"
     ],
     "singscore": [
         "GSEABase",
@@ -9662,7 +9613,6 @@
         "SummarizedExperiment",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "KEGGREST"
     ],
     "sitadela": [
@@ -9801,7 +9751,6 @@
         "scran",
         "DropletUtils",
         "scuttle",
-        "BiocSingular",
         "bluster"
     ],
     "sparrow": [
@@ -9851,8 +9800,7 @@
         "Hmisc",
         "GO.db",
         "KEGGREST",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "spatzie": [
         "BSgenome",
@@ -9923,8 +9871,7 @@
         "SingleCellExperiment",
         "scater",
         "SummarizedExperiment",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "SplicingFactory": [
         "SummarizedExperiment"
@@ -10251,7 +10198,6 @@
         "geneplotter",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "AnnotationDbi",
         "KEGGREST"
     ],
@@ -10473,7 +10419,6 @@
         "rstatix",
         "GSEABase",
         "SingleCellExperiment",
-        "BiocSingular",
         "AnnotationDbi",
         "car",
         "KEGGREST",
@@ -10658,8 +10603,7 @@
         "scater",
         "SummarizedExperiment",
         "KEGGREST",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "trigger": [
         "sva",
@@ -10851,8 +10795,7 @@
         "DeepPINCS",
         "DiagrammeR",
         "ttgsea",
-        "scuttle",
-        "BiocSingular"
+        "scuttle"
     ],
     "VanillaICE": [
         "SummarizedExperiment",
@@ -10959,8 +10902,7 @@
         "SummarizedExperiment",
         "zellkonverter",
         "scuttle",
-        "SingleCellExperiment",
-        "BiocSingular"
+        "SingleCellExperiment"
     ],
     "VennDetail": [],
     "vidger": [
