@@ -7,7 +7,6 @@
         "genefilter",
         "multtest",
         "glmnet",
-        "ROCR",
         "pamr",
         "GO.db",
         "AnnotationDbi",
@@ -31,7 +30,6 @@
     ],
     "a4Classif": [
         "a4Core",
-        "ROCR",
         "pamr",
         "glmnet"
     ],
@@ -460,7 +458,6 @@
     ],
     "Anaquin": [
         "ggplot2",
-        "ROCR",
         "qvalue",
         "DESeq2",
         "GenomicRanges",
@@ -863,7 +860,6 @@
     ],
     "ASpediaFI": [
         "SummarizedExperiment",
-        "ROCR",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1429,7 +1425,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -1929,8 +1924,7 @@
         "ggdendro",
         "XVector",
         "quantreg",
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "biovizBase": [
         "Hmisc",
@@ -2848,7 +2842,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -3284,7 +3277,6 @@
         "Biostrings",
         "BSgenome",
         "rtracklayer",
-        "ROCR",
         "GenomeInfoDb",
         "XVector",
         "Rsamtools",
@@ -4285,7 +4277,6 @@
         "BiocStyle"
     ],
     "compcodeR": [
-        "ROCR",
         "ggplot2",
         "modeest"
     ],
@@ -6233,7 +6224,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -6664,7 +6654,6 @@
         "easierData",
         "dorothea",
         "quantiseqr",
-        "ROCR",
         "ggplot2",
         "DESeq2",
         "BiocParallel",
@@ -7425,8 +7414,7 @@
     ],
     "erccdashboard": [
         "ggplot2",
-        "qvalue",
-        "ROCR"
+        "qvalue"
     ],
     "erma": [
         "Homo.sapiens",
@@ -7914,7 +7902,6 @@
         "SC3",
         "ggplot2",
         "pheatmap",
-        "ROCR",
         "rrcov",
         "GenomicRanges",
         "DelayedArray",
@@ -10459,7 +10446,6 @@
         "shinydashboard",
         "shinyBS",
         "ggplot2",
-        "ROCR",
         "UpSetR"
     ],
     "ideal": [
@@ -11055,7 +11041,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -11441,7 +11426,6 @@
     ],
     "LedPred": [
         "ggplot2",
-        "ROCR",
         "testthat"
     ],
     "lefser": [
@@ -11932,7 +11916,6 @@
         "gcrma",
         "caret",
         "hgu133plus2.db",
-        "ROCR",
         "AnnotationDbi",
         "KEGGREST",
         "ggplot2",
@@ -12296,7 +12279,6 @@
     "Melissa": [
         "BPRMeth",
         "GenomicRanges",
-        "ROCR",
         "ggplot2",
         "MCMCpack",
         "cowplot",
@@ -15073,7 +15055,6 @@
         "miniUI",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -15143,7 +15124,6 @@
         "GenomeInfoDb"
     ],
     "netDx": [
-        "ROCR",
         "ggplot2",
         "glmnet",
         "MultiAssayExperiment",
@@ -15942,7 +15922,6 @@
     ],
     "PAA": [
         "mRMRe",
-        "ROCR",
         "sva",
         "genefilter",
         "BiocParallel",
@@ -16080,7 +16059,6 @@
         "webshot",
         "shinyjs",
         "glmnet",
-        "ROCR",
         "devtools",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -16428,7 +16406,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -16575,7 +16552,6 @@
         "GenomeInfoDb",
         "supraHex",
         "ggrepel",
-        "ROCR",
         "glmnet",
         "caret",
         "ggnetwork",
@@ -16710,7 +16686,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -17235,7 +17210,6 @@
     "projectR": [
         "CoGAPS",
         "NMF",
-        "ROCR",
         "ggalluvial",
         "viridis",
         "ggplot2",
@@ -19115,7 +19089,6 @@
         "BSgenome",
         "ggplot2",
         "Gviz",
-        "ROCR",
         "XVector",
         "SummarizedExperiment",
         "AnnotationDbi",
@@ -19150,7 +19123,6 @@
         "Modstrings",
         "BiocParallel",
         "ggplot2",
-        "ROCR",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -19176,7 +19148,6 @@
         "BSgenome",
         "ggplot2",
         "Gviz",
-        "ROCR",
         "SummarizedExperiment",
         "AnnotationDbi",
         "BiocIO",
@@ -19210,7 +19181,6 @@
         "Modstrings",
         "BiocParallel",
         "ggplot2",
-        "ROCR",
         "KEGGREST",
         "Hmisc",
         "SummarizedExperiment",
@@ -19787,7 +19757,6 @@
     "SC3": [
         "ggplot2",
         "pheatmap",
-        "ROCR",
         "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
@@ -19820,7 +19789,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -19893,7 +19861,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "caret",
-        "ROCR",
         "AnnotationHub",
         "AnnotationDbi",
         "interactiveDisplayBase",
@@ -20005,7 +19972,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20041,7 +20007,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20057,7 +20022,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "caret",
-        "ROCR",
         "recipes",
         "cowplot",
         "fitdistrplus",
@@ -20124,7 +20088,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20246,7 +20209,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20282,7 +20244,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20634,7 +20595,6 @@
         "miniUI",
         "patchwork",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20675,7 +20635,6 @@
         "miniUI",
         "patchwork",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -20726,7 +20685,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -21380,7 +21338,6 @@
         "MAST",
         "multtest",
         "plotly",
-        "ROCR",
         "scater",
         "scMerge",
         "scran",
@@ -21807,7 +21764,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -22271,7 +22227,6 @@
     ],
     "ssPATHS": [
         "SummarizedExperiment",
-        "ROCR",
         "MESS",
         "geepack",
         "ggplot2",
@@ -22348,7 +22303,6 @@
         "SpidermiR",
         "graphite",
         "AnnotationDbi",
-        "ROCR",
         "MLmetrics",
         "ggplot2",
         "KEGGREST",
@@ -24802,7 +24756,6 @@
         "Biostrings"
     ],
     "glmnet": [],
-    "ROCR": [],
     "pamr": [],
     "GO.db": [
         "AnnotationDbi",
@@ -25245,9 +25198,7 @@
     "UpSetR": [
         "ggplot2"
     ],
-    "DRaWR": [
-        "ROCR"
-    ],
+    "DRaWR": [],
     "mGSZ": [],
     "ggfortify": [
         "ggplot2"
@@ -25373,7 +25324,6 @@
         "patchwork",
         "plotly",
         "reticulate",
-        "ROCR",
         "scattermore",
         "sctransform",
         "SeuratObject",
@@ -25553,19 +25503,15 @@
         "SuperLearner",
         "np",
         "quantreg",
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "SuperLearner": [
-        "cvAUC",
-        "ROCR"
+        "cvAUC"
     ],
     "np": [
         "quantreg"
     ],
-    "cvAUC": [
-        "ROCR"
-    ],
+    "cvAUC": [],
     "biscuiteerData": [
         "ExperimentHub",
         "AnnotationHub",
@@ -27507,9 +27453,7 @@
         "GenomeInfoDb"
     ],
     "bamlss": [],
-    "MLmetrics": [
-        "ROCR"
-    ],
+    "MLmetrics": [],
     "clustvarsel": [
         "BMA",
         "rrcov"
