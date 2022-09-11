@@ -1460,7 +1460,6 @@
         "illuminaio",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "NADA",
         "KEGGREST",
@@ -2905,7 +2904,6 @@
         "ScaledMatrix",
         "XVector",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "cellity": [
@@ -4461,7 +4459,6 @@
         "spatstat.core",
         "spatstat.linnet",
         "ipred",
-        "spatstat.sparse",
         "prodlim",
         "lava"
     ],
@@ -6367,8 +6364,7 @@
         "BiocNeighbors",
         "XVector",
         "RcppTOML",
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "Director": [],
     "DirichletMultinomial": [],
@@ -11287,7 +11283,6 @@
         "broom",
         "car",
         "spatstat.random",
-        "spatstat.sparse",
         "ggfun",
         "ggplotify",
         "pbkrtest",
@@ -11762,7 +11757,6 @@
         "spicyR",
         "sf",
         "spatstat.random",
-        "spatstat.sparse",
         "lmerTest",
         "lme4",
         "pheatmap",
@@ -15373,7 +15367,6 @@
         "XVector",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "nempi": [
@@ -16763,7 +16756,6 @@
         "XVector",
         "TTR",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "car",
         "pbkrtest",
@@ -17052,8 +17044,7 @@
         "ScaledMatrix",
         "XVector",
         "RcppTOML",
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -20202,7 +20193,6 @@
         "XVector",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "SCAN.UPC": [
@@ -20290,7 +20280,6 @@
         "ipred",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "prodlim",
         "Biostrings",
@@ -20391,7 +20380,6 @@
         "XVector",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "KEGGREST",
         "Biostrings"
@@ -20428,8 +20416,7 @@
         "GenomeInfoDb",
         "XVector",
         "RcppTOML",
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "scClassifR": [
         "Seurat",
@@ -20460,7 +20447,6 @@
         "ipred",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng",
         "prodlim",
         "lava"
@@ -20521,7 +20507,6 @@
         "XVector",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scDblFinder": [
@@ -20650,7 +20635,6 @@
         "XVector",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scHOT": [
@@ -20685,7 +20669,6 @@
         "uwot",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scmap": [
@@ -21048,7 +21031,6 @@
         "treeio",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scTGIF": [
@@ -21090,7 +21072,6 @@
         "Biostrings",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "scTHI": [
@@ -21155,7 +21136,6 @@
         "RBGL",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "KEGGREST",
         "GenomicAlignments"
     ],
@@ -21876,7 +21856,6 @@
         "Hmisc",
         "multcomp",
         "spatstat.random",
-        "spatstat.sparse",
         "sn",
         "htmlTable",
         "TH.data",
@@ -22243,8 +22222,7 @@
         "ScaledMatrix",
         "XVector",
         "RcppTOML",
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "sparrow": [
         "BiocParallel",
@@ -22470,7 +22448,6 @@
         "sf",
         "nloptr",
         "spatstat.random",
-        "spatstat.sparse",
         "testthat"
     ],
     "SpidermiR": [
@@ -25865,7 +25842,6 @@
         "uwot",
         "RcppTOML",
         "spatstat.random",
-        "spatstat.sparse",
         "dqrng"
     ],
     "optimr": [],
@@ -25885,15 +25861,13 @@
     ],
     "SeuratObject": [],
     "spatstat.core": [
-        "spatstat.random",
-        "spatstat.sparse"
+        "spatstat.random"
     ],
     "uwot": [
         "dqrng"
     ],
     "ROI": [],
     "spatstat.random": [],
-    "spatstat.sparse": [],
     "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
@@ -26666,20 +26640,17 @@
         "spatstat.core",
         "spatstat.linnet",
         "ipred",
-        "spatstat.sparse",
         "prodlim",
         "lava"
     ],
     "spatstat": [
         "spatstat.random",
         "spatstat.core",
-        "spatstat.linnet",
-        "spatstat.sparse"
+        "spatstat.linnet"
     ],
     "spatstat.linnet": [
         "spatstat.random",
-        "spatstat.core",
-        "spatstat.sparse"
+        "spatstat.core"
     ],
     "contrast": [
         "rms",
