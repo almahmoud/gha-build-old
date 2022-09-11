@@ -3233,7 +3233,6 @@
         "rhdf5",
         "GenomeInfoDb",
         "sva",
-        "EBImage",
         "XVector",
         "DelayedArray",
         "genefilter",
@@ -3985,7 +3984,6 @@
     ],
     "Cardinal": [
         "BiocParallel",
-        "EBImage",
         "dplyr",
         "matter",
         "futile.logger",
@@ -6784,7 +6782,6 @@
     ],
     "CONFESS": [
         "contrast",
-        "EBImage",
         "flexmix",
         "flowCore",
         "flowClust",
@@ -7300,7 +7297,6 @@
         "survival"
     ],
     "CRImage": [
-        "EBImage",
         "aCGH",
         "survival",
         "multtest"
@@ -7931,7 +7927,6 @@
     ],
     "cytolib": [],
     "cytomapper": [
-        "EBImage",
         "SingleCellExperiment",
         "BiocParallel",
         "HDF5Array",
@@ -10431,7 +10426,6 @@
     "EBcoexpress": [
         "EBarrays"
     ],
-    "EBImage": [],
     "EBSEA": [
         "DESeq2",
         "IRanges",
@@ -12361,9 +12355,7 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "qvalue",
         "SummarizedExperiment",
@@ -12469,7 +12461,6 @@
         "interp"
     ],
     "flowcatchR": [
-        "EBImage",
         "BiocParallel",
         "plotly",
         "shiny",
@@ -12483,7 +12474,6 @@
     ],
     "flowCHIC": [
         "flowCore",
-        "EBImage",
         "vegan",
         "ggplot2",
         "cytolib",
@@ -15675,7 +15665,6 @@
         "Biostrings",
         "GenomicRanges",
         "IRanges",
-        "EBImage",
         "GenomeInfoDb",
         "XVector"
     ],
@@ -16478,7 +16467,6 @@
         "RcppTOML"
     ],
     "imageHTS": [
-        "EBImage",
         "cellHTS2",
         "vsn",
         "genefilter",
@@ -16541,7 +16529,6 @@
         "pheatmap",
         "scuttle",
         "readr",
-        "EBImage",
         "cytomapper",
         "BiocParallel",
         "viridis",
@@ -34137,7 +34124,6 @@
         "ggplot2",
         "dplyr",
         "reshape2",
-        "EBImage",
         "R.matlab",
         "fitdistrplus",
         "mixtools",
@@ -35603,9 +35589,7 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synergyfinder": [
         "drc",
         "reshape2",
@@ -38809,7 +38793,6 @@
     "yamss": [
         "SummarizedExperiment",
         "IRanges",
-        "EBImage",
         "mzR",
         "GenomicRanges",
         "GenomeInfoDb",
