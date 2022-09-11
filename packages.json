@@ -834,8 +834,7 @@
         "Biostrings"
     ],
     "AnVIL": [
-        "futile.logger",
-        "rapiclient"
+        "futile.logger"
     ],
     "AnVILBilling": [
         "shinytoastr",
@@ -845,8 +844,7 @@
     ],
     "AnVILPublish": [
         "AnVIL",
-        "futile.logger",
-        "rapiclient"
+        "futile.logger"
     ],
     "APAlyzer": [
         "GenomicRanges",
@@ -3420,7 +3418,6 @@
         "SummarizedExperiment",
         "TCGAutils",
         "futile.logger",
-        "rapiclient",
         "XVector",
         "DelayedArray",
         "survival",
@@ -32116,7 +32113,6 @@
     "lava": [
         "survival"
     ],
-    "rapiclient": [],
     "shinytoastr": [],
     "repmis": [
         "R.cache"
