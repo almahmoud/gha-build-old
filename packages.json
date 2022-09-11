@@ -5596,9 +5596,7 @@
         "XVector",
         "GenomeInfoDb"
     ],
-    "clippda": [
-        "rgl"
-    ],
+    "clippda": [],
     "clipper": [
         "igraph",
         "gRbase",
@@ -7836,7 +7834,6 @@
         "checkmate",
         "interp",
         "nloptr",
-        "rgl",
         "dplyr",
         "hardhat",
         "ipred",
@@ -11565,7 +11562,6 @@
     ],
     "fCI": [
         "psych",
-        "rgl",
         "VennDiagram",
         "futile.logger"
     ],
@@ -12614,7 +12610,6 @@
         "checkmate",
         "interp",
         "nloptr",
-        "rgl",
         "dplyr",
         "hardhat",
         "ipred",
@@ -15434,7 +15429,6 @@
         "lumi",
         "affy",
         "GeneSelectMMD",
-        "rgl",
         "lmtest",
         "methylumi",
         "GenomicFeatures",
@@ -20892,7 +20886,6 @@
         "ggplot2",
         "reshape2",
         "readr",
-        "rgl",
         "GenomicRanges",
         "IRanges",
         "GenomeInfoDb",
@@ -22945,8 +22938,7 @@
         "rematch2"
     ],
     "NormqPCR": [
-        "qpcR",
-        "rgl"
+        "qpcR"
     ],
     "normr": [
         "GenomeInfoDb",
@@ -23313,7 +23305,6 @@
         "reshape2",
         "ggplot2",
         "factoextra",
-        "rgl",
         "FactoMineR",
         "PerformanceAnalytics",
         "tidyr",
@@ -23654,7 +23645,6 @@
         "dplyr",
         "Rfast",
         "flowMeans",
-        "rgl",
         "tidyselect",
         "rrcov",
         "feature",
@@ -27104,7 +27094,6 @@
         "GenomicRanges",
         "Rsamtools",
         "baySeq",
-        "rgl",
         "IRanges",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -27319,9 +27308,7 @@
         "BrowserViz"
     ],
     "rDGIdb": [],
-    "RDRToolbox": [
-        "rgl"
-    ],
+    "RDRToolbox": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
         "neo4r",
@@ -35213,7 +35200,6 @@
         "XVector"
     ],
     "TrajectoryGeometry": [
-        "rgl",
         "ggplot2",
         "scales"
     ],
@@ -35402,7 +35388,6 @@
         "SingleCellExperiment",
         "slingshot",
         "SummarizedExperiment",
-        "rgl",
         "scales",
         "GenomicRanges",
         "DelayedArray",
@@ -35757,8 +35742,7 @@
         "scales",
         "longitudinalData",
         "kml",
-        "DelayedArray",
-        "rgl"
+        "DelayedArray"
     ],
     "tspair": [],
     "TSRchitect": [
@@ -35820,7 +35804,6 @@
         "ggplot2"
     ],
     "TTMap": [
-        "rgl",
         "SummarizedExperiment",
         "GenomicRanges",
         "IRanges",
@@ -39392,7 +39375,6 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "rgl": [],
     "gRbase": [
         "RBGL",
         "Rgraphviz",
@@ -39765,8 +39747,7 @@
         "rematch2"
     ],
     "plsVarSel": [
-        "MSQC",
-        "rgl"
+        "MSQC"
     ],
     "kknn": [
         "igraph"
@@ -39783,9 +39764,7 @@
         "rematch2"
     ],
     "RWeka": [],
-    "MSQC": [
-        "rgl"
-    ],
+    "MSQC": [],
     "RWekajars": [],
     "tmvtnorm": [],
     "cp4p": [
@@ -41079,9 +41058,7 @@
         "ggplot2",
         "scales"
     ],
-    "HiveR": [
-        "rgl"
-    ],
+    "HiveR": [],
     "RISmed": [],
     "gghalves": [
         "ggplot2",
@@ -41231,9 +41208,7 @@
         "waldo",
         "rematch2"
     ],
-    "qpcR": [
-        "rgl"
-    ],
+    "qpcR": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "BiocFileCache",
@@ -42040,15 +42015,11 @@
     ],
     "kmlShape": [
         "longitudinalData",
-        "kml",
-        "rgl"
+        "kml"
     ],
-    "longitudinalData": [
-        "rgl"
-    ],
+    "longitudinalData": [],
     "kml": [
-        "longitudinalData",
-        "rgl"
+        "longitudinalData"
     ],
     "mirbase.db": [
         "AnnotationDbi",
