@@ -1,0 +1,34 @@
+* installing *source* package ‘dplR’ ...
+** package ‘dplR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c adsc.c -o adsc.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c  adsf.f95 -o adsf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c capsc.c -o capsc.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c  capsf.f95 -o capsf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c dplR.c -o dplR.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exactmean.c -o exactmean.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exactsum.c -o exactsum.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gini.c -o gini.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rcompact.c -o rcompact.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readloop.c -o readloop.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c redfit.c -o redfit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sens.c -o sens.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fvisibility=hidden -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c tbrm.c -o tbrm.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o dplR.so adsc.o adsf.o capsc.o capsf.o dplR.o exactmean.o exactsum.o gini.o init.o rcompact.o readloop.o redfit.o sens.o tbrm.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-dplR/00new/dplR/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dplR’ as ‘dplR_1.7.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplR)
