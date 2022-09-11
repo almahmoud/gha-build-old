@@ -11558,7 +11558,6 @@
         "GenomeInfoDb"
     ],
     "GCSConnection": [
-        "googleAuthR",
         "googleCloudStorageR"
     ],
     "GCSscore": [
@@ -19971,7 +19970,6 @@
         "BSgenome",
         "Biostrings",
         "VariantAnnotation",
-        "googleAuthR",
         "rtracklayer",
         "IRanges",
         "XVector",
@@ -36652,10 +36650,7 @@
         "scales",
         "callr"
     ],
-    "googleAuthR": [],
-    "googleCloudStorageR": [
-        "googleAuthR"
-    ],
+    "googleCloudStorageR": [],
     "survminer": [
         "ggplot2",
         "ggpubr",
