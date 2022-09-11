@@ -828,7 +828,6 @@
     ],
     "AUCell": [
         "GSEABase",
-        "mixtools",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicRanges",
@@ -3023,7 +3022,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "mixtools",
         "cowplot",
         "propr",
         "uwot",
@@ -3760,7 +3758,6 @@
         "KEGGREST",
         "viper",
         "Biostrings",
-        "mixtools",
         "XVector"
     ],
     "countsimQC": [
@@ -5003,8 +5000,7 @@
         "KEGGREST"
     ],
     "diggit": [
-        "viper",
-        "mixtools"
+        "viper"
     ],
     "Dino": [
         "BiocSingular",
@@ -5397,7 +5393,6 @@
         "lme4",
         "XVector",
         "DelayedArray",
-        "mixtools",
         "KEGGREST",
         "nloptr",
         "Biostrings",
@@ -6998,9 +6993,7 @@
         "XVector"
     ],
     "GEM": [],
-    "gemini": [
-        "mixtools"
-    ],
+    "gemini": [],
     "genbankr": [
         "GenomicRanges",
         "GenomicFeatures",
@@ -7263,7 +7256,6 @@
         "biomaRt"
     ],
     "genomicInstability": [
-        "mixtools",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -8896,7 +8888,6 @@
         "clusterProfiler",
         "ggpubr",
         "ggraph",
-        "mixtools",
         "scater",
         "scran",
         "DataVisualizations",
@@ -11521,7 +11512,6 @@
         "VIM",
         "sva",
         "ddpcr",
-        "mixtools",
         "GenomicRanges",
         "DelayedArray",
         "genefilter",
@@ -13858,7 +13848,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "AnnotationDbi",
         "recipes",
@@ -13883,7 +13872,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "fresh",
         "waiter",
@@ -14545,7 +14533,6 @@
         "GenomicRanges",
         "GSEABase",
         "SummarizedExperiment",
-        "mixtools",
         "XVector",
         "AnnotationDbi",
         "DelayedArray",
@@ -15727,7 +15714,6 @@
     ],
     "RTN": [
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -15742,7 +15728,6 @@
     "RTNduals": [
         "RTN",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -15759,7 +15744,6 @@
         "RTNduals",
         "egg",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -16133,7 +16117,6 @@
     ],
     "scClassify": [
         "ggraph",
-        "mixtools",
         "Cepo",
         "GSEABase",
         "DelayedMatrixStats",
@@ -16348,7 +16331,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "mixtools",
         "RUVSeq",
         "SingleCellExperiment",
         "EDASeq",
@@ -17472,7 +17454,6 @@
         "DelayedArray"
     ],
     "sojourner": [
-        "mixtools",
         "sampSurf"
     ],
     "SomaticSignatures": [
@@ -19595,9 +19576,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "viper": [
-        "mixtools"
-    ],
+    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -19696,7 +19675,6 @@
         "apeglm",
         "GreyListChIP",
         "XVector",
-        "mixtools",
         "AnnotationFilter",
         "BiocIO",
         "BSgenome",
@@ -20272,7 +20250,6 @@
         "Biostrings",
         "XVector"
     ],
-    "mixtools": [],
     "assertive": [
         "assertive.data",
         "assertive.data.uk",
@@ -20982,8 +20959,7 @@
         "XVector"
     ],
     "dorothea": [
-        "viper",
-        "mixtools"
+        "viper"
     ],
     "keras": [
         "tensorflow",
@@ -21551,9 +21527,7 @@
     ],
     "MKmisc": [],
     "gghalves": [],
-    "ddpcr": [
-        "mixtools"
-    ],
+    "ddpcr": [],
     "anyLib": [
         "devtools",
         "miniUI",
