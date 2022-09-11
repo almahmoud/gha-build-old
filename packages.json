@@ -700,7 +700,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "assertive.data",
-        "assertive.data.us",
         "GenomicRanges"
     ],
     "awst": [
@@ -9382,7 +9381,6 @@
         "plyranges",
         "rtracklayer",
         "assertive.data",
-        "assertive.data.us",
         "Rsamtools",
         "keras",
         "AnnotationDbi",
@@ -16219,11 +16217,9 @@
         "Biostrings"
     ],
     "assertive": [
-        "assertive.data",
-        "assertive.data.us"
+        "assertive.data"
     ],
     "assertive.data": [],
-    "assertive.data.us": [],
     "doBy": [
         "pbkrtest",
         "lme4",
