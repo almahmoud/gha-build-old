@@ -255,7 +255,6 @@
         "scater",
         "smurf",
         "apeglm",
-        "ComplexHeatmap",
         "GenomicRanges",
         "scuttle",
         "DelayedArray",
@@ -340,7 +339,6 @@
         "XVector"
     ],
     "AMARETTO": [
-        "ComplexHeatmap",
         "MultiAssayExperiment",
         "curatedTCGAData",
         "AnnotationHub",
@@ -1341,7 +1339,6 @@
     "BiocIO": [],
     "BiocNeighbors": [],
     "BiocOncoTK": [
-        "ComplexHeatmap",
         "GenomicRanges",
         "SummarizedExperiment",
         "GenomicFeatures",
@@ -1477,7 +1474,6 @@
         "WGCNA",
         "DESeq2",
         "sva",
-        "ComplexHeatmap",
         "ggnetwork",
         "networkD3",
         "ggnewscale",
@@ -1641,7 +1637,6 @@
     ],
     "blacksheepr": [
         "viridis",
-        "ComplexHeatmap",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -1671,7 +1666,6 @@
         "SummarizedExperiment",
         "ExperimentHub",
         "testthat",
-        "ComplexHeatmap",
         "AnnotationHub",
         "GenomicRanges",
         "DelayedArray",
@@ -1983,7 +1977,6 @@
         "WGCNA",
         "DESeq2",
         "sva",
-        "ComplexHeatmap",
         "ggnetwork",
         "networkD3",
         "ggnewscale",
@@ -2097,7 +2090,6 @@
     ],
     "CATALYST": [
         "SingleCellExperiment",
-        "ComplexHeatmap",
         "cowplot",
         "drc",
         "flowCore",
@@ -2239,7 +2231,6 @@
         "scran",
         "SingleCellExperiment",
         "DelayedArray",
-        "ComplexHeatmap",
         "multipanelfigure",
         "scuttle",
         "DelayedMatrixStats",
@@ -2428,7 +2419,6 @@
         "broom",
         "flowCore",
         "FlowSOM",
-        "ComplexHeatmap",
         "nloptr",
         "GenomicRanges",
         "DelayedArray",
@@ -2481,7 +2471,6 @@
         "viridis"
     ],
     "CeTF": [
-        "ComplexHeatmap",
         "clusterProfiler",
         "DESeq2",
         "GenomicTools",
@@ -3368,7 +3357,6 @@
     ],
     "COCOA": [
         "GenomicRanges",
-        "ComplexHeatmap",
         "MIRA",
         "XVector",
         "bsseq",
@@ -3433,9 +3421,7 @@
         "SummarizedExperiment",
         "DelayedArray"
     ],
-    "cola": [
-        "ComplexHeatmap"
-    ],
+    "cola": [],
     "combi": [
         "phyloseq",
         "cobs",
@@ -3489,7 +3475,6 @@
     ],
     "COMPASS": [],
     "compcodeR": [],
-    "ComplexHeatmap": [],
     "ComPrAn": [
         "rio",
         "shinydashboard",
@@ -4102,7 +4087,6 @@
         "FlowSOM",
         "lme4",
         "multcomp",
-        "ComplexHeatmap",
         "GenomicRanges",
         "DelayedArray",
         "recipes",
@@ -4163,7 +4147,6 @@
     ],
     "cytoKernel": [
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -4545,7 +4528,6 @@
     "DEComplexDisease": [
         "DESeq2",
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "GenomicRanges",
         "genefilter",
         "geneplotter",
@@ -4681,7 +4663,6 @@
     ],
     "DEGreport": [
         "broom",
-        "ComplexHeatmap",
         "cowplot",
         "DESeq2",
         "ggdendro",
@@ -4750,7 +4731,6 @@
         "MSnbase",
         "vsn",
         "ggrepel",
-        "ComplexHeatmap",
         "shinydashboard",
         "GenomicRanges",
         "DelayedArray",
@@ -4962,7 +4942,6 @@
         "SummarizedExperiment",
         "lme4",
         "multcomp",
-        "ComplexHeatmap",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -5032,7 +5011,6 @@
         "DEXSeq",
         "GenomicRanges",
         "rtracklayer",
-        "ComplexHeatmap",
         "ggrepel",
         "ensembldb",
         "DESeq2",
@@ -5604,7 +5582,6 @@
         "GenomicFeatures",
         "TCGAbiolinks",
         "Gviz",
-        "ComplexHeatmap",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "biomaRt",
@@ -5719,7 +5696,6 @@
         "GenomicAlignments"
     ],
     "EnrichedHeatmap": [
-        "ComplexHeatmap",
         "GenomicRanges",
         "XVector"
     ],
@@ -6404,7 +6380,6 @@
         "GenomicRanges",
         "fda",
         "genomation",
-        "ComplexHeatmap",
         "fds",
         "Biostrings",
         "BSgenome",
@@ -6984,7 +6959,6 @@
     ],
     "gCrisprTools": [
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -7224,7 +7198,6 @@
         "AnnotationDbi",
         "bs4Dash",
         "colourpicker",
-        "ComplexHeatmap",
         "dendextend",
         "DESeq2",
         "ggforce",
@@ -7399,7 +7372,6 @@
     ],
     "GenomicSuperSignature": [
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "ggpubr",
         "plotly",
         "ggrepel",
@@ -7761,7 +7733,6 @@
     "gmoviz": [
         "GenomicRanges",
         "Rsamtools",
-        "ComplexHeatmap",
         "Biostrings",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8832,7 +8803,6 @@
         "DelayedArray"
     ],
     "InteractiveComplexHeatmap": [
-        "ComplexHeatmap",
         "kableExtra",
         "webshot"
     ],
@@ -8854,7 +8824,6 @@
         "plotly",
         "umap",
         "readxl",
-        "ComplexHeatmap",
         "biomaRt",
         "AnnotationDbi",
         "miniUI",
@@ -9045,7 +9014,6 @@
         "rintrojs",
         "ggrepel",
         "colourpicker",
-        "ComplexHeatmap",
         "miniUI",
         "GenomicRanges",
         "DelayedArray",
@@ -9060,7 +9028,6 @@
         "shinydashboard",
         "rintrojs",
         "ggrepel",
-        "ComplexHeatmap",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -9124,7 +9091,6 @@
         "GenomicRanges",
         "GGally",
         "KEGGREST",
-        "ComplexHeatmap",
         "ggdendro",
         "ggrepel",
         "lasso2",
@@ -9341,7 +9307,6 @@
         "testthat"
     ],
     "LineagePulse": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "GenomicRanges",
@@ -9770,7 +9735,6 @@
     "MatrixQCvis": [
         "SummarizedExperiment",
         "plotly",
-        "ComplexHeatmap",
         "Hmisc",
         "proDA",
         "shinydashboard",
@@ -10076,7 +10040,6 @@
         "AnnotationDbi",
         "cowplot",
         "phangorn",
-        "ComplexHeatmap",
         "KEGGREST",
         "XVector"
     ],
@@ -10122,7 +10085,6 @@
         "qvalue",
         "car",
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "GenomicFeatures",
         "Hmisc",
         "XVector",
@@ -10767,7 +10729,6 @@
         "metagenomeSeq",
         "DESeq2",
         "Biostrings",
-        "ComplexHeatmap",
         "ANCOMBC",
         "caret",
         "ALDEx2",
@@ -11357,7 +11318,6 @@
         "XVector"
     ],
     "MOMA": [
-        "ComplexHeatmap",
         "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
@@ -11372,7 +11332,6 @@
         "Biostrings",
         "BSgenome",
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "XVector",
         "rtracklayer",
         "Rsamtools",
@@ -11944,7 +11903,6 @@
     ],
     "muscat": [
         "blme",
-        "ComplexHeatmap",
         "DESeq2",
         "glmmTMB",
         "lmerTest",
@@ -12001,7 +11959,6 @@
         "ggrepel",
         "plotly",
         "factoextra",
-        "ComplexHeatmap",
         "shinydashboard",
         "sortable",
         "TCGAbiolinks",
@@ -12058,7 +12015,6 @@
         "SummarizedExperiment",
         "KEGGgraph",
         "KEGGREST",
-        "ComplexHeatmap",
         "pbkrtest",
         "lme4",
         "Biostrings",
@@ -13068,7 +13024,6 @@
     "PathoStat": [
         "phyloseq",
         "DESeq2",
-        "ComplexHeatmap",
         "plotly",
         "webshot",
         "devtools",
@@ -13193,7 +13148,6 @@
         "DelayedArray"
     ],
     "PeacoQC": [
-        "ComplexHeatmap",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow",
@@ -13530,7 +13484,6 @@
         "DelayedArray"
     ],
     "pipeComp": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "Seurat",
@@ -13673,7 +13626,6 @@
     "POMA": [
         "broom",
         "caret",
-        "ComplexHeatmap",
         "ggcorrplot",
         "ggraph",
         "ggrepel",
@@ -13938,7 +13890,6 @@
         "org.Mm.eg.db",
         "rGREAT",
         "EnrichedHeatmap",
-        "ComplexHeatmap",
         "rtracklayer",
         "Rsamtools",
         "AnnotationDbi",
@@ -14836,7 +14787,6 @@
     "recoup": [
         "GenomicRanges",
         "GenomicAlignments",
-        "ComplexHeatmap",
         "biomaRt",
         "Biostrings",
         "GenomicFeatures",
@@ -15365,7 +15315,6 @@
         "GenomicFeatures",
         "rtracklayer",
         "GenomicRanges",
-        "ComplexHeatmap",
         "AnnotationHub",
         "ggplotify",
         "ggprism",
@@ -16835,7 +16784,6 @@
     ],
     "sechm": [
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "GenomicRanges",
         "DelayedArray",
         "XVector"
@@ -16845,7 +16793,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "bamsignals",
-        "ComplexHeatmap",
         "AnnotationDbi",
         "enrichplot",
         "GenomicFeatures",
@@ -17041,7 +16988,6 @@
     ],
     "SEtools": [
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "sva",
         "DESeq2",
         "GenomicRanges",
@@ -17282,7 +17228,6 @@
     ],
     "simplifyEnrichment": [
         "GOSemSim",
-        "ComplexHeatmap",
         "GO.db",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -17324,7 +17269,6 @@
         "celldex",
         "colourpicker",
         "cowplot",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "DESeq2",
         "ExperimentHub",
@@ -17711,7 +17655,6 @@
     ],
     "sparrow": [
         "BiocSet",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GSEABase",
         "plotly",
@@ -18538,7 +18481,6 @@
         "ASSIGN",
         "GSVA",
         "singscore",
-        "ComplexHeatmap",
         "DESeq2",
         "SummarizedExperiment",
         "msm",
@@ -18608,7 +18550,6 @@
         "GenomicRanges",
         "GenomicFeatures",
         "Gviz",
-        "ComplexHeatmap",
         "MultiAssayExperiment",
         "biomaRt",
         "ggpubr",
@@ -19172,7 +19113,6 @@
         "flowCore",
         "FlowSOM",
         "SummarizedExperiment",
-        "ComplexHeatmap",
         "aplot",
         "ggfun",
         "tidytree",
@@ -20018,7 +19958,6 @@
         "XVector"
     ],
     "Xeva": [
-        "ComplexHeatmap",
         "PharmacoGx",
         "CoreGx",
         "SummarizedExperiment",
@@ -20059,7 +19998,6 @@
         "dendextend",
         "gtrellis",
         "ggbeeswarm",
-        "ComplexHeatmap",
         "KEGGREST",
         "Biostrings",
         "BSgenome.Hsapiens.UCSC.hg19",
