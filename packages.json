@@ -766,8 +766,7 @@
         "GenomicRanges"
     ],
     "banocc": [
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "barcodetrackR": [
         "cowplot",
@@ -1504,7 +1503,6 @@
         "devtools",
         "SummarizedExperiment",
         "Biostrings",
-        "pkgbuild",
         "rcmdcheck",
         "GenomicRanges"
     ],
@@ -2752,7 +2750,6 @@
     ],
     "cogena": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "Cogito": [
@@ -5598,7 +5595,6 @@
     "GCSConnection": [],
     "GCSscore": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "GDCRNATools": [
@@ -5951,8 +5947,7 @@
     ],
     "genphen": [
         "rstan",
-        "Biostrings",
-        "pkgbuild"
+        "Biostrings"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -6887,7 +6882,6 @@
     "IgGeneUsage": [
         "SummarizedExperiment",
         "rstan",
-        "pkgbuild",
         "GenomicRanges"
     ],
     "igvR": [
@@ -6974,7 +6968,6 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "infercnv": [
@@ -7585,8 +7578,7 @@
         "Hmisc",
         "viridis",
         "densEstBayes",
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "m6Aboost": [
         "adabag",
@@ -8317,7 +8309,6 @@
         "tidyverse",
         "ggpubr",
         "minfi",
-        "pkgbuild",
         "rcmdcheck",
         "AnnotationHub",
         "ggpp",
@@ -8472,7 +8463,6 @@
     ],
     "MetID": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "MetNet": [
@@ -9488,7 +9478,6 @@
         "graphite",
         "KEGGREST",
         "ggfun",
-        "pkgbuild",
         "rcmdcheck",
         "DO.db",
         "fgsea",
@@ -10214,7 +10203,6 @@
     ],
     "oppti": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "optimalFlow": [
@@ -10413,7 +10401,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "pkgbuild",
         "rcmdcheck",
         "Biostrings",
         "AnnotationDbi",
@@ -10902,7 +10889,6 @@
     "ppcseq": [
         "rstan",
         "tidybayes",
-        "pkgbuild",
         "ggdist",
         "posterior",
         "distributional"
@@ -12131,8 +12117,7 @@
         "biomaRt",
         "densEstBayes",
         "KEGGREST",
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "RiboProfiling": [
         "Biostrings",
@@ -12273,7 +12258,6 @@
         "DESeq2",
         "genefilter",
         "geneplotter",
-        "pkgbuild",
         "rcmdcheck",
         "AnnotationDbi",
         "Rsamtools",
@@ -13080,8 +13064,7 @@
         "GenomicRanges",
         "viridis",
         "densEstBayes",
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "scmeth": [
         "bsseq",
@@ -13817,8 +13800,7 @@
         "multcomp",
         "densEstBayes",
         "GenomicAlignments",
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -14330,7 +14312,6 @@
         "Gviz",
         "genefilter",
         "geneplotter",
-        "pkgbuild",
         "rcmdcheck",
         "Biostrings",
         "AnnotationDbi",
@@ -16263,10 +16244,7 @@
         "lme4",
         "nloptr"
     ],
-    "rstan": [
-        "pkgbuild"
-    ],
-    "pkgbuild": [],
+    "rstan": [],
     "ggridges": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
@@ -16476,12 +16454,9 @@
         "SummarizedExperiment"
     ],
     "devtools": [
-        "pkgbuild",
         "rcmdcheck"
     ],
-    "rcmdcheck": [
-        "pkgbuild"
-    ],
+    "rcmdcheck": [],
     "ggtext": [],
     "BMA": [],
     "NMF": [],
@@ -17104,12 +17079,10 @@
     ],
     "reldist": [
         "densEstBayes",
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "densEstBayes": [
-        "rstan",
-        "pkgbuild"
+        "rstan"
     ],
     "adabag": [
         "caret",
@@ -17247,7 +17220,6 @@
     "ddpcr": [],
     "anyLib": [
         "devtools",
-        "pkgbuild",
         "rcmdcheck"
     ],
     "blme": [
