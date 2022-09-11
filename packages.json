@@ -1873,7 +1873,6 @@
         "SummarizedExperiment"
     ],
     "cfDNAPro": [
-        "quantmod",
         "Rsamtools",
         "GenomicRanges",
         "Biostrings"
@@ -2547,7 +2546,6 @@
     ],
     "combi": [
         "phyloseq",
-        "cobs",
         "SummarizedExperiment",
         "Biostrings",
         "GenomicRanges"
@@ -2966,7 +2964,6 @@
         "fgsea",
         "highcharter",
         "KEGGREST",
-        "quantmod",
         "Biostrings"
     ],
     "ctsGE": [],
@@ -3227,7 +3224,6 @@
         "viridis",
         "ggpubr",
         "car",
-        "quantmod",
         "missMDA",
         "modelr",
         "pbkrtest",
@@ -3301,7 +3297,6 @@
     "debCAM": [
         "SummarizedExperiment",
         "DMwR2",
-        "quantmod",
         "GenomicRanges"
     ],
     "debrowser": [
@@ -3481,8 +3476,7 @@
         "Biostrings"
     ],
     "deltaGseg": [
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "DeMixT": [
         "SummarizedExperiment",
@@ -3925,7 +3919,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "drawProteins": [],
     "DRIMSeq": [
         "GenomicRanges"
     ],
@@ -4565,7 +4558,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "qvalue",
-        "cobs",
         "BSgenome",
         "Biostrings",
         "rtracklayer",
@@ -9606,7 +9598,6 @@
     "PECA": [
         "genefilter",
         "aroma.affymetrix",
-        "aroma.core",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -9843,7 +9834,6 @@
         "GenomicAlignments",
         "SummarizedExperiment"
     ],
-    "pkgDepTools": [],
     "plethy": [
         "Streamer"
     ],
@@ -10045,8 +10035,7 @@
         "Hmisc",
         "MSnbase",
         "tseries",
-        "viridis",
-        "quantmod"
+        "viridis"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -10213,7 +10202,6 @@
         "factoextra",
         "dendextend",
         "Mfuzz",
-        "quantmod",
         "KEGGREST",
         "DOSE",
         "enrichplot",
@@ -10287,7 +10275,6 @@
         "recount",
         "SummarizedExperiment",
         "KEGGREST",
-        "quantmod",
         "derfinder",
         "GenomicRanges",
         "rtracklayer",
@@ -10688,8 +10675,7 @@
     "RCM": [
         "tseries",
         "phyloseq",
-        "Biostrings",
-        "quantmod"
+        "Biostrings"
     ],
     "Rcpi": [
         "Biostrings",
@@ -13680,7 +13666,6 @@
     "TIN": [
         "aroma.affymetrix",
         "WGCNA",
-        "aroma.core",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -15080,7 +15065,6 @@
         "GenomicTools.fileHandler"
     ],
     "GenomicTools.fileHandler": [],
-    "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
     ],
@@ -15269,7 +15253,6 @@
         "SummarizedExperiment"
     ],
     "phylobase": [],
-    "cobs": [],
     "colortools": [],
     "rio": [],
     "factoextra": [
@@ -15350,9 +15333,7 @@
     "fields": [
         "viridis"
     ],
-    "highcharter": [
-        "quantmod"
-    ],
+    "highcharter": [],
     "cytometree": [],
     "RFOC": [
         "GEOmap",
@@ -15420,9 +15401,7 @@
     ],
     "TFisher": [],
     "mutoss": [],
-    "DMwR2": [
-        "quantmod"
-    ],
+    "DMwR2": [],
     "ggseqlogo": [],
     "rsq": [
         "lme4"
@@ -15430,9 +15409,7 @@
     "webchem": [],
     "textstem": [],
     "lasso2": [],
-    "tseries": [
-        "quantmod"
-    ],
+    "tseries": [],
     "NBPSeq": [
         "qvalue"
     ],
@@ -15796,10 +15773,7 @@
         "fields",
         "viridis"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "genlasso": [],
     "tidybayes": [
         "ggdist",
@@ -15821,8 +15795,7 @@
         "SummarizedExperiment"
     ],
     "forecast": [
-        "tseries",
-        "quantmod"
+        "tseries"
     ],
     "taRifx": [],
     "pwrEWAS.data": [
