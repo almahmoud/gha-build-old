@@ -828,7 +828,6 @@
     ],
     "AUCell": [
         "GSEABase",
-        "mixtools",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicRanges",
@@ -1317,7 +1316,6 @@
         "ggfun",
         "ggplotify",
         "XVector",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat"
@@ -1470,7 +1468,6 @@
         "DESeq2",
         "sva",
         "ggnetwork",
-        "networkD3",
         "ggnewscale",
         "ggpubr",
         "SummarizedExperiment",
@@ -1973,7 +1970,6 @@
         "DESeq2",
         "sva",
         "ggnetwork",
-        "networkD3",
         "ggnewscale",
         "ggpubr",
         "SummarizedExperiment",
@@ -2397,7 +2393,6 @@
         "patchwork",
         "ggforce",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -2507,7 +2502,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "nloptr",
@@ -2804,7 +2798,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db",
         "DelayedArray"
@@ -2991,7 +2984,6 @@
         "DelayedArray"
     ],
     "CIMICE": [
-        "networkD3",
         "ggcorrplot",
         "ggraph",
         "tidygraph",
@@ -3030,7 +3022,6 @@
     "CiteFuse": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "mixtools",
         "cowplot",
         "propr",
         "uwot",
@@ -3166,7 +3157,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -3525,7 +3515,6 @@
         "lme4",
         "ggforce",
         "tidygraph",
-        "tidytree",
         "treeio",
         "broom",
         "nloptr",
@@ -3769,7 +3758,6 @@
         "KEGGREST",
         "viper",
         "Biostrings",
-        "mixtools",
         "XVector"
     ],
     "countsimQC": [
@@ -4356,7 +4344,6 @@
         "ggridges",
         "ggforce",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "dasper": [
@@ -4495,7 +4482,6 @@
         "ggforce",
         "ggrepel",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings"
     ],
@@ -5014,8 +5000,7 @@
         "KEGGREST"
     ],
     "diggit": [
-        "viper",
-        "mixtools"
+        "viper"
     ],
     "Dino": [
         "BiocSingular",
@@ -5408,7 +5393,6 @@
         "lme4",
         "XVector",
         "DelayedArray",
-        "mixtools",
         "KEGGREST",
         "nloptr",
         "Biostrings",
@@ -5510,7 +5494,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "EGSEA": [
@@ -5718,7 +5701,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db",
         "KEGGREST",
@@ -5771,7 +5753,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat"
@@ -5920,7 +5901,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidytree",
         "treeio",
         "Biostrings"
     ],
@@ -6112,7 +6092,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "escape": [
@@ -6273,8 +6252,7 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "beachmat",
-        "scuttle",
-        "tidytree"
+        "scuttle"
     ],
     "ExploreModelMatrix": [
         "shinydashboard",
@@ -6322,7 +6300,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "fastLiquidAssociation": [
@@ -6407,7 +6384,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings"
     ],
@@ -7002,7 +6978,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "car",
         "pbkrtest",
@@ -7018,9 +6993,7 @@
         "XVector"
     ],
     "GEM": [],
-    "gemini": [
-        "mixtools"
-    ],
+    "gemini": [],
     "genbankr": [
         "GenomicRanges",
         "GenomicFeatures",
@@ -7203,7 +7176,6 @@
     "geneXtendeR": [
         "rtracklayer",
         "GO.db",
-        "networkD3",
         "AnnotationDbi",
         "org.Rn.eg.db",
         "KEGGREST",
@@ -7284,7 +7256,6 @@
         "biomaRt"
     ],
     "genomicInstability": [
-        "mixtools",
         "SummarizedExperiment",
         "GenomicRanges",
         "DelayedArray",
@@ -7569,7 +7540,6 @@
     "ggtree": [
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "ggplotify",
         "patchwork"
@@ -7579,7 +7549,6 @@
         "ggtree",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "ggplotify",
         "patchwork"
@@ -8919,7 +8888,6 @@
         "clusterProfiler",
         "ggpubr",
         "ggraph",
-        "mixtools",
         "scater",
         "scran",
         "DataVisualizations",
@@ -8971,7 +8939,6 @@
         "ggplotify",
         "pbkrtest",
         "lme4",
-        "tidytree",
         "treeio",
         "nloptr",
         "testthat"
@@ -9432,7 +9399,6 @@
         "XVector",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "ggplotify",
         "patchwork"
@@ -9595,7 +9561,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -9986,7 +9951,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -10453,7 +10417,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "multtest",
         "Rsamtools",
@@ -10605,8 +10568,7 @@
         "viridis",
         "ggrepel",
         "treeio",
-        "ScaledMatrix",
-        "tidytree"
+        "ScaledMatrix"
     ],
     "miaSim": [
         "SummarizedExperiment",
@@ -10624,7 +10586,6 @@
         "ggtree",
         "ggnewscale",
         "viridis",
-        "tidytree",
         "tidygraph",
         "ggforce",
         "ggrepel",
@@ -10691,7 +10652,6 @@
         "phyloseq",
         "coin",
         "ggtree",
-        "tidytree",
         "patchwork",
         "ggsignif",
         "metagenomeSeq",
@@ -10747,7 +10707,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -10756,7 +10715,6 @@
         "Biostrings",
         "ggrepel",
         "ggtree",
-        "tidytree",
         "coin",
         "ggsignif",
         "patchwork",
@@ -11047,7 +11005,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidytree",
         "treeio"
     ],
     "miRspongeR": [
@@ -11078,7 +11035,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -11345,7 +11301,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings"
     ],
@@ -11557,7 +11512,6 @@
         "VIM",
         "sva",
         "ddpcr",
-        "mixtools",
         "GenomicRanges",
         "DelayedArray",
         "genefilter",
@@ -11782,7 +11736,6 @@
         "ReactomePA",
         "enrichplot",
         "metap",
-        "networkD3",
         "devtools",
         "ropls",
         "MultiDataSet",
@@ -11820,7 +11773,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "multtest",
         "multcomp",
@@ -12239,7 +12191,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -13067,7 +13018,6 @@
         "piano",
         "survcomp",
         "genefu",
-        "reportROC",
         "verification",
         "recipes",
         "biomaRt",
@@ -13199,7 +13149,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -13302,7 +13251,6 @@
         "ggtree",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "ggplotify",
         "patchwork"
@@ -13410,7 +13358,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidytree",
         "treeio",
         "Biostrings",
         "XVector"
@@ -13879,7 +13826,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -13902,7 +13848,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "AnnotationDbi",
         "recipes",
@@ -13927,7 +13872,6 @@
         "MLInterfaces",
         "caret",
         "dendextend",
-        "mixtools",
         "biomaRt",
         "fresh",
         "waiter",
@@ -14024,7 +13968,6 @@
         "ggridges",
         "ggforce",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "ProteoDisco": [
@@ -14590,7 +14533,6 @@
         "GenomicRanges",
         "GSEABase",
         "SummarizedExperiment",
-        "mixtools",
         "XVector",
         "AnnotationDbi",
         "DelayedArray",
@@ -14660,7 +14602,6 @@
         "ggfun",
         "ggplotify",
         "patchwork",
-        "tidytree",
         "treeio",
         "GO.db",
         "Biostrings",
@@ -15561,7 +15502,6 @@
         "patchwork",
         "ggforce",
         "tidygraph",
-        "tidytree",
         "treeio",
         "nloptr",
         "broom",
@@ -15774,7 +15714,6 @@
     ],
     "RTN": [
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -15789,7 +15728,6 @@
     "RTNduals": [
         "RTN",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -15806,7 +15744,6 @@
         "RTNduals",
         "egg",
         "viper",
-        "mixtools",
         "SummarizedExperiment",
         "car",
         "pbkrtest",
@@ -16180,7 +16117,6 @@
     ],
     "scClassify": [
         "ggraph",
-        "mixtools",
         "Cepo",
         "GSEABase",
         "DelayedMatrixStats",
@@ -16395,7 +16331,6 @@
     ],
     "scone": [
         "SummarizedExperiment",
-        "mixtools",
         "RUVSeq",
         "SingleCellExperiment",
         "EDASeq",
@@ -16624,7 +16559,6 @@
         "uwot",
         "ggfun",
         "ggplotify",
-        "tidytree",
         "treeio"
     ],
     "scTGIF": [
@@ -16764,7 +16698,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "GO.db"
     ],
@@ -17102,7 +17035,6 @@
         "ggrepel",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "signeR": [
@@ -17259,7 +17191,6 @@
         "qvalue",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "hgu95a.db",
         "TFisher",
@@ -17373,7 +17304,6 @@
         "aplot",
         "ggrepel",
         "ggtree",
-        "tidytree",
         "ggfun",
         "ggplotify",
         "patchwork",
@@ -17524,7 +17454,6 @@
         "DelayedArray"
     ],
     "sojourner": [
-        "mixtools",
         "sampSurf"
     ],
     "SomaticSignatures": [
@@ -17798,7 +17727,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "spiky": [
@@ -18048,7 +17976,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio"
     ],
     "STATegRa": [],
@@ -18109,7 +18036,6 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "networkD3",
         "ggrepel",
         "org.Hs.eg.db",
         "AnnotationDbi",
@@ -18323,7 +18249,6 @@
         "geneplotter",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "DelayedArray",
         "ggplotify",
@@ -18361,7 +18286,6 @@
         "phangorn",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "ggplotify",
         "patchwork"
@@ -18525,7 +18449,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "prodlim",
         "broom",
@@ -18734,7 +18657,6 @@
         "ggforce",
         "viridis",
         "tidygraph",
-        "tidytree",
         "treeio",
         "Biostrings"
     ],
@@ -19033,9 +18955,7 @@
         "XVector"
     ],
     "TreeAndLeaf": [],
-    "treeio": [
-        "tidytree"
-    ],
+    "treeio": [],
     "treekoR": [
         "ggiraph",
         "ggtree",
@@ -19049,7 +18969,6 @@
         "SummarizedExperiment",
         "aplot",
         "ggfun",
-        "tidytree",
         "treeio",
         "nloptr",
         "GenomicRanges",
@@ -19090,8 +19009,7 @@
         "treeio",
         "XVector",
         "GenomicRanges",
-        "DelayedArray",
-        "tidytree"
+        "DelayedArray"
     ],
     "trena": [
         "MotifDb",
@@ -19658,9 +19576,7 @@
         "KEGGREST",
         "Biostrings"
     ],
-    "viper": [
-        "mixtools"
-    ],
+    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -19759,7 +19675,6 @@
         "apeglm",
         "GreyListChIP",
         "XVector",
-        "mixtools",
         "AnnotationFilter",
         "BiocIO",
         "BSgenome",
@@ -20335,7 +20250,6 @@
         "Biostrings",
         "XVector"
     ],
-    "mixtools": [],
     "assertive": [
         "assertive.data",
         "assertive.data.uk",
@@ -20489,7 +20403,6 @@
     "tidygraph": [],
     "ggfun": [],
     "ggplotify": [],
-    "tidytree": [],
     "styler": [],
     "rms": [
         "Hmisc",
@@ -20510,7 +20423,6 @@
     "ggnetwork": [
         "ggrepel"
     ],
-    "networkD3": [],
     "ggnewscale": [],
     "superheat": [
         "ggdendro"
@@ -21047,8 +20959,7 @@
         "XVector"
     ],
     "dorothea": [
-        "viper",
-        "mixtools"
+        "viper"
     ],
     "keras": [
         "tensorflow",
@@ -21616,9 +21527,7 @@
     ],
     "MKmisc": [],
     "gghalves": [],
-    "ddpcr": [
-        "mixtools"
-    ],
+    "ddpcr": [],
     "anyLib": [
         "devtools",
         "miniUI",
@@ -21708,7 +21617,6 @@
     ],
     "kmer": [],
     "FindMyFriends": [],
-    "reportROC": [],
     "verification": [
         "fields",
         "viridis"
