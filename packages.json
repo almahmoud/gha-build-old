@@ -1381,7 +1381,6 @@
         "xcms",
         "Hmisc",
         "viridis",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -2093,14 +2092,11 @@
     ],
     "cliqueMS": [
         "xcms",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
     "clstutils": [],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -2524,7 +2520,6 @@
     "cosmiq": [
         "xcms",
         "faahKO",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -2888,7 +2883,6 @@
         "GenomicAlignments"
     ],
     "DAPAR": [
-        "MSnbase",
         "cp4p",
         "imp4p",
         "DAPARdata",
@@ -3140,8 +3134,7 @@
     ],
     "densvis": [],
     "DEP": [
-        "SummarizedExperiment",
-        "MSnbase"
+        "SummarizedExperiment"
     ],
     "DepecheR": [
         "viridis",
@@ -4337,7 +4330,6 @@
         "xcms",
         "CAMERA",
         "Hmisc",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
         "viridis"
@@ -5913,7 +5905,6 @@
         "xcms",
         "CAMERA",
         "Hmisc",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
         "viridis"
@@ -6181,7 +6172,6 @@
         "xcms",
         "CAMERA",
         "Hmisc",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
         "viridis"
@@ -6365,7 +6355,6 @@
         "Hmisc",
         "recipes",
         "fields",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
         "viridis",
@@ -6626,7 +6615,6 @@
     ],
     "Metab": [
         "xcms",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -6708,7 +6696,6 @@
         "CAMERA",
         "xcms",
         "Hmisc",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures",
         "viridis"
@@ -6771,9 +6758,7 @@
         "metap",
         "TFisher"
     ],
-    "MetCirc": [
-        "MSnbase"
-    ],
+    "MetCirc": [],
     "methimpute": [
         "Biostrings"
     ],
@@ -7610,17 +7595,12 @@
         "bluster",
         "BiocNeighbors"
     ],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA",
         "qvalue"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsTests",
         "Biostrings",
         "AnnotationHub",
@@ -7676,12 +7656,9 @@
         "lme4",
         "lmerTest"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "MSnbase"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "caret",
@@ -8005,7 +7982,6 @@
     ],
     "ncGTW": [
         "xcms",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -8613,9 +8589,7 @@
     "PeacoQC": [
         "flowWorkspace"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PECA": [
         "genefilter",
         "aroma.affymetrix",
@@ -8886,7 +8860,6 @@
         "caret",
         "ggraph",
         "mixOmics",
-        "MSnbase",
         "recipes",
         "viridis",
         "ipred"
@@ -9004,7 +8977,6 @@
     "PrInCE": [
         "forecast",
         "Hmisc",
-        "MSnbase",
         "tseries",
         "viridis"
     ],
@@ -9057,7 +9029,6 @@
         "xcms",
         "ropls",
         "MultiDataSet",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -9103,7 +9074,6 @@
         "SummarizedExperiment"
     ],
     "pRoloc": [
-        "MSnbase",
         "MLInterfaces",
         "caret",
         "dendextend",
@@ -9118,7 +9088,6 @@
     ],
     "pRolocGUI": [
         "pRoloc",
-        "MSnbase",
         "shinydashboardPlus",
         "MLInterfaces",
         "caret",
@@ -9149,7 +9118,6 @@
         "DAPAR",
         "DAPARdata",
         "highcharter",
-        "MSnbase",
         "cp4p",
         "imp4p",
         "siggenes",
@@ -9202,7 +9170,6 @@
     "ProteomicsAnnotationHubData": [
         "AnnotationHub",
         "AnnotationHubData",
-        "MSnbase",
         "Biostrings",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -9262,7 +9229,6 @@
     "ptairMS": [
         "ggpubr",
         "Hmisc",
-        "MSnbase",
         "rstatix",
         "viridis",
         "car",
@@ -9356,7 +9322,6 @@
         "SummarizedExperiment"
     ],
     "qPLEXanalyzer": [
-        "MSnbase",
         "Biostrings"
     ],
     "qrqc": [
@@ -10041,7 +10006,6 @@
     ],
     "Risa": [
         "xcms",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -10084,9 +10048,7 @@
         "ipred"
     ],
     "Rmagpie": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "Rmmquant": [
         "SummarizedExperiment",
         "devtools",
@@ -12319,8 +12281,7 @@
         "SummarizedExperiment"
     ],
     "topdownr": [
-        "Biostrings",
-        "MSnbase"
+        "Biostrings"
     ],
     "topGO": [
         "GO.db",
@@ -13014,7 +12975,6 @@
         "OmnipathR"
     ],
     "xcms": [
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -13722,7 +13682,6 @@
     ],
     "faahKO": [
         "xcms",
-        "MSnbase",
         "SummarizedExperiment",
         "MsFeatures"
     ],
@@ -13772,9 +13731,7 @@
         "pbkrtest",
         "lme4"
     ],
-    "DAPARdata": [
-        "MSnbase"
-    ],
+    "DAPARdata": [],
     "tidyverse": [
         "modelr"
     ],
