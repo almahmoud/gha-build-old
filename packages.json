@@ -2567,7 +2567,6 @@
         "scater",
         "car",
         "multcomp",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -2960,7 +2959,6 @@
         "GenomeInfoDb",
         "DelayedArray",
         "ggplot2",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -3885,7 +3883,6 @@
     "cmapR": [
         "flowCore",
         "SummarizedExperiment",
-        "cytolib",
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
@@ -4338,7 +4335,6 @@
         "ggplot2",
         "rms",
         "flowViz",
-        "cytolib",
         "rrcov",
         "feature",
         "Hmisc",
@@ -4922,7 +4918,6 @@
         "mrfDepth",
         "cowplot",
         "flowViz",
-        "cytolib",
         "car",
         "RFOC",
         "flowWorkspace",
@@ -4948,7 +4943,6 @@
         "SummarizedExperiment",
         "flowCore",
         "BiocNeighbors",
-        "cytolib",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -4957,8 +4951,7 @@
     ],
     "CytoDx": [
         "glmnet",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "CyTOFpower": [
         "CytoGLMM",
@@ -4987,7 +4980,6 @@
         "dendextend",
         "FactoMineR",
         "ggpubr",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -5058,7 +5050,6 @@
         "DelayedArray",
         "XVector"
     ],
-    "cytolib": [],
     "cytomapper": [
         "SingleCellExperiment",
         "BiocParallel",
@@ -5074,7 +5065,6 @@
         "XVector"
     ],
     "CytoML": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "openCyto",
@@ -5109,7 +5099,6 @@
         "ggthemes",
         "VIM",
         "smoother",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -5403,7 +5392,6 @@
         "ggplot2",
         "flowCore",
         "flowDensity",
-        "cytolib",
         "flowViz",
         "car",
         "RFOC",
@@ -6028,7 +6016,6 @@
         "lme4",
         "multcomp",
         "ComplexHeatmap",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -7967,18 +7954,15 @@
     ],
     "flowAI": [
         "ggplot2",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowBeads": [
         "rrcov",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowBin": [
         "flowCore",
         "flowFP",
-        "cytolib",
         "flowViz"
     ],
     "flowcatchR": [
@@ -7988,28 +7972,22 @@
     ],
     "flowCHIC": [
         "flowCore",
-        "ggplot2",
-        "cytolib"
+        "ggplot2"
     ],
     "flowCL": [
         "SPARQL"
     ],
     "flowClean": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowClust": [
         "flowViz",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
         "flowCore",
         "flowDensity",
-        "cytolib",
         "flowViz",
         "car",
         "RFOC",
@@ -8037,7 +8015,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "cytolib",
         "ggplot2",
         "ncdfFlow",
         "DelayedArray",
@@ -8050,8 +8027,7 @@
     ],
     "flowFP": [
         "flowCore",
-        "flowViz",
-        "cytolib"
+        "flowViz"
     ],
     "flowGraph": [
         "ggiraph",
@@ -8060,22 +8036,19 @@
     ],
     "flowMap": [],
     "flowMatch": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowMeans": [
         "rrcov",
         "feature",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowMerge": [
         "feature",
         "flowClust",
         "rrcov",
         "flowCore",
-        "flowViz",
-        "cytolib"
+        "flowViz"
     ],
     "flowPloidy": [
         "flowCore",
@@ -8083,7 +8056,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "cytolib",
         "nloptr",
         "broom",
         "ggplot2",
@@ -8101,7 +8073,6 @@
         "ggrepel",
         "pheatmap",
         "scattermore",
-        "cytolib",
         "openCyto",
         "ggcyto",
         "ncdfFlow",
@@ -8129,8 +8100,7 @@
     "flowSpecs": [
         "ggplot2",
         "BiocParallel",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowStats": [
         "flowCore",
@@ -8140,35 +8110,29 @@
         "fda",
         "rrcov",
         "fds",
-        "cytolib",
         "ggplot2",
         "DelayedArray",
         "rainbow",
         "hdrcde"
     ],
     "flowTime": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowTrans": [
         "flowCore",
         "flowViz",
-        "flowClust",
-        "cytolib"
+        "flowClust"
     ],
     "flowUtils": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowViz": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "flowVS": [
         "flowCore",
         "flowViz",
         "flowStats",
-        "cytolib",
         "flowWorkspace",
         "ncdfFlow",
         "fda",
@@ -8180,7 +8144,6 @@
         "hdrcde"
     ],
     "flowWorkspace": [
-        "cytolib",
         "ggplot2",
         "flowCore",
         "ncdfFlow",
@@ -8440,7 +8403,6 @@
     "GateFinder": [
         "flowCore",
         "flowFP",
-        "cytolib",
         "flowViz"
     ],
     "gcapc": [
@@ -9188,7 +9150,6 @@
         "flowCore",
         "ncdfFlow",
         "flowWorkspace",
-        "cytolib",
         "DelayedArray"
     ],
     "ggmsa": [
@@ -10551,7 +10512,6 @@
         "heatmaply",
         "flowCore",
         "flowWorkspace",
-        "cytolib",
         "ncdfFlow",
         "DelayedArray",
         "viridis",
@@ -10561,8 +10521,7 @@
         "egg"
     ],
     "immunoClust": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "immunotation": [
         "ggplot2",
@@ -10595,8 +10554,7 @@
     ],
     "infinityFlow": [
         "flowCore",
-        "uwot",
-        "cytolib"
+        "uwot"
     ],
     "InPAS": [
         "GenomicRanges",
@@ -12327,7 +12285,6 @@
         "flowCore",
         "ggplot2",
         "FlowSOM",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
@@ -14851,8 +14808,7 @@
         "testthat"
     ],
     "ncdfFlow": [
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "ncGTW": [
         "BiocParallel",
@@ -15493,7 +15449,6 @@
         "shinyFiles",
         "plotly",
         "flowCore",
-        "cytolib",
         "ggplot2"
     ],
     "onlineFDR": [
@@ -15517,7 +15472,6 @@
         "flowStats",
         "flowClust",
         "rrcov",
-        "cytolib",
         "fda",
         "ggplot2",
         "DelayedArray",
@@ -15612,8 +15566,7 @@
         "flowMeans",
         "rrcov",
         "feature",
-        "flowCore",
-        "cytolib"
+        "flowCore"
     ],
     "OPWeight": [
         "qvalue",
@@ -16073,7 +16026,6 @@
         "flowCore",
         "flowWorkspace",
         "ggplot2",
-        "cytolib",
         "ncdfFlow",
         "DelayedArray"
     ],
@@ -19904,7 +19856,6 @@
         "flowCore",
         "umap",
         "Seurat",
-        "cytolib",
         "cowplot",
         "fitdistrplus",
         "ggridges",
@@ -20171,8 +20122,7 @@
     ],
     "Sconify": [
         "flowCore",
-        "ggplot2",
-        "cytolib"
+        "ggplot2"
     ],
     "SCOPE": [
         "GenomicRanges",
@@ -23399,7 +23349,6 @@
         "GenomicRanges",
         "DelayedArray",
         "ggplotify",
-        "cytolib",
         "CytoML",
         "flowWorkspace",
         "ggforce",
