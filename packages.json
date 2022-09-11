@@ -861,7 +861,6 @@
         "graphite",
         "pbkrtest",
         "lme4",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -1560,7 +1559,6 @@
         "Hmisc",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -1615,7 +1613,6 @@
         "rstatix",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -1828,7 +1825,6 @@
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "KEGGREST",
-        "aplot",
         "DOSE",
         "ggraph",
         "scatterpie",
@@ -2056,7 +2052,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -2283,7 +2278,6 @@
         "BiocSingular",
         "bluster",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -2829,7 +2823,6 @@
         "modelr",
         "pbkrtest",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -2908,7 +2901,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -3542,7 +3534,6 @@
         "genefilter",
         "geneplotter",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -3669,7 +3660,6 @@
         "org.Hs.eg.db"
     ],
     "enrichplot": [
-        "aplot",
         "DOSE",
         "ggraph",
         "scatterpie",
@@ -3702,7 +3692,6 @@
         "CNEr",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -3800,7 +3789,6 @@
         "KEGGREST",
         "DO.db",
         "GOSemSim",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -3941,7 +3929,6 @@
         "GenomicAlignments",
         "CNEr",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree"
@@ -4074,7 +4061,6 @@
         "GOSemSim",
         "Biostrings",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree"
@@ -4127,7 +4113,6 @@
         "SummarizedExperiment",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -4491,7 +4476,6 @@
         "DO.db",
         "KEGGREST",
         "ggpubr",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -4841,7 +4825,6 @@
     ],
     "ggmsa": [
         "Biostrings",
-        "aplot",
         "R4RNA",
         "seqmagick"
     ],
@@ -4853,12 +4836,9 @@
         "DropletUtils",
         "scuttle"
     ],
-    "ggtree": [
-        "aplot"
-    ],
+    "ggtree": [],
     "ggtreeExtra": [
-        "ggtree",
-        "aplot"
+        "ggtree"
     ],
     "girafe": [
         "Rsamtools",
@@ -5767,7 +5747,6 @@
         "BiocSingular",
         "bluster",
         "DO.db",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings",
@@ -6051,8 +6030,7 @@
     "LymphoSeq": [
         "ggtree",
         "msa",
-        "Biostrings",
-        "aplot"
+        "Biostrings"
     ],
     "M3C": [],
     "M3Drop": [
@@ -6155,7 +6133,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -6409,7 +6386,6 @@
         "MeSHDbi",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -6694,7 +6670,6 @@
         "methylumi",
         "SummarizedExperiment",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -6814,7 +6789,6 @@
         "ggraph",
         "scater",
         "ggtree",
-        "aplot",
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "Biostrings",
@@ -6859,7 +6833,6 @@
         "recipes",
         "genefilter",
         "geneplotter",
-        "aplot",
         "AnnotationDbi",
         "ipred",
         "KEGGREST"
@@ -6871,7 +6844,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -6884,8 +6856,7 @@
         "ggtree",
         "coin",
         "SummarizedExperiment",
-        "ggtreeExtra",
-        "aplot"
+        "ggtreeExtra"
     ],
     "microRNA": [
         "Biostrings"
@@ -7064,7 +7035,6 @@
         "ggraph",
         "reactome.db",
         "graphite",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -7083,7 +7053,6 @@
         "reactome.db",
         "graphite",
         "KEGGREST",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -7256,7 +7225,6 @@
         "DO.db",
         "biomaRt",
         "KEGGREST",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -7540,7 +7508,6 @@
         "SummarizedExperiment",
         "genefilter",
         "geneplotter",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -7797,7 +7764,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -8377,7 +8343,6 @@
         "GOSemSim",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -8432,8 +8397,7 @@
         "mice"
     ],
     "philr": [
-        "ggtree",
-        "aplot"
+        "ggtree"
     ],
     "PhIPData": [
         "SummarizedExperiment"
@@ -8488,7 +8452,6 @@
         "Hmisc",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -8787,7 +8750,6 @@
         "chipseq",
         "KEGGREST",
         "ShortRead",
-        "aplot",
         "DOSE",
         "ggraph",
         "scatterpie",
@@ -8868,7 +8830,6 @@
         "modelr",
         "pbkrtest",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -9294,7 +9255,6 @@
         "KEGGREST",
         "DO.db",
         "GOSemSim",
-        "aplot",
         "scatterpie",
         "ggtree",
         "GO.db",
@@ -9935,7 +9895,6 @@
         "GenomicFeatures",
         "pbkrtest",
         "lme4",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -10528,7 +10487,6 @@
         "ggraph",
         "graphite",
         "concaveman",
-        "aplot",
         "scatterpie",
         "ggtree",
         "Biostrings"
@@ -10591,7 +10549,6 @@
         "rtracklayer",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "KEGGREST",
-        "aplot",
         "DOSE",
         "ggraph",
         "scatterpie",
@@ -10817,7 +10774,6 @@
         "GOSemSim",
         "DO.db",
         "AnnotationHub",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -10924,7 +10880,6 @@
         "AnnotationHub",
         "genefilter",
         "geneplotter",
-        "aplot",
         "hgu95a.db",
         "TFisher",
         "bluster",
@@ -10994,7 +10949,6 @@
         "SummarizedExperiment"
     ],
     "sitePath": [
-        "aplot",
         "ggtree"
     ],
     "skewr": [
@@ -11251,7 +11205,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -11416,7 +11369,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -11589,7 +11541,6 @@
         "ggtree",
         "genefilter",
         "geneplotter",
-        "aplot",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -11608,8 +11559,7 @@
         "Biostrings"
     ],
     "tanggle": [
-        "ggtree",
-        "aplot"
+        "ggtree"
     ],
     "TAPseq": [
         "GenomicAlignments",
@@ -11696,7 +11646,6 @@
         "KEGGREST",
         "sesameData",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -11841,7 +11790,6 @@
         "SummarizedExperiment",
         "KEGGREST",
         "DO.db",
-        "aplot",
         "ggraph",
         "scatterpie",
         "ggtree",
@@ -12042,7 +11990,6 @@
         "lme4",
         "FlowSOM",
         "SummarizedExperiment",
-        "aplot",
         "CytoML",
         "flowWorkspace",
         "ggpubr",
@@ -12943,7 +12890,6 @@
         "Biostrings"
     ],
     "ggraph": [],
-    "aplot": [],
     "scatterpie": [],
     "rms": [
         "Hmisc"
