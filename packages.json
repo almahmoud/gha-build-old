@@ -15965,7 +15965,6 @@
         "genefilter",
         "aroma.affymetrix",
         "aroma.core",
-        "R.filesets",
         "R.rsp",
         "PSCBS",
         "AnnotationDbi",
@@ -22836,7 +22835,6 @@
         "aroma.affymetrix",
         "WGCNA",
         "aroma.core",
-        "R.filesets",
         "Hmisc",
         "GO.db",
         "AnnotationDbi",
@@ -26647,16 +26645,13 @@
     ],
     "aroma.affymetrix": [
         "aroma.core",
-        "R.filesets",
         "R.rsp",
         "PSCBS"
     ],
     "aroma.core": [
-        "R.filesets",
         "R.rsp",
         "PSCBS"
     ],
-    "R.filesets": [],
     "R.rsp": [],
     "PSCBS": [],
     "genlasso": [],
