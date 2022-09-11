@@ -117,7 +117,6 @@
         "cowplot",
         "rstatix",
         "AnnotationDbi",
-        "callr",
         "Biostrings",
         "broom",
         "car",
@@ -436,7 +435,6 @@
     ],
     "AMARETTO": [
         "ComplexHeatmap",
-        "callr",
         "MultiAssayExperiment",
         "curatedTCGAData",
         "glmnet",
@@ -497,8 +495,7 @@
         "Biostrings",
         "multtest",
         "XVector",
-        "GenomeInfoDb",
-        "callr"
+        "GenomeInfoDb"
     ],
     "AneuFinder": [
         "GenomicRanges",
@@ -864,8 +861,7 @@
         "nloptr",
         "XVector",
         "GenomeInfoDb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ASICS": [
         "BiocParallel",
@@ -916,8 +912,7 @@
         "nloptr",
         "htmlTable",
         "viridis",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ASpli": [
         "AnnotationDbi",
@@ -1028,7 +1023,6 @@
         "rtracklayer",
         "XVector",
         "Rsamtools",
-        "callr",
         "GenomicAlignments",
         "BiocIO",
         "SummarizedExperiment",
@@ -1106,8 +1100,7 @@
         "lme4",
         "DelayedArray",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "bacon": [
         "ggplot2",
@@ -1184,8 +1177,7 @@
         "rstan",
         "ggplot2",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "barcodetrackR": [
         "cowplot",
@@ -1302,7 +1294,6 @@
         "genefilter",
         "BiocParallel",
         "AnnotationDbi",
-        "callr",
         "KEGGREST",
         "Biostrings",
         "XVector",
@@ -1681,8 +1672,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "BiocCheck": [
         "biocViews",
@@ -1738,8 +1728,7 @@
         "Rsamtools",
         "GenomicAlignments",
         "BiocParallel",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "BioCor": [
         "BiocParallel",
@@ -1794,33 +1783,27 @@
         "usethis"
     ],
     "biodb": [
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biodbChebi": [
         "biodb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biodbHmdb": [
         "biodb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biodbKegg": [
         "biodb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biodbLipidmaps": [
         "biodb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biodbUniprot": [
         "biodb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "bioDist": [],
     "biomaRt": [
@@ -1923,8 +1906,7 @@
         "lme4",
         "Biostrings",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "BioNet": [
         "RBGL",
@@ -2142,7 +2124,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "AnnotationDbi",
         "interactiveDisplayBase",
         "XVector",
@@ -2388,8 +2369,7 @@
         "rcmdcheck",
         "testthat",
         "GenomicRanges",
-        "DelayedArray",
-        "callr"
+        "DelayedArray"
     ],
     "bumphunter": [
         "GenomeInfoDb",
@@ -2570,8 +2550,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "CAGEr": [
         "MultiAssayExperiment",
@@ -2731,7 +2710,6 @@
         "testthat",
         "pcaPP",
         "fds",
-        "callr",
         "rainbow",
         "hdrcde"
     ],
@@ -2988,8 +2966,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "CellMixS": [
         "BiocNeighbors",
@@ -3128,7 +3105,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "callr",
         "flowViz",
         "flowStats",
         "flowClust",
@@ -3228,8 +3204,7 @@
         "Biostrings",
         "tweenr",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "CexoR": [
         "Rsamtools",
@@ -3718,7 +3693,6 @@
         "sparseMatrixStats",
         "RcppTOML",
         "selectr",
-        "callr",
         "KEGGREST"
     ],
     "chromstaR": [
@@ -4130,8 +4104,7 @@
         "RBGL",
         "Rgraphviz",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "CNORode": [
         "CellNOptR",
@@ -4232,8 +4205,7 @@
         "shinyjs",
         "XVector",
         "Biostrings",
-        "BiocParallel",
-        "callr"
+        "BiocParallel"
     ],
     "CNVRanger": [
         "GenomicRanges",
@@ -4339,8 +4311,7 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Cogito": [
         "GenomicRanges",
@@ -4512,8 +4483,7 @@
         "broom",
         "tweenr",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "condiments": [
         "slingshot",
@@ -5160,8 +5130,7 @@
         "nloptr",
         "broom",
         "viridis",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "cycle": [
         "Mfuzz"
@@ -5243,7 +5212,6 @@
         "flowClust",
         "rrcov",
         "broom",
-        "callr",
         "fda",
         "lava",
         "pcaPP",
@@ -5277,8 +5245,7 @@
         "prodlim",
         "testthat",
         "broom",
-        "lava",
-        "callr"
+        "lava"
     ],
     "cytoKernel": [
         "SummarizedExperiment",
@@ -5389,7 +5356,6 @@
         "fds",
         "testthat",
         "rainbow",
-        "callr",
         "hdrcde"
     ],
     "dada2": [
@@ -5482,8 +5448,7 @@
         "prodlim",
         "testthat",
         "broom",
-        "lava",
-        "callr"
+        "lava"
     ],
     "DAPAR": [
         "MSnbase",
@@ -5549,7 +5514,6 @@
         "mice",
         "testthat",
         "TTR",
-        "callr",
         "selectr",
         "ggfun",
         "ggplotify",
@@ -5602,7 +5566,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "callr",
         "nloptr"
     ],
     "dcanr": [],
@@ -5644,7 +5607,6 @@
         "ggdendro",
         "multtest",
         "multcomp",
-        "callr",
         "selectr",
         "sn",
         "Biostrings",
@@ -5677,8 +5639,7 @@
         "nloptr",
         "broom",
         "viridis",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "dearseq": [
         "ggplot2",
@@ -5756,7 +5717,6 @@
         "tidytree",
         "treeio",
         "Biostrings",
-        "callr",
         "tweenr"
     ],
     "DECIPHER": [
@@ -5843,8 +5803,7 @@
         "BiocIO",
         "SummarizedExperiment",
         "testthat",
-        "DelayedArray",
-        "callr"
+        "DelayedArray"
     ],
     "decoupleR": [
         "broom",
@@ -5942,8 +5901,7 @@
         "webshot",
         "egg",
         "KEGGREST",
-        "DelayedArray",
-        "callr"
+        "DelayedArray"
     ],
     "DEGraph": [
         "KEGGgraph",
@@ -6188,8 +6146,7 @@
         "XVector",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "DEsubs": [
         "RBGL",
@@ -6209,7 +6166,6 @@
         "GenomeInfoDb",
         "XVector",
         "DelayedArray",
-        "callr",
         "KEGGREST",
         "Biostrings"
     ],
@@ -6351,7 +6307,6 @@
         "rrcov",
         "broom",
         "car",
-        "callr",
         "pbkrtest",
         "quantreg",
         "fda",
@@ -6500,8 +6455,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "distinct": [
         "SummarizedExperiment",
@@ -6561,8 +6515,7 @@
         "BiocIO",
         "DelayedArray",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "DMCHMM": [
         "SummarizedExperiment",
@@ -6756,8 +6709,7 @@
         "TH.data",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "DOSE": [
         "AnnotationDbi",
@@ -6781,8 +6733,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "dpeak": [
         "BSgenome",
@@ -6932,8 +6883,7 @@
         "KEGGREST",
         "nloptr",
         "Biostrings",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "easyreporting": [],
     "easyRNASeq": [
@@ -6969,13 +6919,11 @@
         "Biostrings"
     ],
     "EBSeq": [
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "EDASeq": [
         "ShortRead",
@@ -7009,7 +6957,6 @@
         "KEGGREST",
         "testthat",
         "Biostrings",
-        "callr",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -7158,8 +7105,7 @@
         "htmlTable",
         "viridis",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "EMDomics": [
         "BiocParallel",
@@ -7376,8 +7322,7 @@
         "treeio",
         "tweenr",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ensembldb": [
         "GenomicRanges",
@@ -7461,8 +7406,7 @@
         "BiocParallel",
         "nloptr",
         "DelayedArray",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "EpiDISH": [],
     "epigenomix": [
@@ -7512,8 +7456,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "epihet": [
         "GenomicRanges",
@@ -7841,8 +7784,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "EventPointer": [
         "SGSeq",
@@ -8407,8 +8349,7 @@
         "nloptr",
         "broom",
         "viridis",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "flowCyBar": [
         "vegan"
@@ -8433,8 +8374,7 @@
         "nloptr",
         "broom",
         "viridis",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "flowFP": [
         "flowCore",
@@ -8478,8 +8418,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "FlowSOM": [
         "CytoML",
@@ -8520,8 +8459,7 @@
         "nloptr",
         "rainbow",
         "testthat",
-        "hdrcde",
-        "callr"
+        "hdrcde"
     ],
     "flowSpecs": [
         "ggplot2",
@@ -8657,8 +8595,7 @@
         "dendextend",
         "seriation",
         "webshot",
-        "egg",
-        "callr"
+        "egg"
     ],
     "frenchFISH": [
         "MCMCpack",
@@ -8670,8 +8607,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "FRGEpistasis": [
         "fda",
@@ -8839,7 +8775,6 @@
         "XVector",
         "htmlTable",
         "viridis",
-        "callr",
         "KEGGREST",
         "pbkrtest",
         "quantreg",
@@ -8897,8 +8832,7 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GDCRNATools": [
         "DESeq2",
@@ -8960,8 +8894,7 @@
         "lme4",
         "tweenr",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GDSArray": [
         "DelayedArray",
@@ -9017,8 +8950,7 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GeneAnswers": [
         "KEGGREST",
@@ -9095,8 +9027,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GeneMeta": [
         "genefilter",
@@ -9414,8 +9345,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GenomicTuples": [
         "GenomicRanges",
@@ -9450,8 +9380,7 @@
         "GenomeInfoDb",
         "ggplot2",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -9492,7 +9421,6 @@
         "ggthemes",
         "pheatmap",
         "rrcov",
-        "callr",
         "XVector",
         "GenomeInfoDb",
         "pcaPP"
@@ -9523,7 +9451,6 @@
         "ggsignif",
         "rstatix",
         "RcppTOML",
-        "callr",
         "pbkrtest",
         "quantreg",
         "lme4",
@@ -9550,8 +9477,7 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GEOsubmission": [],
     "gep2pep": [
@@ -9593,8 +9519,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ggbio": [
         "ggplot2",
@@ -9787,8 +9712,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "GlobalAncova": [
         "globaltest",
@@ -10118,8 +10042,7 @@
         "TH.data",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "groHMM": [
         "GenomeInfoDb",
@@ -10151,8 +10074,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "callr"
+        "XVector"
     ],
     "GSEABase": [
         "AnnotationDbi",
@@ -10711,8 +10633,7 @@
         "tweenr",
         "rvest",
         "webshot",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "hyperdraw": [
         "hypergraph",
@@ -10871,7 +10792,6 @@
         "GenomicFeatures",
         "Biostrings",
         "pkgmaker",
-        "callr",
         "BiocIO",
         "Rsamtools",
         "GenomicAlignments"
@@ -10919,8 +10839,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "callr"
+        "XVector"
     ],
     "igvR": [
         "GenomicRanges",
@@ -10997,8 +10916,7 @@
         "biomaRt",
         "nloptr",
         "testthat",
-        "DelayedArray",
-        "callr"
+        "DelayedArray"
     ],
     "imcRtools": [
         "SpatialExperiment",
@@ -11055,8 +10973,7 @@
         "dendextend",
         "seriation",
         "webshot",
-        "egg",
-        "callr"
+        "egg"
     ],
     "immunoClust": [
         "flowCore",
@@ -11074,8 +10991,7 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "infercnv": [
         "phyclust",
@@ -11172,8 +11088,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "intansv": [
         "ggbio",
@@ -11218,8 +11133,7 @@
         "kableExtra",
         "rvest",
         "webshot",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "interactiveDisplay": [
         "interactiveDisplayBase",
@@ -11275,8 +11189,7 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "IntEREst": [
         "GenomicRanges",
@@ -11361,8 +11274,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ipdDb": [
         "AnnotationDbi",
@@ -11478,8 +11390,7 @@
         "tidytree",
         "treeio",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ISAnalytics": [
         "BiocParallel",
@@ -11655,7 +11566,6 @@
         "Rsamtools",
         "GenomicAlignments",
         "SummarizedExperiment",
-        "callr",
         "DelayedArray"
     ],
     "ivygapSE": [
@@ -11684,8 +11594,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "IWTomics": [
         "GenomicRanges",
@@ -11850,8 +11759,7 @@
     "LedPred": [
         "ggplot2",
         "ROCR",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "lefser": [
         "SummarizedExperiment",
@@ -11868,8 +11776,7 @@
         "ggplot2",
         "shinydashboard",
         "shinyjs",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "LineagePulse": [
         "BiocParallel",
@@ -11905,8 +11812,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Linnorm": [
         "vegan",
@@ -11961,8 +11867,7 @@
         "pheatmap",
         "nloptr",
         "classInt",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "LOBSTAHS": [
         "xcms",
@@ -12102,8 +12007,7 @@
         "rstan",
         "rstantools",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "m6Aboost": [
         "adabag",
@@ -12148,8 +12052,7 @@
         "nloptr",
         "glmnet",
         "testthat",
-        "broom",
-        "callr"
+        "broom"
     ],
     "macat": [
         "AnnotationDbi",
@@ -12316,7 +12219,6 @@
         "rvest",
         "XVector",
         "ipred",
-        "callr",
         "selectr",
         "prodlim",
         "lava"
@@ -12723,8 +12625,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "megadepth": [
         "GenomicRanges",
@@ -12732,8 +12633,7 @@
         "testthat",
         "usethis",
         "GenomeInfoDb",
-        "XVector",
-        "callr"
+        "XVector"
     ],
     "MEIGOR": [
         "CNORode",
@@ -12765,8 +12665,7 @@
         "universalmotif",
         "XVector",
         "GenomeInfoDb",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MeSHDbi": [
         "AnnotationDbi",
@@ -12914,8 +12813,7 @@
         "broom",
         "BiocParallel",
         "GenomicAlignments",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MetaCyto": [
         "flowCore",
@@ -12957,8 +12855,7 @@
         "nloptr",
         "rainbow",
         "testthat",
-        "hdrcde",
-        "callr"
+        "hdrcde"
     ],
     "metagene": [
         "GenomicRanges",
@@ -13081,7 +12978,6 @@
         "HDF5Array",
         "beachmat",
         "lava",
-        "callr",
         "sparseMatrixStats"
     ],
     "metavizr": [
@@ -13190,8 +13086,7 @@
         "lme4",
         "Biostrings",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "methrix": [
         "SummarizedExperiment",
@@ -13325,7 +13220,6 @@
         "GenomicFeatures",
         "sparseMatrixStats",
         "AnnotationHubData",
-        "callr",
         "car",
         "selectr",
         "multtest",
@@ -13533,8 +13427,7 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MetNet": [
         "SummarizedExperiment",
@@ -13704,7 +13597,6 @@
         "XVector",
         "nloptr",
         "DelayedArray",
-        "callr",
         "KEGGREST",
         "testthat",
         "Biostrings"
@@ -13755,7 +13647,6 @@
         "NADA",
         "KEGGREST",
         "prodlim",
-        "callr",
         "lava"
     ],
     "MicrobiomeProfiler": [
@@ -13839,8 +13730,7 @@
         "GenomeInfoDb",
         "DelayedArray",
         "XVector",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "MIGSA": [
         "AnnotationDbi",
@@ -13903,8 +13793,7 @@
         "MCMCpack",
         "modeest",
         "testthat",
-        "quantreg",
-        "callr"
+        "quantreg"
     ],
     "mina": [
         "MCL",
@@ -14334,7 +14223,6 @@
         "geneplotter",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "AnnotationDbi",
         "XVector",
         "ipred",
@@ -14399,8 +14287,7 @@
         "nloptr",
         "glmnet",
         "testthat",
-        "broom",
-        "callr"
+        "broom"
     ],
     "mnem": [
         "Rgraphviz",
@@ -14691,8 +14578,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "msa": [
         "Biostrings",
@@ -14847,8 +14733,7 @@
         "nloptr",
         "broom",
         "Biostrings",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "msPurity": [
         "ggplot2"
@@ -14868,8 +14753,7 @@
         "DelayedArray",
         "XVector",
         "testthat",
-        "ggplot2",
-        "callr"
+        "ggplot2"
     ],
     "MSstats": [
         "MSstatsConvert",
@@ -14877,8 +14761,7 @@
         "ggplot2",
         "ggrepel",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MSstatsConvert": [],
     "MSstatsLiP": [
@@ -14911,7 +14794,6 @@
         "car",
         "nloptr",
         "lmerTest",
-        "callr",
         "selectr",
         "pbkrtest",
         "quantreg",
@@ -14932,8 +14814,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MSstatsQC": [
         "plotly",
@@ -14973,8 +14854,7 @@
         "ipred",
         "prodlim",
         "testthat",
-        "lava",
-        "callr"
+        "lava"
     ],
     "MSstatsTMT": [
         "lme4",
@@ -14984,8 +14864,7 @@
         "MSstatsConvert",
         "nloptr",
         "ggrepel",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Mulcom": [
         "fields",
@@ -15188,7 +15067,6 @@
         "prodlim",
         "Biostrings",
         "TH.data",
-        "callr",
         "quantreg",
         "lava"
     ],
@@ -15270,7 +15148,6 @@
         "testthat",
         "broom",
         "KEGGREST",
-        "callr",
         "Biostrings"
     ],
     "muscle": [
@@ -15342,8 +15219,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "MutationalPatterns": [
         "GenomicRanges",
@@ -15389,8 +15265,7 @@
         "XVector",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "mygene": [
         "GenomicFeatures",
@@ -15543,7 +15418,6 @@
         "KEGGREST",
         "GenomeInfoDb",
         "XVector",
-        "callr",
         "broom",
         "ggplot2",
         "googlesheets4",
@@ -15584,8 +15458,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ncdfFlow": [
         "flowCore",
@@ -15873,8 +15746,7 @@
         "HTqPCR",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "NoRCE": [
         "KEGGREST",
@@ -15920,8 +15792,7 @@
         "viridis",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "NormqPCR": [],
     "normr": [
@@ -16059,7 +15930,6 @@
         "pbkrtest",
         "quantreg",
         "lme4",
-        "callr",
         "BSgenome",
         "nloptr"
     ],
@@ -16161,8 +16031,7 @@
         "pbkrtest",
         "quantreg",
         "testthat",
-        "Biostrings",
-        "callr"
+        "Biostrings"
     ],
     "OmicsLonDA": [
         "SummarizedExperiment",
@@ -16213,7 +16082,6 @@
         "rstatix",
         "selectr",
         "DelayedArray",
-        "callr",
         "KEGGREST",
         "nloptr",
         "broom",
@@ -16261,8 +16129,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "oneSENSE": [
         "webshot",
@@ -16270,8 +16137,7 @@
         "plotly",
         "flowCore",
         "cytolib",
-        "ggplot2",
-        "callr"
+        "ggplot2"
     ],
     "onlineFDR": [
         "ggplot2"
@@ -16348,8 +16214,7 @@
         "rapportools",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "oposSOM": [
         "biomaRt",
@@ -16388,8 +16253,7 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "optimalFlow": [
         "Rfast",
@@ -16505,14 +16369,12 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Oscope": [
         "EBSeq",
         "testthat",
-        "BiocParallel",
-        "callr"
+        "BiocParallel"
     ],
     "OTUbase": [
         "ShortRead",
@@ -16555,8 +16417,7 @@
         "DelayedArray",
         "KEGGREST",
         "Rsamtools",
-        "GenomicAlignments",
-        "callr"
+        "GenomicAlignments"
     ],
     "OVESEG": [
         "BiocParallel",
@@ -16602,8 +16463,7 @@
         "XVector",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "PADOG": [
         "AnnotationDbi",
@@ -16645,8 +16505,7 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "XVector",
-        "callr"
+        "XVector"
     ],
     "paircompviz": [
         "Rgraphviz"
@@ -16727,7 +16586,6 @@
         "biomformat",
         "Biostrings",
         "multtest",
-        "callr",
         "XVector",
         "GenomeInfoDb",
         "AnnotationDbi",
@@ -16794,8 +16652,7 @@
         "pkgmaker",
         "DelayedArray",
         "GSEABase",
-        "Biostrings",
-        "callr"
+        "Biostrings"
     ],
     "PCAN": [
         "BiocParallel"
@@ -16867,8 +16724,7 @@
         "lme4",
         "Biostrings",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -17097,8 +16953,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "PhenoGeneRanker": [],
     "phenopath": [
@@ -17144,8 +16999,7 @@
         "Rfast",
         "broom",
         "testthat",
-        "RcppZiggurat",
-        "callr"
+        "RcppZiggurat"
     ],
     "philr": [
         "phangorn",
@@ -17192,8 +17046,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "PhyloProfile": [
         "bioDist",
@@ -17465,8 +17318,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "PLPE": [],
     "plyranges": [
@@ -17485,8 +17337,7 @@
     "pmm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "pmp": [
         "ggplot2",
@@ -17592,8 +17443,7 @@
         "pkgbuild",
         "ggdist",
         "posterior",
-        "distributional",
-        "callr"
+        "distributional"
     ],
     "PPInfer": [
         "biomaRt",
@@ -17821,8 +17671,7 @@
         "Biostrings",
         "testthat",
         "XVector",
-        "GenomeInfoDb",
-        "callr"
+        "GenomeInfoDb"
     ],
     "PROcess": [
         "Icens"
@@ -18048,7 +17897,6 @@
         "apcluster",
         "broom",
         "quantmod",
-        "callr",
         "KEGGREST",
         "DOSE",
         "enrichplot",
@@ -18251,8 +18099,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "PubScore": [
         "ggplot2",
@@ -18310,8 +18157,7 @@
         "lme4",
         "nloptr",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Pviz": [
         "Gviz",
@@ -18443,7 +18289,6 @@
         "VariantAnnotation",
         "ensembldb",
         "AnnotationFilter",
-        "callr",
         "KEGGREST",
         "rtracklayer",
         "BiocParallel",
@@ -19332,8 +19177,7 @@
         "broom",
         "pbkrtest",
         "quantreg",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "rfaRm": [
         "Biostrings",
@@ -19501,8 +19345,7 @@
         "rstantools",
         "DelayedArray",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "RiboProfiling": [
         "Biostrings",
@@ -19675,7 +19518,6 @@
         "ComplexHeatmap",
         "AnnotationHub",
         "VennDiagram",
-        "callr",
         "ggplotify",
         "ggprism",
         "RLHub",
@@ -19741,7 +19583,6 @@
         "BiocIO",
         "rtracklayer",
         "biomaRt",
-        "callr",
         "GenomicAlignments"
     ],
     "rmspc": [
@@ -19790,8 +19631,7 @@
     "RNAdecay": [
         "ggplot2",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "rnaEditr": [
         "GenomicRanges",
@@ -20034,8 +19874,7 @@
         "nloptr",
         "broom",
         "tweenr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "RnaSeqSampleSize": [
         "biomaRt",
@@ -20195,8 +20034,7 @@
         "broom",
         "sn",
         "TH.data",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "rqubic": [
         "biclust",
@@ -20273,8 +20111,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "RTCGAToolbox": [
         "DelayedArray",
@@ -20316,8 +20153,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "RTNduals": [
         "RTN",
@@ -20337,8 +20173,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "RTNsurvival": [
         "RTN",
@@ -20360,8 +20195,7 @@
         "XVector",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "RTopper": [
         "multtest"
@@ -20421,7 +20255,6 @@
         "GenomicRanges",
         "GenomeInfoDb",
         "DelayedArray",
-        "callr",
         "XVector"
     ],
     "RUVcorr": [
@@ -20962,8 +20795,7 @@
         "BiocNeighbors",
         "sparseMatrixStats",
         "XVector",
-        "nloptr",
-        "callr"
+        "nloptr"
     ],
     "scde": [
         "quantreg",
@@ -21114,8 +20946,7 @@
         "rstan",
         "rstantools",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "scmeth": [
         "bsseq",
@@ -21271,7 +21102,6 @@
         "ggbeeswarm",
         "viridis",
         "ggrepel",
-        "callr",
         "ScaledMatrix",
         "sparseMatrixStats"
     ],
@@ -21444,7 +21274,6 @@
         "SeuratObject",
         "spatstat.core",
         "uwot",
-        "callr",
         "ggfun",
         "ggplotify",
         "tidytree",
@@ -21924,7 +21753,6 @@
         "AnnotationDbi",
         "sparseMatrixStats",
         "multtest",
-        "callr",
         "KEGGREST",
         "biomaRt"
     ],
@@ -22090,8 +21918,7 @@
         "biomaRt",
         "BiocParallel",
         "GenomicAlignments",
-        "DelayedArray",
-        "callr"
+        "DelayedArray"
     ],
     "SigsPack": [
         "BSgenome",
@@ -22303,8 +22130,7 @@
         "rstan",
         "rstantools",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "SingleMoleculeFootprinting": [
         "Biostrings",
@@ -22536,8 +22362,7 @@
     "snm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "SNPhood": [
         "GenomicRanges",
@@ -22769,8 +22594,7 @@
         "XVector",
         "GenomeInfoDb",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "SpatialExperiment": [
         "SingleCellExperiment",
@@ -22903,8 +22727,7 @@
         "spatstat.random",
         "spatstat.sparse",
         "testthat",
-        "classInt",
-        "callr"
+        "classInt"
     ],
     "SpidermiR": [
         "miRNAtap",
@@ -23134,7 +22957,6 @@
         "Hmisc",
         "VariantAnnotation",
         "AnnotationFilter",
-        "callr",
         "htmlTable",
         "viridis"
     ],
@@ -23381,8 +23203,7 @@
     ],
     "Summix": [
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "supersigs": [
         "caret",
@@ -23408,7 +23229,6 @@
         "AnnotationDbi",
         "XVector",
         "GenomeInfoDb",
-        "callr",
         "KEGGREST"
     ],
     "survcomp": [
@@ -23445,8 +23265,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Sushi": [
         "biomaRt",
@@ -23555,7 +23374,6 @@
         "lme4",
         "viridis",
         "TH.data",
-        "callr",
         "selectr",
         "nloptr",
         "testthat"
@@ -23573,8 +23391,7 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "SynMut": [
         "Biostrings",
@@ -23664,8 +23481,7 @@
         "Biostrings",
         "DelayedArray",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "tanggle": [
         "ggplot2",
@@ -23715,8 +23531,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "TarSeqQC": [
         "GenomicRanges",
@@ -23886,8 +23701,7 @@
         "htmlTable",
         "lava",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "TCGAutils": [
         "AnnotationDbi",
@@ -24247,8 +24061,7 @@
         "lme4",
         "Biostrings",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "TnT": [
         "GenomicRanges",
@@ -24572,7 +24385,6 @@
         "cowplot",
         "ggsignif",
         "rstatix",
-        "callr",
         "flowViz",
         "flowStats",
         "flowClust",
@@ -25124,8 +24936,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "VariantAnnotation": [
         "GenomeInfoDb",
@@ -25334,7 +25145,6 @@
         "webshot",
         "egg",
         "Biostrings",
-        "callr",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -25458,8 +25268,7 @@
         "GenomeInfoDb",
         "XVector",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "wateRmelon": [
         "methylumi",
@@ -25782,16 +25591,13 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ggsignif": [
         "ggplot2"
     ],
     "shinyjs": [],
-    "testthat": [
-        "callr"
-    ],
+    "testthat": [],
     "ggsci": [
         "ggplot2"
     ],
@@ -25806,10 +25612,8 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
-    "callr": [],
     "broom": [
         "ggplot2"
     ],
@@ -25820,26 +25624,22 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "pbkrtest": [
         "lme4",
         "broom",
         "ggplot2",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "quantreg": [],
     "lme4": [
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "nloptr": [
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "adductData": [
         "ExperimentHub",
@@ -26267,19 +26067,15 @@
         "pbkrtest",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "rstan": [
         "ggplot2",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "loo": [],
-    "pkgbuild": [
-        "callr"
-    ],
+    "pkgbuild": [],
     "ggridges": [
         "ggplot2"
     ],
@@ -26321,17 +26117,14 @@
         "dendextend",
         "seriation",
         "webshot",
-        "egg",
-        "callr"
+        "egg"
     ],
     "dendextend": [
         "ggplot2",
         "viridis"
     ],
     "seriation": [],
-    "webshot": [
-        "callr"
-    ],
+    "webshot": [],
     "egg": [
         "ggplot2"
     ],
@@ -26443,8 +26236,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "cgdsr": [],
     "shinythemes": [],
@@ -26709,14 +26501,10 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
-    "pkgdown": [
-        "callr"
-    ],
+    "pkgdown": [],
     "rcmdcheck": [
-        "callr",
         "pkgbuild"
     ],
     "ggtext": [
@@ -26749,8 +26537,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ggpointdensity": [
         "ggplot2"
@@ -26798,8 +26585,7 @@
         "lme4",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "spBayes": [],
     "EnvStats": [
@@ -27104,8 +26890,7 @@
     "kableExtra": [
         "rvest",
         "webshot",
-        "selectr",
-        "callr"
+        "selectr"
     ],
     "qs": [],
     "fresh": [],
@@ -27172,8 +26957,7 @@
         "lme4",
         "broom",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "Ecume": [
         "spatstat",
@@ -27345,8 +27129,7 @@
     "mbest": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "ggplot.multistats": [
         "ggplot2"
@@ -27359,16 +27142,14 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "kknn": [],
     "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "cp4p": [
         "MESS",
@@ -27397,8 +27178,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "DAPARdata": [
         "MSnbase",
@@ -27415,7 +27195,6 @@
         "readxl",
         "reprex",
         "rvest",
-        "callr",
         "selectr"
     ],
     "MESS": [
@@ -27441,17 +27220,14 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "googlesheets4": [],
     "modelr": [
         "broom",
         "ggplot2"
     ],
-    "reprex": [
-        "callr"
-    ],
+    "reprex": [],
     "geepack": [
         "broom",
         "ggplot2"
@@ -27469,8 +27245,7 @@
     ],
     "cmdfun": [
         "testthat",
-        "usethis",
-        "callr"
+        "usethis"
     ],
     "CombinePValue": [],
     "metap": [
@@ -27505,8 +27280,7 @@
     "rsq": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "webchem": [
         "rvest",
@@ -27635,8 +27409,7 @@
         "nloptr",
         "broom",
         "ggplot2",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "googleCloudStorageR": [],
     "survminer": [
@@ -27657,8 +27430,7 @@
         "quantreg",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "maxstat": [],
     "survMisc": [
@@ -27701,8 +27473,7 @@
         "lme4",
         "ggplot2",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "shinyHeatmaply": [
         "heatmaply",
@@ -27713,8 +27484,7 @@
         "dendextend",
         "seriation",
         "webshot",
-        "egg",
-        "callr"
+        "egg"
     ],
     "shinybusy": [],
     "seqmagick": [
@@ -27878,16 +27648,14 @@
         "rstantools",
         "ggplot2",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "densEstBayes": [
         "rstan",
         "rstantools",
         "ggplot2",
         "loo",
-        "pkgbuild",
-        "callr"
+        "pkgbuild"
     ],
     "rstantools": [],
     "adabag": [
@@ -27904,8 +27672,7 @@
     "glmmTMB": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "cplm": [
         "ggplot2"
@@ -28128,14 +27895,12 @@
         "pkgbuild",
         "pkgdown",
         "rcmdcheck",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "blme": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "deconstructSigs": [
         "BSgenome",
@@ -28188,8 +27953,7 @@
         "viridis",
         "nloptr",
         "broom",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "NxtIRFdata": [
         "ExperimentHub",
@@ -28224,8 +27988,7 @@
         "unmarked",
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "summarytools": [
         "rapportools"
@@ -28233,8 +27996,7 @@
     "unmarked": [
         "lme4",
         "nloptr",
-        "testthat",
-        "callr"
+        "testthat"
     ],
     "biomartr": [
         "biomaRt",
