@@ -1002,8 +1002,7 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "Biostrings",
-        "treeio"
+        "Biostrings"
     ],
     "BiocCheck": [],
     "biocGraph": [
@@ -1802,7 +1801,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "censcyt": [
@@ -1875,7 +1873,6 @@
         "pbkrtest",
         "lme4",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "CexoR": [
@@ -2119,7 +2116,6 @@
         "qvalue",
         "SummarizedExperiment",
         "viridis",
-        "treeio",
         "GO.db"
     ],
     "chipseq": [
@@ -2381,7 +2377,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "clusterSeq": [
@@ -2648,8 +2643,7 @@
         "rstatix",
         "Biostrings",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "condiments": [
         "slingshot",
@@ -3273,8 +3267,7 @@
         "geepack",
         "ggformula",
         "mice",
-        "ggstance",
-        "treeio"
+        "ggstance"
     ],
     "dasper": [
         "GenomicFeatures",
@@ -3367,7 +3360,6 @@
         "viridis",
         "dendextend",
         "egg",
-        "treeio",
         "Biostrings"
     ],
     "DECIPHER": [
@@ -4110,8 +4102,7 @@
         "shadowtext",
         "ggtree",
         "Biostrings",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "EGSEA": [
         "gage",
@@ -4268,7 +4259,6 @@
         "fgsea",
         "qvalue",
         "viridis",
-        "treeio",
         "GO.db",
         "KEGGREST",
         "Biostrings"
@@ -4306,8 +4296,7 @@
         "car",
         "pbkrtest",
         "lme4",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "ensembldb": [
         "GenomicRanges",
@@ -4416,7 +4405,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "epiNEM": [
@@ -4575,8 +4563,7 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "escape": [
         "GSEABase",
@@ -4698,7 +4685,6 @@
         "GenomicRanges",
         "DropletUtils",
         "Biostrings",
-        "treeio",
         "scuttle"
     ],
     "ExploreModelMatrix": [],
@@ -4732,8 +4718,7 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "fastLiquidAssociation": [
         "LiquidAssociation",
@@ -4798,7 +4783,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "fcScan": [
@@ -5224,7 +5208,6 @@
         "rstatix",
         "Biostrings",
         "viridis",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -5642,13 +5625,11 @@
         "scuttle"
     ],
     "ggtree": [
-        "aplot",
-        "treeio"
+        "aplot"
     ],
     "ggtreeExtra": [
         "ggtree",
-        "aplot",
-        "treeio"
+        "aplot"
     ],
     "girafe": [
         "Rsamtools",
@@ -6699,8 +6680,7 @@
         "Biostrings",
         "car",
         "pbkrtest",
-        "lme4",
-        "treeio"
+        "lme4"
     ],
     "ISAnalytics": [],
     "iSEE": [
@@ -7025,8 +7005,7 @@
         "ggtree",
         "msa",
         "Biostrings",
-        "aplot",
-        "treeio"
+        "aplot"
     ],
     "M3C": [],
     "M3Drop": [
@@ -7147,7 +7126,6 @@
         "DO.db",
         "fgsea",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "MAI": [
@@ -7439,7 +7417,6 @@
         "ggtree",
         "GO.db",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "meshr": [
@@ -7779,7 +7756,6 @@
         "rtracklayer",
         "biomaRt",
         "viridis",
-        "treeio",
         "Rsamtools",
         "GenomicAlignments"
     ],
@@ -7889,8 +7865,7 @@
         "BiocNeighbors",
         "BiocSingular",
         "ggbeeswarm",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "miaSim": [
         "SummarizedExperiment",
@@ -7905,7 +7880,6 @@
         "ggtree",
         "viridis",
         "aplot",
-        "treeio",
         "SingleCellExperiment",
         "MultiAssayExperiment",
         "Biostrings",
@@ -7962,7 +7936,6 @@
         "genefilter",
         "geneplotter",
         "aplot",
-        "treeio",
         "AnnotationDbi",
         "ipred",
         "KEGGREST"
@@ -7984,7 +7957,6 @@
         "DO.db",
         "fgsea",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "MicrobiotaProcess": [
@@ -7994,7 +7966,6 @@
         "ggsignif",
         "ggstar",
         "SummarizedExperiment",
-        "treeio",
         "ggtreeExtra",
         "aplot",
         "GenomicRanges"
@@ -8207,8 +8178,7 @@
         "scatterpie",
         "shadowtext",
         "ggtree",
-        "Biostrings",
-        "treeio"
+        "Biostrings"
     ],
     "miRspongeR": [
         "clusterProfiler",
@@ -8231,7 +8201,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "mirTarRnaSeq": [],
@@ -8430,7 +8399,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "mosaics": [
@@ -8777,7 +8745,6 @@
         "DO.db",
         "fgsea",
         "viridis",
-        "treeio",
         "ipred",
         "Biostrings"
     ],
@@ -9077,7 +9044,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "netDx": [
@@ -9763,7 +9729,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "phantasus": [
@@ -9829,8 +9794,7 @@
     ],
     "philr": [
         "ggtree",
-        "aplot",
-        "treeio"
+        "aplot"
     ],
     "PhIPData": [
         "SummarizedExperiment",
@@ -9904,7 +9868,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "PING": [
@@ -10256,7 +10219,6 @@
         "fgsea",
         "qvalue",
         "viridis",
-        "treeio",
         "GO.db"
     ],
     "progeny": [],
@@ -10358,8 +10320,7 @@
         "geepack",
         "ggformula",
         "mice",
-        "ggstance",
-        "treeio"
+        "ggstance"
     ],
     "ProteoDisco": [
         "Biostrings",
@@ -10847,7 +10808,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "GO.db",
         "Biostrings"
     ],
@@ -11567,8 +11527,7 @@
         "biomaRt",
         "ggsignif",
         "rstatix",
-        "GenomicAlignments",
-        "treeio"
+        "GenomicAlignments"
     ],
     "RnaSeqSampleSize": [
         "biomaRt",
@@ -12282,8 +12241,7 @@
         "shadowtext",
         "ggtree",
         "Biostrings",
-        "sctransform",
-        "treeio"
+        "sctransform"
     ],
     "scTGIF": [
         "GSEABase",
@@ -12374,7 +12332,6 @@
         "fgsea",
         "qvalue",
         "viridis",
-        "treeio",
         "GO.db"
     ],
     "segmentSeq": [
@@ -12630,8 +12587,7 @@
         "shadowtext",
         "ggtree",
         "Biostrings",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "signeR": [
         "VariantAnnotation",
@@ -12749,7 +12705,6 @@
         "viridis",
         "qvalue",
         "aplot",
-        "treeio",
         "hgu95a.db",
         "TFisher",
         "mutoss",
@@ -12829,8 +12784,7 @@
     ],
     "sitePath": [
         "aplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "methylumi",
@@ -13135,8 +13089,7 @@
         "Biostrings",
         "DO.db",
         "fgsea",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "spiky": [
         "Rsamtools",
@@ -13325,8 +13278,7 @@
         "ggtree",
         "DO.db",
         "fgsea",
-        "viridis",
-        "treeio"
+        "viridis"
     ],
     "statTarget": [],
     "strandCheckR": [
@@ -13526,7 +13478,6 @@
         "genefilter",
         "geneplotter",
         "aplot",
-        "treeio",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -13548,8 +13499,7 @@
     ],
     "tanggle": [
         "ggtree",
-        "aplot",
-        "treeio"
+        "aplot"
     ],
     "TAPseq": [
         "GenomicAlignments",
@@ -13672,7 +13622,6 @@
         "VariantAnnotation",
         "AnnotationFilter",
         "viridis",
-        "treeio",
         "car",
         "pbkrtest",
         "lme4"
@@ -13831,7 +13780,6 @@
         "shadowtext",
         "ggtree",
         "viridis",
-        "treeio",
         "Biostrings"
     ],
     "TIN": [
@@ -14054,7 +14002,6 @@
         "GenomicRanges",
         "TrajectoryUtils"
     ],
-    "treeio": [],
     "treekoR": [
         "ggiraph",
         "ggtree",
@@ -14064,7 +14011,6 @@
         "FlowSOM",
         "SummarizedExperiment",
         "aplot",
-        "treeio",
         "GenomicRanges",
         "CytoML",
         "flowWorkspace",
@@ -14088,7 +14034,6 @@
         "SingleCellExperiment",
         "Biostrings",
         "SummarizedExperiment",
-        "treeio",
         "GenomicRanges"
     ],
     "trena": [
