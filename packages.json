@@ -1268,7 +1268,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "BiocSingular",
-        "RcppDist",
         "DelayedArray",
         "BiocParallel",
         "ScaledMatrix",
@@ -2527,7 +2526,6 @@
     "CancerSubtypes": [
         "NMF",
         "iCluster",
-        "pkgmaker",
         "ggplot2"
     ],
     "CAnD": [
@@ -3580,7 +3578,6 @@
         "rtracklayer",
         "GenomeInfoDb",
         "XVector",
-        "pkgmaker",
         "ggplot2",
         "Biostrings",
         "Rsamtools",
@@ -3831,13 +3828,11 @@
         "beachmat",
         "ClusterR",
         "benchmarkme",
-        "pkgmaker",
         "ggplot2",
         "RNeXML",
         "GenomicRanges",
         "GenomeInfoDb",
         "genefilter",
-        "benchmarkmeData",
         "AnnotationDbi",
         "XVector",
         "KEGGREST",
@@ -5444,7 +5439,6 @@
         "NMF",
         "DMwR2",
         "quantmod",
-        "pkgmaker",
         "ggplot2",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -5963,7 +5957,6 @@
         "pheatmap",
         "snpStats",
         "sva",
-        "swamp",
         "bnstruct",
         "genefilter",
         "BiocParallel",
@@ -6266,7 +6259,6 @@
         "rtracklayer",
         "benchmarkme",
         "lme4",
-        "benchmarkmeData",
         "GenomeInfoDb",
         "XVector",
         "Biostrings",
@@ -10414,7 +10406,6 @@
         "rtracklayer",
         "GenomicFeatures",
         "Biostrings",
-        "pkgmaker",
         "BiocIO",
         "Rsamtools",
         "GenomicAlignments"
@@ -11959,7 +11950,6 @@
         "benchmarkme",
         "BiocParallel",
         "beachmat",
-        "benchmarkmeData",
         "ggplot2",
         "GenomicRanges",
         "GenomeInfoDb",
@@ -13503,7 +13493,6 @@
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
-        "pkgmaker",
         "ggwordcloud",
         "metR",
         "ggvis",
@@ -14640,7 +14629,6 @@
         "AnnotationDbi",
         "BiocIO",
         "biomaRt",
-        "pkgmaker",
         "learnr",
         "DelayedArray",
         "rvest",
@@ -14673,7 +14661,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "pkgmaker",
         "SummarizedExperiment",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -14836,7 +14823,6 @@
         "org.Hs.eg.db",
         "NMF",
         "KEGGREST",
-        "pkgmaker",
         "ggplot2",
         "Biostrings",
         "XVector",
@@ -15109,10 +15095,8 @@
         "XVector",
         "ClusterR",
         "benchmarkme",
-        "pkgmaker",
         "RNeXML",
         "genefilter",
-        "benchmarkmeData",
         "AnnotationDbi",
         "KEGGREST",
         "Biostrings"
@@ -16031,7 +16015,6 @@
         "seriation",
         "webshot",
         "egg",
-        "pkgmaker",
         "DelayedArray",
         "GSEABase",
         "Biostrings"
@@ -16774,7 +16757,6 @@
         "ggplot2",
         "tidybayes",
         "benchmarkme",
-        "benchmarkmeData",
         "loo",
         "pkgbuild",
         "ggdist",
@@ -17104,7 +17086,6 @@
         "BiocParallel",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "pkgmaker",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -21079,7 +21060,6 @@
         "nloptr",
         "XVector",
         "testthat",
-        "pkgmaker",
         "ggplot2",
         "SummarizedExperiment",
         "Rsamtools",
@@ -21591,7 +21571,6 @@
         "ensembldb",
         "AnnotationDbi",
         "AnnotationFilter",
-        "pkgmaker",
         "KEGGREST",
         "BiocParallel",
         "BiocIO",
@@ -21681,7 +21660,6 @@
         "XVector",
         "rtracklayer",
         "Rsamtools",
-        "pkgmaker",
         "BiocParallel",
         "GenomicAlignments",
         "BiocIO",
@@ -24555,7 +24533,6 @@
         "GGally",
         "ensembldb",
         "AnnotationFilter",
-        "pkgmaker",
         "BiocParallel",
         "DelayedArray",
         "htmlTable"
@@ -25161,7 +25138,6 @@
     "egg": [
         "ggplot2"
     ],
-    "RcppDist": [],
     "fitdistrplus": [],
     "corncob": [
         "optimr",
@@ -25516,11 +25492,9 @@
     ],
     "rrcov": [],
     "NMF": [
-        "pkgmaker",
         "ggplot2"
     ],
     "iCluster": [],
-    "pkgmaker": [],
     "bc3net": [
         "c3net"
     ],
@@ -25907,11 +25881,8 @@
     "ClusterR": [
         "ggplot2"
     ],
-    "benchmarkme": [
-        "benchmarkmeData"
-    ],
+    "benchmarkme": [],
     "RNeXML": [],
-    "benchmarkmeData": [],
     "rjags": [],
     "cobs": [
         "quantreg"
@@ -26268,7 +26239,6 @@
         "qvalue",
         "ggplot2"
     ],
-    "swamp": [],
     "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
