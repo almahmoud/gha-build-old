@@ -2398,7 +2398,6 @@
         "genefilter",
         "hgu133a.db",
         "KEGGREST",
-        "rrcov",
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
@@ -2485,7 +2484,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "fda",
         "testthat",
@@ -2851,7 +2849,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "car",
         "pbkrtest",
         "quantreg",
@@ -4144,7 +4141,6 @@
         "ggplot2",
         "rms",
         "flowViz",
-        "rrcov",
         "Hmisc",
         "quantreg",
         "multcomp",
@@ -4782,7 +4778,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "fda",
         "fds",
@@ -4847,7 +4842,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "fda",
         "fds",
         "rainbow",
@@ -4902,7 +4896,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "fda",
         "Biostrings",
@@ -5409,7 +5402,6 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "rrcov",
         "NCIgraph",
         "RCy3"
     ],
@@ -5774,7 +5766,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "car",
         "pbkrtest",
@@ -7470,7 +7461,6 @@
         "SC3",
         "ggplot2",
         "pheatmap",
-        "rrcov",
         "GenomicRanges",
         "DelayedArray",
         "GenomeInfoDb",
@@ -7608,7 +7598,6 @@
         "flowCore"
     ],
     "flowBeads": [
-        "rrcov",
         "flowCore"
     ],
     "flowBin": [
@@ -7689,12 +7678,10 @@
         "flowCore"
     ],
     "flowMeans": [
-        "rrcov",
         "flowCore"
     ],
     "flowMerge": [
         "flowClust",
-        "rrcov",
         "flowCore",
         "flowViz"
     ],
@@ -7732,7 +7719,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "car",
         "pbkrtest",
@@ -7755,7 +7741,6 @@
         "ncdfFlow",
         "flowViz",
         "fda",
-        "rrcov",
         "fds",
         "ggplot2",
         "DelayedArray",
@@ -7783,7 +7768,6 @@
         "flowWorkspace",
         "ncdfFlow",
         "fda",
-        "rrcov",
         "fds",
         "ggplot2",
         "DelayedArray",
@@ -8634,7 +8618,6 @@
         "ggiraph",
         "ggthemes",
         "pheatmap",
-        "rrcov",
         "XVector",
         "GenomeInfoDb"
     ],
@@ -10601,12 +10584,10 @@
         "DelayedArray"
     ],
     "iterativeBMA": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "iterativeBMAsurv": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "iteremoval": [
         "ggplot2",
@@ -11804,7 +11785,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "car",
         "pbkrtest",
@@ -14403,8 +14383,7 @@
         "Biostrings"
     ],
     "networkBMA": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "NeuCA": [
         "keras",
@@ -14831,7 +14810,6 @@
         "flowWorkspace",
         "flowStats",
         "flowClust",
-        "rrcov",
         "fda",
         "ggplot2",
         "DelayedArray",
@@ -14918,7 +14896,6 @@
     ],
     "optimalFlow": [
         "flowMeans",
-        "rrcov",
         "flowCore"
     ],
     "OPWeight": [
@@ -15557,7 +15534,6 @@
         "genefilter",
         "hgu133a.db",
         "KEGGREST",
-        "rrcov",
         "org.Hs.eg.db",
         "htmlTable",
         "viridis",
@@ -18709,7 +18685,6 @@
     "SC3": [
         "ggplot2",
         "pheatmap",
-        "rrcov",
         "SummarizedExperiment",
         "SingleCellExperiment",
         "GenomicRanges",
@@ -21166,9 +21141,7 @@
     "STATegRa": [
         "ggplot2"
     ],
-    "statTarget": [
-        "rrcov"
-    ],
+    "statTarget": [],
     "strandCheckR": [
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -21311,7 +21284,6 @@
         "broom",
         "survMisc",
         "ggtext",
-        "rrcov",
         "XVector",
         "ggrepel",
         "ggsci",
@@ -22366,7 +22338,6 @@
         "flowViz",
         "flowStats",
         "flowClust",
-        "rrcov",
         "broom",
         "car",
         "pbkrtest",
@@ -24272,10 +24243,7 @@
     "ggtext": [
         "ggplot2"
     ],
-    "BMA": [
-        "rrcov"
-    ],
-    "rrcov": [],
+    "BMA": [],
     "NMF": [
         "ggplot2"
     ],
@@ -25136,9 +25104,7 @@
     "tippy": [],
     "rPref": [],
     "FField": [],
-    "robust": [
-        "rrcov"
-    ],
+    "robust": [],
     "lmerTest": [
         "lme4",
         "ggplot2",
@@ -25976,8 +25942,7 @@
     "bamlss": [],
     "MLmetrics": [],
     "clustvarsel": [
-        "BMA",
-        "rrcov"
+        "BMA"
     ],
     "gstat": [
         "spacetime"
