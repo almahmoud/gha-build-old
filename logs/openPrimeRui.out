@@ -1,0 +1,28 @@
+* installing *source* package ‘openPrimeRui’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning messages:
+1: In fun(libname, pkgname) :
+  'Pandoc' is non-functional, since 'pdflatex' is not installed on your system.
+2: In parallel_setup(default.nbr.cores) :
+  Please install 'doParallel' to use multiple cores.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  'Pandoc' is non-functional, since 'pdflatex' is not installed on your system.
+Warning in parallel_setup(default.nbr.cores) :
+  Please install 'doParallel' to use multiple cores.
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  'Pandoc' is non-functional, since 'pdflatex' is not installed on your system.
+Warning in parallel_setup(default.nbr.cores) :
+  Please install 'doParallel' to use multiple cores.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘openPrimeRui’ as ‘openPrimeRui_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (openPrimeRui)
