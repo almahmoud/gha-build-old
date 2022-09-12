@@ -2034,7 +2034,6 @@
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
-        "TreeSummarizedExperiment",
         "DropletUtils",
         "scuttle"
     ],
@@ -3333,13 +3332,11 @@
         "AnnotationDbi"
     ],
     "mia": [
-        "TreeSummarizedExperiment",
         "DECIPHER",
         "scuttle",
         "scater"
     ],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater",
         "DECIPHER",
@@ -5804,7 +5801,6 @@
         "rstatix",
         "flowStats"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "MotifDb",
         "vbsr",
