@@ -761,9 +761,7 @@
         "topGO",
         "GO.db"
     ],
-    "cellmigRation": [
-        "FactoMineR"
-    ],
+    "cellmigRation": [],
     "CellMixS": [
         "scater"
     ],
@@ -1115,7 +1113,6 @@
         "enrichplot",
         "GO.db",
         "GOSemSim",
-        "FactoMineR",
         "ggpubr",
         "DO.db"
     ],
@@ -1290,7 +1287,6 @@
         "diffcyt",
         "factoextra",
         "FlowSOM",
-        "FactoMineR",
         "ggpubr",
         "CytoML",
         "openCyto",
@@ -1299,7 +1295,6 @@
     ],
     "CytoGLMM": [
         "factoextra",
-        "FactoMineR",
         "ggpubr"
     ],
     "cytoKernel": [],
@@ -1338,7 +1333,6 @@
         "DESeq2",
         "EDASeq",
         "sva",
-        "FactoMineR",
         "genefilter",
         "geneplotter",
         "biomaRt",
@@ -1350,7 +1344,6 @@
         "imp4p",
         "clusterProfiler",
         "AnnotationDbi",
-        "FactoMineR",
         "factoextra",
         "Mfuzz",
         "DOSE",
@@ -2129,7 +2122,6 @@
         "DESeq2",
         "EDASeq",
         "sva",
-        "FactoMineR",
         "genefilter",
         "geneplotter",
         "biomaRt",
@@ -2187,9 +2179,7 @@
         "biomaRt",
         "AnnotationDbi"
     ],
-    "GeneGeneInteR": [
-        "FactoMineR"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter",
         "AnnotationDbi"
@@ -2286,7 +2276,6 @@
     "GEOexplorer": [
         "factoextra",
         "shinyHeatmaply",
-        "FactoMineR",
         "ggpubr"
     ],
     "gep2pep": [
@@ -2723,7 +2712,6 @@
         "factoextra",
         "biomaRt",
         "AnnotationDbi",
-        "FactoMineR",
         "ggpubr"
     ],
     "IntEREst": [
@@ -3518,8 +3506,7 @@
     "msqrob2": [],
     "MSstatsLiP": [
         "factoextra",
-        "ggpubr",
-        "FactoMineR"
+        "ggpubr"
     ],
     "MSstatsQCgui": [],
     "MSstatsSampleSize": [],
@@ -3595,7 +3582,6 @@
         "decompTumor2Sig",
         "factoextra",
         "TCGAbiolinks",
-        "FactoMineR",
         "ggpubr",
         "AnnotationDbi",
         "biomaRt"
@@ -3763,14 +3749,12 @@
         "rexposome",
         "sva",
         "SmartSVA",
-        "FactoMineR",
         "genefilter",
         "AnnotationDbi"
     ],
     "OMICsPCA": [
         "HelloRanges",
         "factoextra",
-        "FactoMineR",
         "ggpubr",
         "BSgenome",
         "GenomicFeatures",
@@ -3848,9 +3832,7 @@
         "genefilter",
         "AnnotationDbi"
     ],
-    "padma": [
-        "FactoMineR"
-    ],
+    "padma": [],
     "PADOG": [
         "AnnotationDbi",
         "hgu133plus2.db",
@@ -4142,7 +4124,6 @@
         "imp4p",
         "clusterProfiler",
         "AnnotationDbi",
-        "FactoMineR",
         "factoextra",
         "Mfuzz",
         "DOSE",
@@ -4474,9 +4455,7 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "rexposome": [
-        "FactoMineR"
-    ],
+    "rexposome": [],
     "rGADEM": [
         "BSgenome"
     ],
@@ -4666,7 +4645,6 @@
     "RNASeqR": [
         "pathview",
         "ballgown",
-        "FactoMineR",
         "factoextra",
         "DESeq2",
         "systemPipeR",
@@ -6081,7 +6059,6 @@
         "BSgenome"
     ],
     "iCluster": [],
-    "FactoMineR": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
         "bumphunter",
@@ -6157,7 +6134,6 @@
     ],
     "colortools": [],
     "factoextra": [
-        "FactoMineR",
         "ggpubr"
     ],
     "EnsDb.Hsapiens.v86": [
@@ -6180,12 +6156,9 @@
     ],
     "cp4p": [],
     "imp4p": [
-        "missMDA",
-        "FactoMineR"
+        "missMDA"
     ],
-    "missMDA": [
-        "FactoMineR"
-    ],
+    "missMDA": [],
     "CombinePValue": [],
     "lasso2": [],
     "hgu133a2.db": [
