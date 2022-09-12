@@ -1,0 +1,21 @@
+* installing *source* package ‘iteremoval’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘GenomicRanges::subtract’ by ‘magrittr::subtract’ when loading ‘iteremoval’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘GenomicRanges::subtract’ by ‘magrittr::subtract’ when loading ‘iteremoval’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘GenomicRanges::subtract’ by ‘magrittr::subtract’ when loading ‘iteremoval’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iteremoval’ as ‘iteremoval_1.15.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iteremoval)
