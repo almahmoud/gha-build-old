@@ -21,19 +21,16 @@
         "GOstats",
         "ReportingTools",
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
         "ReportingTools",
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "AllelicImbalance": [
-        "VariantAnnotation",
         "Gviz",
         "biovizBase"
     ],
@@ -50,11 +47,8 @@
     "AnVILPublish": [
         "AnVIL"
     ],
-    "APAlyzer": [
-        "VariantAnnotation"
-    ],
+    "APAlyzer": [],
     "appreci8R": [
-        "VariantAnnotation",
         "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
@@ -74,13 +68,11 @@
     "ASpediaFI": [
         "Gviz",
         "mGSZ",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ASpli": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ASSIGN": [],
     "ATACseqQC": [
@@ -91,14 +83,10 @@
         "GOstats"
     ],
     "autonomics": [],
-    "BadRegionFinder": [
-        "VariantAnnotation"
-    ],
+    "BadRegionFinder": [],
     "ballgown": [],
     "BayesSpace": [],
-    "BBCAnalyzer": [
-        "VariantAnnotation"
-    ],
+    "BBCAnalyzer": [],
     "BEclear": [],
     "benchdamic": [
         "ffpe",
@@ -131,16 +119,12 @@
     "BioMM": [],
     "biomvRCNS": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "BioNERO": [],
-    "biovizBase": [
-        "VariantAnnotation"
-    ],
+    "biovizBase": [],
     "biscuiteer": [
         "biscuiteerData",
-        "VariantAnnotation",
         "Mus.musculus",
         "Homo.sapiens",
         "dmrseq",
@@ -163,32 +147,27 @@
         "GenomicState",
         "GenomicFiles",
         "ggbio",
-        "VariantAnnotation",
         "biovizBase"
     ],
     "branchpointer": [],
     "BubbleTree": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
-        "ggbio",
-        "VariantAnnotation"
+        "ggbio"
     ],
     "CAGEfightR": [
         "GenomicFiles",
         "Gviz",
         "GenomicInteractions",
-        "VariantAnnotation",
         "biovizBase"
     ],
     "cageminer": [
         "ggbio",
         "BioNERO",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "canceR": [
         "cgdsr",
@@ -245,20 +224,17 @@
         "methylumi",
         "lumi",
         "biovizBase",
-        "FDb.InfiniumMethylation.hg19",
-        "VariantAnnotation"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "ChIC": [
         "ChIC.data"
     ],
     "chimeraviz": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ChIPexoQual": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
@@ -274,12 +250,10 @@
     ],
     "cicero": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "circRNAprofiler": [
-        "gwascat",
-        "VariantAnnotation"
+        "gwascat"
     ],
     "clipper": [
         "qpgraph"
@@ -293,18 +267,14 @@
     "CNVfilteR": [
         "karyoploteR",
         "CopyNumberPlots",
-        "VariantAnnotation",
         "biovizBase"
     ],
     "CNViz": [
         "karyoploteR",
         "CopyNumberPlots",
-        "VariantAnnotation",
         "biovizBase"
     ],
-    "CNVrd2": [
-        "VariantAnnotation"
-    ],
+    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
@@ -312,8 +282,7 @@
     "coMET": [
         "Gviz",
         "colortools",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ComPrAn": [],
     "conclus": [
@@ -329,8 +298,7 @@
     ],
     "consensusOV": [],
     "contiBAIT": [
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "conumee": [
         "minfi",
@@ -341,7 +309,6 @@
     ],
     "CopyNumberPlots": [
         "karyoploteR",
-        "VariantAnnotation",
         "biovizBase"
     ],
     "CopywriteR": [],
@@ -355,13 +322,10 @@
     "cTRAP": [],
     "cummeRbund": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "customCMPdb": [],
-    "customProDB": [
-        "VariantAnnotation"
-    ],
+    "customProDB": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -376,9 +340,7 @@
         "FlowSOM"
     ],
     "dagLogo": [],
-    "DAMEfinder": [
-        "VariantAnnotation"
-    ],
+    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq"
     ],
@@ -401,28 +363,22 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [
-        "VariantAnnotation"
-    ],
+    "decompTumor2Sig": [],
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [
-        "VariantAnnotation"
-    ],
+    "deepSNV": [],
     "DEGreport": [
         "lasso2"
     ],
     "derfinder": [
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "derfinderPlot": [
         "derfinder",
         "ggbio",
         "GenomicFiles",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "DEScan2": [
         "ChIPpeakAnno"
@@ -450,20 +406,16 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "VariantAnnotation",
         "FDb.InfiniumMethylation.hg19"
     ],
     "DMRforPairs": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "dmrseq": [
         "annotatr"
     ],
-    "DominoEffect": [
-        "VariantAnnotation"
-    ],
+    "DominoEffect": [],
     "doppelgangR": [],
     "DOSE": [],
     "drugTargetInteractions": [],
@@ -485,8 +437,7 @@
     "EGSEA": [],
     "ELMER": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "enhancerHomologSearch": [
         "motifmatchr",
@@ -510,12 +461,8 @@
         "DOSE",
         "enrichplot"
     ],
-    "ensemblVEP": [
-        "VariantAnnotation"
-    ],
-    "epialleleR": [
-        "VariantAnnotation"
-    ],
+    "ensemblVEP": [],
+    "epialleleR": [],
     "epihet": [
         "EntropyExplorer",
         "ReactomePA",
@@ -539,8 +486,7 @@
     ],
     "erma": [
         "Homo.sapiens",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "ERSSA": [],
     "esATAC": [
@@ -576,9 +522,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "fcScan": [
-        "VariantAnnotation"
-    ],
+    "fcScan": [],
     "FEAST": [],
     "ffpe": [
         "lumi",
@@ -602,12 +546,9 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "GA4GHclient": [
-        "VariantAnnotation"
-    ],
+    "GA4GHclient": [],
     "GA4GHshiny": [
-        "GA4GHclient",
-        "VariantAnnotation"
+        "GA4GHclient"
     ],
     "GAPGOM": [],
     "GARS": [
@@ -622,43 +563,32 @@
         "DOSE",
         "enrichplot"
     ],
-    "genbankr": [
-        "VariantAnnotation"
-    ],
+    "genbankr": [],
     "GeneAnswers": [],
     "GeneBreak": [],
     "GeneStructureTools": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
-    "GenomicFiles": [
-        "VariantAnnotation"
-    ],
+    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "GenomicOZone": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "GenomicScores": [],
-    "genotypeeval": [
-        "VariantAnnotation"
-    ],
+    "genotypeeval": [],
     "GenVisR": [
-        "FField",
-        "VariantAnnotation"
+        "FField"
     ],
     "gespeR": [
         "cellHTS2"
     ],
     "ggbio": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "GGPA": [],
     "ggspavis": [],
@@ -667,9 +597,7 @@
         "sparsebn",
         "loose.rock"
     ],
-    "gmapR": [
-        "VariantAnnotation"
-    ],
+    "gmapR": [],
     "GmicR": [
         "GOstats"
     ],
@@ -696,41 +624,30 @@
         "ChIPpeakAnno"
     ],
     "Gviz": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "GWAS.BAYES": [],
-    "gwascat": [
-        "VariantAnnotation"
-    ],
-    "gwasurvivr": [
-        "VariantAnnotation"
-    ],
+    "gwascat": [],
+    "gwasurvivr": [],
     "GWENA": [],
-    "HelloRanges": [
-        "VariantAnnotation"
-    ],
+    "HelloRanges": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "HiLDA": [],
     "hipathia": [],
     "HPiP": [],
     "HTSeqGenie": [
         "gmapR",
-        "VariantAnnotation",
         "VariantTools"
     ],
     "HubPub": [
         "biocthis"
     ],
-    "icetea": [
-        "VariantAnnotation"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -743,9 +660,7 @@
         "GOstats"
     ],
     "idr2d": [],
-    "igvR": [
-        "VariantAnnotation"
-    ],
+    "igvR": [],
     "imageHTS": [
         "cellHTS2"
     ],
@@ -757,8 +672,7 @@
     "INSPEcT": [],
     "intansv": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "interactiveDisplay": [],
     "IntEREst": [
@@ -785,15 +699,13 @@
         "lasso2"
     ],
     "karyoploteR": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "kissDE": [
         "DSS"
     ],
     "KnowSeq": [],
     "ldblock": [
-        "VariantAnnotation",
         "EnsDb.Hsapiens.v75",
         "GenomicFiles"
     ],
@@ -819,9 +731,7 @@
     "MACSr": [
         "ExperimentHub"
     ],
-    "MADSEQ": [
-        "VariantAnnotation"
-    ],
+    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "methylumi",
@@ -838,8 +748,7 @@
     "maPredictDSC": [],
     "maser": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "MatrixRider": [
         "TFBSTools"
@@ -848,8 +757,7 @@
     "mCSEA": [
         "Homo.sapiens",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "MEAL": [
         "minfi",
@@ -862,7 +770,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "VariantAnnotation",
         "FDb.InfiniumMethylation.hg19"
     ],
     "MEAT": [
@@ -983,14 +890,12 @@
         "FDb.InfiniumMethylation.hg19"
     ],
     "mitoClone2": [
-        "deepSNV",
-        "VariantAnnotation"
+        "deepSNV"
     ],
     "MLSeq": [],
     "MMAPPR2": [
         "ensemblVEP",
         "gmapR",
-        "VariantAnnotation",
         "VariantTools"
     ],
     "MMUPHin": [],
@@ -1008,7 +913,6 @@
         "enrichplot"
     ],
     "motifbreakR": [
-        "VariantAnnotation",
         "Gviz",
         "biovizBase"
     ],
@@ -1017,8 +921,7 @@
     ],
     "msgbsR": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "MSGFgui": [
         "MSGFplus"
@@ -1029,8 +932,7 @@
     "MSstatsSampleSize": [],
     "multicrispr": [
         "karyoploteR",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "multiHiCcompare": [
         "HiCcompare"
@@ -1041,28 +943,20 @@
         "enrichplot",
         "DOSE"
     ],
-    "MungeSumstats": [
-        "VariantAnnotation"
-    ],
+    "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
-        "VariantAnnotation",
         "decompTumor2Sig"
     ],
-    "MutationalPatterns": [
-        "VariantAnnotation"
-    ],
-    "myvariant": [
-        "VariantAnnotation"
-    ],
+    "MutationalPatterns": [],
+    "myvariant": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "NanoMethViz": [],
     "NBSplice": [
@@ -1095,16 +989,14 @@
     ],
     "ODER": [
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "OmaDB": [],
     "omicRexposome": [
         "SmartSVA"
     ],
     "OMICsPCA": [
-        "HelloRanges",
-        "VariantAnnotation"
+        "HelloRanges"
     ],
     "ontoProc": [],
     "oppar": [],
@@ -1146,8 +1038,7 @@
     ],
     "PING": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "PloGO2": [
         "GOstats"
@@ -1170,8 +1061,7 @@
         "GenomicScores",
         "Gviz",
         "TFBSTools",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "proBatch": [],
     "profileplyr": [
@@ -1191,17 +1081,14 @@
         "DOSE",
         "enrichplot"
     ],
-    "ProteoDisco": [
-        "VariantAnnotation"
-    ],
+    "ProteoDisco": [],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData"
     ],
     "psichomics": [
         "recount",
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "psygenet2r": [
         "BgeeDB"
@@ -1209,13 +1096,10 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "PureCN": [
-        "VariantAnnotation"
-    ],
+    "PureCN": [],
     "Pviz": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "pwOmics": [],
     "pwrEWAS": [
@@ -1224,8 +1108,7 @@
     ],
     "qpgraph": [],
     "qrqc": [
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "qsmooth": [],
     "quantro": [
@@ -1233,20 +1116,15 @@
     ],
     "QuartPAC": [],
     "QuasR": [
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "R3CPET": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
-    "R453Plus1Toolbox": [
-        "VariantAnnotation"
-    ],
+    "R453Plus1Toolbox": [],
     "ramr": [],
     "RareVariantVis": [
-        "VariantAnnotation",
         "phastCons100way.UCSC.hg19",
         "GenomicScores"
     ],
@@ -1260,8 +1138,7 @@
     ],
     "recount": [
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "recountmethylation": [
         "minfi",
@@ -1275,13 +1152,11 @@
     ],
     "regionReport": [
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "regutools": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "REMP": [
         "minfi"
@@ -1289,8 +1164,7 @@
     "ReportingTools": [
         "GOstats",
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "restfulSE": [
         "ExperimentHub"
@@ -1310,8 +1184,7 @@
     "RiboDiPA": [],
     "RiboProfiling": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
@@ -1319,8 +1192,7 @@
     ],
     "RIPAT": [
         "karyoploteR",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "RITAN": [
         "BgeeDB"
@@ -1333,8 +1205,7 @@
     "RNAAgeCalc": [
         "recount",
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "rnaEditr": [],
     "RNAinteract": [
@@ -1342,26 +1213,22 @@
     ],
     "RNAmodR": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "RNASeqR": [
         "ballgown",
@@ -1376,8 +1243,7 @@
     ],
     "Rqc": [
         "biovizBase",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "RRHO": [],
     "rrvgo": [],
@@ -1410,13 +1276,10 @@
         "RUVSeq",
         "EDASeq"
     ],
-    "scoreInvHap": [
-        "VariantAnnotation"
-    ],
+    "scoreInvHap": [],
     "scruff": [
         "ggbio",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "scTensor": [
         "meshr",
@@ -1439,9 +1302,7 @@
         "HiLDA"
     ],
     "seq2pathway": [],
-    "seqCAT": [
-        "VariantAnnotation"
-    ],
+    "seqCAT": [],
     "SeqSQC": [
         "ExperimentHub"
     ],
@@ -1463,12 +1324,8 @@
         "DOSE",
         "enrichplot"
     ],
-    "signeR": [
-        "VariantAnnotation"
-    ],
-    "SigsPack": [
-        "VariantAnnotation"
-    ],
+    "signeR": [],
+    "SigsPack": [],
     "SimBindProfiles": [],
     "simplifyEnrichment": [],
     "singleCellTK": [
@@ -1482,8 +1339,7 @@
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "SISPA": [],
     "skewr": [
@@ -1503,15 +1359,12 @@
         "goseq"
     ],
     "snapCGH": [],
-    "SNPhood": [
-        "VariantAnnotation"
-    ],
+    "SNPhood": [],
     "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
     "SomaticSignatures": [
-        "VariantAnnotation",
         "ggbio",
         "biovizBase"
     ],
@@ -1523,8 +1376,7 @@
         "motifmatchr",
         "TFBSTools",
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "SpectralTAD": [
         "HiCcompare"
@@ -1539,19 +1391,16 @@
     "spiky": [],
     "SPLINTER": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "STAN": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "staRank": [
         "cellHTS2"
@@ -1565,18 +1414,14 @@
         "DOSE"
     ],
     "strandCheckR": [],
-    "StructuralVariantAnnotation": [
-        "VariantAnnotation"
-    ],
+    "StructuralVariantAnnotation": [],
     "SubCellBarCode": [],
     "supersigs": [],
     "svaNUMT": [
-        "VariantAnnotation",
         "StructuralVariantAnnotation"
     ],
     "svaRetro": [
-        "StructuralVariantAnnotation",
-        "VariantAnnotation"
+        "StructuralVariantAnnotation"
     ],
     "SwathXtend": [],
     "synlet": [],
@@ -1596,8 +1441,7 @@
         "Gviz",
         "sesameData",
         "biovizBase",
-        "ExperimentHub",
-        "VariantAnnotation"
+        "ExperimentHub"
     ],
     "TDARACNE": [
         "GenKern"
@@ -1616,12 +1460,8 @@
     "TIN": [
         "aroma.affymetrix"
     ],
-    "TitanCNA": [
-        "VariantAnnotation"
-    ],
-    "tLOH": [
-        "VariantAnnotation"
-    ],
+    "TitanCNA": [],
+    "tLOH": [],
     "TNBC.CMS": [],
     "tofsims": [
         "alsace"
@@ -1629,8 +1469,7 @@
     "TPP": [],
     "trackViewer": [
         "Gviz",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
     "transcriptogramer": [],
     "transcriptR": [],
@@ -1653,7 +1492,6 @@
     "TVTB": [
         "ensemblVEP",
         "Gviz",
-        "VariantAnnotation",
         "biovizBase"
     ],
     "tximeta": [],
@@ -1664,33 +1502,25 @@
         "Homo.sapiens",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
-        "biovizBase",
-        "VariantAnnotation"
+        "biovizBase"
     ],
-    "Uniquorn": [
-        "VariantAnnotation"
-    ],
+    "Uniquorn": [],
     "uSORT": [],
     "VAExprs": [
         "gradDescent",
         "DeepPINCS",
         "ttgsea"
     ],
-    "VariantAnnotation": [],
     "VariantFiltering": [
-        "VariantAnnotation",
         "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [
-        "VariantAnnotation"
-    ],
+    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
     "VCFArray": [
-        "VariantAnnotation",
         "GenomicFiles"
     ],
     "VennDetail": [],
@@ -1700,8 +1530,7 @@
         "ExperimentHub"
     ],
     "vtpnet": [
-        "gwascat",
-        "VariantAnnotation"
+        "gwascat"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -1720,7 +1549,6 @@
     "XINA": [],
     "YAPSA": [
         "SomaticSignatures",
-        "VariantAnnotation",
         "ggbio",
         "biovizBase"
     ],
@@ -1746,15 +1574,9 @@
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores"
     ],
-    "COSMIC.67": [
-        "VariantAnnotation"
-    ],
-    "PolyPhen.Hsapiens.dbSNP131": [
-        "VariantAnnotation"
-    ],
-    "SIFT.Hsapiens.dbSNP137": [
-        "VariantAnnotation"
-    ],
+    "COSMIC.67": [],
+    "PolyPhen.Hsapiens.dbSNP131": [],
+    "SIFT.Hsapiens.dbSNP137": [],
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
@@ -1767,8 +1589,7 @@
     "Mus.musculus": [],
     "GenomicState": [
         "derfinder",
-        "GenomicFiles",
-        "VariantAnnotation"
+        "GenomicFiles"
     ],
     "iCluster": [],
     "IlluminaHumanMethylationEPICmanifest": [
