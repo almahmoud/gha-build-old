@@ -276,7 +276,6 @@
         "ExperimentHub",
         "DSS",
         "Gviz",
-        "geneLenDataBase",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
         "lumi",
@@ -772,9 +771,7 @@
         "GOstats"
     ],
     "gmoviz": [],
-    "goseq": [
-        "geneLenDataBase"
-    ],
+    "goseq": [],
     "GOSim": [],
     "GOstats": [],
     "gpart": [
@@ -851,8 +848,7 @@
     "ideal": [
         "pcaExplorer",
         "goseq",
-        "GOstats",
-        "geneLenDataBase"
+        "GOstats"
     ],
     "idr2d": [],
     "igvR": [
@@ -1487,8 +1483,7 @@
     ],
     "Rgin": [],
     "rgsepd": [
-        "goseq",
-        "geneLenDataBase"
+        "goseq"
     ],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -1711,8 +1706,7 @@
     ],
     "slinky": [],
     "SMITE": [
-        "goseq",
-        "geneLenDataBase"
+        "goseq"
     ],
     "snapCGH": [],
     "SNPhood": [
@@ -2026,7 +2020,6 @@
         "minfi",
         "bumphunter"
     ],
-    "geneLenDataBase": [],
     "ChIC.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
