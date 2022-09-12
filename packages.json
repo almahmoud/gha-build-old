@@ -136,9 +136,7 @@
         "bumphunter"
     ],
     "BgeeCall": [],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "bigmelon": [
         "wateRmelon",
         "minfi",
@@ -162,9 +160,7 @@
         "ExperimentHub"
     ],
     "biocthis": [],
-    "BioMM": [
-        "topGO"
-    ],
+    "BioMM": [],
     "biomvRCNS": [
         "Gviz",
         "ensembldb",
@@ -275,13 +271,9 @@
     ],
     "CCPROMISE": [],
     "cellHTS2": [],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [],
-    "cellTree": [
-        "topGO"
-    ],
+    "cellTree": [],
     "CEMiTool": [
         "WGCNA",
         "clusterProfiler",
@@ -360,8 +352,7 @@
     "ChIPXpress": [],
     "ChromSCape": [],
     "chromVAR": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "cicero": [
         "Gviz",
@@ -383,7 +374,6 @@
         "enrichplot",
         "GOSemSim"
     ],
-    "CNEr": [],
     "CNVfilteR": [
         "karyoploteR",
         "CopyNumberPlots",
@@ -628,7 +618,6 @@
         "GOSemSim"
     ],
     "EGSEA": [
-        "topGO",
         "PADOG"
     ],
     "ELMER": [
@@ -639,8 +628,7 @@
     ],
     "enhancerHomologSearch": [
         "motifmatchr",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "EnMCB": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -663,8 +651,7 @@
         "clusterProfiler",
         "DOSE",
         "enrichplot",
-        "GOSemSim",
-        "CNEr"
+        "GOSemSim"
     ],
     "ensembldb": [],
     "ensemblVEP": [
@@ -724,8 +711,7 @@
         "enrichplot",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "DOSE",
-        "GOSemSim",
-        "CNEr"
+        "GOSemSim"
     ],
     "escape": [],
     "EventPointer": [
@@ -782,9 +768,7 @@
     ],
     "flowDensity": [],
     "FlowSOM": [],
-    "FoldGO": [
-        "topGO"
-    ],
+    "FoldGO": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -885,12 +869,9 @@
     "goseq": [
         "geneLenDataBase"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSTAG": [],
     "GOstats": [],
-    "goTools": [],
     "gpart": [
         "Homo.sapiens",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -971,7 +952,6 @@
         "bumphunter"
     ],
     "ideal": [
-        "topGO",
         "pcaExplorer",
         "goseq",
         "GOstats",
@@ -1098,8 +1078,7 @@
         "VariantAnnotation"
     ],
     "MatrixRider": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MCbiclust": [
         "WGCNA"
@@ -1292,15 +1271,12 @@
     "mnem": [
         "Linnorm"
     ],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MODA": [
         "WGCNA"
     ],
     "monaLisa": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "MoonlightR": [
         "clusterProfiler",
@@ -1315,8 +1291,7 @@
         "biovizBase"
     ],
     "motifmatchr": [
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "msgbsR": [
         "ggbio",
@@ -1422,9 +1397,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicRexposome": [
         "SmartSVA"
     ],
@@ -1442,15 +1415,13 @@
     "PADOG": [],
     "pageRank": [
         "motifmatchr",
-        "TFBSTools",
-        "CNEr"
+        "TFBSTools"
     ],
     "PanVizGenerator": [
         "FindMyFriends"
     ],
     "PathoStat": [],
     "pcaExplorer": [
-        "topGO",
         "GOstats"
     ],
     "PDATK": [],
@@ -1470,8 +1441,7 @@
     "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "Pi": [],
     "Pigengene": [
@@ -1514,7 +1484,6 @@
         "TFBSTools",
         "ensembldb",
         "biovizBase",
-        "CNEr",
         "VariantAnnotation"
     ],
     "proActiv": [],
@@ -1560,8 +1529,7 @@
         "VariantAnnotation"
     ],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "pulsedSilac": [
         "taRifx"
@@ -1713,8 +1681,7 @@
         "ensembldb"
     ],
     "RITAN": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "RLSeq": [
         "RLHub",
@@ -1966,7 +1933,6 @@
         "motifmatchr",
         "TFBSTools",
         "Gviz",
-        "CNEr",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -2068,9 +2034,7 @@
         "ontoProc",
         "ExperimentHub"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFEA.ChIP": [],
     "TimeSeriesExperiment": [],
     "TimiRGeN": [
@@ -2093,7 +2057,6 @@
     "tofsims": [
         "alsace"
     ],
-    "topGO": [],
     "TPP": [],
     "trackViewer": [
         "Gviz",
@@ -2101,12 +2064,9 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [],
     "tRanslatome": [
-        "topGO",
         "GOSemSim"
     ],
     "TraRe": [
@@ -2186,8 +2146,7 @@
     "VennDetail": [],
     "vidger": [],
     "ViSEAGO": [
-        "GOSemSim",
-        "topGO"
+        "GOSemSim"
     ],
     "vissE": [
         "msigdb",
