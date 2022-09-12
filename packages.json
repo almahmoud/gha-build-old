@@ -537,7 +537,6 @@
         "AnnotationDbi"
     ],
     "BioMM": [
-        "rms",
         "topGO",
         "GO.db",
         "AnnotationDbi"
@@ -1012,7 +1011,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
-        "rms",
         "rtracklayer"
     ],
     "ChIPexoQual": [
@@ -1309,8 +1307,7 @@
     ],
     "CONFESS": [
         "contrast",
-        "flowMerge",
-        "rms"
+        "flowMerge"
     ],
     "consensusDE": [
         "AnnotationDbi",
@@ -2049,7 +2046,6 @@
         "AnnotationDbi"
     ],
     "EnMCB": [
-        "rms",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
         "bumphunter",
@@ -3216,8 +3212,7 @@
     "InterMineR": [],
     "IntramiRExploreR": [],
     "inveRsion": [
-        "haplo.stats",
-        "rms"
+        "haplo.stats"
     ],
     "IONiseR": [
         "ShortRead"
@@ -7134,7 +7129,6 @@
     "DO.db": [
         "AnnotationDbi"
     ],
-    "rms": [],
     "WGCNA": [
         "GO.db",
         "AnnotationDbi"
@@ -7290,9 +7284,7 @@
         "rstatix"
     ],
     "Ecume": [],
-    "contrast": [
-        "rms"
-    ],
+    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
@@ -7383,9 +7375,7 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "haplo.stats": [
-        "rms"
-    ],
+    "haplo.stats": [],
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [
