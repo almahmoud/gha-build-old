@@ -982,7 +982,6 @@
     "conclus": [
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "factoextra",
         "biomaRt",
         "AnnotationDbi",
         "clusterProfiler",
@@ -1143,14 +1142,11 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "factoextra",
         "FlowSOM",
         "CytoML",
         "ggcyto"
     ],
-    "CytoGLMM": [
-        "factoextra"
-    ],
+    "CytoGLMM": [],
     "cytoKernel": [],
     "CytoML": [
         "ggcyto"
@@ -1188,7 +1184,6 @@
     "DAPAR": [
         "clusterProfiler",
         "AnnotationDbi",
-        "factoextra",
         "Mfuzz",
         "DOSE",
         "enrichplot",
@@ -2010,9 +2005,7 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [],
-    "GEOexplorer": [
-        "factoextra"
-    ],
+    "GEOexplorer": [],
     "gep2pep": [
         "GSEABase",
         "AnnotationDbi"
@@ -2396,7 +2389,6 @@
         "genefilter"
     ],
     "InterCellar": [
-        "factoextra",
         "biomaRt",
         "AnnotationDbi"
     ],
@@ -3115,9 +3107,7 @@
         "genefilter",
         "AnnotationDbi"
     ],
-    "MSstatsLiP": [
-        "factoextra"
-    ],
+    "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "MSstatsSampleSize": [],
     "multicrispr": [
@@ -3179,7 +3169,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
-        "factoextra",
         "TCGAbiolinks",
         "AnnotationDbi",
         "biomaRt"
@@ -3336,7 +3325,6 @@
     ],
     "OMICsPCA": [
         "HelloRanges",
-        "factoextra",
         "GenomicFeatures",
         "VariantAnnotation",
         "AnnotationDbi",
@@ -3655,7 +3643,6 @@
         "DAPAR",
         "clusterProfiler",
         "AnnotationDbi",
-        "factoextra",
         "Mfuzz",
         "DOSE",
         "enrichplot",
@@ -4124,7 +4111,6 @@
     "RNASeqR": [
         "pathview",
         "ballgown",
-        "factoextra",
         "DESeq2",
         "systemPipeRdata",
         "clusterProfiler",
@@ -5445,7 +5431,6 @@
     ],
     "BSgenome.Drerio.UCSC.danRer7": [],
     "colortools": [],
-    "factoextra": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb",
         "GenomicFeatures",
