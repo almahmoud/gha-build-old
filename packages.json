@@ -46,9 +46,7 @@
         "AnnotationHub",
         "AnnotationDbi"
     ],
-    "ADImpute": [
-        "SingleCellExperiment"
-    ],
+    "ADImpute": [],
     "adSplit": [
         "AnnotationDbi",
         "GO.db"
@@ -91,9 +89,7 @@
         "GSEABase",
         "AnnotationDbi"
     ],
-    "aggregateBioVar": [
-        "SingleCellExperiment"
-    ],
+    "aggregateBioVar": [],
     "AgiMicroRna": [
         "affycoretools",
         "GOstats",
@@ -121,7 +117,6 @@
         "biomaRt"
     ],
     "airpart": [
-        "SingleCellExperiment",
         "scater",
         "apeglm",
         "scuttle"
@@ -428,7 +423,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "SingleCellExperiment",
         "scran",
         "scuttle"
     ],
@@ -436,7 +430,6 @@
         "GenomicAlignments"
     ],
     "batchelor": [
-        "SingleCellExperiment",
         "scuttle"
     ],
     "BatchQC": [
@@ -446,14 +439,11 @@
         "AnnotationDbi"
     ],
     "BayesSpace": [
-        "SingleCellExperiment",
         "scater",
         "scran",
         "scuttle"
     ],
-    "bayNorm": [
-        "SingleCellExperiment"
-    ],
+    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -467,9 +457,7 @@
     "beadarray": [
         "AnnotationDbi"
     ],
-    "BEARscc": [
-        "SingleCellExperiment"
-    ],
+    "BEARscc": [],
     "BEAT": [
         "ShortRead",
         "BSgenome",
@@ -488,7 +476,6 @@
         "geneplotter",
         "lumi",
         "methylumi",
-        "SingleCellExperiment",
         "AnnotationDbi",
         "GenomicFeatures",
         "FDb.InfiniumMethylation.hg19",
@@ -811,9 +798,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "BUSseq": [
-        "SingleCellExperiment"
-    ],
+    "BUSseq": [],
     "CAEN": [],
     "CAFE": [
         "biovizBase",
@@ -898,7 +883,6 @@
         "GenomicAlignments"
     ],
     "CATALYST": [
-        "SingleCellExperiment",
         "drc",
         "FlowSOM",
         "scater",
@@ -944,9 +928,7 @@
         "GenomicAlignments"
     ],
     "cbpManager": [],
-    "ccfindR": [
-        "SingleCellExperiment"
-    ],
+    "ccfindR": [],
     "ccmap": [
         "AnnotationDbi"
     ],
@@ -956,13 +938,11 @@
         "AnnotationDbi"
     ],
     "celaref": [
-        "MAST",
-        "SingleCellExperiment"
+        "MAST"
     ],
     "celda": [
         "scater",
         "scran",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "CellBarcode": [
@@ -970,9 +950,7 @@
         "GenomicAlignments"
     ],
     "cellbaseR": [],
-    "CellBench": [
-        "SingleCellExperiment"
-    ],
+    "CellBench": [],
     "cellHTS2": [
         "genefilter",
         "GSEABase",
@@ -980,7 +958,6 @@
         "AnnotationDbi"
     ],
     "CelliD": [
-        "SingleCellExperiment",
         "scater",
         "scuttle"
     ],
@@ -997,12 +974,9 @@
     ],
     "CellMixS": [
         "scater",
-        "SingleCellExperiment",
         "scuttle"
     ],
-    "CellTrails": [
-        "SingleCellExperiment"
-    ],
+    "CellTrails": [],
     "cellTree": [
         "topGO",
         "GO.db",
@@ -1032,7 +1006,6 @@
     ],
     "Cepo": [
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "ceRNAnetsim": [],
@@ -1233,7 +1206,6 @@
         "batchelor",
         "scran",
         "scater",
-        "SingleCellExperiment",
         "Sushi",
         "scuttle",
         "GenomicAlignments",
@@ -1289,7 +1261,6 @@
         "biomaRt"
     ],
     "CiteFuse": [
-        "SingleCellExperiment",
         "scran",
         "scuttle"
     ],
@@ -1321,7 +1292,6 @@
     "clstutils": [],
     "CluMSID": [],
     "clusterExperiment": [
-        "SingleCellExperiment",
         "zinbwave",
         "mbkmeans",
         "genefilter",
@@ -1336,9 +1306,7 @@
         "DO.db"
     ],
     "clusterSeq": [],
-    "clustifyr": [
-        "SingleCellExperiment"
-    ],
+    "clustifyr": [],
     "cmapR": [],
     "cn.farms": [
         "oligoClasses",
@@ -1428,9 +1396,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "CoGAPS": [
-        "SingleCellExperiment"
-    ],
+    "CoGAPS": [],
     "cogena": [],
     "Cogito": [
         "GenomicFeatures",
@@ -1467,7 +1433,6 @@
         "AnnotationDbi",
         "scran",
         "scater",
-        "SingleCellExperiment",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -1482,7 +1447,6 @@
     ],
     "condiments": [
         "slingshot",
-        "SingleCellExperiment",
         "Ecume",
         "TrajectoryUtils",
         "caret"
@@ -1515,7 +1479,6 @@
         "genefu",
         "biomaRt",
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "consensusSeekeR": [
@@ -1571,8 +1534,7 @@
         "MultiAssayExperiment"
     ],
     "corral": [
-        "MultiAssayExperiment",
-        "SingleCellExperiment"
+        "MultiAssayExperiment"
     ],
     "CORREP": [],
     "coseq": [
@@ -1668,7 +1630,6 @@
     "ctgGEM": [
         "sincell",
         "TSCAN",
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "cTRAP": [
@@ -1710,9 +1671,7 @@
     "cycle": [
         "Mfuzz"
     ],
-    "cydar": [
-        "SingleCellExperiment"
-    ],
+    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
@@ -1738,9 +1697,7 @@
         "rstatix"
     ],
     "cytoKernel": [],
-    "cytomapper": [
-        "SingleCellExperiment"
-    ],
+    "cytomapper": [],
     "CytoML": [
         "openCyto",
         "ggcyto",
@@ -1751,7 +1708,6 @@
         "FlowSOM",
         "destiny",
         "sva",
-        "SingleCellExperiment",
         "VIM",
         "CytoML",
         "ggpubr",
@@ -1985,7 +1941,6 @@
         "AnnotationDbi"
     ],
     "destiny": [
-        "SingleCellExperiment",
         "VIM",
         "car"
     ],
@@ -2074,7 +2029,6 @@
         "viper"
     ],
     "Dino": [
-        "SingleCellExperiment",
         "scran",
         "scuttle"
     ],
@@ -2083,13 +2037,10 @@
         "heatmaply"
     ],
     "distinct": [
-        "SingleCellExperiment",
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [
-        "SingleCellExperiment"
-    ],
+    "dittoSeq": [],
     "divergence": [],
     "DMCFB": [
         "rtracklayer",
@@ -2185,7 +2136,6 @@
         "GenomicAlignments"
     ],
     "DropletUtils": [
-        "SingleCellExperiment",
         "scuttle"
     ],
     "drugTargetInteractions": [
@@ -2283,7 +2233,6 @@
         "org.Rn.eg.db",
         "GO.db",
         "GSEABase",
-        "SingleCellExperiment",
         "hgu133plus2.db",
         "hgu133a.db"
     ],
@@ -2538,7 +2487,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "esetVis": [
@@ -2600,7 +2548,6 @@
         "GenomicAlignments"
     ],
     "ExperimentSubset": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "DropletUtils",
@@ -2642,7 +2589,6 @@
     "fcoex": [
         "FCBF",
         "clusterProfiler",
-        "SingleCellExperiment",
         "AnnotationDbi",
         "DOSE",
         "enrichplot",
@@ -2660,7 +2606,6 @@
         "biomaRt"
     ],
     "FEAST": [
-        "SingleCellExperiment",
         "TSCAN",
         "SC3",
         "TrajectoryUtils"
@@ -2691,15 +2636,12 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "fishpond": [
-        "SingleCellExperiment"
-    ],
+    "fishpond": [],
     "flagme": [
         "xcms",
         "CAMERA"
     ],
     "FLAMES": [
-        "SingleCellExperiment",
         "scater",
         "scuttle"
     ],
@@ -3066,7 +3008,6 @@
     "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "DropletUtils",
         "scuttle"
     ],
@@ -3275,7 +3216,6 @@
     ],
     "GSVA": [
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "GUIDEseq": [
@@ -3389,9 +3329,7 @@
         "MultiAssayExperiment",
         "AnnotationDbi"
     ],
-    "HIPPO": [
-        "SingleCellExperiment"
-    ],
+    "HIPPO": [],
     "hiReadsProcessor": [
         "GenomicAlignments",
         "hiAnnotator",
@@ -3507,9 +3445,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "ILoReg": [
-        "SingleCellExperiment"
-    ],
+    "ILoReg": [],
     "imageHTS": [
         "cellHTS2",
         "genefilter",
@@ -3529,7 +3465,6 @@
         "SpatialExperiment",
         "scuttle",
         "cytomapper",
-        "SingleCellExperiment",
         "DropletUtils"
     ],
     "IMMAN": [
@@ -3540,9 +3475,7 @@
     ],
     "immunotation": [],
     "INDEED": [],
-    "infercnv": [
-        "SingleCellExperiment"
-    ],
+    "infercnv": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -3641,7 +3574,6 @@
         "AnnotationDbi",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "SingleCellExperiment",
         "clusterProfiler",
         "ggpubr",
         "scater",
@@ -3656,12 +3588,9 @@
         "car"
     ],
     "ISAnalytics": [],
-    "iSEE": [
-        "SingleCellExperiment"
-    ],
+    "iSEE": [],
     "iSEEu": [
-        "iSEE",
-        "SingleCellExperiment"
+        "iSEE"
     ],
     "isobar": [
         "biomaRt",
@@ -3776,9 +3705,7 @@
     ],
     "LedPred": [],
     "lefser": [],
-    "LineagePulse": [
-        "SingleCellExperiment"
-    ],
+    "LineagePulse": [],
     "LinkHD": [
         "ggpubr",
         "MultiAssayExperiment",
@@ -3802,9 +3729,7 @@
         "xcms",
         "CAMERA"
     ],
-    "LoomExperiment": [
-        "SingleCellExperiment"
-    ],
+    "LoomExperiment": [],
     "LowMACA": [
         "cgdsr"
     ],
@@ -3931,9 +3856,7 @@
         "VariantAnnotation"
     ],
     "maskBAD": [],
-    "MAST": [
-        "SingleCellExperiment"
-    ],
+    "MAST": [],
     "MatrixQCvis": [
         "proDA"
     ],
@@ -3947,9 +3870,7 @@
         "AnnotationDbi"
     ],
     "MBASED": [],
-    "mbkmeans": [
-        "SingleCellExperiment"
-    ],
+    "mbkmeans": [],
     "mBPCR": [
         "oligoClasses",
         "GWASTools"
@@ -4118,9 +4039,7 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaNeighbor": [
-        "SingleCellExperiment"
-    ],
+    "MetaNeighbor": [],
     "metapone": [],
     "metaseqR2": [
         "DESeq2",
@@ -4292,7 +4211,6 @@
         "AnnotationDbi"
     ],
     "mia": [
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "MultiAssayExperiment",
         "DECIPHER",
@@ -4304,7 +4222,6 @@
         "TreeSummarizedExperiment",
         "mia",
         "scater",
-        "SingleCellExperiment",
         "MultiAssayExperiment",
         "DECIPHER",
         "scuttle"
@@ -4354,9 +4271,7 @@
         "AnnotationForge",
         "genefilter"
     ],
-    "miloR": [
-        "SingleCellExperiment"
-    ],
+    "miloR": [],
     "mimager": [
         "affyPLM",
         "oligo",
@@ -4403,9 +4318,7 @@
         "GenomicAlignments"
     ],
     "MiPP": [],
-    "miQC": [
-        "SingleCellExperiment"
-    ],
+    "miQC": [],
     "MIRA": [
         "bsseq",
         "BSgenome",
@@ -4646,7 +4559,6 @@
     "MSGFplus": [],
     "msImpute": [
         "scran",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "msmsTests": [],
@@ -4741,7 +4653,6 @@
         "DO.db"
     ],
     "mumosa": [
-        "SingleCellExperiment",
         "scuttle",
         "scran",
         "batchelor"
@@ -4759,7 +4670,6 @@
         "DESeq2",
         "scater",
         "scuttle",
-        "SingleCellExperiment",
         "variancePartition",
         "genefilter",
         "geneplotter",
@@ -4874,9 +4784,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "Nebulosa": [
-        "SingleCellExperiment"
-    ],
+    "Nebulosa": [],
     "nempi": [
         "mnem",
         "epiNEM",
@@ -4916,7 +4824,6 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "SingleCellExperiment",
         "zinbwave",
         "mbkmeans",
         "scuttle",
@@ -4924,12 +4831,8 @@
         "AnnotationDbi"
     ],
     "networkBMA": [],
-    "NeuCA": [
-        "SingleCellExperiment"
-    ],
-    "NewWave": [
-        "SingleCellExperiment"
-    ],
+    "NeuCA": [],
+    "NewWave": [],
     "nondetects": [],
     "NoRCE": [
         "reactome.db",
@@ -5075,8 +4978,7 @@
     "oppar": [
         "GSEABase",
         "GSVA",
-        "AnnotationDbi",
-        "SingleCellExperiment"
+        "AnnotationDbi"
     ],
     "oppti": [],
     "ORFhunteR": [
@@ -5225,7 +5127,6 @@
     ],
     "peco": [
         "scater",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "pepStat": [],
@@ -5255,7 +5156,6 @@
         "MultiAssayExperiment"
     ],
     "phemd": [
-        "SingleCellExperiment",
         "destiny",
         "VIM",
         "car"
@@ -5322,7 +5222,6 @@
         "VariantAnnotation"
     ],
     "pipeComp": [
-        "SingleCellExperiment",
         "scran",
         "scater",
         "scuttle"
@@ -5376,7 +5275,6 @@
         "AnnotationDbi"
     ],
     "POWSC": [
-        "SingleCellExperiment",
         "MAST"
     ],
     "ppcseq": [
@@ -5501,8 +5399,7 @@
         "GO.db"
     ],
     "projectR": [
-        "CoGAPS",
-        "SingleCellExperiment"
+        "CoGAPS"
     ],
     "pRoloc": [
         "MLInterfaces",
@@ -6373,13 +6270,9 @@
         "AnnotationDbi",
         "org.Hs.eg.db"
     ],
-    "SC3": [
-        "SingleCellExperiment"
-    ],
+    "SC3": [],
     "Scale4C": [],
-    "scAlign": [
-        "SingleCellExperiment"
-    ],
+    "scAlign": [],
     "SCAN.UPC": [
         "oligo",
         "sva",
@@ -6398,7 +6291,6 @@
         "GenomicAlignments"
     ],
     "scAnnotatR": [
-        "SingleCellExperiment",
         "caret",
         "AnnotationHub",
         "AnnotationDbi"
@@ -6407,9 +6299,7 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "SCArray": [
-        "SingleCellExperiment"
-    ],
+    "SCArray": [],
     "SCATE": [
         "SCATEData",
         "GenomicAlignments",
@@ -6418,11 +6308,9 @@
         "AnnotationDbi"
     ],
     "scater": [
-        "SingleCellExperiment",
         "scuttle"
     ],
     "scBFA": [
-        "SingleCellExperiment",
         "zinbwave",
         "DESeq2",
         "genefilter",
@@ -6430,59 +6318,42 @@
         "AnnotationDbi"
     ],
     "scCB2": [
-        "SingleCellExperiment",
         "DropletUtils",
         "scuttle"
     ],
     "scClassifR": [
-        "SingleCellExperiment",
         "caret"
     ],
     "scClassify": [
         "Cepo",
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
-    "scDataviz": [
-        "SingleCellExperiment"
-    ],
+    "scDataviz": [],
     "scDblFinder": [
-        "SingleCellExperiment",
         "scran",
         "scater",
         "scuttle"
     ],
     "scDD": [
-        "SingleCellExperiment",
         "scran",
         "scuttle"
     ],
-    "scds": [
-        "SingleCellExperiment"
-    ],
+    "scds": [],
     "SCFA": [],
     "scGPS": [
-        "SingleCellExperiment",
         "caret",
         "DESeq2",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
     ],
-    "schex": [
-        "SingleCellExperiment"
-    ],
-    "scHOT": [
-        "SingleCellExperiment"
-    ],
+    "schex": [],
+    "scHOT": [],
     "scMAGeCK": [],
-    "scmap": [
-        "SingleCellExperiment"
-    ],
+    "scmap": [],
     "scMerge": [
         "M3Drop",
-        "SingleCellExperiment",
         "reldist"
     ],
     "scmeth": [
@@ -6497,12 +6368,9 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "SCnorm": [
-        "SingleCellExperiment"
-    ],
+    "SCnorm": [],
     "scone": [
         "RUVSeq",
-        "SingleCellExperiment",
         "EDASeq",
         "ShortRead",
         "biomaRt",
@@ -6528,11 +6396,9 @@
     ],
     "scp": [
         "QFeatures",
-        "SingleCellExperiment",
         "MultiAssayExperiment"
     ],
     "scPipe": [
-        "SingleCellExperiment",
         "biomaRt",
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -6543,12 +6409,9 @@
         "scuttle"
     ],
     "scran": [
-        "SingleCellExperiment",
         "scuttle"
     ],
-    "scReClassify": [
-        "SingleCellExperiment"
-    ],
+    "scReClassify": [],
     "scRepertoire": [],
     "scruff": [
         "GenomicAlignments",
@@ -6557,7 +6420,6 @@
         "AnnotationDbi",
         "ggbio",
         "rtracklayer",
-        "SingleCellExperiment",
         "biomaRt",
         "biovizBase",
         "BSgenome",
@@ -6565,13 +6427,10 @@
         "OrganismDbi",
         "ensembldb"
     ],
-    "scry": [
-        "SingleCellExperiment"
-    ],
+    "scry": [],
     "scTensor": [
         "reactome.db",
         "AnnotationDbi",
-        "SingleCellExperiment",
         "nnTensor",
         "ccTensor",
         "heatmaply",
@@ -6594,7 +6453,6 @@
     ],
     "scTGIF": [
         "GSEABase",
-        "SingleCellExperiment",
         "nnTensor",
         "schex",
         "AnnotationDbi"
@@ -6605,7 +6463,6 @@
         "scran",
         "epivizrData",
         "scater",
-        "SingleCellExperiment",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -6616,9 +6473,7 @@
         "biomaRt",
         "GenomicAlignments"
     ],
-    "scuttle": [
-        "SingleCellExperiment"
-    ],
+    "scuttle": [],
     "SDAMS": [],
     "sechm": [],
     "segmenter": [
@@ -6793,14 +6648,11 @@
         "AnnotationDbi"
     ],
     "sincell": [],
-    "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "scran",
-        "SingleCellExperiment",
         "scuttle"
     ],
     "singleCellTK": [
-        "SingleCellExperiment",
         "batchelor",
         "celldex",
         "DESeq2",
@@ -6858,8 +6710,7 @@
         "genefilter",
         "GSVA",
         "AnnotationDbi",
-        "GSEABase",
-        "SingleCellExperiment"
+        "GSEABase"
     ],
     "sitadela": [
         "biomaRt",
@@ -6889,7 +6740,6 @@
     ],
     "slalom": [
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "SLGI": [
@@ -6898,8 +6748,7 @@
         "GO.db"
     ],
     "slingshot": [
-        "TrajectoryUtils",
-        "SingleCellExperiment"
+        "TrajectoryUtils"
     ],
     "slinky": [],
     "SMITE": [
@@ -6957,7 +6806,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [
-        "SingleCellExperiment",
         "scater",
         "scran",
         "DropletUtils",
@@ -6975,7 +6823,6 @@
     ],
     "spatialDE": [
         "SpatialExperiment",
-        "SingleCellExperiment",
         "DropletUtils",
         "scuttle"
     ],
@@ -6983,7 +6830,6 @@
         "GeomxTools"
     ],
     "SpatialExperiment": [
-        "SingleCellExperiment",
         "DropletUtils",
         "scuttle"
     ],
@@ -6993,7 +6839,6 @@
         "WGCNA",
         "genefilter",
         "geneplotter",
-        "SingleCellExperiment",
         "scater",
         "AnnotationDbi",
         "GO.db",
@@ -7046,7 +6891,6 @@
         "rtracklayer"
     ],
     "splatter": [
-        "SingleCellExperiment",
         "scater",
         "scuttle"
     ],
@@ -7077,7 +6921,6 @@
     ],
     "spqn": [],
     "SPsimSeq": [
-        "SingleCellExperiment",
         "WGCNA",
         "GO.db",
         "AnnotationDbi"
@@ -7215,9 +7058,7 @@
         "AnnotationDbi"
     ],
     "SwathXtend": [],
-    "switchde": [
-        "SingleCellExperiment"
-    ],
+    "switchde": [],
     "synergyfinder": [
         "drc",
         "SpatialExtremes",
@@ -7275,7 +7116,6 @@
         "genefilter",
         "geneplotter",
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi"
     ],
     "TCC": [
@@ -7367,9 +7207,7 @@
         "org.Hs.eg.db"
     ],
     "tidybulk": [],
-    "tidySingleCellExperiment": [
-        "SingleCellExperiment"
-    ],
+    "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tigre": [
         "AnnotationDbi"
@@ -7430,7 +7268,6 @@
         "ggpubr",
         "rstatix",
         "GSEABase",
-        "SingleCellExperiment",
         "AnnotationDbi",
         "car"
     ],
@@ -7465,13 +7302,10 @@
         "VariantAnnotation"
     ],
     "tradeSeq": [
-        "SingleCellExperiment",
         "slingshot",
         "TrajectoryUtils"
     ],
-    "TrajectoryUtils": [
-        "SingleCellExperiment"
-    ],
+    "TrajectoryUtils": [],
     "transcriptogramer": [
         "biomaRt",
         "topGO",
@@ -7513,12 +7347,10 @@
         "GenomicAlignments"
     ],
     "traviz": [
-        "SingleCellExperiment",
         "slingshot",
         "TrajectoryUtils"
     ],
     "treekoR": [
-        "SingleCellExperiment",
         "diffcyt",
         "FlowSOM",
         "CytoML",
@@ -7530,9 +7362,7 @@
         "car",
         "fda"
     ],
-    "TreeSummarizedExperiment": [
-        "SingleCellExperiment"
-    ],
+    "TreeSummarizedExperiment": [],
     "trena": [
         "MotifDb",
         "vbsr",
@@ -7558,7 +7388,6 @@
         "GenomicAlignments"
     ],
     "tricycle": [
-        "SingleCellExperiment",
         "AnnotationDbi",
         "scater",
         "scuttle"
@@ -7586,7 +7415,6 @@
         "cgdsr"
     ],
     "TSCAN": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "tscR": [],
@@ -7693,7 +7521,6 @@
     ],
     "uSORT": [],
     "VAExprs": [
-        "SingleCellExperiment",
         "scater",
         "gradDescent",
         "DeepPINCS",
@@ -7776,8 +7603,7 @@
     ],
     "velociraptor": [
         "zellkonverter",
-        "scuttle",
-        "SingleCellExperiment"
+        "scuttle"
     ],
     "VennDetail": [],
     "vidger": [
@@ -7843,9 +7669,7 @@
         "BSgenome",
         "ShortRead"
     ],
-    "waddR": [
-        "SingleCellExperiment"
-    ],
+    "waddR": [],
     "wateRmelon": [
         "methylumi",
         "lumi",
@@ -7926,12 +7750,9 @@
         "rtracklayer",
         "GenomicAlignments"
     ],
-    "zellkonverter": [
-        "SingleCellExperiment"
-    ],
+    "zellkonverter": [],
     "zFPKM": [],
     "zinbwave": [
-        "SingleCellExperiment",
         "genefilter",
         "AnnotationDbi"
     ],
@@ -8560,7 +8381,6 @@
         "org.Hs.eg.db"
     ],
     "scRNAseq": [
-        "SingleCellExperiment",
         "ExperimentHub",
         "AnnotationHub",
         "AnnotationDbi",
@@ -8571,7 +8391,6 @@
         "GenomicAlignments"
     ],
     "TENxPBMCData": [
-        "SingleCellExperiment",
         "AnnotationHub",
         "ExperimentHub",
         "AnnotationDbi"
