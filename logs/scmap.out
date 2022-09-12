@@ -1,0 +1,26 @@
+* installing *source* package ‘scmap’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c scmap.cpp -o scmap.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o scmap.so RcppExports.o scmap.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-scmap/00new/scmap/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘toJSON’ from package ‘jsonlite’ in package ‘googleVis’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Creating a generic function for ‘toJSON’ from package ‘jsonlite’ in package ‘googleVis’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Creating a generic function for ‘toJSON’ from package ‘jsonlite’ in package ‘googleVis’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scmap’ as ‘scmap_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scmap)
