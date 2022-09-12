@@ -1270,9 +1270,7 @@
     "CNVPanelizer": [
         "exomeCopy"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -2616,7 +2614,6 @@
         "rstatix",
         "car"
     ],
-    "GDSArray": [],
     "genbankr": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -7022,7 +7019,6 @@
         "biomaRt"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools"
     ],
     "VariantFiltering": [
