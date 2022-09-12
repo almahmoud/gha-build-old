@@ -123,9 +123,7 @@
         "VariantAnnotation",
         "genefilter"
     ],
-    "apComplex": [
-        "org.Sc.sgd.db"
-    ],
+    "apComplex": [],
     "appreci8R": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1210,7 +1208,6 @@
     "fastLiquidAssociation": [
         "LiquidAssociation",
         "WGCNA",
-        "org.Sc.sgd.db",
         "GO.db"
     ],
     "fCI": [],
@@ -1697,9 +1694,7 @@
         "GenomicFeatures"
     ],
     "Linnorm": [],
-    "LiquidAssociation": [
-        "org.Sc.sgd.db"
-    ],
+    "LiquidAssociation": [],
     "lisaClust": [],
     "LOBSTAHS": [],
     "LowMACA": [
@@ -2803,7 +2798,6 @@
         "DESeq2",
         "systemPipeRdata",
         "clusterProfiler",
-        "org.Sc.sgd.db",
         "DOSE",
         "sva",
         "enrichplot",
@@ -3563,7 +3557,6 @@
     "curatedTCGAData": [
         "ExperimentHub"
     ],
-    "org.Sc.sgd.db": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures"
     ],
