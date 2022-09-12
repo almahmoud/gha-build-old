@@ -650,7 +650,6 @@
         "GSVA"
     ],
     "ELMER": [
-        "TCGAbiolinks",
         "Gviz",
         "ensembldb",
         "biovizBase",
@@ -1289,7 +1288,6 @@
     "MinimumDistance": [],
     "MIRA": [],
     "miRLAB": [
-        "TCGAbiolinks",
         "Category",
         "GOstats"
     ],
@@ -1349,7 +1347,6 @@
     "MoonlightR": [
         "clusterProfiler",
         "DOSE",
-        "TCGAbiolinks",
         "enrichplot",
         "GOSemSim"
     ],
@@ -1401,8 +1398,7 @@
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "decompTumor2Sig",
-        "TCGAbiolinks"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -2039,7 +2035,6 @@
     ],
     "SpidermiR": [
         "miRNAtap.db",
-        "TCGAbiolinks",
         "MAGeCKFlute",
         "clusterProfiler",
         "enrichplot",
@@ -2076,7 +2071,6 @@
     "StarBioTrek": [
         "SpidermiR",
         "miRNAtap.db",
-        "TCGAbiolinks",
         "MAGeCKFlute",
         "clusterProfiler",
         "enrichplot",
@@ -2112,11 +2106,9 @@
         "GSVA"
     ],
     "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
-        "TCGAbiolinks",
         "sesame",
         "DOSE",
         "enrichplot",
