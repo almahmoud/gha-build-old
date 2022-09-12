@@ -6521,14 +6521,12 @@
         "genefilter",
         "AnnotationDbi"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationDbi",
         "AnnotationHub",
         "ensembldb",
         "GenomicFeatures",
         "rtracklayer",
-        "scanMiR",
         "scanMiRData",
         "biomaRt",
         "GenomicAlignments"
@@ -8711,9 +8709,7 @@
         "GenomicAlignments"
     ],
     "fission": [],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub",
         "GenomicAlignments",
