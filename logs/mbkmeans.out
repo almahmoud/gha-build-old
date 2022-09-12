@@ -1,0 +1,34 @@
+* installing *source* package ‘mbkmeans’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/ClusterR/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/ClusterR/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mini_batch.cpp -o mini_batch.o
+In file included from /__w/gha-build/gha-build/built/RcppArmadillo/include/armadillo:22,
+                 from /__w/gha-build/gha-build/built/RcppArmadillo/include/RcppArmadilloForward.h:48,
+                 from /__w/gha-build/gha-build/built/RcppArmadillo/include/RcppArmadillo.h:29,
+                 from mini_batch.cpp:2:
+/__w/gha-build/gha-build/built/RcppArmadillo/include/armadillo_bits/config.hpp:333:86: note: #pragma message: INFO: support for ARMA_DONT_PRINT_ERRORS option has been removed
+  333 |   #pragma message ("INFO: support for ARMA_DONT_PRINT_ERRORS option has been removed")
+      |                                                                                      ^
+/__w/gha-build/gha-build/built/RcppArmadillo/include/armadillo_bits/config.hpp:338:75: note: #pragma message: INFO: suggest to use ARMA_WARN_LEVEL option instead
+  338 |     #pragma message ("INFO: suggest to use ARMA_WARN_LEVEL option instead")
+      |                                                                           ^
+/__w/gha-build/gha-build/built/RcppArmadillo/include/armadillo_bits/config.hpp:341:61: note: #pragma message: INFO: see the documentation for details
+  341 |   #pragma message ("INFO: see the documentation for details")
+      |                                                             ^
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o mbkmeans.so RcppExports.o mini_batch.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-mbkmeans/00new/mbkmeans/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mbkmeans’ as ‘mbkmeans_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mbkmeans)
