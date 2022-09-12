@@ -4,7 +4,7 @@
 ** arch - 
 mkdir -p ../inst
 (cd	adapterremoval && (make CXX="g++ -std=gnu++11" -f Makefile))
-make[1]: Entering directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/adapterremoval'
+make[1]: Entering directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/adapterremoval'
 g++ -std=gnu++11 -O3 -pthread -DNDEBUG  -c adapterset.cc 
 g++ -std=gnu++11 -O3 -pthread -DNDEBUG  -c alignment.cc 
 g++ -std=gnu++11 -O3 -pthread -DNDEBUG  -c argparse.cc 
@@ -27,13 +27,13 @@ g++ -std=gnu++11 -O3 -pthread -DNDEBUG  -c userconfig.cc
 g++ -std=gnu++11 -O3 -pthread -DNDEBUG  -c main.cc 
 g++ -std=gnu++11 -O3 -pthread -DNDEBUG   -o AdapterRemoval adapterset.o alignment.o argparse.o debug.o demultiplex.o fastq.o fastq_enc.o fastq_io.o linereader.o linereader_joined.o main_adapter_id.o main_adapter_rm.o main_demultiplex.o scheduler.o strutils.o threads.o timer.o trimmed_reads.o userconfig.o main.o
 mv AdapterRemoval ../../inst/
-make[1]: Leaving directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/adapterremoval'
+make[1]: Leaving directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/adapterremoval'
 (cd	adapterremoval && (make clean_o -f Makefile))
-make[1]: Entering directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/adapterremoval'
+make[1]: Entering directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/adapterremoval'
 rm -f *.o
-make[1]: Leaving directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/adapterremoval'
+make[1]: Leaving directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/adapterremoval'
 (cd bowtie2-2.4.4 && (make CXX="g++" -f Makefile))
-make[1]: Entering directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Entering directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 g++ -O3 -msse2 -funroll-loops -g3 -DCOMPILER_OPTIONS="\"-O3 -msse2 -funroll-loops -g3 -std=c++11 -DPOPCNT_CAPABILITY -DNO_SPINLOCK -DWITH_QUEUELOCK=1\"" -std=c++11 -DPOPCNT_CAPABILITY -DNO_SPINLOCK -DWITH_QUEUELOCK=1 \
 	-fno-strict-aliasing -DBOWTIE2_VERSION="\"`cat BOWTIE2_VERSION`\"" -DBUILD_HOST="\"${HOSTNAME:-`hostname`}\"" -DBUILD_TIME="\"`date -u`\"" -DCOMPILER_VERSION="\"`g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DBOWTIE_MM  -DBOWTIE2 -DNDEBUG -Wall \
 	-I third_party \
@@ -66,20 +66,20 @@ aligner_seed2.cpp: In member function ‘size_t Descent::recalcOutgoing(const Re
 aligner_seed2.cpp:585:14: warning: ‘edge.DescentEdge::nex’ may be used uninitialized in this function [-Wmaybe-uninitialized]
   585 |  DescentEdge edge;
       |              ^~~~
-make[1]: Leaving directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Leaving directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 (cd	bowtie2-2.4.4 && (make move -f Makefile))
-make[1]: Entering directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Entering directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 mv bowtie2-align-s ../../inst
 mv bowtie2-build-s ../../inst
 mv bowtie2-align-l ../../inst
 mv bowtie2-build-l ../../inst
 cp bowtie2 ../../inst
 cp bowtie2-build ../../inst
-make[1]: Leaving directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Leaving directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 (cd	bowtie2-2.4.4 && (make clean_dSYM -f Makefile))
-make[1]: Entering directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Entering directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 rm -rf *.dSYM
-make[1]: Leaving directory '/tmp/RtmpGp9TgM/R.INSTALL479439d26b/Rbowtie2/src/bowtie2-2.4.4'
+make[1]: Leaving directory '/tmp/RtmpzgFu7Q/R.INSTALL5192462e970/Rbowtie2/src/bowtie2-2.4.4'
 g++ -shared -fPIC -o Rbowtie2.so  version_info.cpp
 installing to /__w/gha-build/gha-build/built/00LOCK-Rbowtie2/00new/Rbowtie2/libs
 ** R
