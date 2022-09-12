@@ -909,9 +909,7 @@
         "biomaRt"
     ],
     "CRImage": [],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "GUIDEseq",
         "GenomicFeatures",
         "biomaRt",
@@ -1848,7 +1846,6 @@
         "GSEABase"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "ensembldb",
         "GenomicFeatures",
@@ -2627,7 +2624,6 @@
     ],
     "MSstatsSampleSize": [],
     "multicrispr": [
-        "CRISPRseek",
         "GenomicFeatures",
         "karyoploteR",
         "biomaRt",
