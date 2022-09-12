@@ -500,7 +500,6 @@
         "clusterProfiler",
         "reactome.db",
         "ReactomePA",
-        "DiagrammeR",
         "GO.db",
         "enrichplot",
         "GOSemSim",
@@ -1720,8 +1719,7 @@
         "rtracklayer"
     ],
     "DeepPINCS": [
-        "ttgsea",
-        "DiagrammeR"
+        "ttgsea"
     ],
     "deepSNV": [
         "VariantAnnotation",
@@ -2869,9 +2867,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "GNET2": [
-        "DiagrammeR"
-    ],
+    "GNET2": [],
     "GOexpress": [
         "biomaRt",
         "AnnotationDbi"
@@ -5291,12 +5287,9 @@
         "AnnotationDbi",
         "GO.db"
     ],
-    "Rcwl": [
-        "DiagrammeR"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "Rcwl",
-        "DiagrammeR"
+        "Rcwl"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -6903,9 +6896,7 @@
         "rtracklayer",
         "AnnotationDbi"
     ],
-    "ttgsea": [
-        "DiagrammeR"
-    ],
+    "ttgsea": [],
     "TVTB": [
         "ensembldb",
         "ensemblVEP",
@@ -6995,7 +6986,6 @@
         "scater",
         "gradDescent",
         "DeepPINCS",
-        "DiagrammeR",
         "ttgsea",
         "scuttle"
     ],
@@ -7079,7 +7069,6 @@
         "AnnotationDbi",
         "AnnotationForge",
         "biomaRt",
-        "DiagrammeR",
         "GOSemSim",
         "GO.db",
         "heatmaply",
@@ -7349,7 +7338,6 @@
     "org.Bt.eg.db": [
         "AnnotationDbi"
     ],
-    "DiagrammeR": [],
     "DO.db": [
         "AnnotationDbi"
     ],
