@@ -1195,7 +1195,6 @@
     "CopywriteR": [
         "chipseq"
     ],
-    "CoreGx": [],
     "corral": [],
     "CORREP": [],
     "coseq": [
@@ -3975,7 +3974,6 @@
         "GSEABase"
     ],
     "PDATK": [
-        "CoreGx",
         "survminer",
         "genefu",
         "biomaRt",
@@ -4011,9 +4009,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny",
         "VIM"
@@ -4379,9 +4375,7 @@
         "AnnotationDbi",
         "GenomicFeatures"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramr": [],
     "ramwas": [
         "biomaRt",
@@ -5664,9 +5658,7 @@
         "GO.db",
         "AnnotationDbi"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP": [],
     "trackViewer": [
         "GenomicFeatures",
@@ -5987,8 +5979,7 @@
         "AnnotationDbi"
     ],
     "Xeva": [
-        "PharmacoGx",
-        "CoreGx"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
