@@ -78,7 +78,7 @@ jobs:
 
       - name: Exist on build failure
         run: |
-          exit 1;
+          mv lists/${{steps.claim.outputs.pkg}} lists/failed/${{steps.claim.outputs.pkg}} && exit 1;
         if: steps.pkgbuild.outcome=='failure'
 
       - uses: actions/upload-artifact@v3
