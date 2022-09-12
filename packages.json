@@ -1541,8 +1541,7 @@
     "cyanoFilter": [
         "flowDensity",
         "car",
-        "RFOC",
-        "GEOmap"
+        "RFOC"
     ],
     "cycle": [
         "Mfuzz"
@@ -1666,8 +1665,7 @@
     "ddPCRclust": [
         "flowDensity",
         "car",
-        "RFOC",
-        "GEOmap"
+        "RFOC"
     ],
     "debCAM": [],
     "debrowser": [
@@ -2467,13 +2465,11 @@
     "flowCut": [
         "flowDensity",
         "car",
-        "RFOC",
-        "GEOmap"
+        "RFOC"
     ],
     "flowDensity": [
         "car",
-        "RFOC",
-        "GEOmap"
+        "RFOC"
     ],
     "flowMerge": [],
     "flowPloidy": [
@@ -7517,10 +7513,7 @@
     "dorothea": [
         "viper"
     ],
-    "RFOC": [
-        "GEOmap"
-    ],
-    "GEOmap": [],
+    "RFOC": [],
     "VIM": [
         "car"
     ],
