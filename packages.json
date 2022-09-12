@@ -916,8 +916,7 @@
         "ggcyto",
         "rstatix",
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "Category": [
         "AnnotationDbi",
@@ -1037,8 +1036,7 @@
         "rstatix",
         "flowStats",
         "car",
-        "fda",
-        "fds"
+        "fda"
     ],
     "Cepo": [
         "GSEABase",
@@ -1745,8 +1743,7 @@
         "car",
         "rstatix",
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "CytoGLMM": [
         "factoextra",
@@ -1765,8 +1762,7 @@
         "openCyto",
         "ggcyto",
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "CytoTree": [
         "FlowSOM",
@@ -1784,8 +1780,7 @@
         "rstatix",
         "car",
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "dada2": [
         "ShortRead",
@@ -2066,8 +2061,7 @@
         "rstatix",
         "flowStats",
         "car",
-        "fda",
-        "fds"
+        "fda"
     ],
     "diffHic": [
         "InteractionSet",
@@ -2661,7 +2655,6 @@
     "fCCAC": [
         "fda",
         "genomation",
-        "fds",
         "BSgenome",
         "GenomicAlignments",
         "rtracklayer"
@@ -2763,20 +2756,17 @@
         "rstatix",
         "flowStats",
         "car",
-        "fda",
-        "fds"
+        "fda"
     ],
     "flowStats": [
         "flowWorkspace",
-        "fda",
-        "fds"
+        "fda"
     ],
     "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
-        "fda",
-        "fds"
+        "fda"
     ],
     "flowWorkspace": [],
     "fobitools": [],
@@ -2803,8 +2793,7 @@
         "car"
     ],
     "FRGEpistasis": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "frma": [
         "oligo",
@@ -2812,8 +2801,7 @@
     ],
     "FunChIP": [
         "fda",
-        "GenomicAlignments",
-        "fds"
+        "GenomicAlignments"
     ],
     "funtooNorm": [
         "minfi",
@@ -3764,8 +3752,7 @@
         "car"
     ],
     "IWTomics": [
-        "fda",
-        "fds"
+        "fda"
     ],
     "karyoploteR": [
         "regioneR",
@@ -4150,8 +4137,7 @@
         "rstatix",
         "flowStats",
         "car",
-        "fda",
-        "fds"
+        "fda"
     ],
     "metagene": [
         "rtracklayer",
@@ -5115,8 +5101,7 @@
     "openCyto": [
         "flowWorkspace",
         "flowStats",
-        "fda",
-        "fds"
+        "fda"
     ],
     "openPrimeR": [
         "DECIPHER"
@@ -5376,7 +5361,6 @@
         "fda",
         "BSgenome",
         "rtracklayer",
-        "fds",
         "biomaRt",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -7605,8 +7589,7 @@
         "rstatix",
         "flowStats",
         "car",
-        "fda",
-        "fds"
+        "fda"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
@@ -7734,7 +7717,6 @@
         "rtracklayer",
         "genefilter",
         "geneplotter",
-        "fds",
         "biomaRt"
     ],
     "uncoverappLib": [
@@ -8238,10 +8220,7 @@
     "drc": [
         "car"
     ],
-    "fda": [
-        "fds"
-    ],
-    "fds": [],
+    "fda": [],
     "FactoMineR": [
         "car"
     ],
