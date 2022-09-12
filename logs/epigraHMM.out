@@ -1,0 +1,35 @@
+* installing *source* package ‘epigraHMM’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c aggregate.cpp -o aggregate.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c computeBIC.cpp -o computeBIC.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c computeQFunction.cpp -o computeQFunction.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c computeViterbiSequence.cpp -o computeViterbiSequence.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c consensusRejectionControlled.cpp -o consensusRejectionControlled.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c differentialRejectionControlled.cpp -o differentialRejectionControlled.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c expStep.cpp -o expStep.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c getMarginalProbability.cpp -o getMarginalProbability.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c innerMaxStepProb.cpp -o innerMaxStepProb.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c maxStepProb.cpp -o maxStepProb.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rbinomVectorized.cpp -o rbinomVectorized.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c reweight.cpp -o reweight.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include  -fopenmp -DARMA_USE_HDF5 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c simulateMarkovChain.cpp -o simulateMarkovChain.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o epigraHMM.so RcppExports.o aggregate.o computeBIC.o computeQFunction.o computeViterbiSequence.o consensusRejectionControlled.o differentialRejectionControlled.o expStep.o getMarginalProbability.o innerMaxStepProb.o maxStepProb.o rbinomVectorized.o reweight.o simulateMarkovChain.o /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5_cpp.a /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -fopenmp -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-epigraHMM/00new/epigraHMM/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘epigraHMM’ as ‘epigraHMM_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epigraHMM)
