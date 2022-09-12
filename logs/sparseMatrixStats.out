@@ -1,10 +1,10 @@
 * installing *source* package ‘sparseMatrixStats’ ...
 ** using staged installation
 ** libs
-g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
-g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SparseMatrixView.cpp -o SparseMatrixView.o
-g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c methods.cpp -o methods.o
-g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c row_methods.cpp -o row_methods.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SparseMatrixView.cpp -o SparseMatrixView.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c methods.cpp -o methods.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c row_methods.cpp -o row_methods.o
 g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sparseMatrixStats.so RcppExports.o SparseMatrixView.o methods.o row_methods.o -L/usr/local/lib/R/lib -lR
 installing to /__w/gha-build/gha-build/built/00LOCK-sparseMatrixStats/00new/sparseMatrixStats/libs
 ** R
