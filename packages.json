@@ -18,9 +18,7 @@
         "AnnotationDbi"
     ],
     "abseqR": [],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "ffbase",
         "tilingArray",
@@ -614,7 +612,6 @@
         "Mus.musculus",
         "Homo.sapiens",
         "rtracklayer",
-        "QDNAseq",
         "dmrseq",
         "ExperimentHub",
         "AnnotationHub",
@@ -2628,9 +2625,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "AnnotationDbi"
     ],
@@ -3060,8 +3055,7 @@
         "BSgenome"
     ],
     "HiCcompare": [
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "HiCDCPlus": [
         "InteractionSet",
@@ -4286,8 +4280,7 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "multiMiR": [
         "AnnotationDbi"
@@ -5136,7 +5129,6 @@
         "ExperimentHub",
         "AnnotationHub"
     ],
-    "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment"
     ],
@@ -6351,8 +6343,7 @@
     "SpeCond": [],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
-        "QDNAseq"
+        "InteractionSet"
     ],
     "spicyR": [],
     "SpidermiR": [
@@ -6556,7 +6547,6 @@
         "ggpubr",
         "rstatix",
         "InteractionSet",
-        "QDNAseq",
         "car"
     ],
     "tanggle": [],
