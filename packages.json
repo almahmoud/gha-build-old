@@ -829,7 +829,6 @@
     "GOstats": [],
     "gpart": [
         "Homo.sapiens",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
@@ -1266,7 +1265,6 @@
     "musicatk": [
         "VariantAnnotation",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "decompTumor2Sig"
     ],
     "MutationalPatterns": [
@@ -1292,8 +1290,7 @@
         "mppa"
     ],
     "nearBynding": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "nempi": [
         "mnem",
@@ -1396,8 +1393,7 @@
     "preciseTAD": [
         "rCGH",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "PrecisionTrialDrawer": [
         "cgdsr"
@@ -1418,7 +1414,6 @@
         "soGGi",
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
@@ -1506,8 +1501,7 @@
     "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "RcisTarget": [],
     "Rcpi": [],
@@ -1880,9 +1874,7 @@
         "enrichplot",
         "DOSE"
     ],
-    "strandCheckR": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "strandCheckR": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -1997,7 +1989,6 @@
     "uncoverappLib": [
         "Gviz",
         "Homo.sapiens",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
@@ -2173,7 +2164,6 @@
     "FField": [],
     "sparsebn": [],
     "loose.rock": [],
-    "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "gptk": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "orQA": [],
