@@ -168,8 +168,7 @@
         "bumphunter",
         "annotatr",
         "OrganismDbi",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "BLMA": [
         "PADOG"
@@ -303,7 +302,6 @@
         "DiffBind",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "TxDb.Celegans.UCSC.ce6.ensGene",
@@ -1347,7 +1345,6 @@
         "soGGi",
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "DOSE"
@@ -2008,10 +2005,8 @@
         "ExperimentHub"
     ],
     "Mus.musculus": [
-        "OrganismDbi",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
+        "OrganismDbi"
     ],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
     "GenomicState": [
         "bumphunter",
         "derfinder",
