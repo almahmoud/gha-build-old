@@ -46,6 +46,7 @@ jobs:
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           bash .github/scripts/build_package.sh $LIBRARY $PKG 2>&1 > lists/$PKG
+        continue-on-error: true
         if: steps.claim.outcome=='success'
 
       - name: Push built package
@@ -61,13 +62,18 @@ jobs:
             PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
             if bash -c "bash .github/scripts/push_built.sh $PKG 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked built" && exit 0; fi
-        if: steps.pkgbuild.outcome=='success'
 
       - name: Get tar name
         id: tar
         run: |
-          PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-          echo "::set-output name=name::$(ls /tmp/tars/ | grep $PKG | sed 's#/tmp/tars/##g')"
+          echo "::set-output name=name::$(ls /tmp/tars/ | grep ${{steps.claim.outputs.pkg}} | sed 's#/tmp/tars/##g')"
+        if: steps.pkgbuild.outcome=='success'
+
+      - name: Exist on build failure
+        id: tar
+        run: |
+          exit 1;
+        if: steps.pkgbuild.outcome=='failure'
 
       - uses: actions/upload-artifact@v3
         with:
