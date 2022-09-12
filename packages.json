@@ -316,9 +316,7 @@
     "Basic4Cseq": [
         "BSgenome.Ecoli.NCBI.20080805"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BasicSTARRseq": [],
     "BatchQC": [
         "sva",
@@ -326,8 +324,7 @@
         "AnnotationDbi"
     ],
     "BayesSpace": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "BBCAnalyzer": [
         "VariantAnnotation",
@@ -703,8 +700,7 @@
         "AnnotationDbi"
     ],
     "celda": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "CellBarcode": [],
     "CellBench": [],
@@ -893,7 +889,6 @@
         "AnnotationDbi"
     ],
     "ChromSCape": [
-        "scran",
         "scater",
         "Sushi",
         "biomaRt",
@@ -930,9 +925,7 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7"
     ],
@@ -1037,7 +1030,6 @@
         "factoextra",
         "biomaRt",
         "AnnotationDbi",
-        "scran",
         "scater",
         "clusterProfiler",
         "DOSE",
@@ -1455,9 +1447,7 @@
     "diggit": [
         "viper"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "discordant": [],
     "DiscoRhythm": [],
     "distinct": [
@@ -2566,7 +2556,6 @@
         "clusterProfiler",
         "ggpubr",
         "scater",
-        "scran",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -3270,9 +3259,7 @@
         "MSGFplus"
     ],
     "MSGFplus": [],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "MSnID": [
         "AnnotationHub",
         "AnnotationDbi"
@@ -3327,9 +3314,7 @@
         "graphite",
         "DO.db"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -3715,7 +3700,6 @@
         "VariantAnnotation"
     ],
     "pipeComp": [
-        "scran",
         "scater"
     ],
     "pipeFrame": [],
@@ -4499,12 +4483,9 @@
     ],
     "scDataviz": [],
     "scDblFinder": [
-        "scran",
         "scater"
     ],
-    "scDD": [
-        "scran"
-    ],
+    "scDD": [],
     "scGPS": [
         "DESeq2",
         "genefilter",
@@ -4548,7 +4529,6 @@
         "org.Mm.eg.db",
         "scater"
     ],
-    "scran": [],
     "scReClassify": [],
     "scruff": [
         "GenomicFeatures",
@@ -4587,7 +4567,6 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "scran",
         "epivizrData",
         "scater",
         "bumphunter",
@@ -4726,9 +4705,7 @@
         "org.Hs.eg.db",
         "AnnotationDbi"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "celldex",
         "DESeq2",
@@ -4737,7 +4714,6 @@
         "GSVAdata",
         "scater",
         "scMerge",
-        "scran",
         "sva",
         "AnnotationDbi",
         "celda",
@@ -4845,8 +4821,7 @@
         "biomaRt"
     ],
     "Spaniel": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "sparrow": [
         "BiocSet",
