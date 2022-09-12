@@ -893,8 +893,7 @@
         "biomaRt",
         "dorothea",
         "GSEABase",
-        "org.Hs.eg.db",
-        "viper"
+        "org.Hs.eg.db"
     ],
     "countsimQC": [
         "DESeq2",
@@ -1156,9 +1155,7 @@
         "genefilter",
         "GenomicFeatures"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [],
     "DiscoRhythm": [],
     "DMRcate": [
@@ -1240,7 +1237,6 @@
         "DESeq2",
         "genefilter",
         "geneplotter",
-        "viper",
         "ExperimentHub",
         "AnnotationHub"
     ],
@@ -3537,17 +3533,13 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "RTN": [
-        "viper"
-    ],
+    "RTN": [],
     "RTNduals": [
-        "RTN",
-        "viper"
+        "RTN"
     ],
     "RTNsurvival": [
         "RTN",
-        "RTNduals",
-        "viper"
+        "RTNduals"
     ],
     "Rtreemix": [],
     "rTRM": [],
@@ -4340,7 +4332,6 @@
         "genefilter",
         "geneplotter"
     ],
-    "viper": [],
     "ViSEAGO": [
         "AnnotationForge",
         "biomaRt",
@@ -4366,7 +4357,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "viper",
         "DiffBind",
         "DESeq2",
         "ensembldb",
@@ -4600,9 +4590,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "dorothea": [
-        "viper"
-    ],
+    "dorothea": [],
     "CombinePValue": [],
     "lasso2": [],
     "hgu133a2.db": [
