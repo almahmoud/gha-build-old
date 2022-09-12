@@ -1623,7 +1623,6 @@
     "dpeak": [
         "BSgenome"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws",
         "biomaRt",
@@ -1955,8 +1954,7 @@
         "biomaRt"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "famat": [
         "MPINet",
@@ -2282,8 +2280,7 @@
     "ggcyto": [],
     "GGPA": [],
     "ggspavis": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "GISPA": [
         "genefilter",
@@ -2638,8 +2635,7 @@
         "biomaRt"
     ],
     "imcRtools": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "IMMAN": [
         "STRINGdb"
@@ -4752,9 +4748,7 @@
         "geneplotter",
         "AnnotationDbi"
     ],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassifR": [],
     "scClassify": [
         "Cepo",
@@ -5017,7 +5011,6 @@
         "sva",
         "AnnotationDbi",
         "celda",
-        "DropletUtils",
         "GSEABase",
         "zinbwave",
         "scRNAseq",
@@ -5129,8 +5122,7 @@
     ],
     "Spaniel": [
         "scater",
-        "scran",
-        "DropletUtils"
+        "scran"
     ],
     "sparrow": [
         "BiocSet",
@@ -5141,13 +5133,10 @@
         "BSgenome"
     ],
     "spatialDE": [
-        "SpatialExperiment",
-        "DropletUtils"
+        "SpatialExperiment"
     ],
     "SpatialDecon": [],
-    "SpatialExperiment": [
-        "DropletUtils"
-    ],
+    "SpatialExperiment": [],
     "spatialHeatmap": [
         "DESeq2",
         "distinct",
