@@ -1,0 +1,25 @@
+* installing *source* package ‘ptairMS’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c align.cpp -o align.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c findEqualGreaterM.cpp -o findEqualGreaterM.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ptairMS.so RcppExports.o align.o findEqualGreaterM.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-ptairMS/00new/ptairMS/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: undefined slot classes in definition of "ptrRaw": peakList(class "ExpressionSet")
+in method for ‘annotateVOC’ with signature ‘"ExpressionSet"’: no definition for class “ExpressionSet”
+in method for ‘writeEset’ with signature ‘"ExpressionSet"’: no definition for class “ExpressionSet”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ptairMS’ as ‘ptairMS_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ptairMS)
