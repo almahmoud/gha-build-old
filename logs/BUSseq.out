@@ -1,0 +1,25 @@
+* installing *source* package ‘BUSseq’ ...
+** using staged installation
+** libs
+/usr/local/lib/R/share/make/shlib.mk:10: warning: overriding recipe for target 'BUSseq.so'
+Makevars:9: warning: ignoring old recipe for target 'BUSseq.so'
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BUSseq.cpp -o BUSseq.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rngstream.cpp -o rngstream.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BUSseq.so BUSseq.o rngstream.o -fopenmp -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BUSseq/00new/BUSseq/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BUSseq’ as ‘BUSseq_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BUSseq)
