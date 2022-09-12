@@ -1,0 +1,25 @@
+* installing *source* package ‘girafe’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c coverage.cpp -o coverage.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c girafe_init.c -o girafe_init.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o girafe.so coverage.o girafe_init.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-girafe/00new/girafe/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘IRanges’ for requests: ‘score’, ‘score<-’, ‘sort’ when loading ‘girafe’
+Creating a generic function for ‘sample’ from package ‘base’ in package ‘girafe’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘IRanges’ for requests: ‘score’, ‘score<-’, ‘sort’ when loading ‘girafe’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+No methods found in package ‘IRanges’ for requests: ‘score’, ‘score<-’, ‘sort’ when loading ‘girafe’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘girafe’ as ‘girafe_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (girafe)
