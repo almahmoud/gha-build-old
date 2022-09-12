@@ -167,9 +167,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "BioNERO": [
-        "WGCNA"
-    ],
+    "BioNERO": [],
     "BioNetStat": [],
     "biovizBase": [
         "VariantAnnotation",
@@ -241,7 +239,6 @@
     "cageminer": [
         "ggbio",
         "BioNERO",
-        "WGCNA",
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
@@ -275,7 +272,6 @@
     "cellmigRation": [],
     "cellTree": [],
     "CEMiTool": [
-        "WGCNA",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -451,9 +447,7 @@
         "ensembldb"
     ],
     "crossmeta": [],
-    "csdR": [
-        "WGCNA"
-    ],
+    "csdR": [],
     "CSSQ": [],
     "cTRAP": [],
     "cummeRbund": [
@@ -550,9 +544,7 @@
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [],
-    "diffcoexp": [
-        "WGCNA"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -662,7 +654,6 @@
     ],
     "epihet": [
         "EntropyExplorer",
-        "WGCNA",
         "ReactomePA",
         "DOSE",
         "enrichplot",
@@ -736,9 +727,7 @@
         "enrichplot",
         "GOSemSim"
     ],
-    "fastLiquidAssociation": [
-        "WGCNA"
-    ],
+    "fastLiquidAssociation": [],
     "fCI": [],
     "fcoex": [
         "clusterProfiler",
@@ -860,8 +849,7 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "GOstats",
-        "WGCNA"
+        "GOstats"
     ],
     "gmoviz": [],
     "GOSemSim": [],
@@ -909,9 +897,7 @@
     "gwasurvivr": [
         "VariantAnnotation"
     ],
-    "GWENA": [
-        "WGCNA"
-    ],
+    "GWENA": [],
     "HelloRanges": [
         "VariantAnnotation"
     ],
@@ -1078,9 +1064,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MCbiclust": [
-        "WGCNA"
-    ],
+    "MCbiclust": [],
     "mCSEA": [
         "Homo.sapiens",
         "Gviz",
@@ -1228,7 +1212,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "WGCNA",
         "miRspongeR",
         "clusterProfiler",
         "ReactomePA",
@@ -1270,9 +1253,7 @@
         "Linnorm"
     ],
     "moanin": [],
-    "MODA": [
-        "WGCNA"
-    ],
+    "MODA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -1362,9 +1343,7 @@
         "epiNEM",
         "Linnorm"
     ],
-    "netboost": [
-        "WGCNA"
-    ],
+    "netboost": [],
     "netboxr": [
         "clusterProfiler",
         "DOSE",
@@ -1376,9 +1355,7 @@
     "netresponse": [
         "dmt"
     ],
-    "NetSAM": [
-        "WGCNA"
-    ],
+    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment"
     ],
@@ -1443,7 +1420,6 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "WGCNA",
         "clusterProfiler",
         "ReactomePA",
         "DOSE",
@@ -1486,9 +1462,7 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "proBatch": [
-        "WGCNA"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "soGGi",
         "ChIPseeker",
@@ -1613,7 +1587,6 @@
     ],
     "RegEnrich": [
         "DOSE",
-        "WGCNA",
         "GOSemSim"
     ],
     "regionReport": [
@@ -1826,9 +1799,7 @@
         "HiLDA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "seq2pathway": [
-        "WGCNA"
-    ],
+    "seq2pathway": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -1922,9 +1893,7 @@
     ],
     "spatialDE": [],
     "SpatialDecon": [],
-    "spatialHeatmap": [
-        "WGCNA"
-    ],
+    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "motifmatchr",
@@ -1953,9 +1922,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "SPsimSeq": [
-        "WGCNA"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "ensembldb",
@@ -2041,8 +2008,7 @@
         "GOSemSim"
     ],
     "TIN": [
-        "aroma.affymetrix",
-        "WGCNA"
+        "aroma.affymetrix"
     ],
     "TitanCNA": [
         "VariantAnnotation"
@@ -2074,8 +2040,7 @@
         "FlowSOM"
     ],
     "trena": [
-        "vbsr",
-        "WGCNA"
+        "vbsr"
     ],
     "TRESS": [],
     "trigger": [],
@@ -2225,7 +2190,6 @@
         "bumphunter"
     ],
     "cgdsr": [],
-    "WGCNA": [],
     "biscuiteerData": [
         "ExperimentHub"
     ],
