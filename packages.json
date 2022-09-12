@@ -1430,8 +1430,7 @@
         "BSgenome"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "RFOC"
+        "flowDensity"
     ],
     "cycle": [
         "Mfuzz"
@@ -1542,8 +1541,7 @@
         "Linnorm"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "RFOC"
+        "flowDensity"
     ],
     "debrowser": [
         "AnnotationDbi",
@@ -2294,12 +2292,9 @@
         "SPARQL"
     ],
     "flowCut": [
-        "flowDensity",
-        "RFOC"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "RFOC"
-    ],
+    "flowDensity": [],
     "flowPloidy": [],
     "FlowSOM": [
         "CytoML",
@@ -6935,7 +6930,6 @@
     "dorothea": [
         "viper"
     ],
-    "RFOC": [],
     "VIM": [],
     "cp4p": [],
     "imp4p": [
