@@ -2192,7 +2192,6 @@
         "tRNAdbImport",
         "rtracklayer",
         "biomaRt",
-        "Structstrings",
         "tRNA"
     ],
     "epivizr": [
@@ -6385,7 +6384,6 @@
         "biomaRt"
     ],
     "STRINGdb": [],
-    "Structstrings": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
         "rtracklayer",
@@ -6750,16 +6748,12 @@
         "genefilter",
         "AnnotationDbi"
     ],
-    "tRNA": [
-        "Structstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "tRNA",
-        "Structstrings",
         "rtracklayer",
         "BSgenome"
     ],
