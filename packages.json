@@ -144,7 +144,6 @@
     ],
     "BEclear": [],
     "benchdamic": [
-        "zinbwave",
         "ffpe",
         "lumi",
         "methylumi",
@@ -416,9 +415,7 @@
         "qpgraph"
     ],
     "CluMSID": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
@@ -1510,8 +1507,7 @@
         "WGCNA"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "networkBMA": [],
     "NoRCE": [],
@@ -1945,9 +1941,7 @@
         "SCATEData",
         "ExperimentHub"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [],
     "scClassifR": [],
     "scClassify": [],
@@ -2057,7 +2051,6 @@
         "GSVAdata",
         "scMerge",
         "sva",
-        "zinbwave",
         "scRNAseq",
         "TENxPBMCData",
         "hgu95a.db",
@@ -2408,7 +2401,6 @@
         "minfi",
         "bumphunter"
     ],
-    "zinbwave": [],
     "ABAData": [],
     "ffbase": [],
     "adductData": [
