@@ -4,8 +4,8 @@
 ** arch - 
 Makefile:24: warning: overriding recipe for target '.c.o'
 /usr/local/lib/R/etc/Makeconf:168: warning: ignoring old recipe for target '.c.o'
-make[1]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src'
-make[2]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src'
+make[1]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src'
+make[2]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src'
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -DBGZF_CACHE -I. bgzf.c -o bgzf.o
 bgzf.c: In function ‘worker_aux’:
 bgzf.c:392:9: warning: variable ‘tmp’ set but not used [-Wunused-but-set-variable]
@@ -143,8 +143,8 @@ kprobaln.c:78:21: warning: variable ‘is_diff’ set but not used [-Wunused-but
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I. bam_cat.c -o bam_cat.o
 ar -csru libbam.a bgzf.o kstring.o bam_aux.o bam.o bam_import.o sam.o bam_index.o bam_pileup.o bam_lpileup.o bam_md.o razf.o faidx.o bedidx.o knetfile.o bam_sort.o sam_header.o bam_reheader.o kprobaln.o bam_cat.o
 ar: `u' modifier ignored since `D' is the default (see `U')
-make[2]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src'
-make[2]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/bcftools'
+make[2]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src'
+make[2]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/bcftools'
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I.. -I. bcf.c -o bcf.o
 bcf.c: In function ‘bcf_fmt_core’:
 bcf.c:233:9: warning: variable ‘iPL’ set but not used [-Wunused-but-set-variable]
@@ -177,10 +177,10 @@ gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I.. -I. bcf2qcall.c -o bcf2qcall.o
 ar -csru libbcf.a bcf.o vcf.o bcfutils.o prob1.o em.o kfunc.o kmin.o index.o fet.o mut.o bcf2qcall.o
 ar: `u' modifier ignored since `D' is the default (see `U')
-make[2]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/bcftools'
-make[2]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/misc'
+make[2]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/bcftools'
+make[2]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/misc'
 make[2]: Nothing to be done for 'lib'.
-make[2]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/misc'
+make[2]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/misc'
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I. bam_tview.c -o bam_tview.o
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I. bam_plcmd.c -o bam_plcmd.o
 bam_plcmd.c: In function ‘mpileup’:
@@ -252,8 +252,8 @@ gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I. bam_tview_curses.c -o bam_tview_curses.o
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I. bam_tview_html.c -o bam_tview_html.o
 gcc -g -Wall -O2 -o samtools2SIC bam_tview.o bam_plcmd.o sam_view.o bam_rmdup.o bam_rmdupse.o bam_mate.o bam_stat.o bam_color.o bamtk.o kaln.o bam2bcf.o bam2bcf_indel.o errmod.o sample.o cut_target.o phase.o bam2depth.o padding.o bedcov.o bamshuf.o bam_tview_curses.o bam_tview_html.o  libbam.a -Lbcftools -lbcf  -lcurses  -lm -lz -lpthread
-make[1]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src'
-make[1]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/bcftools'
+make[1]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src'
+make[1]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/bcftools'
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I.. -I. call1.c -o call1.o
 call1.c: In function ‘write_header’:
 call1.c:303:5: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
@@ -264,8 +264,8 @@ call1.c:305:2: note: ...this statement, but the latter is misleadingly indented 
       |  ^~
 gcc -c -g -Wall -O2 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_USE_KNETFILE -D_CURSES_LIB=1 -I.. -I. main.c -o main.o
 gcc -g -Wall -O2 -o bcftools call1.o main.o ../kstring.o ../bgzf.o ../knetfile.o ../bedidx.o -L.  -lbcf -lm -lz -lpthread
-make[1]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/bcftools'
-make[1]: Entering directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/misc'
+make[1]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/bcftools'
+make[1]: Entering directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/misc'
 gcc -c -g -Wall -O2 -DMD5SUM_MAIN -o md5sum-lite.o md5.c
 md5.c: In function ‘MD5Final’:
 md5.c:155:26: warning: argument to ‘sizeof’ in ‘memset’ call is the same expression as the destination; did you mean to dereference it? [-Wsizeof-pointer-memaccess]
@@ -294,7 +294,7 @@ gcc -g -Wall -O2 -c -I.. -o wgsim.o wgsim.c
 gcc -g -Wall -O2 -o wgsim wgsim.o -lm -lz
 gcc -g -Wall -O2 -c -I.. -o bamcheck.o bamcheck.c
 gcc -g -Wall -O2 -o bamcheck bamcheck.o -L.. -lm -lbam -lpthread -lz
-make[1]: Leaving directory '/tmp/RtmpmrBQNJ/R.INSTALL54c7de019fe/SICtools/src/misc'
+make[1]: Leaving directory '/tmp/RtmpZkHAVC/R.INSTALL4ac528a2dbf/SICtools/src/misc'
 installing via 'install.libs.R' to /__w/gha-build/gha-build/built/00LOCK-SICtools/00new/SICtools
 ** R
 ** inst
