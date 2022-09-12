@@ -271,8 +271,7 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -319,9 +318,7 @@
     "COCOA": [
         "MIRA"
     ],
-    "Cogito": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Cogito": [],
     "coMET": [
         "Gviz",
         "colortools",
@@ -786,9 +783,7 @@
     "IMMAN": [],
     "ImmuneSpaceR": [],
     "infercnv": [],
-    "INSPEcT": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "INSPEcT": [],
     "intansv": [
         "ggbio",
         "biovizBase",
@@ -1222,7 +1217,6 @@
     "profileplyr": [
         "soGGi",
         "ChIPseeker",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "DOSE"
     ],
@@ -1378,9 +1372,7 @@
         "RLHub",
         "ExperimentHub"
     ],
-    "Rmmquant": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Rmmquant": [],
     "RNAAgeCalc": [
         "recount",
         "derfinder",
@@ -1846,7 +1838,6 @@
         "minfi"
     ],
     "ChIC.data": [],
-    "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "colortools": [],
     "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
