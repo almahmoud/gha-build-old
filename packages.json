@@ -1802,9 +1802,7 @@
         "AnnotationForge",
         "biomaRt"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "famat": [
         "MPINet",
         "reactome.db",
@@ -2104,9 +2102,7 @@
     ],
     "ggcyto": [],
     "GGPA": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "GISPA": [
         "genefilter",
         "GSEABase",
@@ -2430,9 +2426,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "imcRtools": [
-        "SpatialExperiment"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -4741,11 +4735,8 @@
         "AnnotationDbi"
     ],
     "SparseSignatures": [],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spatialDE": [],
     "SpatialDecon": [],
-    "SpatialExperiment": [],
     "spatialHeatmap": [
         "DESeq2",
         "distinct",
