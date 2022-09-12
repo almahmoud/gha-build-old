@@ -96,9 +96,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "VariantAnnotation",
@@ -321,9 +319,7 @@
         "genefilter",
         "AnnotationDbi"
     ],
-    "BayesSpace": [
-        "scater"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation",
         "AnnotationDbi",
@@ -654,7 +650,6 @@
     ],
     "CATALYST": [
         "FlowSOM",
-        "scater",
         "CytoML",
         "ggpubr",
         "openCyto",
@@ -696,9 +691,7 @@
         "GSEABase",
         "AnnotationDbi"
     ],
-    "celda": [
-        "scater"
-    ],
+    "celda": [],
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [
@@ -707,9 +700,7 @@
         "Category",
         "AnnotationDbi"
     ],
-    "CelliD": [
-        "scater"
-    ],
+    "CelliD": [],
     "cellity": [
         "AnnotationDbi",
         "org.Hs.eg.db",
@@ -718,9 +709,7 @@
         "GO.db"
     ],
     "cellmigRation": [],
-    "CellMixS": [
-        "scater"
-    ],
+    "CellMixS": [],
     "CellTrails": [],
     "cellTree": [
         "topGO",
@@ -886,7 +875,6 @@
         "AnnotationDbi"
     ],
     "ChromSCape": [
-        "scater",
         "Sushi",
         "biomaRt",
         "AnnotationDbi"
@@ -1027,7 +1015,6 @@
         "factoextra",
         "biomaRt",
         "AnnotationDbi",
-        "scater",
         "clusterProfiler",
         "DOSE",
         "enrichplot",
@@ -1445,9 +1432,7 @@
     "Dino": [],
     "discordant": [],
     "DiscoRhythm": [],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "DMRcate": [
         "ExperimentHub",
         "bsseq",
@@ -1895,9 +1880,7 @@
     "flagme": [
         "CAMERA"
     ],
-    "FLAMES": [
-        "scater"
-    ],
+    "FLAMES": [],
     "flowBin": [],
     "flowCL": [
         "SPARQL"
@@ -2548,7 +2531,6 @@
         "org.Mm.eg.db",
         "clusterProfiler",
         "ggpubr",
-        "scater",
         "DOSE",
         "enrichplot",
         "GO.db",
@@ -2998,12 +2980,10 @@
         "AnnotationDbi"
     ],
     "mia": [
-        "DECIPHER",
-        "scater"
+        "DECIPHER"
     ],
     "miaViz": [
         "mia",
-        "scater",
         "DECIPHER"
     ],
     "microbiomeExplorer": [
@@ -3312,7 +3292,6 @@
     ],
     "muscat": [
         "DESeq2",
-        "scater",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
@@ -3431,7 +3410,6 @@
         "GO.db"
     ],
     "netSmooth": [
-        "scater",
         "clusterExperiment",
         "zinbwave",
         "genefilter",
@@ -3619,9 +3597,7 @@
         "aroma.affymetrix",
         "AnnotationDbi"
     ],
-    "peco": [
-        "scater"
-    ],
+    "peco": [],
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
@@ -3684,9 +3660,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "pipeComp": [
-        "scater"
-    ],
+    "pipeComp": [],
     "pipeFrame": [],
     "plethy": [],
     "PloGO2": [
@@ -4446,7 +4420,6 @@
         "AnnotationHub",
         "AnnotationDbi"
     ],
-    "scater": [],
     "scBFA": [
         "zinbwave",
         "DESeq2",
@@ -4462,9 +4435,7 @@
         "AnnotationDbi"
     ],
     "scDataviz": [],
-    "scDblFinder": [
-        "scater"
-    ],
+    "scDblFinder": [],
     "scDD": [],
     "scGPS": [
         "DESeq2",
@@ -4506,8 +4477,7 @@
         "biomaRt",
         "AnnotationDbi",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
-        "scater"
+        "org.Mm.eg.db"
     ],
     "scReClassify": [],
     "scruff": [
@@ -4548,7 +4518,6 @@
     "scTreeViz": [
         "epivizr",
         "epivizrData",
-        "scater",
         "bumphunter",
         "OrganismDbi",
         "GenomicFeatures",
@@ -4692,7 +4661,6 @@
         "ExperimentHub",
         "GSVA",
         "GSVAdata",
-        "scater",
         "scMerge",
         "sva",
         "AnnotationDbi",
@@ -4800,9 +4768,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "Spaniel": [
-        "scater"
-    ],
+    "Spaniel": [],
     "sparrow": [
         "BiocSet",
         "GSEABase",
@@ -4820,7 +4786,6 @@
         "WGCNA",
         "genefilter",
         "geneplotter",
-        "scater",
         "AnnotationDbi",
         "GO.db"
     ],
@@ -4859,9 +4824,7 @@
         "DO.db"
     ],
     "spiky": [],
-    "splatter": [
-        "scater"
-    ],
+    "splatter": [],
     "SplicingGraphs": [
         "GenomicFeatures",
         "AnnotationDbi",
@@ -5216,8 +5179,7 @@
         "biomaRt"
     ],
     "tricycle": [
-        "AnnotationDbi",
-        "scater"
+        "AnnotationDbi"
     ],
     "trigger": [
         "sva",
@@ -5306,7 +5268,6 @@
     ],
     "uSORT": [],
     "VAExprs": [
-        "scater",
         "gradDescent",
         "DeepPINCS",
         "ttgsea"
