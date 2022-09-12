@@ -1379,7 +1379,6 @@
         "deepSNV",
         "VariantAnnotation"
     ],
-    "MLInterfaces": [],
     "MLSeq": [],
     "MMAPPR2": [
         "ensemblVEP",
@@ -1657,12 +1656,9 @@
         "DOSE",
         "GOSemSim"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "pRoloc",
-        "MLInterfaces"
+        "pRoloc"
     ],
     "PROMISE": [],
     "PROPS": [
@@ -2040,9 +2036,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "bumphunter"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
