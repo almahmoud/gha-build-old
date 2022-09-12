@@ -591,8 +591,7 @@
         "AnnotationDbi",
         "biomaRt",
         "ensembldb",
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "CAFE": [
         "biovizBase",
@@ -1262,7 +1261,6 @@
     "dasper": [
         "GenomicFeatures",
         "ggpubr",
-        "plyranges",
         "AnnotationDbi",
         "biomaRt"
     ],
@@ -2486,7 +2484,6 @@
     "InPAS": [
         "AnnotationDbi",
         "cleanUpdTSeq",
-        "plyranges",
         "GenomicFeatures",
         "BSgenome.Drerio.UCSC.danRer7",
         "biomaRt"
@@ -2927,7 +2924,6 @@
         "FlowSorted.Blood.450k",
         "minfi",
         "bsseq",
-        "plyranges",
         "bumphunter",
         "genefilter",
         "IlluminaHumanMethylation450kmanifest",
@@ -3280,7 +3276,6 @@
         "CRISPRseek",
         "GenomicFeatures",
         "karyoploteR",
-        "plyranges",
         "AnnotationDbi",
         "biomaRt",
         "regioneR",
@@ -3400,7 +3395,6 @@
     ],
     "ncGTW": [],
     "nearBynding": [
-        "plyranges",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "GenomicFeatures",
@@ -3464,9 +3458,7 @@
         "GSEABase",
         "AnnotationDbi"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "AnnotationHub",
@@ -3479,7 +3471,6 @@
         "derfinder",
         "ggpubr",
         "GenomicFeatures",
-        "plyranges",
         "AnnotationDbi",
         "bumphunter",
         "GenomicFiles",
@@ -3713,13 +3704,10 @@
         "GSEABase",
         "genefilter"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [
         "ggpubr"
     ],
-    "plyranges": [],
     "podkat": [],
     "pogos": [
         "ontoProc",
