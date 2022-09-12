@@ -941,7 +941,6 @@
     "cBioPortalData": [
         "AnVIL",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "RTCGAToolbox",
         "TCGAutils",
         "AnnotationDbi",
@@ -1412,7 +1411,6 @@
         "exomeCopy"
     ],
     "CNVRanger": [
-        "RaggedExperiment",
         "GDSArray"
     ],
     "CNVrd2": [
@@ -1471,7 +1469,6 @@
         "VariantAnnotation"
     ],
     "compartmap": [
-        "RaggedExperiment",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -5103,8 +5100,7 @@
         "rstatix"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
-        "RaggedExperiment"
+        "MultiAssayExperiment"
     ],
     "oncomix": [],
     "OncoScore": [
@@ -5805,7 +5801,6 @@
         "CoreGx",
         "MultiAssayExperiment"
     ],
-    "RaggedExperiment": [],
     "ramr": [],
     "ramwas": [
         "GenomicAlignments",
@@ -6378,7 +6373,6 @@
         "car"
     ],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils",
         "AnnotationDbi",
         "GenomicFeatures",
@@ -7408,7 +7402,6 @@
         "GenomicFeatures",
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "rtracklayer",
         "biomaRt",
         "GenomicAlignments"
