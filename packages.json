@@ -313,7 +313,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "AnnotationHub"
     ],
@@ -726,7 +725,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Gviz",
-        "InteractionSet",
         "GenomicInteractions",
         "AnnotationDbi",
         "biomaRt",
@@ -1020,7 +1018,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "BSgenome"
@@ -1422,7 +1419,6 @@
         "biomaRt",
         "ChIPpeakAnno",
         "ensembldb",
-        "InteractionSet",
         "regioneR"
     ],
     "CrispRVariants": [
@@ -1725,7 +1721,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "BSgenome"
     ],
@@ -1791,7 +1786,6 @@
         "fda"
     ],
     "diffHic": [
-        "InteractionSet",
         "BSgenome",
         "csaw",
         "rtracklayer"
@@ -2616,7 +2610,6 @@
         "biomaRt"
     ],
     "GenomicInteractions": [
-        "InteractionSet",
         "rtracklayer",
         "Gviz",
         "biomaRt",
@@ -2914,7 +2907,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR"
     ],
     "Guitar": [
@@ -2973,11 +2965,8 @@
         "rtracklayer",
         "BSgenome"
     ],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
-        "InteractionSet",
         "GenomicInteractions",
         "BSgenome",
         "rtracklayer",
@@ -3171,7 +3160,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "InteractionSet": [],
     "interactiveDisplay": [
         "Category",
         "AnnotationDbi",
@@ -3409,7 +3397,6 @@
         "AnnotationDbi"
     ],
     "MACPET": [
-        "InteractionSet",
         "rtracklayer",
         "ShortRead"
     ],
@@ -4152,8 +4139,7 @@
         "AnnotationDbi"
     ],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "multiMiR": [
         "AnnotationDbi"
@@ -4255,7 +4241,6 @@
         "GenomicFeatures",
         "Gviz",
         "AnnotationDbi",
-        "InteractionSet",
         "ensembldb",
         "biomaRt",
         "regioneR",
@@ -4371,7 +4356,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges",
         "rtracklayer"
     ],
@@ -5157,7 +5141,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR"
     ],
     "RefPlus": [],
@@ -5875,7 +5858,6 @@
         "AnnotationDbi"
     ],
     "sevenC": [
-        "InteractionSet",
         "rtracklayer"
     ],
     "SGSeq": [
@@ -6149,7 +6131,6 @@
         "rtracklayer",
         "AnnotationDbi",
         "biomaRt",
-        "InteractionSet",
         "Gviz",
         "CNEr",
         "GO.db",
@@ -6159,8 +6140,7 @@
     ],
     "specL": [],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "spicyR": [],
     "SpidermiR": [
@@ -6355,7 +6335,6 @@
         "HiCcompare",
         "ggpubr",
         "rstatix",
-        "InteractionSet",
         "car"
     ],
     "tanggle": [],
@@ -6539,7 +6518,6 @@
         "Gviz",
         "rtracklayer",
         "AnnotationDbi",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "BSgenome",
@@ -6861,7 +6839,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "InteractionSet",
         "regioneR",
         "rtracklayer",
         "genefilter",
