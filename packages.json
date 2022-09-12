@@ -70,8 +70,7 @@
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "artMS": [],
     "ASpediaFI": [
@@ -111,8 +110,7 @@
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "BgeeDB": [],
     "bigmelon": [
@@ -120,7 +118,6 @@
         "minfi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "bumphunter",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -153,7 +150,6 @@
         "Homo.sapiens",
         "dmrseq",
         "ExperimentHub",
-        "bumphunter",
         "annotatr"
     ],
     "BLMA": [],
@@ -167,7 +163,6 @@
         "Linnorm"
     ],
     "brainflowprobes": [
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "GenomicState",
@@ -182,7 +177,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "bumphunter": [],
     "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
@@ -253,7 +247,6 @@
         "wateRmelon",
         "goseq",
         "missMethyl",
-        "bumphunter",
         "ExperimentHub",
         "DSS",
         "Gviz",
@@ -358,8 +351,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
-        "bumphunter"
+        "IlluminaHumanMethylationEPICmanifest"
     ],
     "CopyNumberPlots": [
         "karyoploteR",
@@ -402,8 +394,7 @@
     ],
     "dagLogo": [],
     "DAMEfinder": [
-        "VariantAnnotation",
-        "bumphunter"
+        "VariantAnnotation"
     ],
     "DaMiRseq": [
         "EDASeq"
@@ -443,14 +434,12 @@
     ],
     "deltaCaptureC": [],
     "derfinder": [
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
     "derfinderPlot": [
         "derfinder",
         "ggbio",
-        "bumphunter",
         "GenomicFiles",
         "biovizBase",
         "VariantAnnotation"
@@ -479,7 +468,6 @@
         "missMethyl",
         "Gviz",
         "biovizBase",
-        "bumphunter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -494,7 +482,6 @@
         "VariantAnnotation"
     ],
     "dmrseq": [
-        "bumphunter",
         "annotatr"
     ],
     "DominoEffect": [
@@ -531,13 +518,11 @@
     ],
     "EnMCB": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "ENmix": [
         "minfi",
-        "ExperimentHub",
-        "bumphunter"
+        "ExperimentHub"
     ],
     "enrichplot": [
         "DOSE"
@@ -566,8 +551,7 @@
         "Linnorm"
     ],
     "epivizr": [
-        "epivizrData",
-        "bumphunter"
+        "epivizrData"
     ],
     "epivizrChart": [
         "epivizrData"
@@ -575,8 +559,7 @@
     "epivizrData": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrData",
-        "bumphunter"
+        "epivizrData"
     ],
     "erma": [
         "Homo.sapiens",
@@ -626,8 +609,7 @@
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "flowBin": [],
     "flowCL": [
@@ -645,8 +627,7 @@
     "funtooNorm": [
         "minfi",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "bumphunter"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "GA4GHclient": [
         "VariantAnnotation"
@@ -785,8 +766,7 @@
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "ideal": [
         "pcaExplorer",
@@ -865,8 +845,7 @@
     "lumi": [
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "LymphoSeq": [],
     "M3Drop": [],
@@ -884,8 +863,7 @@
         "RnBeads",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -916,7 +894,6 @@
         "missMethyl",
         "SmartSVA",
         "biovizBase",
-        "bumphunter",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -928,7 +905,6 @@
     "MEAT": [
         "minfi",
         "wateRmelon",
-        "bumphunter",
         "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -958,21 +934,18 @@
     "metavizr": [
         "epivizr",
         "epivizrData",
-        "epivizrStandalone",
-        "bumphunter"
+        "epivizrStandalone"
     ],
     "MethReg": [
         "sesameData",
         "ExperimentHub"
     ],
     "MethylAid": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "methylCC": [
         "FlowSorted.Blood.450k",
         "minfi",
-        "bumphunter",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -981,7 +954,6 @@
         "ExperimentHub",
         "minfi",
         "ExperimentHubData",
-        "bumphunter",
         "AnnotationHubData"
     ],
     "methylGSA": [
@@ -995,8 +967,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "bumphunter"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "methylInheritance": [],
     "methylSig": [
@@ -1004,8 +975,7 @@
     ],
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
@@ -1022,12 +992,9 @@
         "lumi",
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
-    "minfi": [
-        "bumphunter"
-    ],
+    "minfi": [],
     "MIRA": [],
     "miRLAB": [
         "GOstats"
@@ -1052,8 +1019,7 @@
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "minfi",
-        "FDb.InfiniumMethylation.hg19",
-        "bumphunter"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "mitoClone2": [
         "deepSNV",
@@ -1171,7 +1137,6 @@
     ],
     "ODER": [
         "derfinder",
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
@@ -1282,7 +1247,6 @@
     "psichomics": [
         "recount",
         "derfinder",
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
@@ -1312,8 +1276,7 @@
     ],
     "qsmooth": [],
     "quantro": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "QuartPAC": [],
     "QuasR": [
@@ -1344,14 +1307,12 @@
     ],
     "recount": [
         "derfinder",
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
     "recountmethylation": [
         "minfi",
-        "IlluminaHumanMethylation450kmanifest",
-        "bumphunter"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "recoup": [],
     "REDseq": [
@@ -1363,7 +1324,6 @@
     "regionReport": [
         "derfinder",
         "DEFormats",
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
@@ -1373,8 +1333,7 @@
         "VariantAnnotation"
     ],
     "REMP": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "Repitools": [],
     "ReportingTools": [
@@ -1426,13 +1385,10 @@
     "RNAAgeCalc": [
         "recount",
         "derfinder",
-        "bumphunter",
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -1469,8 +1425,7 @@
     "RnBeads": [
         "methylumi",
         "FDb.InfiniumMethylation.hg19",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "Rqc": [
         "biovizBase",
@@ -1530,8 +1485,7 @@
     "scTGIF": [],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "bumphunter"
+        "epivizrData"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1555,13 +1509,11 @@
     ],
     "SEtools": [],
     "shinyepico": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "shinyMethyl": [
         "minfi",
-        "IlluminaHumanMethylation450kmanifest",
-        "bumphunter"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "SigCheck": [],
     "signatureSearch": [
@@ -1599,7 +1551,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "minfi",
         "FDb.InfiniumMethylation.hg19",
-        "bumphunter",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -1827,8 +1778,7 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "minfi",
-        "FDb.InfiniumMethylation.hg19",
-        "bumphunter"
+        "FDb.InfiniumMethylation.hg19"
     ],
     "wavClusteR": [],
     "webbioc": [],
@@ -1842,8 +1792,7 @@
     ],
     "yarn": [
         "quantro",
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "ABAData": [],
     "ffbase": [],
@@ -1875,8 +1824,7 @@
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "cgdsr": [],
     "biscuiteerData": [
@@ -1884,23 +1832,19 @@
     ],
     "Mus.musculus": [],
     "GenomicState": [
-        "bumphunter",
         "derfinder",
         "GenomicFiles",
         "VariantAnnotation"
     ],
     "iCluster": [],
     "IlluminaHumanMethylationEPICmanifest": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "IlluminaHumanMethylation450kmanifest": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "ChIC.data": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
@@ -1908,8 +1852,7 @@
     "colortools": [],
     "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "CombinePValue": [],
     "lasso2": [],
@@ -1936,8 +1879,7 @@
         "ExperimentHub"
     ],
     "FlowSorted.Blood.450k": [
-        "minfi",
-        "bumphunter"
+        "minfi"
     ],
     "methylclockData": [
         "ExperimentHubData",
