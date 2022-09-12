@@ -1,0 +1,35 @@
+* installing *source* package ‘wpm’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+The `name` provided ('home') is deprecated in Font Awesome 6:
+* please consider using 'house' or 'fas fa-house' instead
+* use the `verify_fa = FALSE` to deactivate these messages
+This Font Awesome icon ('cogs') does not exist:
+* if providing a custom `html_dependency` these `name` checks can 
+  be deactivated with `verify_fa = FALSE`
+This Font Awesome icon ('info-circle') does not exist:
+* if providing a custom `html_dependency` these `name` checks can 
+  be deactivated with `verify_fa = FALSE`
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+── This is the Well-Plate Maker package. ───────────────────────────────────────
+If you want to use the shiny application, then simply run: `wpm()`.If you want
+to see the Tutorial vignette and use WPM in command line, run:
+`browseVignettes('wpm')`.
+** testing if installed package can be loaded from final location
+
+── This is the Well-Plate Maker package. ───────────────────────────────────────
+If you want to use the shiny application, then simply run: `wpm()`.If you want
+to see the Tutorial vignette and use WPM in command line, run:
+`browseVignettes('wpm')`.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘wpm’ as ‘wpm_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wpm)
