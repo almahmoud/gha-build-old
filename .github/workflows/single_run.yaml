@@ -70,7 +70,6 @@ jobs:
         if: steps.pkgbuild.outcome=='success'
 
       - name: Exist on build failure
-        id: tar
         run: |
           exit 1;
         if: steps.pkgbuild.outcome=='failure'
