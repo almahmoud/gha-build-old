@@ -233,9 +233,7 @@
         "DESeq2",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -671,7 +669,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "pathview",
         "GOSemSim"
     ],
     "DEComplexDisease": [
@@ -833,7 +830,6 @@
     "EGSEA": [
         "gage",
         "topGO",
-        "pathview",
         "PADOG",
         "GSVA",
         "hgu133plus2.db",
@@ -864,9 +860,7 @@
         "bumphunter",
         "GenomicFeatures"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -1065,7 +1059,6 @@
         "DESeq2",
         "clusterProfiler",
         "DOSE",
-        "pathview",
         "enrichplot",
         "GOSemSim"
     ],
@@ -1185,8 +1178,7 @@
     ],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "ExperimentHub",
-        "pathview"
+        "ExperimentHub"
     ],
     "GSEAmining": [],
     "gsean": [
@@ -1885,7 +1877,6 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "DESeq2",
         "topGO",
@@ -2291,7 +2282,6 @@
         "VariantAnnotation"
     ],
     "RNASeqR": [
-        "pathview",
         "ballgown",
         "DESeq2",
         "systemPipeRdata",
@@ -2338,9 +2328,7 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [
         "sva"
     ],
@@ -2675,7 +2663,6 @@
     ],
     "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
-        "pathview",
         "ELMER",
         "clusterProfiler",
         "TCGAbiolinks",
