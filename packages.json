@@ -154,7 +154,6 @@
     ],
     "appreci8R": [
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "Homo.sapiens",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
@@ -438,7 +437,6 @@
         "genefilter"
     ],
     "brainflowprobes": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
@@ -669,7 +667,6 @@
         "VariantAnnotation"
     ],
     "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm9"
     ],
     "chipenrich": [
@@ -745,7 +742,6 @@
     "circRNAprofiler": [
         "DESeq2",
         "AnnotationHub",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "gwascat",
         "genefilter",
         "geneplotter",
@@ -814,9 +810,7 @@
         "bsseq"
     ],
     "codelink": [],
-    "CODEX": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "CODEX": [],
     "cogena": [],
     "Cogito": [
         "GenomicFeatures",
@@ -1054,7 +1048,6 @@
     ],
     "decompTumor2Sig": [
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biomaRt"
@@ -1918,7 +1911,6 @@
     ],
     "HiLDA": [
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt"
     ],
@@ -1964,8 +1956,7 @@
         "bumphunter"
     ],
     "iCNV": [
-        "CODEX",
-        "BSgenome.Hsapiens.UCSC.hg19"
+        "CODEX"
     ],
     "ideal": [
         "topGO",
@@ -2172,7 +2163,6 @@
         "AnnotationHub"
     ],
     "MADSEQ": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "VariantAnnotation",
         "GenomicFeatures",
         "biomaRt"
@@ -2697,7 +2687,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm9",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -3222,7 +3211,6 @@
     "RareVariantVis": [
         "VariantAnnotation",
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "phastCons100way.UCSC.hg19",
         "GenomicScores",
@@ -3231,7 +3219,6 @@
     ],
     "Rbec": [],
     "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
         "biomaRt"
     ],
@@ -3650,9 +3637,7 @@
         "biomaRt",
         "GenomicFeatures"
     ],
-    "SCOPE": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -3719,7 +3704,6 @@
     "selectKSigs": [
         "HiLDA",
         "GenomicFeatures",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt"
     ],
@@ -4225,9 +4209,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "traseR": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "traseR": [],
     "treekoR": [
         "diffcyt",
         "FlowSOM",
@@ -4237,7 +4219,6 @@
     "trena": [
         "vbsr",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "org.Hs.eg.db",
@@ -4307,7 +4288,6 @@
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "OrganismDbi",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "ensembldb",
         "biomaRt",
         "GenomicFeatures",
@@ -4440,7 +4420,6 @@
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
-        "BSgenome.Hsapiens.UCSC.hg19",
         "ggbio",
         "GenomicFeatures",
         "biomaRt",
@@ -4472,7 +4451,6 @@
         "ExperimentHub"
     ],
     "org.Sc.sgd.db": [],
-    "BSgenome.Hsapiens.UCSC.hg19": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
         "GenomicFeatures",
         "biomaRt"
@@ -4709,9 +4687,7 @@
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [],
     "miRBaseVersions.db": [],
-    "deconstructSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "deconstructSigs": [],
     "mppa": [],
     "dmt": [],
     "NxtIRFdata": [
