@@ -234,9 +234,7 @@
         "GO.db",
         "org.Hs.eg.db"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "ShortRead",
         "biomaRt",
@@ -1031,8 +1029,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromHeatMap": [
         "AnnotationDbi",
@@ -1130,9 +1127,7 @@
         "GOSemSim",
         "DO.db"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "cn.mops": [],
     "CNEr": [
         "rtracklayer",
@@ -1382,7 +1377,6 @@
     "crossmeta": [
         "AnnotationDbi",
         "DESeq2",
-        "oligo",
         "sva",
         "genefilter",
         "geneplotter"
@@ -1854,7 +1848,6 @@
         "hgu133a2.db",
         "hgu133plus2.db",
         "AnnotationDbi",
-        "oligo",
         "org.Hs.eg.db"
     ],
     "DSS": [
@@ -2329,9 +2322,7 @@
         "NHPoisson"
     ],
     "FRGEpistasis": [],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "minfi",
@@ -3127,7 +3118,6 @@
         "geneplotter"
     ],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "iterativeBMA": [],
@@ -3661,9 +3651,7 @@
         "genefilter"
     ],
     "miloR": [],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "mina": [],
     "MineICA": [
         "biomaRt",
@@ -4193,7 +4181,6 @@
     "odseq": [
         "kebabs"
     ],
-    "oligo": [],
     "OmaDB": [
         "topGO",
         "GO.db",
@@ -4366,9 +4353,7 @@
         "AnnotationDbi",
         "rstatix"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [],
     "PECA": [
         "genefilter",
@@ -4699,9 +4684,7 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation",
         "GenomicFeatures",
@@ -5358,7 +5341,6 @@
     "SC3": [],
     "scAlign": [],
     "SCAN.UPC": [
-        "oligo",
         "sva",
         "genefilter",
         "AnnotationDbi"
@@ -6988,9 +6970,7 @@
     "haplo.stats": [],
     "orQA": [],
     "DiscriMiner": [],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db"
