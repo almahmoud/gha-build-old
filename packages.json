@@ -1991,7 +1991,6 @@
         "scMerge",
         "scRNAseq",
         "TENxPBMCData",
-        "hgu95a.db",
         "M3Drop",
         "ensembldb"
     ],
@@ -2476,9 +2475,7 @@
     "celldex": [
         "ExperimentHub"
     ],
-    "GSVAdata": [
-        "hgu95a.db"
-    ],
+    "GSVAdata": [],
     "scRNAseq": [
         "ExperimentHub",
         "ensembldb"
@@ -2486,7 +2483,6 @@
     "TENxPBMCData": [
         "ExperimentHub"
     ],
-    "hgu95a.db": [],
     "ScISI": [],
     "sampSurf": [],
     "miRNAtap.db": [],
