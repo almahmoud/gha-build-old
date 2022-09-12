@@ -2798,7 +2798,6 @@
         "geneplotter",
         "AnnotationDbi"
     ],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "MultiAssayExperiment",
         "biomaRt",
@@ -6734,9 +6733,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2",
         "topGO",
