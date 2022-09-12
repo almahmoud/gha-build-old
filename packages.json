@@ -43,7 +43,6 @@
         "DESeq2",
         "Category",
         "GO.db",
-        "AnnotationForge",
         "GSEABase",
         "ggbio",
         "genefilter",
@@ -66,7 +65,6 @@
         "DESeq2",
         "Category",
         "GO.db",
-        "AnnotationForge",
         "GSEABase",
         "ggbio",
         "genefilter",
@@ -109,13 +107,11 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
         "AnnotationHub",
         "GenomicFeatures",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt"
     ],
     "annotatr": [
@@ -215,7 +211,6 @@
         "reactome.db",
         "Category",
         "GO.db",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -496,8 +491,7 @@
         "Category",
         "GOstats",
         "genefilter",
-        "GO.db",
-        "AnnotationForge"
+        "GO.db"
     ],
     "cbaf": [
         "cgdsr",
@@ -1344,7 +1338,6 @@
         "AnnotationHub",
         "GenomicFeatures",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt"
     ],
     "ExperimentSubset": [],
@@ -1597,8 +1590,7 @@
         "org.Mm.eg.db",
         "WGCNA",
         "genefilter",
-        "GO.db",
-        "AnnotationForge"
+        "GO.db"
     ],
     "gmoviz": [
         "GenomicFeatures",
@@ -1633,7 +1625,6 @@
     "GOstats": [
         "Category",
         "GO.db",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -1787,7 +1778,6 @@
         "genefilter",
         "geneLenDataBase",
         "Category",
-        "AnnotationForge",
         "biomaRt",
         "GSEABase",
         "GenomicFeatures"
@@ -2147,7 +2137,6 @@
         "GenomicFeatures",
         "AnnotationHubData",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt"
     ],
     "methylGSA": [
@@ -2215,7 +2204,6 @@
         "GOstats",
         "GSEABase",
         "Category",
-        "AnnotationForge",
         "genefilter"
     ],
     "MineICA": [
@@ -2225,7 +2213,6 @@
         "lumiHumanAll.db",
         "Category",
         "GO.db",
-        "AnnotationForge",
         "methylumi",
         "GenomicFeatures",
         "GSEABase",
@@ -2255,7 +2242,6 @@
         "GSEABase",
         "genefilter",
         "GO.db",
-        "AnnotationForge",
         "biomaRt"
     ],
     "miRNAmeConverter": [
@@ -2630,7 +2616,6 @@
         "GO.db",
         "biomaRt",
         "Category",
-        "AnnotationForge",
         "GSEABase"
     ],
     "PDATK": [
@@ -2696,7 +2681,6 @@
         "GO.db",
         "GOstats",
         "Category",
-        "AnnotationForge",
         "GSEABase",
         "genefilter"
     ],
@@ -2814,7 +2798,6 @@
         "AnnotationHubData",
         "GenomicFeatures",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt"
     ],
     "ProteoMM": [
@@ -3031,7 +3014,6 @@
         "OrganismDbi",
         "ensembldb",
         "GO.db",
-        "AnnotationForge",
         "biomaRt"
     ],
     "RepViz": [
@@ -3332,7 +3314,6 @@
         "DO.db",
         "GOSemSim",
         "GO.db",
-        "AnnotationForge",
         "enrichplot",
         "graphite"
     ],
@@ -3969,7 +3950,6 @@
         "genefilter"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "biomaRt",
         "GOSemSim",
         "GO.db",
@@ -4266,7 +4246,6 @@
         "AnnotationHubData",
         "GenomicFeatures",
         "OrganismDbi",
-        "AnnotationForge",
         "biomaRt"
     ],
     "lumiHumanAll.db": [],
