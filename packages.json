@@ -321,7 +321,6 @@
         "scran"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [],
     "BatchQC": [
         "sva",
         "genefilter",
@@ -898,7 +897,6 @@
         "AnnotationDbi"
     ],
     "ChromSCape": [
-        "batchelor",
         "scran",
         "scater",
         "Sushi",
@@ -3360,8 +3358,7 @@
         "DO.db"
     ],
     "mumosa": [
-        "scran",
-        "batchelor"
+        "scran"
     ],
     "MungeSumstats": [
         "VariantAnnotation",
@@ -4778,7 +4775,6 @@
         "scran"
     ],
     "singleCellTK": [
-        "batchelor",
         "celldex",
         "DESeq2",
         "ExperimentHub",
