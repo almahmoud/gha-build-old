@@ -2229,8 +2229,7 @@
         "biomaRt"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "BSgenome.Hsapiens.UCSC.hg18"
+        "VanillaICE"
     ],
     "MIRA": [],
     "MiRaGE": [],
@@ -3903,9 +3902,7 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [
-        "BSgenome.Hsapiens.UCSC.hg18"
-    ],
+    "VanillaICE": [],
     "VariantAnnotation": [
         "GenomicFeatures",
         "biomaRt"
@@ -4246,7 +4243,6 @@
         "biomaRt"
     ],
     "lumiHumanAll.db": [],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
     "miRBaseVersions.db": [],
     "deconstructSigs": [],
     "mppa": [],
