@@ -1,0 +1,23 @@
+* installing *source* package ‘pdInfoBuilder’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pdInfoBuilder.c -o pdInfoBuilder.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o pdInfoBuilder.so pdInfoBuilder.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-pdInfoBuilder/00new/pdInfoBuilder/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘RSQLite’ for request: ‘dbGetQuery’ when loading ‘pdInfoBuilder’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘RSQLite’ for request: ‘dbGetQuery’ when loading ‘pdInfoBuilder’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+No methods found in package ‘RSQLite’ for request: ‘dbGetQuery’ when loading ‘pdInfoBuilder’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pdInfoBuilder’ as ‘pdInfoBuilder_1.60.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pdInfoBuilder)
