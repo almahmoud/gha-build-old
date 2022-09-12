@@ -376,7 +376,6 @@
     ],
     "BatchQC": [
         "sva",
-        "heatmaply",
         "genefilter",
         "AnnotationDbi"
     ],
@@ -1577,7 +1576,6 @@
         "clusterProfiler",
         "sva",
         "enrichplot",
-        "heatmaply",
         "pathview",
         "GO.db",
         "GOSemSim",
@@ -1632,7 +1630,6 @@
     ],
     "DegNorm": [
         "GenomicFeatures",
-        "heatmaply",
         "AnnotationDbi",
         "rtracklayer",
         "biomaRt"
@@ -1774,9 +1771,7 @@
         "scuttle"
     ],
     "discordant": [],
-    "DiscoRhythm": [
-        "heatmaply"
-    ],
+    "DiscoRhythm": [],
     "distinct": [
         "scater",
         "scuttle"
@@ -2356,7 +2351,6 @@
         "OUTRIDER",
         "rtracklayer",
         "DESeq2",
-        "heatmaply",
         "genefilter",
         "geneplotter"
     ],
@@ -2587,7 +2581,6 @@
     "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
-        "heatmaply",
         "shinyHeatmaply",
         "FactoMineR",
         "ggpubr",
@@ -2971,7 +2964,6 @@
     "ideal": [
         "topGO",
         "DESeq2",
-        "heatmaply",
         "pcaExplorer",
         "goseq",
         "GOstats",
@@ -3027,9 +3019,7 @@
     "IMMAN": [
         "STRINGdb"
     ],
-    "ImmuneSpaceR": [
-        "heatmaply"
-    ],
+    "ImmuneSpaceR": [],
     "immunotation": [],
     "infercnv": [],
     "InPAS": [
@@ -3519,7 +3509,6 @@
         "EDASeq",
         "genefilter",
         "GenomicFeatures",
-        "heatmaply",
         "rtracklayer",
         "AnnotationDbi",
         "geneplotter",
@@ -3677,7 +3666,6 @@
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "heatmaply",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
@@ -4348,7 +4336,6 @@
     "OUTRIDER": [
         "GenomicFeatures",
         "DESeq2",
-        "heatmaply",
         "genefilter",
         "geneplotter",
         "AnnotationDbi",
@@ -4404,7 +4391,6 @@
     "pcaExplorer": [
         "DESeq2",
         "genefilter",
-        "heatmaply",
         "topGO",
         "GOstats",
         "GO.db",
@@ -5563,7 +5549,6 @@
     "scTensor": [
         "reactome.db",
         "AnnotationDbi",
-        "heatmaply",
         "AnnotationHub",
         "MeSHDbi",
         "Category",
@@ -5684,7 +5669,6 @@
         "biomaRt"
     ],
     "shinyepico": [
-        "heatmaply",
         "minfi",
         "rtracklayer",
         "bumphunter",
@@ -6598,7 +6582,6 @@
         "biomaRt",
         "GOSemSim",
         "GO.db",
-        "heatmaply",
         "topGO"
     ],
     "vissE": [
@@ -6832,7 +6815,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi",
         "bumphunter",
@@ -7059,9 +7041,7 @@
         "rtracklayer"
     ],
     "FField": [],
-    "shinyHeatmaply": [
-        "heatmaply"
-    ],
+    "shinyHeatmaply": [],
     "sparsebn": [],
     "loose.rock": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
