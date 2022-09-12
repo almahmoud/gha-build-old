@@ -845,7 +845,6 @@
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "DESeq2",
-        "GreyListChIP",
         "AnnotationDbi",
         "biomaRt",
         "genefilter",
@@ -1386,7 +1385,6 @@
     "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
-        "GreyListChIP",
         "genefilter",
         "geneplotter",
         "AnnotationDbi"
@@ -1666,8 +1664,7 @@
         "AnnotationDbi"
     ],
     "epigraHMM": [
-        "ggpubr",
-        "GreyListChIP"
+        "ggpubr"
     ],
     "epihet": [
         "EntropyExplorer",
@@ -2233,7 +2230,6 @@
     "graphite": [
         "AnnotationDbi"
     ],
-    "GreyListChIP": [],
     "GSEABase": [
         "AnnotationDbi"
     ],
@@ -5334,8 +5330,7 @@
         "biomaRt",
         "regioneR",
         "genefilter",
-        "geneplotter",
-        "GreyListChIP"
+        "geneplotter"
     ],
     "waddR": [],
     "wateRmelon": [
