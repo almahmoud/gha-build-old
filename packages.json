@@ -857,7 +857,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -884,7 +883,6 @@
         "DO.db",
         "GO.db"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPXpress": [],
     "ChromHeatMap": [
@@ -1102,9 +1100,7 @@
         "ensembldb",
         "biomaRt"
     ],
-    "CopywriteR": [
-        "chipseq"
-    ],
+    "CopywriteR": [],
     "CORREP": [],
     "coseq": [
         "DESeq2",
@@ -2406,7 +2402,6 @@
     "HTSeqGenie": [
         "gmapR",
         "VariantAnnotation",
-        "chipseq",
         "GenomicFeatures",
         "VariantTools",
         "AnnotationDbi",
@@ -3839,7 +3834,6 @@
         "AnnotationDbi",
         "enrichplot",
         "biomaRt",
-        "chipseq",
         "DOSE",
         "GOSemSim",
         "DO.db",
@@ -4838,9 +4832,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -5224,7 +5216,6 @@
         "GO.db"
     ],
     "transcriptR": [
-        "chipseq",
         "GenomicFeatures",
         "AnnotationDbi",
         "biomaRt"
