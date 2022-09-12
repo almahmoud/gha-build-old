@@ -1,0 +1,19 @@
+* installing *source* package ‘Maaslin2’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE,  :
+  there is no package called ‘MuMIn’
+Error: package or namespace load failed for ‘chemometrics’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘proxy’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Maaslin2’ as ‘Maaslin2_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Maaslin2)
