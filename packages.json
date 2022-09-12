@@ -664,9 +664,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ChIPComp": [
-        "BSgenome.Mmusculus.UCSC.mm9"
-    ],
+    "ChIPComp": [],
     "chipenrich": [
         "chipenrich.data",
         "org.Dm.eg.db",
@@ -2665,7 +2663,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm9",
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
@@ -3923,7 +3920,6 @@
         "biomaRt",
         "GenomicFeatures",
         "Gviz",
-        "BSgenome.Mmusculus.UCSC.mm9",
         "ensembldb",
         "biovizBase",
         "VariantAnnotation"
@@ -4539,7 +4535,6 @@
         "biomaRt"
     ],
     "ChIC.data": [],
-    "BSgenome.Mmusculus.UCSC.mm9": [],
     "chipenrich.data": [],
     "org.Dm.eg.db": [],
     "org.Dr.eg.db": [],
