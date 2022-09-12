@@ -112,9 +112,7 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
@@ -129,13 +127,9 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -188,8 +182,7 @@
         "VariantAnnotation"
     ],
     "BioNERO": [
-        "WGCNA",
-        "sva"
+        "WGCNA"
     ],
     "BioNetStat": [],
     "biovizBase": [
@@ -215,13 +208,10 @@
     "BloodGen3Module": [
         "ExperimentHub"
     ],
-    "bnbc": [
-        "sva"
-    ],
+    "bnbc": [],
     "bnem": [
         "epiNEM",
         "mnem",
-        "sva",
         "Linnorm"
     ],
     "brainflowprobes": [
@@ -266,7 +256,6 @@
         "ggbio",
         "BioNERO",
         "WGCNA",
-        "sva",
         "biovizBase",
         "VariantAnnotation",
         "OrganismDbi",
@@ -331,7 +320,6 @@
         "minfi",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
-        "sva",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
@@ -492,9 +480,7 @@
         "ChIPpeakAnno",
         "ensembldb"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "csdR": [
         "WGCNA"
     ],
@@ -521,8 +507,7 @@
     "CytoGLMM": [],
     "cytoKernel": [],
     "CytoTree": [
-        "FlowSOM",
-        "sva"
+        "FlowSOM"
     ],
     "dagLogo": [],
     "DAMEfinder": [
@@ -530,8 +515,7 @@
         "bumphunter"
     ],
     "DaMiRseq": [
-        "EDASeq",
-        "sva"
+        "EDASeq"
     ],
     "DAPAR": [
         "clusterProfiler",
@@ -552,7 +536,6 @@
     "debrowser": [
         "DOSE",
         "clusterProfiler",
-        "sva",
         "enrichplot",
         "GOSemSim"
     ],
@@ -594,9 +577,7 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [],
     "diffcoexp": [
@@ -642,9 +623,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "DOSE": [
         "GOSemSim"
     ],
@@ -661,7 +640,6 @@
     "EBSEA": [],
     "EDASeq": [],
     "edge": [
-        "sva",
         "jackstraw"
     ],
     "eegc": [
@@ -856,8 +834,7 @@
     "GARS": [
         "DaMiRseq",
         "MLSeq",
-        "EDASeq",
-        "sva"
+        "EDASeq"
     ],
     "GateFinder": [],
     "GCSscore": [],
@@ -1103,9 +1080,7 @@
     "kissDE": [
         "DSS"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "ldblock": [
         "VariantAnnotation",
         "ensembldb",
@@ -1192,7 +1167,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
-        "sva",
         "VariantAnnotation",
         "FDb.InfiniumMethylation.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
@@ -1410,9 +1384,7 @@
     ],
     "MSGFplus": [],
     "MSnID": [],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "MSstatsSampleSize": [],
     "multicrispr": [
         "karyoploteR",
@@ -1511,7 +1483,6 @@
         "topGO"
     ],
     "omicRexposome": [
-        "sva",
         "SmartSVA"
     ],
     "OMICsPCA": [
@@ -1527,9 +1498,7 @@
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "OUTRIDER": [],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "PADOG": [],
     "pageRank": [
         "motifmatchr",
@@ -1617,7 +1586,6 @@
     "proActiv": [],
     "proBAMr": [],
     "proBatch": [
-        "sva",
         "WGCNA"
     ],
     "profileplyr": [
@@ -1635,9 +1603,7 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
@@ -1686,9 +1652,7 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "qsmooth": [
-        "sva"
-    ],
+    "qsmooth": [],
     "quantro": [
         "minfi",
         "bumphunter"
@@ -1877,7 +1841,6 @@
         "systemPipeRdata",
         "clusterProfiler",
         "DOSE",
-        "sva",
         "enrichplot",
         "GOSemSim"
     ],
@@ -1911,9 +1874,7 @@
     ],
     "sampleClassifier": [],
     "SBGNview": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
     ],
@@ -1991,9 +1952,7 @@
         "sesameData",
         "ExperimentHub"
     ],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGSeq": [],
     "shinyepico": [
         "minfi",
@@ -2031,7 +1990,6 @@
         "GSVA",
         "GSVAdata",
         "scMerge",
-        "sva",
         "scRNAseq",
         "TENxPBMCData",
         "hgu95a.db",
@@ -2154,7 +2112,6 @@
     ],
     "SubCellBarCode": [],
     "supersigs": [],
-    "sva": [],
     "svaNUMT": [
         "VariantAnnotation",
         "StructuralVariantAnnotation"
@@ -2174,8 +2131,7 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
-        "singscore",
-        "sva"
+        "singscore"
     ],
     "TCC": [],
     "TCGAbiolinks": [],
@@ -2259,9 +2215,7 @@
         "WGCNA"
     ],
     "TRESS": [],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "TRONCO": [
         "cgdsr"
     ],
@@ -2317,8 +2271,7 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "VariantAnnotation",
@@ -2480,9 +2433,7 @@
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
-    "SmartSVA": [
-        "sva"
-    ],
+    "SmartSVA": [],
     "muStat": [],
     "sesameData": [
         "ExperimentHub"
