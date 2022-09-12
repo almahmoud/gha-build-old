@@ -1,0 +1,30 @@
+* installing *source* package ‘TAPseq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Following software required by TAPseq is not installed or not in PATH:
+
+	primer3_core
+	makeblastdb
+	blastn
+
+Please install these tools before trying to use this package!
+** testing if installed package can be loaded from final location
+Warning: Following software required by TAPseq is not installed or not in PATH:
+
+	primer3_core
+	makeblastdb
+	blastn
+
+Please install these tools before trying to use this package!
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TAPseq’ as ‘TAPseq_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TAPseq)
