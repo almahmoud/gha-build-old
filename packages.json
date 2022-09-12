@@ -161,7 +161,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "GenomicFeatures",
-        "regioneR",
         "biomaRt"
     ],
     "anota2seq": [
@@ -272,7 +271,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "regioneR",
         "AnnotationHub"
     ],
     "atSNP": [],
@@ -496,7 +494,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "org.Mm.eg.db",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "regioneR",
         "biomaRt"
     ],
     "BiSeq": [
@@ -829,8 +826,7 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "biomaRt",
-        "regioneR"
+        "biomaRt"
     ],
     "ChIPQC": [
         "DiffBind",
@@ -942,7 +938,6 @@
         "AnnotationDbi"
     ],
     "CNVfilteR": [
-        "regioneR",
         "karyoploteR",
         "CopyNumberPlots",
         "VariantAnnotation",
@@ -955,7 +950,6 @@
     "CNViz": [
         "karyoploteR",
         "CopyNumberPlots",
-        "regioneR",
         "VariantAnnotation",
         "biovizBase",
         "GenomicFeatures",
@@ -1059,7 +1053,6 @@
     ],
     "CopyNumberPlots": [
         "karyoploteR",
-        "regioneR",
         "VariantAnnotation",
         "biovizBase",
         "GenomicFeatures",
@@ -1112,8 +1105,7 @@
         "AnnotationDbi",
         "biomaRt",
         "ChIPpeakAnno",
-        "ensembldb",
-        "regioneR"
+        "ensembldb"
     ],
     "CrispRVariants": [
         "AnnotationDbi"
@@ -1343,8 +1335,7 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "biomaRt",
-        "regioneR"
+        "biomaRt"
     ],
     "DESeq2": [
         "genefilter",
@@ -1460,7 +1451,6 @@
         "AnnotationHub",
         "AnnotationDbi",
         "GenomicFeatures",
-        "regioneR",
         "biomaRt"
     ],
     "DominoEffect": [
@@ -2264,8 +2254,7 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "biomaRt",
-        "regioneR"
+        "biomaRt"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -2547,7 +2536,6 @@
         "ggpubr"
     ],
     "karyoploteR": [
-        "regioneR",
         "biovizBase",
         "GenomicFeatures",
         "AnnotationDbi",
@@ -3213,7 +3201,6 @@
         "karyoploteR",
         "AnnotationDbi",
         "biomaRt",
-        "regioneR",
         "biovizBase",
         "VariantAnnotation",
         "ensembldb"
@@ -3301,7 +3288,6 @@
         "AnnotationDbi",
         "ensembldb",
         "biomaRt",
-        "regioneR",
         "AnnotationHub",
         "biovizBase",
         "VariantAnnotation"
@@ -3983,8 +3969,7 @@
         "AnnotationDbi",
         "ensembldb",
         "GenomicFeatures",
-        "biomaRt",
-        "regioneR"
+        "biomaRt"
     ],
     "RegEnrich": [
         "BiocSet",
@@ -3998,7 +3983,6 @@
         "GOSemSim",
         "GO.db"
     ],
-    "regioneR": [],
     "regionReport": [
         "derfinder",
         "DEFormats",
@@ -4136,7 +4120,6 @@
     "RIPAT": [
         "biomaRt",
         "karyoploteR",
-        "regioneR",
         "AnnotationDbi",
         "biovizBase",
         "GenomicFeatures",
@@ -4153,7 +4136,6 @@
     ],
     "RJMCMCNucleosomes": [],
     "RLSeq": [
-        "regioneR",
         "GenomicFeatures",
         "AnnotationHub",
         "RLHub",
@@ -4405,7 +4387,6 @@
         "annotatr",
         "AnnotationDbi",
         "GenomicFeatures",
-        "regioneR",
         "biomaRt"
     ],
     "scone": [
@@ -5173,7 +5154,6 @@
         "biomaRt"
     ],
     "UMI4Cats": [
-        "regioneR",
         "DESeq2",
         "org.Hs.eg.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5304,7 +5284,6 @@
         "ensembldb",
         "GenomicFeatures",
         "biomaRt",
-        "regioneR",
         "genefilter",
         "geneplotter"
     ],
