@@ -92,7 +92,6 @@ jobs:
 
       - name: Add rclone conf file
         run: |
-          apk add --no-cache git
           echo "$RCLONE_CONF" > ~/.rclone.conf
         env:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
