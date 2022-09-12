@@ -2483,8 +2483,7 @@
         "AnnotationDbi"
     ],
     "GENESIS": [
-        "GWASTools",
-        "SeqVarTools"
+        "GWASTools"
     ],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -5645,7 +5644,6 @@
         "AnnotationHub",
         "AnnotationDbi"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "sesameData",
         "ExperimentHub",
@@ -6518,9 +6516,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "VariantExperiment": [
-        "SeqVarTools"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "VariantAnnotation",
         "AnnotationDbi",
