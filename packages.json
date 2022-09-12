@@ -454,8 +454,7 @@
         "biomaRt"
     ],
     "branchpointer": [
-        "biomaRt",
-        "BSgenome.Hsapiens.UCSC.hg38"
+        "biomaRt"
     ],
     "BRGenomics": [
         "DESeq2",
@@ -2648,7 +2647,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm10",
         "deconstructSigs",
         "decompTumor2Sig",
@@ -2807,9 +2805,7 @@
         "GSEABase",
         "GSVA"
     ],
-    "ORFhunteR": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "ORFhunteR": [],
     "ORFik": [
         "biomartr",
         "DESeq2",
@@ -2978,7 +2974,6 @@
     "PREDA": [],
     "predictionet": [],
     "primirTSS": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
         "Gviz",
@@ -4165,7 +4160,6 @@
     ],
     "trena": [
         "vbsr",
-        "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm10",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "org.Hs.eg.db",
@@ -4488,7 +4482,6 @@
         "biomaRt",
         "VariantAnnotation"
     ],
-    "BSgenome.Hsapiens.UCSC.hg38": [],
     "iCluster": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "minfi",
