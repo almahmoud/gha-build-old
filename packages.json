@@ -406,7 +406,6 @@
     "benchdamic": [
         "zinbwave",
         "DESeq2",
-        "MAST",
         "ffpe",
         "genefilter",
         "geneplotter",
@@ -819,9 +818,7 @@
         "GSEABase",
         "AnnotationDbi"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -3343,7 +3340,6 @@
         "biovizBase",
         "VariantAnnotation"
     ],
-    "MAST": [],
     "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools",
@@ -4538,9 +4534,7 @@
         "graphite",
         "AnnotationDbi"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
         "biomaRt",
@@ -5743,7 +5737,6 @@
         "ExperimentHub",
         "GSVA",
         "GSVAdata",
-        "MAST",
         "scater",
         "scMerge",
         "scran",
