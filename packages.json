@@ -169,7 +169,6 @@
         "microbiome"
     ],
     "AneuFinder": [
-        "bamsignals",
         "GenomicAlignments"
     ],
     "animalcules": [
@@ -416,7 +415,6 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "bamsignals": [],
     "BANDITS": [],
     "barcodetrackR": [],
     "basecallQC": [
@@ -1264,8 +1262,7 @@
         "AnnotationDbi"
     ],
     "chromstaR": [
-        "GenomicAlignments",
-        "bamsignals"
+        "GenomicAlignments"
     ],
     "chromswitch": [
         "rtracklayer",
@@ -1398,7 +1395,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
@@ -1415,7 +1411,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "GenomicAlignments",
         "ensembldb",
@@ -1592,7 +1587,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
@@ -2483,7 +2477,6 @@
     ],
     "epigraHMM": [
         "rtracklayer",
-        "bamsignals",
         "csaw",
         "ggpubr",
         "GreyListChIP",
@@ -3841,7 +3834,6 @@
         "rtracklayer",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "AnnotationDbi",
         "VariantAnnotation",
         "GenomicAlignments",
@@ -4843,7 +4835,6 @@
         "biomaRt",
         "regioneR",
         "biovizBase",
-        "bamsignals",
         "VariantAnnotation",
         "GenomicAlignments",
         "ensembldb"
@@ -5096,7 +5087,6 @@
     ],
     "NormqPCR": [],
     "normr": [
-        "bamsignals",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -6249,7 +6239,6 @@
         "AnnotationDbi",
         "biovizBase",
         "GenomicFeatures",
-        "bamsignals",
         "VariantAnnotation",
         "BSgenome",
         "GenomicAlignments",
@@ -6820,7 +6809,6 @@
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "bamsignals",
         "AnnotationDbi",
         "enrichplot",
         "GenomicFeatures",
