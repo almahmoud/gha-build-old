@@ -75,10 +75,8 @@
     ],
     "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
         "AnnotationDbi"
     ],
-    "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "AnnotationDbi"
@@ -266,7 +264,6 @@
         "bumphunter"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
         "beadarray",
         "genefilter",
         "AnnotationDbi"
@@ -3862,7 +3859,6 @@
     ],
     "miloR": [],
     "mimager": [
-        "affyPLM",
         "oligo"
     ],
     "mina": [],
@@ -5190,9 +5186,7 @@
         "InteractionSet",
         "regioneR"
     ],
-    "RefPlus": [
-        "affyPLM"
-    ],
+    "RefPlus": [],
     "RegEnrich": [
         "BiocSet",
         "DOSE",
