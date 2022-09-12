@@ -3282,9 +3282,7 @@
         "bumphunter"
     ],
     "LymphoSeq": [],
-    "M3Drop": [
-        "reldist"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "adabag",
         "rtracklayer",
@@ -5134,7 +5132,6 @@
     ],
     "RiboDiPA": [
         "GenomicFeatures",
-        "reldist",
         "DESeq2",
         "genefilter",
         "geneplotter",
@@ -5508,8 +5505,7 @@
     "scMAGeCK": [],
     "scmap": [],
     "scMerge": [
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "scmeth": [
         "bsseq",
@@ -5805,8 +5801,7 @@
         "GenomicFeatures",
         "rtracklayer",
         "biomaRt",
-        "org.Hs.eg.db",
-        "reldist"
+        "org.Hs.eg.db"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -7116,7 +7111,6 @@
         "rtracklayer",
         "biomaRt"
     ],
-    "reldist": [],
     "adabag": [],
     "SmartSVA": [
         "sva",
