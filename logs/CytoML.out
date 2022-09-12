@@ -1,0 +1,43 @@
+* installing *source* package ‘CytoML’ ...
+** using staged installation
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ -std=gnu++11 accepts -g... yes
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+configure: setting xml2 flags...
+configure: No directory was specified for --with-xml2. Trying to find xml2 using other methods.
+checking for xml2-config... /usr/bin/xml2-config
+configure: setting cytolib-ml commandline tool path...
+configure: Using the following compilation and linking flags
+configure:    PKG_CPPFLAGS=-I/usr/include/libxml2
+configure:    PKG_LIBS=-lxml2 
+configure:    CYTOLIBML_BIN=/usr/local/bin
+configure: creating ./config.status
+config.status: creating src/Makevars
+config.status: creating R/cytolibml_bin_path.R
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include/ -I/usr/include/libxml2 -DBOOST_NO_AUTO_PTR  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I'/__w/gha-build/gha-build/built/flowWorkspace/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include/ -I/usr/include/libxml2 -DBOOST_NO_AUTO_PTR  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RProtoBufLib/include' -I'/__w/gha-build/gha-build/built/cytolib/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I'/__w/gha-build/gha-build/built/flowWorkspace/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c parseFlowJoWorkspace.cpp -o parseFlowJoWorkspace.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o CytoML.so RcppExports.o parseFlowJoWorkspace.o /__w/gha-build/gha-build/built/cytolib/lib/libcytolib.a /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5_cpp.a /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -llapack -lblas -lxml2 -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-CytoML/00new/CytoML/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CytoML’ as ‘CytoML_2.8.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CytoML)
