@@ -1,21 +1,24 @@
 name: Build x1 package
 on:
   workflow_dispatch: {}
-  push: {}
-  schedule:
-    - cron: '*/5 * * * *'
+  # push: {}
+  # schedule:
+  #   - cron: '*/5 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     container:
       image: bioconductor/bioconductor_docker:RELEASE_3_15
-    outputs:
-      tar: ${{steps.tar.outputs.name}}
-      pkg: ${{steps.claim.outputs.pkg}}
     steps:
       - uses: actions/checkout@v3
 
+      - name: Get Current Job Log URL
+        uses: Tiryoh/gha-jobid-action@v0
+        id: jobs
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          job_name: build
 
       - name: Get unique identifier for worker
         id: uniq
@@ -44,7 +47,7 @@ jobs:
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
           mkdir -p logs/run_ids
-          echo "https://github.com/almahmoud/gha-build/actions/runs/${{ github.run_id }}" >> logs/run_ids/$PKG
+          echo ${{ steps.jobs.outputs.html_url }} >> logs/run_ids/$PKG
           bash .github/scripts/build_package.sh $LIBRARY $PKG 2>&1 > lists/$PKG
         continue-on-error: true
         if: steps.claim.outcome=='success'
@@ -79,14 +82,9 @@ jobs:
           name: "artifact-${{steps.claim.outputs.pkg}}"
           path: /tmp/tars/${{steps.tar.outputs.name}}
 
-
-  rclonepush:
-    needs: build
-    container:
-      image: rclone/rclone:latest
-    name: Rclone push
-    runs-on: ubuntu-latest
-    steps:
+      - name: Install rclone
+        shell: bash
+        run: "sudo -v ; curl https://rclone.org/install.sh | sudo bash"
 
       - name: Add rclone conf file
         run: |
@@ -95,22 +93,10 @@ jobs:
         env:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
 
-      - uses: actions/download-artifact@v3
-        with:
-          name: "artifact-${{needs.build.outputs.pkg}}"
-          path: /tmp/${{needs.build.outputs.tar}}
-
       - name: Rclone push package and mark as pushed
         run: |
           set -x
-          rclone copy /tmp/${{needs.build.outputs.tar}} js2:/gha-build/ -vvvvvv
-
-  markpushed:
-    needs: ["build", "rclonepush"]
-    name: Mark pushed
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+          rclone copy /tmp/tars/${{steps.tar.outputs.name}} js2:/gha-build/ -vvvvvv
 
       - name: Rclone push package and mark as pushed
         uses: nick-fields/retry@v2
@@ -123,7 +109,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            if bash -c "bash .github/scripts/rclone_push.sh ${{needs.build.outputs.pkg}} ${{needs.build.outputs.tar}} 2>&1 | grep -i 'error'"; then exit 1; else 
+            if bash -c "bash .github/scripts/rclone_push.sh ${{steps.claim.outputs.pkg}} ${{steps.tar.outputs.name}} 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked pushed" && exit 0; fi
         env:
           GITHUB_PAT: ${{ secrets.GIT_PAT }}
