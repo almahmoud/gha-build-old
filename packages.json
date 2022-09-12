@@ -1645,7 +1645,6 @@
     "CRImage": [],
     "CRISPRseek": [
         "BSgenome",
-        "keras",
         "rtracklayer",
         "GenomicAlignments"
     ],
@@ -1656,7 +1655,6 @@
         "BSgenome",
         "AnnotationDbi",
         "rtracklayer",
-        "keras",
         "biomaRt",
         "ChIPpeakAnno",
         "GenomicAlignments",
@@ -1936,7 +1934,6 @@
         "GenomicAlignments"
     ],
     "DeepPINCS": [
-        "keras",
         "ttgsea",
         "DiagrammeR"
     ],
@@ -3363,8 +3360,7 @@
         "GenomicFeatures",
         "biomaRt",
         "InteractionSet",
-        "regioneR",
-        "keras"
+        "regioneR"
     ],
     "Guitar": [
         "GenomicFeatures",
@@ -4796,7 +4792,6 @@
         "karyoploteR",
         "plyranges",
         "rtracklayer",
-        "keras",
         "AnnotationDbi",
         "biomaRt",
         "regioneR",
@@ -5029,7 +5024,6 @@
     ],
     "networkBMA": [],
     "NeuCA": [
-        "keras",
         "SingleCellExperiment"
     ],
     "NewWave": [
@@ -6588,9 +6582,7 @@
     "scds": [
         "SingleCellExperiment"
     ],
-    "SCFA": [
-        "keras"
-    ],
+    "SCFA": [],
     "scGPS": [
         "SingleCellExperiment",
         "caret",
@@ -7745,7 +7737,6 @@
         "AnnotationDbi"
     ],
     "ttgsea": [
-        "keras",
         "DiagrammeR"
     ],
     "TTMap": [],
@@ -7843,7 +7834,6 @@
     ],
     "uSORT": [],
     "VAExprs": [
-        "keras",
         "SingleCellExperiment",
         "scater",
         "gradDescent",
@@ -8457,7 +8447,6 @@
     "dorothea": [
         "viper"
     ],
-    "keras": [],
     "RFOC": [
         "GEOmap"
     ],
