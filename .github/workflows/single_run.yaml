@@ -45,6 +45,7 @@ jobs:
         run: |
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+          mkdir -p logs/run_ids
           echo "https://github.com/almahmoud/gha-build/actions/runs/${{ github.run_id }}" >> logs/run_ids/$PKG
           bash .github/scripts/build_package.sh $LIBRARY $PKG 2>&1 > lists/$PKG
         continue-on-error: true
