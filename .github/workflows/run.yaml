@@ -77,8 +77,22 @@ jobs:
         if: steps.pkgbuild.outcome=='success'
 
       - name: Exist on build failure
-        run: |
-          mv lists/${{steps.claim.outputs.pkg}} lists/failed/${{steps.claim.outputs.pkg}} && exit 1;
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 20
+          shell: bash
+          command: |
+            mv lists/${{steps.claim.outputs.pkg}} lists/failed/${{steps.claim.outputs.pkg}};
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add lists
+            git commit -m "Marked failed $PKG"
+            git push
+        if: steps.pkgbuild.outcome=='failure'
+
+      - name: Get tar name
+        run: exit 1
         if: steps.pkgbuild.outcome=='failure'
 
       - uses: actions/upload-artifact@v3
